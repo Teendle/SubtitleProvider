@@ -1,0 +1,2373 @@
+2
+00:00:04,370 --> 00:00:09,141
+Estamos jantando,
+mas quero resolver isso.
+
+3
+00:00:09,175 --> 00:00:12,277
+Sim... Não, você tem razão,
+com certeza.
+
+4
+00:00:12,311 --> 00:00:16,548
+Ah, a propósito, quero
+a Lynne na reunião.
+
+5
+00:00:16,582 --> 00:00:18,916
+Ela fez muita
+pesquisa.
+
+6
+00:00:18,950 --> 00:00:19,851
+Certo.
+
+7
+00:00:19,885 --> 00:00:22,154
+Vou pegar
+um voo cedo
+
+8
+00:00:22,188 --> 00:00:23,421
+E um táxi
+para o centro.
+
+9
+00:00:23,456 --> 00:00:24,789
+Está bem.
+
+10
+00:00:24,823 --> 00:00:25,824
+Tchau.
+
+11
+00:00:28,393 --> 00:00:31,363
+Então... por quanto tempo
+fica conosco
+desta vez?
+
+12
+00:00:31,397 --> 00:00:33,398
+Viajo de novo amanhã, receio.
+
+13
+00:00:33,433 --> 00:00:34,666
+Ah... Ótimo.
+
+14
+00:00:34,700 --> 00:00:36,835
+Pai:
+Olha, me desculpe.
+
+15
+00:00:36,869 --> 00:00:39,004
+Você sabe que viajar
+faz parte do trabalho.
+
+16
+00:00:39,038 --> 00:00:41,039
+( <i>sarcasticamente</i> ):
+Parte do trabalho?
+
+17
+00:00:41,073 --> 00:00:45,009
+Um pai e marido
+que nunca está em casa.
+
+18
+00:00:45,043 --> 00:00:46,445
+Posso me retirar?
+
+19
+00:00:46,479 --> 00:00:50,481
+Mas, Kathleen, você
+mal comeu nada.
+
+20
+00:00:50,515 --> 00:00:52,783
+Pai, estou satisfeita.
+
+21
+00:00:52,818 --> 00:00:54,819
+Preciso trabalhar
+no meu projeto
+
+22
+00:00:54,853 --> 00:00:56,387
+Para a feira de ciências.
+
+23
+00:01:02,127 --> 00:01:04,562
+Ela é tão magra...
+você a está alimentando?
+
+24
+00:01:04,597 --> 00:01:06,832
+Ah, então você está me culpando de novo?
+
+25
+00:01:06,866 --> 00:01:09,066
+Por que você não faz a sua parte?
+
+26
+00:01:09,101 --> 00:01:12,170
+Pai:
+Por que não podemos fazer isso juntos?
+
+27
+00:01:12,204 --> 00:01:14,038
+Mãe:
+Certo, eu concordo!
+
+28
+00:01:14,073 --> 00:01:17,308
+Pai:
+Onde você acha
+que está o fardo?
+
+29
+00:01:17,343 --> 00:01:20,011
+Você senta e bebe
+uísque o dia todo
+
+30
+00:01:20,046 --> 00:01:21,980
+Enquanto eu ganho a vida.
+
+31
+00:01:22,014 --> 00:01:24,682
+Mãe:
+Isso não é justo,
+não é justo!
+
+32
+00:01:24,717 --> 00:01:27,118
+Você é tão gorda.
+
+33
+00:01:27,153 --> 00:01:30,121
+♪ Acordo de manhã,
+sentindo-me tímida e sozinha ♪
+
+34
+00:01:30,155 --> 00:01:33,725
+♪ Nossa, tenho que ir para a escola ♪
+
+35
+00:01:33,759 --> 00:01:36,695
+♪ Não acho que consigo,
+não acho que aguento ♪
+
+36
+00:01:36,729 --> 00:01:39,731
+♪ Estou me perguntando
+o que vou fazer ♪
+
+37
+00:01:39,765 --> 00:01:43,368
+♪ Mas quando olho
+ao redor, eu vejo ♪
+
+38
+00:01:43,402 --> 00:01:45,670
+♪ Que alguém está
+sorrindo para mim ♪
+
+39
+00:01:45,704 --> 00:01:46,637
+♪ Espere! ♪
+
+40
+00:01:46,672 --> 00:01:47,973
+♪ Esse alguém está falando comigo ♪
+
+41
+00:01:48,007 --> 00:01:51,176
+♪ Ei! Eu tenho um novo amigo. ♪
+
+42
+00:01:53,446 --> 00:01:54,712
+♪ Todos podem ter sucesso ♪
+
+43
+00:01:54,747 --> 00:01:57,282
+♪ Tudo que você precisa é acreditar ♪
+
+44
+00:01:57,316 --> 00:01:58,850
+♪ Seja honesto consigo mesmo ♪
+
+45
+00:01:58,885 --> 00:02:00,418
+♪ Esqueça seus medos e dúvidas ♪
+
+46
+00:02:00,452 --> 00:02:01,953
+♪ Vamos, nos dê uma chance
+
+47
+00:02:01,987 --> 00:02:06,191
+♪ Na Degrassi Junior High. ♪
+
+48
+00:02:06,391 --> 00:02:18,671
+Legendas pelo projeto Teendle!
+nos visite em: teendle.win
+
+49
+00:02:18,871 --> 00:02:21,505
+Kathleen,
+onde está o fogo?
+
+50
+00:02:21,540 --> 00:02:23,641
+Eu só estava fazendo
+alguns exercícios.
+
+51
+00:02:23,675 --> 00:02:25,643
+Ah... Que bom para você.
+
+52
+00:02:25,677 --> 00:02:29,213
+Eu sei que o centro de recursos não abre
+
+53
+00:02:29,248 --> 00:02:33,751
+Por dez minutos,
+mas a feira de ciências
+é amanhã
+
+54
+00:02:33,786 --> 00:02:36,754
+E eu realmente
+quero ir bem.
+
+55
+00:02:36,788 --> 00:02:39,591
+Vamos,
+eu abro para você.
+
+56
+00:02:46,298 --> 00:02:52,604
+Diretor:
+Lembramos a todos os alunos que
+as aulas de hoje estão canceladas
+
+57
+00:02:52,638 --> 00:02:57,274
+Para dar a todos tempo extra
+para preparar seus projetos
+
+58
+00:02:57,309 --> 00:02:59,510
+Para a feira de ciências.
+
+59
+00:02:59,545 --> 00:03:03,181
+Não é uma desculpa
+para socialização indevida.
+
+60
+00:03:03,215 --> 00:03:04,182
+Obrigado.
+
+61
+00:03:04,216 --> 00:03:05,316
+Oi, Alexa.
+
+62
+00:03:05,351 --> 00:03:07,819
+Simon...
+me diga a verdade.
+
+63
+00:03:07,853 --> 00:03:10,054
+Eu estou muito gorda?
+
+64
+00:03:10,088 --> 00:03:11,222
+Não.
+
+65
+00:03:11,257 --> 00:03:12,657
+Tem certeza?
+
+66
+00:03:12,691 --> 00:03:13,991
+Eu me sinto gorda.
+
+67
+00:03:14,026 --> 00:03:16,494
+As garotas aqui
+são tão magras.
+
+68
+00:03:16,529 --> 00:03:18,463
+Você parece bem para mim.
+
+69
+00:03:18,497 --> 00:03:24,436
+Eu não ficaria melhor
+se perdesse dois quilos?
+
+70
+00:03:24,470 --> 00:03:25,670
+Eu não sei.
+
+71
+00:03:25,704 --> 00:03:26,904
+Talvez?
+
+72
+00:03:26,939 --> 00:03:27,939
+Talvez?!
+
+73
+00:03:27,973 --> 00:03:30,641
+Você me acha gorda!
+
+74
+00:03:30,675 --> 00:03:32,309
+Não, eu só estava...
+
+75
+00:03:32,344 --> 00:03:34,912
+Como você pode dizer uma coisa dessas?
+
+76
+00:03:34,947 --> 00:03:36,347
+Eu não achei que tivesse.
+
+77
+00:03:36,381 --> 00:03:40,151
+Me dê uma semana...
+eu perderei dois quilos.
+
+78
+00:03:40,185 --> 00:03:42,186
+Uh... Ok.
+
+79
+00:03:44,356 --> 00:03:49,126
+Todos os funcionários, por favor, lembrem-se
+da reunião do almoço de hoje?
+
+80
+00:03:49,161 --> 00:03:52,630
+Feiras de ciências
+deveriam ser divertidas
+
+81
+00:03:52,664 --> 00:03:55,700
+Mas a Kathleen está
+me deixando louca.
+
+82
+00:03:55,734 --> 00:03:58,202
+Por que você não
+trocou de parceira?
+
+83
+00:03:58,236 --> 00:04:00,338
+Nós nos inscrevemos
+no outono
+
+84
+00:04:00,372 --> 00:04:02,874
+E mudanças
+não foram permitidas.
+
+85
+00:04:02,908 --> 00:04:05,876
+Ela está sempre escrevendo
+naquele diário.
+
+86
+00:04:05,911 --> 00:04:07,845
+Eu me pergunto o que há nele.
+
+87
+00:04:07,879 --> 00:04:09,847
+Aposto que é
+sobre garotos.
+
+88
+00:04:09,882 --> 00:04:10,882
+É...
+
+89
+00:04:10,916 --> 00:04:12,617
+Todos os garotos
+
+90
+00:04:12,651 --> 00:04:15,954
+Que não
+a convidaram para sair.
+
+91
+00:04:15,988 --> 00:04:17,455
+Enfim, aqui vai.
+
+92
+00:04:17,489 --> 00:04:18,923
+Ok, boa sorte.
+
+93
+00:04:18,957 --> 00:04:19,991
+Tchau.
+
+94
+00:04:23,329 --> 00:04:26,163
+Sobre qual garoto você está
+escrevendo agora?
+
+95
+00:04:26,197 --> 00:04:28,699
+Não é
+sobre um garoto.
+
+96
+00:04:28,734 --> 00:04:30,702
+É sobre mim?
+
+97
+00:04:30,736 --> 00:04:34,238
+Não, por que eu
+escreveria sobre você?
+
+98
+00:04:35,674 --> 00:04:38,242
+E não é da sua conta.
+
+99
+00:04:38,277 --> 00:04:41,312
+Você já terminou
+o gráfico?
+
+100
+00:04:41,346 --> 00:04:43,013
+Não, ainda não.
+
+101
+00:04:43,048 --> 00:04:45,583
+Bem, mãos à obra...
+a feira é amanhã.
+
+102
+00:04:45,617 --> 00:04:48,219
+Relaxe, vai ficar pronto.
+
+103
+00:04:48,254 --> 00:04:50,155
+Tem que ser perfeito.
+
+104
+00:04:50,189 --> 00:04:51,489
+Eu quero ganhar.
+
+105
+00:04:51,524 --> 00:04:52,656
+Certo.
+
+106
+00:04:52,691 --> 00:04:54,659
+Simon diz que estou gorda.
+
+107
+00:04:54,693 --> 00:04:57,328
+Alexa, você não
+está gorda.
+
+108
+00:04:57,363 --> 00:04:58,529
+Estou sim!
+
+109
+00:04:58,564 --> 00:05:02,199
+Vou perder dois quilos
+em uma semana.
+
+110
+00:05:02,234 --> 00:05:04,202
+Você não precisa
+fazer dieta.
+
+111
+00:05:04,236 --> 00:05:05,436
+E tome cuidado.
+
+112
+00:05:05,470 --> 00:05:07,438
+Dietas radicais são muito prejudiciais à saúde.
+
+113
+00:05:07,472 --> 00:05:09,540
+Lá vamos nós de novo.
+
+114
+00:05:09,574 --> 00:05:11,108
+Bem, é verdade.
+
+115
+00:05:11,143 --> 00:05:14,112
+Nosso projeto é sobre
+transtornos alimentares.
+
+116
+00:05:14,146 --> 00:05:15,814
+Heather está obcecada.
+
+117
+00:05:15,848 --> 00:05:16,947
+Não estou!
+
+118
+00:05:16,982 --> 00:05:18,682
+Anorexia é sério.
+
+119
+00:05:18,717 --> 00:05:22,253
+Afeta 5% de todas as mulheres
+e meninas jovens.
+
+120
+00:05:22,287 --> 00:05:26,123
+Minha irmã, o
+panfleto falante.
+
+121
+00:05:26,158 --> 00:05:27,625
+Alexa:
+Anorexia!
+
+122
+00:05:27,659 --> 00:05:29,593
+Eu adoraria ter
+
+123
+00:05:29,628 --> 00:05:30,628
+Um pouco
+de anorexia.
+
+124
+00:05:30,663 --> 00:05:31,929
+Só por uma semana.
+
+125
+00:05:31,964 --> 00:05:32,931
+Alexa...
+
+126
+00:05:32,965 --> 00:05:34,866
+Anorexia é uma doença.
+
+127
+00:05:34,900 --> 00:05:36,867
+Pode
+te matar.
+
+128
+00:05:36,901 --> 00:05:38,370
+Sério?
+
+129
+00:05:38,404 --> 00:05:40,205
+Garcia:
+Vamos começar.
+
+130
+00:05:40,239 --> 00:05:43,575
+Aqueles de vocês que desejam
+trabalhar na biblioteca
+
+131
+00:05:43,609 --> 00:05:45,576
+Por favor, assinem esta folha.
+
+132
+00:05:55,054 --> 00:05:56,854
+Pronto.
+
+133
+00:05:56,889 --> 00:05:58,957
+Kathleen, terminei.
+
+134
+00:05:58,991 --> 00:06:00,091
+O que você
+acha?
+
+135
+00:06:03,261 --> 00:06:05,329
+Bom, é hora do almoço.
+
+136
+00:06:05,364 --> 00:06:07,598
+Quer comer alguma coisa?
+
+137
+00:06:07,633 --> 00:06:09,200
+Não estou com fome.
+
+138
+00:06:11,169 --> 00:06:13,438
+Por que você nunca come?
+
+139
+00:06:13,472 --> 00:06:15,473
+Porque eu tenho força de vontade.
+
+140
+00:06:15,507 --> 00:06:16,574
+Com inveja?
+
+141
+00:06:17,576 --> 00:06:18,943
+Não.
+
+142
+00:06:21,313 --> 00:06:23,313
+Há um erro ortográfico.
+
+143
+00:06:24,884 --> 00:06:27,919
+"Incineradores"...
+é com "c", não com "s".
+
+144
+00:06:27,953 --> 00:06:29,687
+Eu tenho corretivo.
+
+145
+00:06:29,721 --> 00:06:31,422
+Não, é muito bagunçado!
+
+146
+00:06:31,456 --> 00:06:32,690
+Não, não é.
+
+147
+00:06:32,724 --> 00:06:34,192
+Ninguém vai notar.
+
+148
+00:06:34,226 --> 00:06:37,595
+Você não quer que eu
+comece de novo.
+
+149
+00:06:37,629 --> 00:06:39,197
+Sim.
+
+150
+00:06:39,231 --> 00:06:41,965
+Kathleen! Isso me levou horas.
+
+151
+00:06:42,000 --> 00:06:44,068
+Você acabou de estragar tudo!
+
+152
+00:06:44,102 --> 00:06:46,303
+Tem que ser perfeito.
+
+153
+00:06:48,674 --> 00:06:50,074
+Onde você
+está indo?
+
+154
+00:06:50,108 --> 00:06:51,742
+Almoçar!
+
+155
+00:06:51,777 --> 00:06:56,981
+...A reunião na qual falarei
+já começou
+
+156
+00:06:57,015 --> 00:06:59,750
+E há muitos lugares.
+
+157
+00:06:59,785 --> 00:07:01,419
+Caitlin:
+Ela estragou?
+
+158
+00:07:01,453 --> 00:07:03,721
+Ela é tão
+controladora.
+
+159
+00:07:03,756 --> 00:07:07,191
+Tudo o que ela faz
+tem que ser tão perfeito.
+
+160
+00:07:07,226 --> 00:07:09,661
+Eu sei que a mãe dela
+é alcoólatra
+
+161
+00:07:09,695 --> 00:07:11,662
+Mas ainda
+não é desculpa.
+
+162
+00:07:11,696 --> 00:07:13,497
+Ela é tão má.
+
+163
+00:07:13,531 --> 00:07:16,567
+Nem tente
+entendê-la.
+
+164
+00:07:16,602 --> 00:07:18,102
+Esta é Kathleen...
+
+165
+00:07:18,137 --> 00:07:20,638
+A bruxa má
+de Degrassi.
+
+166
+00:07:21,673 --> 00:07:23,708
+Pessoal! Escutem isso!
+
+167
+00:07:23,742 --> 00:07:25,209
+Diz aqui
+
+168
+00:07:25,243 --> 00:07:28,546
+Se você parar de beber líquidos,
+perderá dois quilos!
+
+169
+00:07:28,580 --> 00:07:32,583
+Exceto que não
+se mantém
+
+170
+00:07:32,617 --> 00:07:35,219
+E é muito
+ruim para você.
+
+171
+00:07:35,254 --> 00:07:38,556
+Você parece
+um documentário.
+
+172
+00:07:38,590 --> 00:07:41,892
+Alexa...
+por que você
+simplesmente não se exercita?
+
+173
+00:07:41,927 --> 00:07:43,394
+Exercitar?
+
+174
+00:07:43,428 --> 00:07:45,129
+Eu odeio exercícios!
+
+175
+00:07:45,163 --> 00:07:46,631
+Suor é tão feio.
+
+176
+00:07:46,665 --> 00:07:47,632
+Ei, Lucy...
+
+177
+00:07:47,666 --> 00:07:49,133
+Quer comer
+conosco?
+
+178
+00:07:49,167 --> 00:07:51,235
+Não, obrigada, já comi.
+
+179
+00:07:51,269 --> 00:07:53,838
+De qualquer forma, Clutch está vindo.
+
+180
+00:07:53,872 --> 00:07:56,573
+Viu? Ela está sempre
+inventando desculpas
+
+181
+00:07:56,608 --> 00:07:57,942
+Para não comer.
+
+182
+00:07:57,977 --> 00:08:00,277
+Heather, ela já
+comeu.
+
+183
+00:08:00,312 --> 00:08:02,880
+Como sabemos
+que é verdade?
+
+184
+00:08:05,851 --> 00:08:07,985
+Estou com tanta fome.
+
+185
+00:08:10,021 --> 00:08:12,990
+O reagendamento desta
+reunião de funcionários para amanhã
+
+186
+00:08:13,024 --> 00:08:15,626
+Deve dar a todos os professores
+aviso suficiente...
+
+187
+00:08:15,660 --> 00:08:20,497
+Vocês podem levar seus projetos para
+o ginásio agora ou pela manhã.
+
+188
+00:08:20,532 --> 00:08:23,501
+Você percebeu
+o que eu percebi?
+
+189
+00:08:23,535 --> 00:08:24,502
+O quê?
+
+190
+00:08:24,536 --> 00:08:26,570
+Jill pegou
+a comida saudável
+
+191
+00:08:26,605 --> 00:08:28,005
+E ela engordou.
+
+192
+00:08:28,039 --> 00:08:30,508
+Jack pegou a comida lixo
+
+193
+00:08:30,542 --> 00:08:32,610
+E ele
+continua magro.
+
+194
+00:08:32,644 --> 00:08:36,514
+Isso poderia ser um argumento impressionante
+para minha mãe.
+
+195
+00:08:36,548 --> 00:08:40,451
+Teríamos terminado se você
+não tivesse arruinado meu gráfico.
+
+196
+00:08:40,486 --> 00:08:43,621
+Eu te disse,
+não estava bom o suficiente.
+
+197
+00:08:44,923 --> 00:08:48,525
+Kathleen, você terminou
+de digitar aquele relatório?
+
+198
+00:08:48,560 --> 00:08:53,331
+Não, desculpe, mas
+terei para você amanhã.
+
+199
+00:08:53,365 --> 00:08:55,132
+Se você estiver muito ocupada...
+
+200
+00:08:55,167 --> 00:08:56,901
+Não, eu posso fazer isso.
+
+201
+00:08:56,935 --> 00:09:00,671
+Ok, mas precisamos
+depois de amanhã.
+
+202
+00:09:03,008 --> 00:09:05,576
+Vamos para sua casa desta vez.
+
+203
+00:09:05,610 --> 00:09:09,947
+Não se preocupe com o gráfico,
+eu mesma farei.
+
+204
+00:09:09,982 --> 00:09:11,449
+Não, é meu projeto também.
+
+205
+00:09:11,483 --> 00:09:14,185
+Ok, vamos para sua casa.
+
+206
+00:09:14,219 --> 00:09:15,920
+Não, sempre vamos lá.
+
+207
+00:09:15,954 --> 00:09:18,956
+Além disso, minha mãe terá
+companhia esta noite.
+
+208
+00:09:18,990 --> 00:09:20,024
+E daí?
+
+209
+00:09:20,058 --> 00:09:
+
+210
+00:09:22,327 --> 00:09:23,294
+Não há lugar
+
+211
+00:09:23,328 --> 00:09:24,929
+Para nós
+trabalharmos.
+
+212
+00:09:24,963 --> 00:09:27,398
+Ok, vamos para minha casa.
+
+213
+00:09:27,432 --> 00:09:30,301
+Mas minha mãe não está se sentindo bem.
+
+214
+00:09:37,442 --> 00:09:39,176
+Esquece, Simon.
+
+215
+00:09:39,211 --> 00:09:41,178
+Por que não podemos sair?
+
+216
+00:09:41,213 --> 00:09:44,147
+Me dê uma semana,
+eu perderei peso.
+
+217
+00:09:44,182 --> 00:09:46,316
+Por que você
+está fazendo isso?
+
+218
+00:09:46,351 --> 00:09:49,153
+Simon, você foi quem
+me disse
+
+219
+00:09:49,188 --> 00:09:51,189
+Que eu era um trambolho gordo.
+
+220
+00:09:52,558 --> 00:09:54,325
+Eu disse?
+
+221
+00:09:55,627 --> 00:09:56,927
+Ei, Lucy...
+
+222
+00:09:56,961 --> 00:09:58,830
+Você quer vir
+comer batatas fritas?
+
+223
+00:09:58,864 --> 00:10:02,500
+Eu adoraria, mas vamos
+em um "passeio em família".
+
+224
+00:10:02,534 --> 00:10:05,636
+Meus pais estão repentinamente
+interessados em mim.
+
+225
+00:10:05,671 --> 00:10:06,670
+Desculpe.
+
+226
+00:10:06,704 --> 00:10:08,005
+Tchau.
+Ok, tchau.
+
+227
+00:10:08,040 --> 00:10:10,507
+Ela não consegue controlar
+algumas coisas...
+
+228
+00:10:10,542 --> 00:10:12,076
+Como sua família...
+
+229
+00:10:12,110 --> 00:10:14,679
+Então ela tenta
+controlar seu corpo.
+
+230
+00:10:14,713 --> 00:10:17,215
+É um caso clássico
+de anorexia.
+
+231
+00:10:17,249 --> 00:10:19,150
+Então, onde está
+a mudança de humor
+
+232
+00:10:19,184 --> 00:10:20,484
+Comportamento retraído
+
+233
+00:10:20,519 --> 00:10:22,086
+Exercício obsessivo
+
+234
+00:10:22,120 --> 00:10:24,488
+E uso excessivo
+de laxantes?
+
+235
+00:10:24,523 --> 00:10:26,290
+Erica, acorde!
+
+236
+00:10:26,325 --> 00:10:28,359
+Cheire o café!
+
+237
+00:10:28,393 --> 00:10:30,794
+Veja como ela
+é magra!
+
+238
+00:10:30,829 --> 00:10:33,531
+Algumas pessoas são
+naturalmente magras.
+
+239
+00:10:33,565 --> 00:10:35,032
+Ninguém é tão magro.
+
+240
+00:10:35,067 --> 00:10:36,166
+Tessa é magra...
+
+241
+00:10:36,200 --> 00:10:38,268
+Você não a chama
+de anoréxica.
+
+242
+00:10:38,303 --> 00:10:40,337
+Ela está comendo uma barra de chocolate.
+
+243
+00:10:40,372 --> 00:10:41,372
+E daí?
+
+244
+00:10:46,645 --> 00:10:49,112
+Eu trouxe alguns biscoitos para você.
+
+245
+00:10:49,147 --> 00:10:50,682
+Os favoritos da Kathleen.
+
+246
+00:10:50,716 --> 00:10:53,450
+Mãe, por favor.
+
+247
+00:10:53,485 --> 00:10:56,153
+Ouvi muito
+sobre você, Melanie.
+
+248
+00:10:56,188 --> 00:10:58,589
+Você é a melhor amiga da Kathleen.
+
+249
+00:11:00,225 --> 00:11:03,060
+Você deveria trazer seus amigos
+para casa com mais frequência, querida.
+
+250
+00:11:03,094 --> 00:11:07,465
+Mãe, temos muito o que fazer.
+
+251
+00:11:07,499 --> 00:11:10,401
+Ah, Kathleen, trabalho
+não é tudo.
+
+252
+00:11:10,435 --> 00:11:14,872
+Você deveria
+se divertir também.
+
+253
+00:11:14,907 --> 00:11:20,578
+Trabalho, trabalho, trabalho...
+é tudo o que ela faz.
+
+254
+00:11:20,612 --> 00:11:22,213
+Assim como
+seu pai.
+
+255
+00:11:22,247 --> 00:11:24,715
+Mãe, temos um prazo.
+
+256
+00:11:24,749 --> 00:11:27,685
+Por que você
+não me deixa ajudá-la?
+
+257
+00:11:27,719 --> 00:11:30,521
+Eu costumava ser boa em ciências.
+
+258
+00:11:30,555 --> 00:11:33,191
+Não precisamos de ajuda.
+
+259
+00:11:34,659 --> 00:11:35,893
+Tudo bem.
+
+260
+00:11:35,927 --> 00:11:38,429
+Eu entendo
+a indireta.
+
+261
+00:11:43,935 --> 00:11:45,669
+O que você está olhando?
+
+262
+00:11:46,771 --> 00:11:48,272
+Nada.
+
+263
+00:12:07,291 --> 00:12:11,295
+Eu te disse
+que você deveria ter almoçado.
+
+264
+00:13:25,904 --> 00:13:28,639
+Você é tão gorda.
+
+265
+00:13:34,646 --> 00:13:36,113
+Obrigada, mãe.
+Obrigada, mãe.
+
+266
+00:13:36,148 --> 00:13:38,448
+Eu nunca
+trabalhei tanto
+
+267
+00:13:38,483 --> 00:13:41,252
+Em um projeto
+para uma feira de ciências.
+
+268
+00:13:41,286 --> 00:13:43,721
+Pense em quanto
+aprendemos.
+
+269
+00:13:43,755 --> 00:13:44,722
+Pílulas de dieta!
+
+270
+00:13:44,756 --> 00:13:46,824
+Eu posso encomendar
+pílulas de dieta!
+
+271
+00:13:46,858 --> 00:13:47,824
+Alexa...
+
+272
+00:13:47,859 --> 00:13:49,760
+Essas são ruins para você.
+
+273
+00:13:49,794 --> 00:13:51,328
+Mas ouça isso:
+
+274
+00:13:51,362 --> 00:13:53,430
+"Sem dieta,
+sem exercícios.
+
+275
+00:13:53,464 --> 00:13:55,432
+Perca quilos em dias."
+
+276
+00:13:55,467 --> 00:13:58,235
+Isso é uma farsa
+
+277
+00:13:58,270 --> 00:13:59,937
+E elas
+não funcionam.
+
+278
+00:14:01,206 --> 00:14:02,940
+Lá... ela está comendo.
+
+279
+00:14:05,143 --> 00:14:06,443
+E daí?
+
+280
+00:14:06,477 --> 00:14:09,313
+Então, isso prova
+que ela não é anoréxica.
+
+281
+00:14:09,348 --> 00:14:12,516
+50% das anoréxicas
+também são bulímicas.
+
+282
+00:14:12,550 --> 00:14:14,017
+Ela provavelmente
+é os dois.
+
+283
+00:14:14,052 --> 00:14:15,419
+Bulímica?
+
+284
+00:14:15,453 --> 00:14:18,890
+Bulimia... você come
+muito e depois vomita.
+
+285
+00:14:18,924 --> 00:14:22,126
+Você come tudo o que quer
+e nunca engorda?
+
+286
+00:14:22,160 --> 00:14:24,161
+Isso me parece bom.
+
+287
+00:14:24,196 --> 00:14:25,596
+Exceto que
+não funciona.
+
+288
+00:14:25,630 --> 00:14:29,066
+Você arruína seu estômago,
+sua garganta
+
+289
+00:14:29,100 --> 00:14:30,300
+Seus dentes...
+
+290
+00:14:30,334 --> 00:14:34,304
+Por causa de todos os ácidos
+que o vômito causa.
+
+291
+00:14:34,338 --> 00:14:37,074
+É realmente
+nojento, Alexa.
+
+292
+00:14:38,910 --> 00:14:42,212
+Estou ansioso para me dirigir a todos os funcionários...
+
+293
+00:14:42,247 --> 00:14:46,217
+O diário dela é apenas uma lista
+do que ela comeu.
+
+294
+00:14:46,251 --> 00:14:48,252
+Ela come
+quase nada.
+
+295
+00:14:48,286 --> 00:14:50,720
+Ela deve estar morrendo de fome.
+
+296
+00:14:50,755 --> 00:14:53,591
+Isso explica
+por que ela é
+tão rabugenta.
+
+297
+00:14:53,625 --> 00:14:56,293
+Mas isso está acontecendo
+há meses.
+
+298
+00:14:56,327 --> 00:14:58,296
+Talvez você devesse
+conversar com ela.
+
+299
+00:14:58,330 --> 00:14:59,396
+É, claro...
+
+300
+00:14:59,431 --> 00:15:02,532
+E dizer a ela
+que eu olhei seu diário?
+
+301
+00:15:02,567 --> 00:15:03,900
+Bem, tchau.
+
+302
+00:15:07,638 --> 00:15:08,639
+Oi.
+
+303
+00:15:10,943 --> 00:15:12,543
+Como você
+está se sentindo?
+
+304
+00:15:12,577 --> 00:15:13,644
+Bem.
+
+305
+00:15:14,579 --> 00:15:16,547
+Eu terminei
+o projeto.
+
+306
+00:15:16,581 --> 00:15:18,349
+Hum... Escute...
+
+307
+00:15:18,383 --> 00:15:20,750
+Se você quiser conversar
+
+308
+00:15:20,785 --> 00:15:21,752
+Sobre qualquer coisa...
+
+309
+00:15:21,787 --> 00:15:23,020
+Tipo o quê?
+
+310
+00:15:23,054 --> 00:15:25,189
+Eu não sei... qualquer coisa.
+
+311
+00:15:25,223 --> 00:15:27,658
+Obrigada, Dra. Melanie.
+
+312
+00:15:29,227 --> 00:15:30,995
+O que são
+essas?
+
+313
+00:15:31,029 --> 00:15:32,229
+Deixa pra lá.
+
+314
+00:15:33,298 --> 00:15:34,298
+Laxantes?
+
+315
+00:15:34,332 --> 00:15:37,734
+Mas você não
+comeu nada.
+
+316
+00:15:37,769 --> 00:15:39,369
+O que você está fazendo
+
+317
+00:15:39,403 --> 00:15:40,938
+Com
+laxantes?
+
+318
+00:15:40,972 --> 00:15:42,573
+O que você acha?
+
+319
+00:15:55,786 --> 00:15:57,755
+Sem dúvida...
+
+320
+00:15:57,789 --> 00:16:00,825
+Jill está definitivamente
+mais gorda do que Jack.
+
+321
+00:16:00,859 --> 00:16:03,094
+Este experimento
+poderia revolucionar
+
+322
+00:16:03,128 --> 00:16:05,096
+A maneira
+como nossos pais pensam.
+
+323
+00:16:05,130 --> 00:16:08,098
+Salgadinhos no café da manhã,
+chocolate no almoço.
+
+324
+00:16:08,133 --> 00:16:11,067
+Alcaçuz
+em vez de fígado.
+
+325
+00:16:12,570 --> 00:16:16,007
+Erica:
+Eu estava olhando
+os outros projetos.
+
+326
+00:16:16,041 --> 00:16:18,575
+Acho que temos uma boa chance.
+
+327
+00:16:18,610 --> 00:16:21,745
+Heather:
+Acho que temos o melhor.
+
+328
+00:16:21,779 --> 00:16:23,914
+Erica:
+Temos sim.
+
+329
+00:16:23,948 --> 00:16:25,516
+Dá para acreditar
+
+330
+00:16:25,550 --> 00:16:29,387
+Que algumas pessoas comem toda
+essa porcaria de uma vez?
+
+331
+00:16:29,421 --> 00:16:31,155
+E vomitam
+11 vezes por dia.
+
+332
+00:16:31,189 --> 00:16:36,427
+Só deslocar o pão
+talvez uns dois centímetros para cá.
+
+333
+00:16:36,461 --> 00:16:37,961
+Parece ótimo.
+
+334
+00:16:37,996 --> 00:16:38,996
+Boa sorte.
+
+335
+00:16:39,030 --> 00:16:39,997
+Obrigada.
+
+336
+00:16:40,998 --> 00:16:41,966
+Kathleen...
+
+337
+00:16:42,000 --> 00:16:43,968
+O relatório
+está terminado?
+
+338
+00:16:44,002 --> 00:16:44,968
+Ainda não.
+
+339
+00:16:45,003 --> 00:16:46,536
+Você está muito ocupada?
+
+340
+00:16:46,571 --> 00:16:51,108
+Eu não estou muito ocupada,
+e eu quero fazer isso.
+
+341
+00:16:51,143 --> 00:16:52,943
+Ok.
+
+342
+00:16:54,913 --> 00:16:56,814
+Você deveria dar uma olhada.
+
+343
+00:16:56,848 --> 00:16:59,817
+Há alguns
+projetos realmente ótimos.
+
+344
+00:16:59,851 --> 00:17:01,184
+Imagino...
+
+345
+00:17:01,219 --> 00:17:02,853
+Mas o nosso é o melhor.
+
+346
+00:17:04,356 --> 00:17:05,956
+É quase
+hora do almoço.
+
+347
+00:17:05,991 --> 00:17:08,459
+Você quer
+ir comer?
+
+348
+00:17:08,493 --> 00:17:09,994
+Não estou com fome.
+
+349
+00:17:11,129 --> 00:17:14,598
+Lembra como você estava com fome
+ontem à noite?
+
+350
+00:17:14,632 --> 00:17:16,967
+Eu não quero comer, ok?
+
+351
+00:17:17,001 --> 00:17:21,372
+Você deveria ir ver
+o projeto da Heather e da Erica.
+
+352
+00:17:21,406 --> 00:17:23,640
+É sobre transtornos alimentares.
+
+353
+00:17:23,675 --> 00:17:25,675
+Fascinante.
+
+354
+00:17:32,984 --> 00:17:35,686
+Parece
+bom mesmo.
+
+355
+00:17:35,720 --> 00:17:38,355
+Se sua dieta
+está te deixando infeliz
+
+356
+00:17:38,389 --> 00:17:40,290
+Talvez não
+valha a pena.
+
+357
+00:17:40,324 --> 00:17:41,392
+Não!
+
+358
+00:17:41,426 --> 00:17:44,327
+É perder peso
+ou perder o Simon.
+
+359
+00:17:44,362 --> 00:17:46,396
+Perder peso
+por um cara?
+
+360
+00:17:46,431 --> 00:17:47,898
+Isso é
+muito idiota.
+
+361
+00:17:47,932 --> 00:17:49,933
+Mas você também está fazendo dieta.
+
+362
+00:17:49,967 --> 00:17:53,203
+Na verdade não;
+estou mantendo... para a dança.
+
+363
+00:17:53,237 --> 00:17:56,840
+Está vendo? É assim
+que os boatos começam.
+
+364
+00:17:56,874 --> 00:17:59,677
+Se tudo o que ele se importa
+é com a aparência
+
+365
+00:17:59,711 --> 00:18:02,445
+Então ele não vale a pena
+sair com ele.
+
+366
+00:18:02,480 --> 00:18:03,681
+Vejo vocês
+lá dentro.
+
+367
+00:18:04,682 --> 00:18:07,384
+É.
+
+368
+00:18:07,419 --> 00:18:08,752
+É!
+
+369
+00:18:08,787 --> 00:18:12,723
+Ok, vamos ver
+se o microfone funciona.
+
+370
+00:18:12,757 --> 00:18:14,591
+Um, dois, três.
+
+371
+00:18:16,127 --> 00:18:17,527
+Me desculpe.
+
+372
+00:18:17,562 --> 00:18:19,028
+É macho.
+
+373
+00:18:19,063 --> 00:18:21,097
+Este é... Este é...
+
+374
+00:18:21,132 --> 00:18:22,533
+Eu acho que sim.
+
+375
+00:18:22,567 --> 00:18:25,035
+Eu acho que este...
+Não, este é macho.
+
+376
+00:18:25,069 --> 00:18:26,537
+Ok.
+
+377
+00:18:26,571 --> 00:18:28,772
+Isso é inútil.
+
+378
+00:18:28,806 --> 00:18:31,375
+Vocês
+querem ajuda?
+
+379
+00:18:31,409 --> 00:18:34,444
+Nós também usamos
+parte do meu antigo sistema de rádio
+
+380
+00:18:34,479 --> 00:18:36,813
+E o teclado caseiro do Arthur.
+
+381
+00:18:36,848 --> 00:18:40,183
+E este é o nosso
+kit de robô, que fizemos
+
+382
+00:18:40,218 --> 00:18:42,953
+Com brinquedos
+e peças de computador.
+
+383
+00:18:49,160 --> 00:18:52,129
+Arthur:
+Às vezes ele tem
+vontade própria.
+
+384
+00:19:00,638 --> 00:19:03,874
+A taxa na qual
+uma substância se dissolve
+
+385
+00:19:03,908 --> 00:19:06,911
+É afetada por uma
+variedade de fatores.
+
+386
+00:19:06,945 --> 00:19:08,044
+Por exemplo:
+
+387
+00:19:08,079 --> 00:19:11,248
+Mexer uma solução
+aumenta a taxa
+
+388
+00:19:11,282 --> 00:19:15,252
+Na qual um soluto
+se dissolve em um solvente.
+
+389
+00:19:15,286 --> 00:19:16,753
+Obrigada.
+
+390
+00:19:16,787 --> 00:19:18,788
+Precisamos
+de controles mais rígidos
+
+391
+00:19:18,823 --> 00:19:20,724
+Sobre a poluição das fábricas.
+
+392
+00:19:20,758 --> 00:19:21,892
+Certo, há...
+
+393
+00:19:21,926 --> 00:19:24,127
+Temos que pensar
+
+394
+00:19:24,161 --> 00:19:26,396
+A longo prazo.
+
+395
+00:19:26,431 --> 00:19:27,431
+Também...
+
+396
+00:19:27,465 --> 00:19:29,433
+Também tem
+que haver acordos
+
+397
+00:19:29,467 --> 00:19:31,602
+Para parar a chuva ácida.
+
+398
+00:19:31,636 --> 00:19:32,603
+Muito bom.
+
+399
+00:19:32,637 --> 00:19:34,271
+Muito bem, meninas.
+
+400
+00:19:34,305 --> 00:19:35,672
+Obrigada.
+
+401
+00:19:35,706 --> 00:19:37,173
+Nós fomos ótimas.
+
+402
+00:19:37,208 --> 00:19:38,175
+"Nós"?
+
+403
+00:19:38,209 --> 00:19:40,210
+Tenho certeza de que vamos ganhar.
+
+404
+00:19:41,946 --> 00:19:46,083
+Esqueci de contar a ele
+sobre o ozônio.
+
+405
+00:19:46,117 --> 00:19:50,086
+Era isso que eu
+estava tentando dizer a ele.
+
+406
+00:19:50,120 --> 00:19:51,655
+O que eu vou fazer?
+
+407
+00:19:51,690 --> 00:19:54,023
+Eu tenho que ganhar!
+
+408
+00:19:54,058 --> 00:19:55,325
+Relaxe.
+
+409
+00:19:55,360 --> 00:19:57,161
+Não é tarde demais.
+
+410
+00:19:57,195 --> 00:20:01,231
+Eu ainda posso dizer a ele,
+ainda há tempo.
+
+411
+00:20:01,265 --> 00:20:02,199
+Sr. Raditch!
+
+412
+00:20:02,233 --> 00:20:03,166
+Sr. Raditch?
+
+413
+00:20:03,200 --> 00:20:05,903
+Há mais
+uma coisa.
+
+414
+00:20:05,937 --> 00:20:08,105
+É sobre
+a camada de ozônio.
+
+415
+00:20:08,139 --> 00:20:09,573
+Até o ano 2080
+
+416
+00:20:09,607 --> 00:20:12,343
+Haverá
+vários buracos principais
+
+417
+00:20:12,377 --> 00:20:
+
+418
+00:20:16,213 --> 00:20:18,748
+Olhe para ela...
+ela borbulha.
+
+419
+00:20:18,783 --> 00:20:22,920
+Scooter:
+Jack comeu comida lixo
+e ele ainda está magro.
+
+420
+00:20:22,954 --> 00:20:24,955
+Jill comeu
+a comida saudável
+
+421
+00:20:24,990 --> 00:20:26,456
+E ela
+engordou.
+
+422
+00:20:26,491 --> 00:20:29,225
+Bartholomew:
+Estamos em
+algo grande.
+
+423
+00:20:29,260 --> 00:20:31,795
+A comida lixo claramente
+foi subestimada.
+
+424
+00:20:31,829 --> 00:20:33,997
+Eu não acho
+que é a comida
+
+425
+00:20:34,032 --> 00:20:35,866
+Que está fazendo
+Jill engordar.
+
+426
+00:20:35,900 --> 00:20:37,434
+O que mais
+poderia ser?
+
+427
+00:20:37,468 --> 00:20:42,572
+Bem, Jack é um menino
+e Jill é uma menina...
+
+428
+00:20:42,606 --> 00:20:44,474
+Nós sabemos disso.
+
+429
+00:20:44,509 --> 00:20:46,977
+E Jill está
+ficando maior...
+
+430
+00:20:52,784 --> 00:20:54,117
+Ela está grávida?
+
+431
+00:20:54,152 --> 00:20:55,418
+Sim.
+
+432
+00:20:55,453 --> 00:20:59,656
+Eu sugiro que vocês façam o experimento
+após os nascimentos.
+
+433
+00:20:59,691 --> 00:21:03,627
+Eu sabia que era
+bom demais para ser verdade.
+
+434
+00:21:08,165 --> 00:21:10,366
+Eles estão anunciando
+os resultados.
+
+435
+00:21:10,401 --> 00:21:14,004
+Você viu o projeto da Heather
+e da Erica?
+
+436
+00:21:14,038 --> 00:21:18,642
+Eu não estou interessada no projeto
+de ninguém mais, Melanie.
+
+437
+00:21:20,111 --> 00:21:21,177
+Melanie:
+Kathleen...
+
+438
+00:21:21,211 --> 00:21:23,313
+Por que você não tem comido?
+
+439
+00:21:23,347 --> 00:21:24,981
+O quê?
+
+440
+00:21:25,015 --> 00:21:27,150
+Você não
+tem comido.
+
+441
+00:21:27,184 --> 00:21:28,818
+Estou de dieta, ok?
+
+442
+00:21:28,853 --> 00:21:30,921
+Não, você não está.
+
+443
+00:21:30,955 --> 00:21:32,156
+Você está passando
+fome.
+
+444
+00:21:32,190 --> 00:21:33,256
+Você não está comendo.
+
+445
+00:21:33,291 --> 00:21:35,693
+Melanie, do que você está falando?
+
+446
+00:21:38,195 --> 00:21:40,430
+Eu li seu diário.
+
+447
+00:21:42,166 --> 00:21:44,601
+Você leu
+meu diário particular?
+
+448
+00:21:44,635 --> 00:21:45,702
+Eu não deveria
+ter lido.
+
+449
+00:21:45,736 --> 00:21:47,404
+Eu não acredito que você fez isso!
+
+450
+00:21:47,438 --> 00:21:49,405
+Kathleen, você tem um problema.
+
+451
+00:21:49,440 --> 00:21:51,975
+Errado. *Você* tem o problema.
+
+452
+00:21:52,009 --> 00:21:53,477
+Lendo
+minhas coisas particulares?
+
+453
+00:21:53,511 --> 00:21:55,345
+Como você pôde?
+
+454
+00:21:55,379 --> 00:21:56,846
+Eu te odeio.
+
+455
+00:21:56,881 --> 00:22:00,583
+Eu não acredito
+que nós já fomos amigas.
+
+456
+00:22:00,618 --> 00:22:01,919
+Kathleen!
+
+457
+00:22:01,953 --> 00:22:04,053
+Cuide da sua vida!
+
+458
+00:22:04,989 --> 00:22:05,955
+Alô?
+
+459
+00:22:05,990 --> 00:22:07,924
+Você consegue
+me ouvir?
+
+460
+00:22:07,958 --> 00:22:11,661
+Posso ter sua
+atenção, por favor?
+
+461
+00:22:13,230 --> 00:22:16,366
+O julgamento foi concluído
+
+462
+00:22:16,401 --> 00:22:18,935
+E os totais
+foram tabulados
+
+463
+00:22:18,969 --> 00:22:20,837
+E temos nossos resultados.
+
+464
+00:22:23,307 --> 00:22:27,878
+O terceiro prêmio deste ano
+na feira de ciências de Degrassi
+
+465
+00:22:27,912 --> 00:22:33,717
+Vai para Arthur Kobalewscuy e
+Yick Yu por seu projeto de robô.
+
+466
+00:22:35,719 --> 00:22:40,657
+O segundo prêmio vai para Vicki
+Freedland e Vivian Wong
+
+467
+00:22:40,692 --> 00:22:44,194
+Por seu projeto
+sobre soluções aquosas.
+
+468
+00:22:49,567 --> 00:22:51,702
+E o primeiro prêmio vai para...
+
+469
+00:22:53,170 --> 00:22:58,141
+Heather e Erica Farrell
+por seu projeto
+
+470
+00:22:58,175 --> 00:23:00,543
+Sobre transtornos alimentares.
+
+471
+00:23:01,879 --> 00:23:04,181
+Menções honrosas também vão
+
+472
+00:23:04,215 --> 00:23:06,717
+Para Kathleen Mead
+e para Melanie Brody
+
+473
+00:23:06,751 --> 00:23:09,786
+Por seu projeto
+sobre poluição urbana.
+
+474
+00:23:09,821 --> 00:23:10,787
+Kathleen, espere!
+
+475
+00:23:10,821 --> 00:23:11,888
+Me deixe em paz!
+
+476
+00:23:11,923 --> 00:23:12,889
+Kathleen...
+
+477
+00:23:12,923 --> 00:23:15,659
+Se eu tivesse lembrado do ozônio...
+
+478
+00:23:15,693 --> 00:23:19,129
+Kathleen, nós recebemos
+uma menção honrosa.
+
+479
+00:23:19,163 --> 00:23:21,498
+Nós deveríamos ter ganhado.
+
+480
+00:23:21,533 --> 00:23:23,533
+Eu queria ganhar.
+
+481
+00:23:23,568 --> 00:23:25,536
+Nós fizemos o nosso melhor.
+
+482
+00:23:25,570 --> 00:23:27,070
+Isso não é suficiente!
+
+483
+00:23:27,105 --> 00:23:28,972
+Você não entende.
+
+484
+00:23:29,007 --> 00:23:30,473
+Eu me esforço tanto.
+
+485
+00:23:30,508 --> 00:23:33,076
+Eu tento deixá-los orgulhosos.
+
+486
+00:23:33,111 --> 00:23:35,078
+Eu quero que eles tenham orgulho.
+
+487
+00:23:35,112 --> 00:23:37,213
+Nós deveríamos ter ganhado.
+
+488
+00:23:37,248 --> 00:23:40,883
+Eles poderiam ter ficado tão orgulhosos.
+
+489
+00:23:40,918 --> 00:23:42,919
+Eles teriam...
+
+490
+00:23:45,623 --> 00:23:46,956
+Kathleen!
+
+491
+00:23:48,626 --> 00:23:50,093
+O que há de errado?
+
+492
+00:23:50,127 --> 00:23:51,261
+Ela desmaiou.
+
+493
+00:23:51,295 --> 00:23:52,262
+Kathleen!
+
+494
+00:23:52,296 --> 00:23:53,630
+Kathleen?
+
+495
+00:23:55,566 --> 00:23:57,233
+O que aconteceu?
+
+496
+00:23:57,267 --> 00:23:59,602
+Ela não tem comido.
+
+497
+00:24:00,605 --> 00:24:01,905
+Kathleen?
+
+498
+00:24:01,939 --> 00:24:03,573
+Kathleen, acorde.
+Alô?
+
+499
+00:24:13,417 --> 00:24:14,417
+Alexa?
+
+500
+00:24:14,452 --> 00:24:17,554
+Simon, eu não vou
+perder peso por você.
+
+501
+00:24:17,589 --> 00:24:20,390
+Eu gosto de mim como eu sou.
+
+502
+00:24:20,424 --> 00:24:24,628
+Eu gosto de mim... Quer dizer,
+eu gosto de você como você é também.
+
+503
+00:24:24,662 --> 00:24:26,697
+Então por que você disse que eu estava gorda?
+
+504
+00:24:26,731 --> 00:24:28,398
+Eu não disse.
+
+505
+00:24:28,433 --> 00:24:30,400
+Eu não acho
+que eu disse.
+
+506
+00:24:30,435 --> 00:24:31,601
+Decida-se.
+
+507
+00:24:33,538 --> 00:24:34,838
+Nós podemos
+sair de novo?
+
+508
+00:24:36,040 --> 00:24:39,676
+Contanto que você me aceite como eu sou.
+
+509
+00:24:39,711 --> 00:24:41,311
+Claro.
+
+510
+00:24:41,346 --> 00:24:42,846
+Graças a Deus.
+
+511
+00:24:42,880 --> 00:24:44,848
+Posso te acompanhar
+até em casa hoje à noite?
+
+512
+00:24:44,882 --> 00:24:46,883
+Sim, eu adoraria.
+
+513
+00:24:48,886 --> 00:24:51,855
+Eu sei, e eles ganharam
+o terceiro prêmio.
+
+514
+00:24:51,889 --> 00:24:55,358
+E a reunião de funcionários deste mês
+está indefinidamente adiada...
+
+515
+00:24:55,392 --> 00:24:58,629
+Eu quero que você vá
+ver a enfermeira.
+
+516
+00:24:58,663 --> 00:25:01,364
+Sra. Avery,
+eu estou bem, honestamente.
+
+517
+00:25:01,399 --> 00:25:02,765
+Foi nervosismo.
+
+518
+00:25:02,800 --> 00:25:04,400
+Kathleen, eu insisto.
+
+519
+00:25:04,435 --> 00:25:06,402
+E ela está
+esperando por você.
+
+520
+00:25:06,437 --> 00:25:07,771
+Hoje.
+
+521
+00:25:11,842 --> 00:25:12,909
+Traidora!
+
+522
+00:25:13,744 --> 00:25:15,211
+Por que você contou a ela?
+
+523
+00:25:15,245 --> 00:25:16,847
+Eu estava com medo.
+
+524
+00:25:16,881 --> 00:25:21,484
+Você só está com ciúmes
+porque eu tenho força de vontade.
+
+525
+00:25:21,518 --> 00:25:23,787
+Me desculpe pelo
+seu diário
+
+526
+00:25:23,821 --> 00:25:25,822
+Mas você tem
+um problema.
+
+527
+00:25:25,856 --> 00:25:27,324
+Eu não tenho!
+
+528
+00:25:27,358 --> 00:25:28,858
+Sim, você tem.
+
+529
+00:25:28,892 --> 00:25:30,294
+Você precisa de ajuda.
+
+530
+00:25:33,197 --> 00:25:35,132
+Eu não preciso de ajuda.
+
+531
+00:25:35,166 --> 00:25:36,833
+E eu não tenho um problema.

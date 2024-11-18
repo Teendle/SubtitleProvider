@@ -1,0 +1,2073 @@
+2
+00:00:04,570 --> 00:00:05,736
+Olá, Derek.
+
+3
+00:00:05,771 --> 00:00:07,138
+Onde você estava?
+
+4
+00:00:07,173 --> 00:00:09,107
+Na escola, claro.
+
+5
+00:00:09,142 --> 00:00:12,110
+Você não gostaria
+de ver sua correspondência?
+
+6
+00:00:14,179 --> 00:00:15,980
+Eu recebi correspondência?
+
+7
+00:00:16,015 --> 00:00:19,050
+Está ali
+na mesa.
+
+8
+00:00:19,084 --> 00:00:22,787
+Acredito que seja do
+seu pai biológico.
+
+9
+00:00:22,821 --> 00:00:24,256
+Oi, vô.
+
+10
+00:00:25,457 --> 00:00:28,559
+Então, como <i>foi</i>
+a escola hoje?
+
+11
+00:00:28,594 --> 00:00:30,194
+Bem.
+
+12
+00:00:30,228 --> 00:00:32,564
+Derek, por que você
+mente para mim?
+
+13
+00:00:32,598 --> 00:00:35,467
+Eles ligaram
+esta tarde.
+
+14
+00:00:35,501 --> 00:00:37,035
+Você não esteve lá
+
+15
+00:00:37,069 --> 00:00:38,536
+De novo.
+
+16
+00:00:38,571 --> 00:00:41,606
+Talvez eu não queira
+ir para a escola.
+
+17
+00:00:41,640 --> 00:00:44,509
+Mas a educação é tão importante.
+
+18
+00:00:44,543 --> 00:00:47,412
+Seus pais gostariam
+que você fosse.
+
+19
+00:00:47,446 --> 00:00:48,846
+Eles estão mortos.
+
+20
+00:00:56,922 --> 00:00:59,257
+Velha chata!
+
+21
+00:01:00,793 --> 00:01:03,361
+Homem:
+<i>Feliz aniversário, garotão.</i>
+
+22
+00:01:03,395 --> 00:01:06,431
+<i>Eu sei que é por agora.</i>
+
+23
+00:01:06,465 --> 00:01:10,302
+<i>Para mim, as coisas estão indo ótimas.</i>
+
+24
+00:01:10,336 --> 00:01:13,471
+<i>Consegui um show de duas semanas</i>
+<i>aqui em Port Hope.</i>
+
+25
+00:01:13,505 --> 00:01:17,609
+<i>O lugar onde estamos tocando</i>
+<i>está na frente do cartão.</i>
+
+26
+00:01:17,643 --> 00:01:19,177
+<i>Boa sorte... Mike.</i>
+
+27
+00:01:24,249 --> 00:01:27,085
+♪ Acordo de manhã,
+sentindo-me tímido e solitário ♪
+
+28
+00:01:27,119 --> 00:01:30,655
+♪ Puxa, eu tenho que ir para a escola ♪
+
+29
+00:01:30,690 --> 00:01:33,658
+♪ Eu não acho que consigo,
+não acho que aguento ♪
+
+30
+00:01:33,692 --> 00:01:36,695
+♪ Estou me perguntando
+o que vou fazer ♪
+
+31
+00:01:36,729 --> 00:01:40,298
+♪ Mas quando olho
+ao redor, eu vejo ♪
+
+32
+00:01:40,333 --> 00:01:42,533
+♪ Que alguém está
+sorrindo para mim ♪
+
+33
+00:01:42,567 --> 00:01:43,334
+♪ Espere! ♪
+
+34
+00:01:43,369 --> 00:01:45,603
+♪ Esse alguém está falando comigo ♪
+
+35
+00:01:45,638 --> 00:01:48,105
+♪ Ei! Eu tenho um novo amigo. ♪
+
+36
+00:01:50,342 --> 00:01:51,610
+♪ Todos podem ter sucesso ♪
+
+37
+00:01:51,644 --> 00:01:54,178
+♪ Tudo que você precisa é acreditar ♪
+
+38
+00:01:54,213 --> 00:01:55,746
+♪ Seja honesto consigo mesmo ♪
+
+39
+00:01:55,781 --> 00:01:57,315
+♪ Esqueça seus medos e dúvidas ♪
+
+40
+00:01:57,350 --> 00:01:58,984
+♪ Vamos lá, nos dê uma chance ♪
+
+41
+00:01:59,018 --> 00:02:03,087
+♪ Na Degrassi Junior High. ♪
+
+42
+00:02:03,287 --> 00:02:04,823
+Legendas pelo projeto Teendle!
+nos visite em: teendle.win
+
+43
+00:02:05,023 --> 00:02:07,993
+Garcia:
+Como podem ver,
+podemos usar este diagrama
+
+44
+00:02:08,027 --> 00:02:11,563
+Para calcular a distância
+entre dois pontos--
+
+45
+00:02:11,597 --> 00:02:12,930
+Digamos, em um mapa.
+
+46
+00:02:14,533 --> 00:02:16,000
+Ok, antes de irem
+
+47
+00:02:16,034 --> 00:02:18,970
+Suas fotos escolares
+chegaram.
+
+48
+00:02:21,107 --> 00:02:24,075
+Observem que cada
+envelope contém
+
+49
+00:02:24,109 --> 00:02:27,144
+As fotografias
+e a lista de preços.
+
+50
+00:02:27,179 --> 00:02:29,447
+Vocês podem vir buscá-las.
+
+51
+00:02:29,481 --> 00:02:31,716
+Na segunda-feira,
+tragam o dinheiro
+
+52
+00:02:31,750 --> 00:02:34,219
+Para as fotos
+que desejam ficar
+
+53
+00:02:34,253 --> 00:02:37,055
+E lembrem-se
+de devolver as fotos
+
+54
+00:02:37,089 --> 00:02:38,856
+Que não
+desejam ficar.
+
+55
+00:02:38,891 --> 00:02:40,959
+Liz:
+A que horas você quer
+
+56
+00:02:40,993 --> 00:02:43,228
+Que eu te busque
+para o show?
+
+57
+00:02:43,262 --> 00:02:44,562
+4:30.
+
+58
+00:02:44,596 --> 00:02:47,832
+Não acredito que vamos ver
+o Gourmet Scum.
+
+59
+00:02:47,866 --> 00:02:51,236
+É gentil da sua mãe
+cuidar da Emma.
+
+60
+00:02:51,270 --> 00:02:53,270
+Eu odeio
+o Gourmet Scum!
+
+61
+00:02:53,305 --> 00:02:55,606
+Archie, você viu
+o Derek ultimamente?
+
+62
+00:02:55,641 --> 00:02:58,909
+Uh... Não.
+
+63
+00:02:58,944 --> 00:03:01,479
+Você pode
+entregar isso a ele?
+
+64
+00:03:01,513 --> 00:03:03,314
+Claro.
+
+65
+00:03:03,348 --> 00:03:04,682
+Obrigada.
+
+66
+00:03:04,716 --> 00:03:06,551
+Como ele está?
+
+67
+00:03:06,585 --> 00:03:08,820
+Bem, eu acho.
+
+68
+00:03:08,854 --> 00:03:12,490
+Na próxima vez que você o vir,
+faça um favor a ele.
+
+69
+00:03:12,524 --> 00:03:16,294
+Diga a ele
+que precisa voltar
+para a escola--
+
+70
+00:03:16,328 --> 00:03:20,331
+Para o seu próprio bem, e porque
+a lei diz que ele precisa.
+
+71
+00:03:20,366 --> 00:03:22,567
+Tudo bem.
+
+72
+00:03:22,602 --> 00:03:26,537
+Ah, e Archie, diga a ele
+que eu o ajudarei a recuperar o atraso.
+
+73
+00:03:26,571 --> 00:03:28,640
+Ok, Sr. Garcia.
+
+74
+00:03:28,674 --> 00:03:32,510
+Ano passado, eu tive
+uma espinha enorme.
+
+75
+00:03:32,544 --> 00:03:34,445
+Agora isso... Por que eu?
+
+76
+00:03:34,479 --> 00:03:35,947
+O que você quer dizer?
+
+77
+00:03:35,982 --> 00:03:37,982
+Está parecendo
+com você.
+
+78
+00:03:38,016 --> 00:03:40,551
+Aparelho... Finalmente
+o tirei
+
+79
+00:03:40,586 --> 00:03:43,687
+E agora isso volta
+para me assombrar.
+
+80
+00:03:43,722 --> 00:03:46,224
+Já sei, vou queimar
+as fotos.
+
+81
+00:03:46,258 --> 00:03:48,293
+Você tem
+fósforos?
+
+82
+00:03:48,327 --> 00:03:49,560
+Você está louco!
+
+83
+00:03:49,595 --> 00:03:52,530
+Por que essas fotos
+são tão horríveis?
+
+84
+00:03:52,564 --> 00:03:55,099
+Qualquer coisa relacionada
+com a escola
+
+85
+00:03:55,134 --> 00:03:57,134
+Tem
+que ser horrível.
+
+86
+00:03:57,169 --> 00:03:58,502
+Ei, Luke!
+
+87
+00:03:58,537 --> 00:04:02,440
+Por que não nos sentamos
+juntos no
+show amanhã?
+
+88
+00:04:02,474 --> 00:04:04,208
+Ok.
+
+89
+00:04:04,243 --> 00:04:06,677
+Snake e eu vamos
+te encontrar às 5:00.
+
+90
+00:04:06,712 --> 00:04:09,080
+5:00, parece bom.
+
+91
+00:04:09,115 --> 00:04:10,415
+Te vejo lá.
+
+92
+00:04:10,449 --> 00:04:11,549
+Oi, Joey.
+
+93
+00:04:11,583 --> 00:04:12,584
+Caitlin, oi.
+
+94
+00:04:12,618 --> 00:04:15,186
+Escuta, eu queria
+te perguntar
+
+95
+00:04:15,220 --> 00:04:17,288
+Sobre o teste de matemática...
+
+96
+00:04:17,322 --> 00:04:19,323
+Você conseguiu as coisas?
+
+97
+00:04:19,358 --> 00:04:21,793
+Não, eu não consegui
+encontrar o cara
+
+98
+00:04:21,827 --> 00:04:24,361
+Mas ele estará
+no show.
+
+99
+00:04:24,396 --> 00:04:27,398
+Não se esqueça
+de trazer seu dinheiro.
+
+100
+00:04:27,433 --> 00:04:28,766
+Sem problemas.
+
+101
+00:04:28,800 --> 00:04:30,501
+E é ácido de verdade?
+
+102
+00:04:30,535 --> 00:04:34,004
+É, eu já comprei
+dele antes.
+
+103
+00:04:34,907 --> 00:04:36,541
+Então...
+
+104
+00:04:36,575 --> 00:04:38,309
+Como é?
+
+105
+00:04:38,343 --> 00:04:39,944
+É incrível, cara.
+
+106
+00:04:39,978 --> 00:04:42,880
+Demora meia hora
+para sentir alguma coisa.
+
+107
+00:04:42,914 --> 00:04:46,418
+Você chega ao pico, e está voando...
+Você vai adorar.
+
+108
+00:04:46,452 --> 00:04:47,752
+Voando.
+
+109
+00:04:47,786 --> 00:04:49,320
+Você vai adorar.
+
+110
+00:04:49,355 --> 00:04:51,723
+Nós vamos
+fazer isso?
+
+111
+00:04:51,757 --> 00:04:53,692
+Beleza!
+
+112
+00:04:56,228 --> 00:04:59,564
+Talvez eu possa te ajudar
+de novo depois da aula.
+
+113
+00:04:59,598 --> 00:05:00,865
+Muito obrigado.
+
+114
+00:05:00,899 --> 00:05:03,367
+Eu aprecio muito
+isso, Caitlin.
+
+115
+00:05:03,401 --> 00:05:06,838
+Matemática tem sido como
+a Zona do Crepúsculo
+para mim.
+
+116
+00:05:06,872 --> 00:05:08,339
+Não é tão difícil.
+
+117
+00:05:08,374 --> 00:05:10,007
+Bem, te vejo segunda.
+
+118
+00:05:10,042 --> 00:05:11,308
+É.
+
+119
+00:05:11,343 --> 00:05:12,577
+Tchau.
+
+120
+00:05:12,611 --> 00:05:14,045
+Obrigado de novo.
+
+121
+00:05:15,948 --> 00:05:17,749
+Joey Jeremiah,
+apaixonado.
+
+122
+00:05:17,783 --> 00:05:21,052
+Snake, ela está só
+me ajudando com matemática.
+
+123
+00:05:21,086 --> 00:05:22,720
+De qualquer forma, ela é bonitinha.
+
+124
+00:05:22,755 --> 00:05:25,590
+"Ele olhou através
+do seu livro de matemática.
+
+125
+00:05:25,624 --> 00:05:29,027
+"Ele queria dizer a ela
+que ela era linda
+
+126
+00:05:29,061 --> 00:05:31,095
+"Mas a placa
+dizia 'Silêncio'.
+
+127
+00:05:31,129 --> 00:05:34,232
+Ele não podia ser expulso
+da biblioteca."
+
+128
+00:05:34,266 --> 00:05:35,499
+Engraçadinho!
+
+129
+00:05:35,534 --> 00:05:38,503
+Quer vir entregar
+isso ao Wheels?
+
+130
+00:05:38,537 --> 00:05:39,837
+Sim, claro.
+
+131
+00:05:39,872 --> 00:05:43,541
+Estão ficando
+bravos com ele por
+faltar à escola.
+
+132
+00:05:43,576 --> 00:05:45,376
+Mas os pais dele morreram.
+
+133
+00:05:45,411 --> 00:05:46,877
+Isso foi há séculos.
+
+134
+00:05:46,912 --> 00:05:50,147
+Ele disse que não
+o incomoda mais.
+
+135
+00:05:50,182 --> 00:05:51,649
+Você acredita nisso?
+
+136
+00:05:51,684 --> 00:05:54,685
+Eu só queria que ele
+parasse de reclamar.
+
+137
+00:05:58,490 --> 00:06:00,859
+( <i>Vozes de computador:</i> )
+Aqui vamos nós!
+
+138
+00:06:02,961 --> 00:06:04,696
+Pisando, pisando!
+
+139
+00:06:04,730 --> 00:06:06,331
+Chute giratório!
+
+140
+00:06:06,365 --> 00:06:10,200
+Vamos lá! Um, dois...
+
+141
+00:06:14,506 --> 00:06:16,107
+Ei, Wheels,
+amigo!
+
+142
+00:06:16,141 --> 00:06:18,142
+E aí, pessoal.
+
+143
+00:06:18,176 --> 00:06:19,643
+Suas fotos.
+
+144
+00:06:19,678 --> 00:06:21,578
+Nossa, obrigado.
+
+145
+00:06:21,613 --> 00:06:22,914
+...Dois, três!
+
+146
+00:06:25,550 --> 00:06:27,351
+Jogo idiota.
+
+147
+00:06:27,386 --> 00:06:29,988
+De onde você tira
+dinheiro para jogar?
+
+148
+00:06:30,022 --> 00:06:32,190
+Eu vendi meu baixo.
+
+149
+00:06:32,224 --> 00:06:33,524
+Você fez o quê?
+
+150
+00:06:33,559 --> 00:06:35,593
+E a nossa banda?
+
+151
+00:06:35,628 --> 00:06:39,997
+Joey, o remédio para espinhas é uma piada.
+
+152
+00:06:40,031 --> 00:06:41,399
+Não é.
+
+153
+00:06:41,433 --> 00:06:45,103
+Quando foi a última vez
+que fizemos alguma coisa?
+
+154
+00:06:45,137 --> 00:06:47,872
+Se você viesse para a escola,
+nós faríamos alguma coisa.
+
+155
+00:06:47,906 --> 00:06:50,508
+Talvez eu não queira
+ir para a escola.
+
+156
+00:06:50,542 --> 00:06:51,776
+Pessoal,
+escutem.
+
+157
+00:06:51,810 --> 00:06:53,978
+Que tal
+depois deste jogo
+
+158
+00:06:54,012 --> 00:06:55,613
+Nós pegarmos
+umas batatas fritas?
+
+159
+00:06:55,647 --> 00:06:57,147
+É.
+
+160
+00:06:57,182 --> 00:06:58,449
+Claro.
+
+161
+00:06:58,484 --> 00:06:59,550
+Bom.
+
+162
+00:06:59,585 --> 00:07:03,454
+Lá vem o Kamikaze Ken!
+
+163
+00:07:03,489 --> 00:07:06,190
+Nocaute! Pisando!
+
+164
+00:07:06,224 --> 00:07:10,895
+Lá vem El Condor!
+Lá vem o Pé Grande!
+
+165
+00:07:10,929 --> 00:07:14,265
+Morar com meus avós
+é uma chatice.
+
+166
+00:07:14,299 --> 00:07:17,235
+Minha avó está
+sempre me enchendo o saco--
+
+167
+00:07:17,269 --> 00:07:20,571
+"Abaixe o rádio",
+"Limpe seu quarto".
+
+168
+00:07:20,606 --> 00:07:22,273
+Parece
+com a minha mãe.
+
+169
+00:07:22,307 --> 00:07:24,275
+Mas ela não é minha mãe.
+
+170
+00:07:24,310 --> 00:07:27,712
+Se eles continuarem me perturbando,
+eu vou embora.
+
+171
+00:07:27,746 --> 00:07:29,647
+É, tá bom.
+
+172
+00:07:29,681 --> 00:07:31,950
+Não, falando sério.
+
+173
+00:07:31,984 --> 00:07:32,950
+Para onde
+você iria?
+
+174
+00:07:32,985 --> 00:07:34,485
+Port Hope.
+
+175
+00:07:34,519 --> 00:07:36,186
+Onde fica Port Hope?
+
+176
+00:07:36,221 --> 00:07:38,756
+Eu não sei, em algum lugar.
+
+177
+00:07:40,025 --> 00:07:44,762
+Meu pai me mandou isso ontem...
+Meu pai biológico, meu <i>verdadeiro</i> pai.
+
+178
+00:07:44,797 --> 00:07:47,064
+Seu aniversário é
+mês que vem.
+
+179
+00:07:47,098 --> 00:07:50,368
+Ele não consegue se lembrar de tudo...
+Quem se importa?
+
+180
+00:07:50,402 --> 00:07:52,536
+Ele ainda está com a banda.
+
+181
+00:07:52,570 --> 00:07:56,241
+Imagine viajar por todo lugar,
+tocando rock.
+
+182
+00:07:56,275 --> 00:08:01,112
+Sem professores, sem regras,
+sem avós.
+
+183
+00:08:01,146 --> 00:08:05,549
+Vai ser assim quando
+o Zit Remedy voltar a se reunir.
+
+184
+00:08:05,583 --> 00:08:07,251
+Claro, Joey.
+
+185
+00:08:07,285 --> 00:08:08,619
+Pessoal, confiem em mim.
+
+186
+00:08:08,654 --> 00:08:10,755
+Eu já menti para vocês alguma vez?
+
+187
+00:08:11,857 --> 00:08:12,956
+Sim.
+Sim.
+
+188
+00:08:12,991 --> 00:08:14,526
+Eu posso mudar.
+
+189
+00:08:16,629 --> 00:08:18,363
+Joey Jeremiah...
+
+190
+00:08:18,397 --> 00:08:21,198
+Escuta, o show do Scum
+é amanhã.
+
+191
+00:08:21,233 --> 00:08:23,534
+Talvez eu consiga
+um ingresso para você.
+
+192
+00:08:23,569 --> 00:08:26,270
+Eu não curto
+esses caras mais.
+
+193
+00:08:26,304 --> 00:08:27,772
+O que mais
+você vai fazer?
+
+194
+00:08:27,806 --> 00:08:29,140
+Assistir TV.
+
+195
+00:08:29,174 --> 00:08:32,710
+Você vai perder
+um show fabuloso.
+
+196
+00:08:32,745 --> 00:08:34,445
+É o último
+deles.
+
+197
+00:08:34,480 --> 00:08:37,048
+Dezenas de garotas
+estarão lá.
+
+198
+00:08:37,082 --> 00:08:38,583
+As melhores garotas.
+
+199
+00:08:38,617 --> 00:08:40,618
+É melhor você
+vir com a gente.
+
+200
+00:08:40,653 --> 00:08:45,189
+Vendedores:
+Camisetas do Scum!
+Comprem suas camisetas do Scum aqui!
+
+201
+00:08:45,223 --> 00:08:48,159
+Spike:
+Vai ser o último show
+deles.
+
+202
+00:08:48,193 --> 00:08:50,394
+Estou tão feliz
+que você conseguiu ingressos.
+
+203
+00:08:50,428 --> 00:08:51,662
+Sorte, ou o quê?
+
+204
+00:08:51,697 --> 00:08:53,131
+Eu estou bem?
+
+205
+00:08:53,165 --> 00:08:54,432
+Você está ótima.
+
+206
+00:08:54,466 --> 00:08:55,500
+Ótimo!
+
+207
+00:08:56,501 --> 00:08:58,235
+Mantenha isso em segredo.
+
+208
+00:08:59,237 --> 00:09:00,605
+Dez pratas, certo?
+
+210
+00:09:03,308 --> 00:09:05,108
+Traficante:
+Aproveite o show.
+
+211
+00:09:06,712 --> 00:09:08,680
+Vamos lá,
+vamos, cara.
+
+212
+00:09:08,714 --> 00:09:09,847
+Ácido, cara.
+
+213
+00:09:09,881 --> 00:09:11,449
+Ei, guarda
+isso.
+
+214
+00:09:11,483 --> 00:09:13,484
+Eu pensei
+que seria um comprimido.
+
+215
+00:09:13,519 --> 00:09:15,453
+O que vocês
+estavam fazendo?
+
+216
+00:09:15,487 --> 00:09:16,820
+Nada.
+
+217
+00:09:16,855 --> 00:09:19,223
+Então, como
+a gente toma isso?
+
+218
+00:09:19,258 --> 00:09:20,491
+Você engole.
+
+219
+00:09:20,525 --> 00:09:21,959
+Você come papel?
+
+220
+00:09:21,993 --> 00:09:24,328
+Talvez você não esteja pronto para ácido.
+
+221
+00:09:24,363 --> 00:09:26,764
+Essas coisas são perigosas.
+
+222
+00:09:26,798 --> 00:09:28,833
+É, é, é.
+
+223
+00:09:28,867 --> 00:09:31,769
+Eles misturam LSD
+com estricnina.
+
+224
+00:09:31,803 --> 00:09:34,372
+Você sabe o que
+é estricnina?
+
+225
+00:09:34,406 --> 00:09:35,573
+É veneno de rato.
+
+226
+00:09:35,607 --> 00:09:37,608
+Mata ratos dolorosamente.
+
+227
+00:09:37,642 --> 00:09:40,011
+Pode matar
+pessoas também.
+
+228
+00:09:40,045 --> 00:09:43,414
+Relaxa, eu já fiz isso antes,
+e estou bem.
+
+229
+00:09:47,586 --> 00:09:50,120
+Você não precisa tomar.
+
+230
+00:09:50,155 --> 00:09:52,089
+Eu não sou medroso.
+
+231
+00:09:59,330 --> 00:10:01,165
+Sem problemas.
+
+232
+00:10:01,199 --> 00:10:03,200
+Sem problemas.
+
+233
+00:10:04,102 --> 00:10:05,236
+Ei, pessoal!
+
+234
+00:10:05,270 --> 00:10:06,603
+Pessoal!
+
+235
+00:10:22,621 --> 00:10:25,823
+Locutor:
+...E ele está no chão
+de novo.
+
+236
+00:10:30,862 --> 00:10:32,196
+Olá.
+
+237
+00:10:32,231 --> 00:10:34,331
+Oi.
+
+238
+00:10:34,365 --> 00:10:36,467
+Eu comprei peitos de frango
+para o jantar.
+
+239
+00:10:36,501 --> 00:10:37,735
+Eu comi batatas fritas.
+
+240
+00:10:37,770 --> 00:10:40,571
+Eu dificilmente chamaria isso
+de nutritivo.
+
+241
+00:10:40,605 --> 00:10:43,340
+Eu gostei.
+
+242
+00:10:47,079 --> 00:10:50,548
+Derek, eu pedi para você
+lavar a louça.
+
+243
+00:10:50,582 --> 00:10:53,016
+Eu esqueci.
+
+244
+00:10:53,051 --> 00:10:56,386
+Eu não sei o que
+vou fazer com você.
+
+245
+00:10:56,421 --> 00:10:59,390
+Você não <i>precisa</i> fazer nada.
+
+246
+00:11:01,760 --> 00:11:04,728
+Seu assistente social
+ligou hoje.
+
+247
+00:11:04,763 --> 00:11:06,397
+Ele está preocupado.
+
+248
+00:11:06,431 --> 00:11:07,565
+É, tá bom.
+
+249
+00:11:07,599 --> 00:11:08,966
+Ele está preocupado.
+
+250
+00:11:09,001 --> 00:11:10,534
+Nós estamos todos preocupados.
+
+251
+00:11:10,569 --> 00:11:11,668
+Você não vai
+
+252
+00:11:11,703 --> 00:11:13,237
+Para a escola.
+
+253
+00:11:13,271 --> 00:11:15,005
+O que você faz o dia todo?
+
+254
+00:11:15,039 --> 00:11:16,874
+E para onde
+você vai?
+
+255
+00:11:16,909 --> 00:11:20,010
+Você precisa começar a frequentar a escola.
+
+256
+00:11:20,045 --> 00:11:21,245
+Se não
+
+257
+00:11:21,279 --> 00:11:24,182
+Eles vão te colocar em
+um abrigo.
+
+258
+00:11:24,216 --> 00:11:26,117
+Isso é uma ameaça?
+
+259
+00:11:28,620 --> 00:11:29,854
+Derek--
+
+260
+00:11:29,888 --> 00:11:32,022
+Seu avô
+e eu
+
+261
+00:11:32,056 --> 00:11:36,727
+Talvez estejamos velhos demais
+para te dar o que você precisa.
+
+262
+00:11:36,762 --> 00:11:38,729
+Um abrigo
+está equipado
+
+263
+00:11:38,764 --> 00:11:40,598
+Para lidar
+com adolescentes.
+
+264
+00:11:40,632 --> 00:11:42,834
+Vocês querem se livrar de mim!
+
+265
+00:11:42,868 --> 00:11:44,735
+Não, isso não é verdade.
+
+266
+00:11:44,770 --> 00:11:47,104
+Derek, espere.
+
+267
+00:11:47,138 --> 00:11:48,839
+Volte.
+
+268
+00:11:51,977 --> 00:11:53,711
+Velha chata.
+
+269
+00:11:53,745 --> 00:11:55,780
+Eu não preciso disso.
+
+270
+00:11:55,814 --> 00:11:58,716
+Derek, por favor,
+saia.
+
+271
+00:12:02,420 --> 00:12:06,657
+Derek, saia
+para que possamos conversar
+sobre isso.
+
+272
+00:12:08,159 --> 00:12:10,661
+Eu vou sair daqui.
+
+273
+00:12:24,676 --> 00:12:27,111
+Mulher:
+Alô?
+
+274
+00:12:27,145 --> 00:12:28,145
+Só um minuto.
+
+275
+00:12:28,179 --> 00:12:30,848
+Joey, você está acordado?
+
+276
+00:12:30,883 --> 00:12:33,183
+Não.
+
+277
+00:12:33,217 --> 00:12:37,154
+É o Wheels... Devo dizer a ele
+para ligar mais tarde?
+
+278
+00:12:39,257 --> 00:12:41,058
+Já vou atender.
+
+279
+00:12:41,092 --> 00:12:42,460
+Ok.
+
+280
+00:12:42,494 --> 00:12:43,794
+Espere.
+
+281
+00:12:51,803 --> 00:12:53,004
+Wheels?
+
+282
+00:12:53,038 --> 00:12:54,605
+Wheels:
+E aí, Joey.
+
+283
+00:12:54,639 --> 00:12:57,074
+Você está louco de ligar tão cedo?
+
+284
+00:12:57,109 --> 00:13:00,378
+São 10:30... Eu estava
+em um show ontem à noite.
+
+285
+00:13:00,412 --> 00:13:03,447
+Desculpe, eu preciso
+pedir dinheiro emprestado.
+
+286
+00:13:03,481 --> 00:13:07,017
+Tanto quanto você puder me dar;
+e eu preciso disso hoje.
+
+287
+00:13:08,686 --> 00:13:10,288
+O que está acontecendo?
+
+288
+00:13:10,322 --> 00:13:11,956
+Eu te conto depois.
+
+289
+00:13:11,990 --> 00:13:13,758
+Eu preciso ligar para o Snake.
+
+290
+00:13:13,792 --> 00:13:15,626
+Me encontre em 20 minutos.
+
+291
+00:13:15,661 --> 00:13:19,696
+20 minutos? Eu nem
+tomei banho ainda.
+
+292
+00:13:19,730 --> 00:13:21,932
+Wheels?
+
+293
+00:13:25,136 --> 00:13:26,871
+Ah, cara...
+
+294
+00:13:35,881 --> 00:13:38,415
+Joey:
+A melhor parte
+foi o cabelo.
+
+295
+00:13:38,449 --> 00:13:41,619
+Snake:
+Não, quando ele pula
+no público.
+
+296
+00:13:41,653 --> 00:13:43,321
+Joey:
+Não, não, a fumaça.
+
+297
+00:13:43,355 --> 00:13:44,488
+Não, não.
+
+298
+00:13:44,522 --> 00:13:47,691
+Cara, você perdeu
+um show incrível.
+
+299
+00:13:47,725 --> 00:13:49,226
+Wheels,
+foi o melhor.
+
+300
+00:13:49,261 --> 00:13:51,662
+Eles tocaram
+por duas horas
+sem parar.
+
+301
+00:13:53,765 --> 00:13:55,198
+Então, uh...
+
+302
+00:13:55,233 --> 00:13:57,635
+O que está
+acontecendo?
+
+303
+00:13:57,669 --> 00:13:59,603
+Eu vou cair fora.
+
+304
+00:13:59,637 --> 00:14:01,872
+Fugindo?
+
+305
+00:14:01,907 --> 00:14:06,677
+Vocês dois são os únicos caras
+que sabem para onde eu estou indo.
+
+306
+00:14:06,711 --> 00:14:08,946
+Prometem que não vão contar?
+
+307
+00:14:08,980 --> 00:14:10,714
+Sim, ok.
+
+308
+00:14:12,650 --> 00:14:15,219
+Então, você trouxe o dinheiro?
+
+309
+00:14:15,253 --> 00:14:16,553
+Sim, hum...
+
+310
+00:14:16,588 --> 00:14:20,090
+Desculpe, isso
+é tudo que eu tenho
+depois do show.
+
+311
+00:14:20,125 --> 00:14:22,693
+Tudo bem, eu te devolvo.
+
+312
+00:14:22,728 --> 00:14:25,095
+Eu meio que
+estou quebrado também.
+
+313
+00:14:25,129 --> 00:14:26,330
+Obrigado.
+
+314
+00:14:26,365 --> 00:14:29,199
+Seus avós
+vão se preocupar.
+
+315
+00:14:29,234 --> 00:14:33,137
+É por isso que eles querem
+me colocar em um abrigo.
+
+316
+00:14:33,171 --> 00:14:34,571
+Um abrigo?
+
+317
+00:14:34,606 --> 00:14:37,541
+Eu não quero morar
+com estranhos.
+
+318
+00:14:37,575 --> 00:14:39,210
+Eu ainda não acho
+
+319
+00:14:39,244 --> 00:14:41,678
+Que fugir
+seja uma boa ideia.
+
+320
+00:14:41,712 --> 00:14:44,381
+Você não sabe
+onde fica Port Hope.
+
+321
+00:14:44,416 --> 00:14:47,484
+Fica a algumas
+horas de carro.
+
+322
+00:14:47,519 --> 00:14:50,887
+Agora tudo que você precisa
+é de um carro,
+e uma carteira de motorista.
+
+323
+00:14:51,990 --> 00:14:53,857
+Eu vou pegar carona.
+
+324
+00:14:53,892 --> 00:14:56,860
+Wheels, isso é
+muito perigoso.
+
+325
+00:14:56,894 --> 00:15:00,163
+Snake, relaxa,
+eu posso cuidar de mim mesmo.
+
+326
+00:15:06,805 --> 00:15:10,240
+Snake:
+Então, como você
+vai encontrar o Mike?
+
+327
+00:15:10,275 --> 00:15:11,541
+Ele me mandou isso.
+
+328
+00:15:11,576 --> 00:15:13,877
+Ele disse que estava
+hospedado aqui.
+
+329
+00:15:13,912 --> 00:15:15,713
+Eu o encontrarei de alguma forma.
+
+330
+00:15:15,747 --> 00:15:18,182
+Escuta, aqui está
+uma passagem de ônibus.
+
+331
+00:15:18,216 --> 00:15:20,217
+Pelo menos
+isso vai te levar
+
+332
+00:15:20,252 --> 00:15:22,186
+Até
+a rodovia.
+
+333
+00:15:22,220 --> 00:15:23,320
+Obrigado.
+
+334
+00:15:23,354 --> 00:15:26,623
+Ligue para a gente
+quando chegar lá.
+
+335
+00:15:26,658 --> 00:15:28,458
+Sim, sim.
+
+336
+00:15:29,660 --> 00:15:32,196
+Ok.
+
+337
+00:15:32,230 --> 00:15:34,031
+Bem...
+
+338
+00:15:34,065 --> 00:15:36,266
+Acho que é isso.
+
+339
+00:15:36,301 --> 00:15:37,768
+É.
+
+340
+00:15:37,802 --> 00:15:39,570
+Muito obrigado,
+pessoal.
+
+341
+00:15:39,604 --> 00:15:41,371
+Tome cuidado, ok?
+
+342
+00:15:41,406 --> 00:15:44,408
+Falo com vocês em breve.
+
+343
+00:15:50,849 --> 00:15:52,449
+Eu não gosto disso.
+
+344
+00:15:52,483 --> 00:15:56,153
+Às vezes eu sinto
+vontade de fugir também.
+
+345
+00:15:56,187 --> 00:15:58,722
+Não é como
+realmente fazer isso.
+
+346
+00:15:58,757 --> 00:16:01,058
+Não se preocupe,
+o Wheels é legal--
+
+347
+00:16:01,092 --> 00:16:02,960
+Ele vai ficar bem.
+
+348
+00:16:21,546 --> 00:16:23,247
+Para onde você vai?
+
+349
+00:16:23,281 --> 00:16:24,615
+Port Hope.
+
+350
+00:16:24,649 --> 00:16:27,117
+Eu posso te levar
+até Ajax.
+
+351
+00:16:27,152 --> 00:16:29,153
+Você gosta de
+música alta?
+
+352
+00:16:29,187 --> 00:16:30,487
+Sim.
+
+353
+00:16:31,990 --> 00:16:36,694
+Mãe do Joey:
+Vou pedir ao Joey para ligar
+assim que ele chegar.
+
+354
+00:16:36,728 --> 00:16:39,296
+Tenho certeza de que ele vai aparecer.
+
+355
+00:16:39,330 --> 00:16:41,231
+Tente não se preocupar.
+
+356
+00:16:41,266 --> 00:16:44,768
+Só um minuto, aqui está ele,
+vou perguntar a ele.
+
+357
+00:16:44,802 --> 00:16:45,870
+Joey?
+
+358
+00:16:45,904 --> 00:16:47,037
+O quê?
+
+359
+00:16:47,071 --> 00:16:49,407
+Você sabe
+onde está o Shane?
+
+360
+00:16:49,441 --> 00:16:50,574
+Não.
+
+361
+00:16:50,608 --> 00:16:51,741
+É a mãe dele.
+
+362
+00:16:51,776 --> 00:16:54,311
+Ele não voltou para casa
+ontem à noite.
+
+363
+00:16:54,345 --> 00:16:56,914
+Você o viu
+no show?
+
+364
+00:16:56,948 --> 00:16:58,048
+Sim.
+
+365
+00:16:58,083 --> 00:17:00,618
+Talvez você devesse
+falar com ela.
+
+366
+00:17:00,652 --> 00:17:02,186
+Ok.
+
+367
+00:17:02,220 --> 00:17:03,553
+Oi, Sra. McKay?
+
+368
+00:17:03,588 --> 00:17:05,222
+Você viu o Shane?
+
+369
+00:17:05,256 --> 00:17:08,259
+Sim, ele estava
+no show ontem à noite.
+
+370
+00:17:08,293 --> 00:17:10,094
+Você sabe para onde ele foi?
+
+371
+00:17:10,128 --> 00:17:12,729
+Não, acho que ele saiu com o Luke.
+
+372
+00:17:12,764 --> 00:17:17,568
+Você tem alguma ideia
+de para onde ele pode ter ido?
+
+373
+00:17:17,602 --> 00:17:20,437
+Não, eu não tenho.
+
+374
+00:17:20,471 --> 00:17:22,105
+Sinto muito.
+
+375
+00:17:23,274 --> 00:17:24,875
+Ok, tchau.
+
+376
+00:17:27,845 --> 00:17:30,181
+Ela chamou a polícia.
+
+377
+00:17:31,616 --> 00:17:33,283
+Eu também chamaria.
+
+378
+00:17:33,318 --> 00:17:37,254
+Há tantas
+pessoas doentes por aí.
+
+379
+00:17:37,288 --> 00:17:39,156
+Me dá medo.
+
+380
+00:17:57,141 --> 00:18:03,380
+♪ Todos se preparem
+e entrem no ritmo ♪
+
+381
+00:18:03,414 --> 00:18:06,216
+♪ As sensações Degrassi ♪
+
+382
+00:18:06,250 --> 00:18:09,786
+♪ O único
+Zit Remedy está aqui. ♪
+
+383
+00:18:16,027 --> 00:18:22,699
+♪ Todos querem algo,
+eles nunca desistem ♪
+
+384
+00:18:22,733 --> 00:18:27,471
+♪ Todos querem algo,
+eles pegam seu dinheiro... ♪
+
+385
+00:18:31,242 --> 00:18:34,444
+♪ E nunca desistem! ♪
+
+386
+00:18:46,091 --> 00:18:47,991
+Ótimo, muito obrigado.
+
+387
+00:18:48,026 --> 00:18:49,459
+Mulher:
+Boa sorte.
+
+388
+00:18:49,494 --> 00:18:50,827
+Ok, obrigado.
+
+389
+00:19:19,624 --> 00:19:22,459
+Mike:
+<i>Feliz aniversário, garotão.</i>
+
+390
+00:19:22,493 --> 00:19:25,563
+<i>Para mim, as coisas estão indo ótimas.</i>
+
+391
+00:19:25,597 --> 00:19:29,199
+<i>Consegui um show de duas semanas</i>
+<i>aqui em Port Hope.</i>
+
+392
+00:19:29,234 --> 00:19:30,734
+<i>Boa sorte... Mike.</i>
+
+393
+00:19:52,657 --> 00:19:54,391
+Obrigado por parar.
+
+394
+00:19:54,425 --> 00:19:55,259
+Para onde?
+
+395
+00:19:55,293 --> 00:19:56,326
+Port Hope.
+
+396
+00:19:56,361 --> 00:19:57,894
+Eu estou indo para lá.
+
+397
+00:19:57,928 --> 00:19:58,896
+Ótimo.
+
+398
+00:19:58,930 --> 00:20:00,297
+Qual é o seu nome?
+
+399
+00:20:00,331 --> 00:20:01,831
+As pessoas me chamam de Wheels.
+
+400
+00:20:01,866 --> 00:20:04,000
+Porque você
+gosta de viajar?
+
+401
+00:20:04,035 --> 00:20:05,702
+Não, meu nome é Wheeler.
+
+402
+00:20:05,736 --> 00:20:07,938
+Ah, é mesmo?
+
+403
+00:20:41,405 --> 00:20:43,039
+Luke Matthews?
+
+404
+00:20:43,074 --> 00:20:44,174
+Sim.
+
+405
+00:20:44,208 --> 00:20:46,877
+Você foi a
+um show ontem à noite
+
+406
+00:20:46,911 --> 00:20:48,278
+Com Shane McKay?
+
+407
+00:20:48,312 --> 00:20:50,280
+Aham.
+
+408
+00:20:50,314 --> 00:20:53,316
+Você sabe
+onde ele está agora?
+
+409
+00:20:53,350 --> 00:20:55,685
+Uh, em casa, eu acho.
+
+410
+00:20:55,720 --> 00:20:58,789
+Quando você o viu pela última vez?
+
+411
+00:20:58,823 --> 00:21:00,890
+Depois do show, nós nos separamos.
+
+412
+00:21:00,925 --> 00:21:04,561
+Ele não foi para casa;
+alguma ideia de onde ele possa estar?
+
+413
+00:21:04,595 --> 00:21:05,729
+Não.
+
+414
+00:21:05,764 --> 00:21:08,064
+Ele estava conversando
+com alguém?
+
+415
+00:21:08,098 --> 00:21:09,333
+Não.
+
+416
+00:21:09,367 --> 00:21:12,502
+Você pode me dizer alguma coisa
+que possa ajudar?
+
+417
+00:21:12,536 --> 00:21:16,005
+Ele disse que estava pensando
+em ir a algum lugar?
+
+418
+00
+
+419
+00:21:17,708 --> 00:21:19,643
+De alguma forma?
+
+420
+00:21:19,677 --> 00:21:22,746
+Ele tinha usado alguma droga?
+
+421
+00:21:22,781 --> 00:21:25,348
+Não, ele não usa essas coisas.
+
+422
+00:21:25,383 --> 00:21:27,150
+Eu não conheço ninguém
+
+423
+00:21:27,184 --> 00:21:29,186
+Que usa
+essas coisas.
+
+424
+00:21:29,220 --> 00:21:31,121
+Obrigado.
+
+425
+00:21:53,144 --> 00:21:55,212
+Então, uh...
+
+426
+00:21:55,246 --> 00:21:57,481
+O que tem
+em Port Hope? Sua casa?
+
+427
+00:21:57,515 --> 00:21:58,615
+Talvez.
+
+428
+00:21:58,649 --> 00:21:59,917
+Talvez?
+
+429
+00:21:59,951 --> 00:22:03,620
+Eu vou ver meu pai...
+Ele não sabe disso.
+
+430
+00:22:03,655 --> 00:22:06,590
+Você não é meio novo para isso?
+Quantos anos você tem?
+
+431
+00:22:06,624 --> 00:22:08,358
+Eu farei 15 anos mês que vem.
+
+432
+00:22:08,392 --> 00:22:11,628
+Eu posso cuidar de mim mesmo...
+Eu já rodei bastante.
+
+433
+00:22:11,662 --> 00:22:13,496
+É mesmo?
+
+434
+00:22:19,570 --> 00:22:22,239
+Você tem uma namorada,
+Wheels?
+
+435
+00:22:22,273 --> 00:22:23,340
+Não.
+
+436
+00:22:23,374 --> 00:22:25,576
+Não está interessado
+em garotas?
+
+437
+00:22:25,610 --> 00:22:27,945
+Claro, elas são legais.
+
+438
+00:22:27,979 --> 00:22:30,947
+Então você nunca ficou com ninguém, né?
+
+439
+00:22:30,982 --> 00:22:34,117
+Não.
+
+440
+00:22:34,151 --> 00:22:37,854
+Bem, você deveria tentar...
+É bom.
+
+441
+00:22:37,888 --> 00:22:41,424
+Não há nada de errado com
+algo que é bom.
+
+442
+00:22:47,198 --> 00:22:49,366
+Então, o que <i>você</i> faz?
+
+443
+00:22:49,400 --> 00:22:50,667
+Isso e aquilo.
+
+444
+00:22:50,701 --> 00:22:53,537
+Eu sou um vendedor,
+eu viajo muito.
+
+445
+00:22:53,571 --> 00:22:55,472
+Parece interessante.
+
+446
+00:22:55,507 --> 00:22:59,076
+Bem, às vezes é,
+às vezes não é.
+
+447
+00:23:07,985 --> 00:23:11,555
+Bem, escuta, eu tenho
+algumas coisas para entregar.
+
+448
+00:23:11,589 --> 00:23:14,057
+Será apenas um pequeno desvio.
+
+449
+00:23:38,016 --> 00:23:40,117
+Homem:
+Ei, você ouviu isso?
+
+450
+00:23:40,151 --> 00:23:41,351
+Ouviu o quê?
+
+451
+00:23:41,385 --> 00:23:43,320
+O motor.
+
+452
+00:23:43,354 --> 00:23:44,821
+Parece normal para mim.
+
+453
+00:23:44,855 --> 00:23:47,824
+Melhor encostar, dar uma olhada.
+
+454
+00:23:47,859 --> 00:23:49,259
+Não vai demorar.
+
+455
+00:24:12,549 --> 00:24:15,785
+Você não vai
+verificar o motor?
+
+456
+00:24:15,819 --> 00:24:19,956
+Sabe, Wheels,
+você é um jovem bonito.
+
+457
+00:24:25,496 --> 00:24:27,464
+O que você está fazendo?
+
+458
+00:24:27,498 --> 00:24:30,267
+Relaxe, não
+dói, né?
+
+459
+00:24:30,301 --> 00:24:31,468
+Vamos lá.
+
+460
+00:24:31,502 --> 00:24:34,137
+Você tem
+pernas fortes.
+
+461
+00:24:38,575 --> 00:24:39,743
+Sai fora!
+
+462
+00:25:22,353 --> 00:25:25,188
+Mike:
+<i>Feliz aniversário, garotão.</i>
+
+463
+00:25:25,222 --> 00:25:28,291
+<i>Para mim, as coisas estão indo ótimas.</i>
+
+464
+00:25:28,325 --> 00:25:31,928
+<i>Consegui um show de duas semanas</i>
+<i>aqui em Port Hope.</i>
+
+465
+00:25:31,963 --> 00:25:33,797
+<i>Boa sorte... Mike.</i>
