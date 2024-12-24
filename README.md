@@ -6,10 +6,10 @@ Branch de legendas para Degrassi High (1989-1991) e School's Out (1992).
 
 - **Temporadas**: 2 + Filme
 - **Total de Episódios**: 28 + School's Out
-- **Status**: Em andamento
+- **Status**: Finalizado
   - Temporada 1: ✅ Disponível
   - Temporada 2: ✅ Disponível
-  - School's Out: ⏳ Em breve
+  - School's Out: ✅ Disponível
 
 ## 📂 Estrutura
 
