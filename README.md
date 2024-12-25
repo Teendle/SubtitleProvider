@@ -6,7 +6,7 @@ Branch de legendas para Degrassi: The Next Generation (2001-2015).
 
 - **Temporadas**: 14 (10 disponíveis)
 - **Total de Episódios**: 385
-- **Status**: Legendado até a 12ª temporada
+- **Status**: Legendado até a 13ª temporada
   - Temporada 1: ✅ Disponível (15 episódios)
   - Temporada 2: ✅ Disponível (22 episódios)
   - Temporada 3: ✅ Disponível (22 episódios)
@@ -19,7 +19,7 @@ Branch de legendas para Degrassi: The Next Generation (2001-2015).
   - Temporada 10: ✅ Disponível (44 episódios)
   - Temporada 11: ✅ Disponível (45 episódios)
   - Temporada 12: ✅ Disponível (40 episódios)
-  - Temporada 13: ⏳ Em breve (40 episódios)
+  - Temporada 13: ✅ Disponível (40 episódios)
   - Temporada 14: ⏳ Em breve (28 episódios)
 
 ## 📂 Estrutura
