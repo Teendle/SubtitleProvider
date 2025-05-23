@@ -1,14 +1,14 @@
 1
 00:00:03,043 --> 00:00:03,744
-EI.
+Oi.
 
 2
 00:00:06,213 --> 00:00:08,382
-Sabe, a parada de fazer 14 anos...
+Sabe, a parada de fazer 14 anos-
 
 3
 00:00:08,415 --> 00:00:10,451
-É tipo... Eu sou um homem agora.
+é tipo - eu sou um homem agora.
 
 4
 00:00:10,484 --> 00:00:12,319
@@ -28,7 +28,7 @@ Estamos falando de cozinhar de verdade
 
 8
 00:00:17,658 --> 00:00:19,727
-Ou cozinhar tipo "vamos pedir pizza"?
+ou cozinhar tipo "vamos pedir pizza"?
 
 9
 00:00:19,760 --> 00:00:22,663
@@ -40,7 +40,7 @@ Você quer dizer que a gente vai jantar
 
 11
 00:00:24,231 --> 00:00:25,799
-Com seus pais? Na sua casa?
+com seus pais? Na sua casa?
 
 12
 00:00:25,833 --> 00:00:27,067
@@ -309,7 +309,7 @@ Eu fui mal. Fui muito mal.
 
 78
 00:03:49,403 --> 00:03:51,638
-Em, você estudou a noite toda!
+Emma, você estudou a noite toda!
 
 79
 00:03:51,672 --> 00:03:54,608
@@ -345,7 +345,7 @@ Eu devia passar a noite colocando o trabalho em dia.
 
 87
 00:04:13,660 --> 00:04:14,761
-É, eu também, Ter...
+É, eu também, Terri -
 
 88
 00:04:14,795 --> 00:04:16,697
@@ -353,7 +353,7 @@ Mas não hoje.
 
 89
 00:04:16,730 --> 00:04:19,066
-Esta noite é para ter...
+Esta noite é para ter --
 
 90
 00:04:19,099 --> 00:04:20,901
@@ -373,7 +373,7 @@ Oi.
 
 94
 00:04:28,976 --> 00:04:32,746
-Só... Finge que eu nem estou aqui.
+Só - finge que eu nem estou aqui.
 
 95
 00:04:32,779 --> 00:04:35,716
@@ -389,11 +389,11 @@ Oi, meninas.
 
 98
 00:04:46,393 --> 00:04:47,794
-Oi, mãe.
+Oi mãe.
 
 99
 00:04:47,828 --> 00:04:50,364
-Ah, Terri, eu quase esqueci! Você fica para jantar.
+Ah Terri, eu quase esqueci - você fica para jantar.
 
 100
 00:04:50,397 --> 00:04:52,699
@@ -405,7 +405,7 @@ Temos comida suficiente. Não temos?
 
 102
 00:04:54,701 --> 00:04:55,702
-Mãe...
+Mãe -
 
 103
 00:04:55,736 --> 00:04:56,970
@@ -417,7 +417,7 @@ O Jimmy não vai ficar para jantar!
 
 105
 00:05:04,077 --> 00:05:07,014
-Hã... Eu vou... Sabe...
+Hã- Eu vou- Sabe.
 
 106
 00:05:10,884 --> 00:05:13,487
@@ -425,11 +425,11 @@ Certo... O que está acontecendo?
 
 107
 00:05:14,855 --> 00:05:16,023
-Nada. Eu só...
+Nada. Eu só -
 
 108
 00:05:16,056 --> 00:05:18,625
-Estou cansada dele jantar aqui toda noite.
+estou cansada dele jantar aqui, toda noite.
 
 109
 00:05:18,659 --> 00:05:21,461
@@ -437,7 +437,7 @@ Bem, a gente não precisa convidar ele.
 
 110
 00:05:21,495 --> 00:05:22,696
-Mas eu... Eu tenho pena do garoto.
+Mas, eu só - eu tenho pena do garoto.
 
 111
 00:05:22,729 --> 00:05:24,531
@@ -445,11 +445,11 @@ Ele está sempre sozinho.
 
 112
 00:05:24,931 --> 00:05:28,101
-Eu fico pensando nos pais dele às vezes...
+Eu fico pensando nos pais dele às vezes -
 
 113
 00:05:28,935 --> 00:05:30,837
-Ei, Kate, o Jimmy pode ficar para jantar?
+Ei Kate, o Jimmy pode ficar para jantar?
 
 114
 00:05:30,871 --> 00:05:32,739
@@ -549,7 +549,7 @@ Mas você pode fazer compras.
 
 138
 00:06:42,743 --> 00:06:43,810
-E eu fui muito bem esta semana.
+Eu fui muito bem esta semana.
 
 139
 00:06:43,844 --> 00:06:48,582
@@ -621,7 +621,7 @@ Quando você fala assim com as mulheres...
 
 156
 00:07:35,128 --> 00:07:36,029
-É assustador.
+é assustador.
 
 157
 00:07:36,062 --> 00:07:39,766
@@ -645,7 +645,7 @@ Você está com vergonha por causa do que ele disse.
 
 162
 00:07:50,844 --> 00:07:51,778
-Sério, Emma.
+Sério. Emma.
 
 163
 00:07:51,812 --> 00:07:53,547
@@ -721,7 +721,7 @@ J.T., te vejo na aula.
 
 181
 00:09:07,821 --> 00:09:10,991
-Feliz aniversário, Jimmy!
+Feliz aniversário Jimmy!
 
 182
 00:09:17,764 --> 00:09:19,032
@@ -749,11 +749,11 @@ Hã... Certo. Mais tarde.
 
 188
 00:09:31,678 --> 00:09:34,714
-Sabe, eu fiquei pensando... No que você disse ontem à noite.
+Sabe, eu fiquei pensando - sobre o que você disse ontem à noite.
 
 189
 00:09:34,748 --> 00:09:36,716
-Sabe... Sobre quando você está tentando dominar
+Sabe - sobre quando você está tentando dominar
 
 190
 00:09:36,750 --> 00:09:38,818
@@ -773,11 +773,11 @@ volta para ele mais tarde?
 
 194
 00:09:45,025 --> 00:09:49,062
-Sabe... Dar um tempo. Não sufocar.
+Sabe - dar um tempo. Não sufocar.
 
 195
 00:09:50,130 --> 00:09:52,132
-Meio que... Com garotas.
+Meio que - com garotas.
 
 196
 00:09:52,866 --> 00:09:54,901
@@ -785,7 +785,7 @@ Tobes. O que você está dizendo?
 
 197
 00:09:54,935 --> 00:09:58,305
-Nada, nada. É só... Curiosamente... Parecido.
+Nada, nada. É só - curiosamente - similar.
 
 198
 00:09:58,338 --> 00:10:00,340
@@ -817,11 +817,11 @@ Você não devia ter dito nada.
 
 205
 00:10:45,085 --> 00:10:47,954
-J.T... O Jimmy é como se fosse irmão mais velho do Toby.
+J.T. - O Jimmy é como se fosse irmão mais velho do Toby.
 
 206
 00:10:47,988 --> 00:10:49,723
-Ele
+Ele teve que contar.
 
 207
 00:10:49,756 --> 00:10:52,392
@@ -845,11 +845,11 @@ E antes que esta década fique pior, vamos...
 
 212
 00:11:09,075 --> 00:11:10,143
-Oi, Emma.
+Oi Emma.
 
 213
 00:11:10,176 --> 00:11:11,845
-Sean! E aí?
+Sean. E aí?
 
 214
 00:11:11,878 --> 00:11:12,746
@@ -889,7 +889,7 @@ Você sentou em alguma coisa?
 
 223
 00:11:34,901 --> 00:11:35,835
-O quê? Não...
+O quê? Não-
 
 224
 00:11:39,539 --> 00:11:40,473
@@ -905,7 +905,7 @@ Eu não sei.
 
 227
 00:11:43,677 --> 00:11:46,446
-Isso... Nunca aconteceu comigo.
+Isso - nunca aconteceu comigo.
 
 228
 00:11:46,479 --> 00:11:47,213
@@ -917,11 +917,11 @@ Acho que a gente não tem tempo para horóscopos.
 
 230
 00:11:49,783 --> 00:11:52,919
-Então... Você devia ir. Pra aula. Agora.
+Então - você devia ir. Pra aula. Agora.
 
 231
 00:12:01,861 --> 00:12:04,030
-Certo, não se apavora.
+Certo, não se apavore.
 
 232
 00:12:05,532 --> 00:12:07,000
@@ -941,7 +941,7 @@ Por que não?
 
 236
 00:12:15,041 --> 00:12:16,743
-É aniversário dele?
+É aniversário dele!
 
 237
 00:12:20,880 --> 00:12:23,149
@@ -977,7 +977,7 @@ Ter virado mulher.
 
 245
 00:12:51,277 --> 00:12:52,846
-Em! Você pode engravidar agora!
+Emma! Você pode engravidar agora!
 
 246
 00:12:52,879 --> 00:12:53,813
@@ -1029,7 +1029,7 @@ Eu vou dar um jeito.
 
 258
 00:13:19,973 --> 00:13:21,908
-Manny, não me deixa...
+Manny, não me deixa -
 
 259
 00:13:23,910 --> 00:13:25,111
@@ -1065,7 +1065,7 @@ Ash, o Jimmy é incrível.
 
 267
 00:13:34,921 --> 00:13:36,222
-Ele é legal com você, é legal comigo...
+Ele é legal com você, é legal comigo -
 
 268
 00:13:36,256 --> 00:13:38,892
@@ -1097,7 +1097,7 @@ só para jogar fora!
 
 275
 00:14:02,649 --> 00:14:04,918
-Manny! Por que você demorou tan...
+Manny! Por que você demorou tan-
 
 276
 00:14:04,951 --> 00:14:07,320
@@ -1241,7 +1241,7 @@ mas...
 
 311
 00:15:45,585 --> 00:15:46,719
-Desculpe, Srta. Kwan. Tivemos um pequeno...
+Desculpe Srta. Kwan. Tivemos um pequeno...
 
 312
 00:15:46,753 --> 00:15:48,321
@@ -1397,19 +1397,19 @@ Bem, por que você não faz seu aniversário na minha casa, então?
 
 350
 00:18:09,529 --> 00:18:11,464
-A minha mãe vai fazer asinhas...
+A minha mãe vai fazer asinhas -
 
 351
 00:18:12,665 --> 00:18:13,699
-Ash, esquece.
+Ash - esquece.
 
 352
 00:18:13,733 --> 00:18:17,703
-Olha, a gente pode só terminar e acabar logo com isso?
+Olha. A gente pode só terminar e acabar logo com isso?
 
 353
 00:18:17,737 --> 00:18:18,337
-O quê?
+- O quê?
 
 354
 00:18:22,775 --> 00:18:25,912
@@ -1441,7 +1441,7 @@ O que é isso, tipo o meu presente?
 
 361
 00:18:43,463 --> 00:18:44,564
-Jimmy...
+Jimmy --
 
 362
 00:18:44,597 --> 00:18:47,166
@@ -1449,7 +1449,7 @@ Você quer terminar, Ash? Então vamos terminar. Agora.
 
 363
 00:18:47,200 --> 00:18:50,803
-Está bem? Acabou. Então... Vai embora. Cai fora daqui.
+Está bem? Acabou. Então - vai embora. Cai fora daqui.
 
 364
 00:18:52,672 --> 00:18:54,607
@@ -1473,11 +1473,11 @@ Valeu.
 
 369
 00:19:24,804 --> 00:19:26,672
-Então, você está se sentindo... Bem?
+Então. Você está se sentindo - bem?
 
 370
 00:19:26,706 --> 00:19:30,910
-Ah, é, Manny, eu adoro ser mulher.
+Ah, é, Manny. Eu adoro ser mulher.
 
 371
 00:19:30,943 --> 00:19:32,345
@@ -1553,11 +1553,11 @@ Acho que a gente conversou o suficiente ontem à noite.
 
 389
 00:21:05,538 --> 00:21:08,941
-Eu só acho que... Talvez eu tenha exagerado.
+Eu só acho que - talvez eu tenha exagerado.
 
 390
 00:21:09,609 --> 00:21:11,043
-E talvez eu não quisesse ter te chamado de...
+E talvez eu não quisesse ter te chamado de --
 
 391
 00:21:11,077 --> 00:21:14,280
@@ -1565,7 +1565,7 @@ Sufocante? Chiclete? Ventosa?
 
 392
 00:21:14,847 --> 00:21:16,015
-Jimmy, por favor!
+Jimmy, por favor.
 
 393
 00:21:23,122 --> 00:21:26,092

@@ -1,54 +1,54 @@
 1
 00:00:01,308 --> 00:00:03,510
-ÚLTIMO DIA DE AULA, AÍ VOU EU!
+Último dia de aula, aí vou eu!
 
 2
 00:00:03,544 --> 00:00:06,580
-ASH, VAMOS DEIXAR VOCÊ E O TOBY NO CAMINHO, TUDO BEM?
+Ash, vamos deixar você e o Toby no caminho, tudo bem?
 
 3
 00:00:06,613 --> 00:00:08,048
-ESTÁ PRONTA?
+Você está pronta?
 
 4
 00:00:08,082 --> 00:00:09,283
-ESTAREI AÍ EM UM MINUTO.
+Estarei aí em um minuto.
 
 5
 00:00:09,316 --> 00:00:13,754
-CERTO. VAMOS, TOBES. OH! TRABALHANDO OS MÚSCULOS, PELO VISTO!
+Certo. Vamos, Tobes. Ah! Trabalhando os músculos, pelo visto!
 
 6
 00:00:15,122 --> 00:00:18,459
-NÃO SEJA UM MOLENGA... VEM COMIGO...
+Não seja um molenga... Vem comigo...
 
 7
 00:00:24,365 --> 00:00:28,268
-AH, AQUI ESTÁ O NÚMERO DA SRA. WREN, CASO PRECISE DE ALGUMA COISA.
+Ah, aqui está o número da Sra. Wren, caso você precise de alguma coisa.
 
 8
 00:00:28,302 --> 00:00:31,438
-PARE DE SE PREOCUPAR. EU E O TOBY VAMOS FICAR BEM.
+Pare de se preocupar. Toby e eu vamos ficar bem.
 
 9
 00:00:31,472 --> 00:00:33,474
-VOCÊS VÃO DORMIR FORA SÓ UMA NOITE.
+Vocês vão passar só uma noite fora.
 
 10
 00:00:33,507 --> 00:00:35,309
-EU SEI. ESTOU SENDO MÃE.
+Eu sei. Estou sendo mãe.
 
 11
 00:00:35,342 --> 00:00:38,479
-CERTO, ENTÃO... HUM, ESTA NOITE VOCÊ VAI...
+Certo, então- hum, esta noite você vai--
 
 12
 00:00:38,512 --> 00:00:43,217
-EU SEI. UM AMIGO CADA, E NENHUMA FESTA. EU OUVI.
+Eu sei. Um amigo cada, e nenhuma festa. Eu ouvi.
 
 13
 00:00:43,584 --> 00:00:48,122
-BOM PARA VOCÊ POR SER TÃO RESPONSÁVEL. ISSO É ÓTIMO.
+Bom para você por ser tão responsável. Isso é ótimo.
 
 14
 00:00:50,357 --> 00:00:54,328
@@ -97,43 +97,43 @@ nos visite em: teendle.win
 
 25
 00:01:33,600 --> 00:01:38,238
-"O ALUNO QUE EU NUNCA ESQUECEREI - MESMO DEPOIS DE ANOS E ANOS
+"O aluno que eu nunca esquecerei - mesmo depois de anos e anos
 
 26
 00:01:38,272 --> 00:01:41,108
-DE TERAPIA." QUEM PODERIA SER?
+de terapia." Quem poderia ser?
 
 27
 00:01:47,347 --> 00:01:50,217
-NUNCA ESQUECEREI A SENHORA TAMBÉM, SRA. KWAN.
+Nunca esquecerei a senhora também, Sra. Kwan.
 
 28
 00:01:50,250 --> 00:01:52,419
-TENHA UM BOM INTERVALO, SR. MASON.
+Tenha um bom intervalo, Sr. Mason.
 
 29
 00:01:52,453 --> 00:01:53,854
-BEM, O QUE POSSO DIZER?
+Bem, o que posso dizer?
 
 30
 00:01:53,887 --> 00:01:56,356
-FOI ÓTIMO ENSINAR TODOS VOCÊS.
+Foi ótimo ensinar todos vocês.
 
 31
 00:01:56,390 --> 00:01:56,790
-EMMA?
+Emma?
 
 32
 00:01:57,891 --> 00:01:59,760
-SENTIREMOS SUA FALTA TAMBÉM, SR. SIMPSON.
+Sentiremos sua falta também, Sr. Simpson.
 
 33
 00:01:59,793 --> 00:02:01,862
-ENTÃO... OLHEM PARA A TELA.
+Então -- olhem para a tela.
 
 34
 00:02:03,864 --> 00:02:06,467
-VEEM O ÍCONE DE PRESENTE? CLIQUEM NELE.
+Vêem o ícone de presente? Cliquem nele.
 
 35
 00:02:06,967 --> 00:02:11,371
@@ -141,1179 +141,1176 @@ OBRIGADO SR. SIMPSON! O SENHOR ARREBENTA! SR. MÍDIA! UUU-HUUU!
 
 36
 00:02:11,405 --> 00:02:13,207
-ISSO É INCRÍVEL!
+Isso é incrível!
 
 37
 00:02:14,808 --> 00:02:19,513
-ESTE NÃO PRECISA DE EXPLICAÇÃO. "O ESTUDANTE DOS ESTUDANTES."
+Este não precisa de explicação. "O estudante dos estudantes."
 
 38
 00:02:19,546 --> 00:02:20,848
-RUFO DE TAMBORES, POR FAVOR!
+Rufo de tambores, por favor!
 
 39
 00:02:22,483 --> 00:02:23,450
-ASHLEY KERWIN.
+Ashley Kerwin.
 
 40
 00:02:28,255 --> 00:02:29,623
-OBRIGADA, SRA. KWAN.
+Obrigada, Sra. Kwan.
 
 41
 00:02:29,656 --> 00:02:31,825
-SENTIREI SUA FALTA!
+Sentirei sua falta!
 
 42
 00:02:35,729 --> 00:02:38,499
-"A ESTUDANTE DOS ESTUDANTES"? ISSO É TÃO TOSCO.
+"A estudante de todos os estudantes"? Isso é tão brega.
 
 43
 00:02:38,532 --> 00:02:40,367
-EU ACHO FOFO.
+Eu acho fofo.
 
 44
 00:02:40,400 --> 00:02:43,237
-ESTE PRÓXIMO PRÊMIO É PARA O DAVE
+Este próximo prêmio é para o Dave
 
 45
 00:02:43,270 --> 00:02:45,439
-PORQUE ELE COLOCA O "B" DE "BOM" EM "BOM ESTUDANTE."
+porque ele coloca o "B" maiúsculo em "Bom Aluno."
 
 46
 00:02:47,908 --> 00:02:50,744
-VOCÊS SÃO UNS IDIOTAS DANÇARINOS.
+Vocês são uns tolos dançarinos.
 
 47
 00:02:50,777 --> 00:02:53,447
-CERTO, VÃO... ESVAZIEM SEUS ARMÁRIOS.
+Certo, vão - esvaziem seus armários.
 
 48
 00:02:53,480 --> 00:02:56,483
-E TENHAM UM ÓTIMO... E SEGURO... INTERVALO.
+E tenham umas ótimas - e seguras - férias.
 
 49
 00:02:56,517 --> 00:02:57,985
-TCHAU, SR. SIMPSON.
+Tchau, Sr. Simpson.
 
 50
 00:02:58,018 --> 00:02:59,520
-ADEUS.
+Adeus.
 
 51
 00:02:59,553 --> 00:03:00,687
-CIAO, SR. SIMPSON!
+Ciao, Sr. Simpson!
 
 52
 00:03:00,721 --> 00:03:01,388
-TCHAU, TCHAU.
+Tchau-tchau.
 
 53
 00:03:02,723 --> 00:03:04,458
-NOSSA. A PRISÃO KERWIN-ISAACS.
+Nossa. A prisão Kerwin-Isaacs.
 
 54
 00:03:04,491 --> 00:03:06,660
-O QUE O JIMMY VAI DIZER QUANDO DESCOBRIR?
+O que o Jimmy vai dizer quando descobrir?
 
 55
 00:03:06,693 --> 00:03:08,562
-DESCOBRIR O QUÊ?
+Descobrir o quê?
 
 56
 00:03:08,595 --> 00:03:11,365
-QUE EU SÓ POSSO CONVIDAR UMA AMIGA ESTA NOITE.
+Que eu só posso ter uma amiga aqui esta noite.
 
 57
 00:03:11,398 --> 00:03:13,367
-E ELA CONVIDOU A TERRI. NEM VOCÊ. NEM EU.
+E ela convidou a Terri. Nem você. Nem eu.
 
 58
 00:03:13,400 --> 00:03:14,801
-AH. CERTO.
+Ah. Certo.
 
 59
 00:03:15,669 --> 00:03:17,838
-PENSEI QUE VOCÊ FICARIA CHATEADA.
+Pensei que você ficaria chateada.
 
 60
 00:03:17,871 --> 00:03:22,876
-REGRAS SÃO REGRAS, CERTO? FAREMOS ALGUMA COISA AMANHÃ.
+Regras são regras, certo? Faremos alguma coisa amanhã.
 
 61
 00:03:24,311 --> 00:03:26,380
-CERTO, ESTOU PERDENDO ALGUMA COISA AQUI?
+Certo, estou perdendo alguma coisa aqui?
 
 62
 00:03:26,413 --> 00:03:27,548
-AH, APENAS A CHANCE DE SAIR COMIGO
+Ah, apenas a chance de sair comigo
 
 63
 00:03:27,581 --> 00:03:29,516
-E SE DIVERTIR DEMAIS.
+e se divertir demais.
 
 64
 00:03:29,550 --> 00:03:31,318
-PAIGE. SE VOCÊ REALMENTE QUISER VIR...
+Paige. Se você realmente quer vir?
 
 65
 00:03:31,351 --> 00:03:32,819
-VENHA. TANTO FAZ.
+Venha. Tanto faz.
 
 66
 00:03:37,457 --> 00:03:40,427
-ENTÃO, GAROTAS, QUAIS OS PLANOS PARA ESTA NOITE MEMORÁVEL?
+Então, garotas, quais são seus planos para esta noite tão importante?
 
 67
 00:03:40,460 --> 00:03:43,530
-NOITE DAS GAROTAS NA MINHA CASA. O QUE SIGNIFICA - NENHUM GAROTO PERMITIDO.
+Noite das garotas na minha casa. Ou seja - nenhum garoto permitido.
 
 68
 00:03:43,564 --> 00:03:45,632
-ESPECIALMENTE GAROTOS CHAMADOS SEAN.
+Especialmente garotos chamados Sean.
 
 69
 00:03:50,070 --> 00:03:52,706
-TALVEZ ELA TENHA APRENDIDO QUE GAROTOS MAUS SÓ LEVAM À TRISTEZA.
+Talvez ela tenha aprendido que garotos maus só levam à tristeza.
 
 70
 00:03:52,739 --> 00:03:56,310
-E AGORA ELA ESTÁ PROCURANDO UM GAROTO BOM? UM CHAMADO TOBY?
+E agora ela está procurando um garoto bom? Um chamado Toby?
 
 71
 00:03:56,343 --> 00:03:59,813
-POUCO PROVÁVEL. O QUE VOCÊ PRECISA É DE UMA NOVA ABORDAGEM.
+Pouco provável. O que você precisa é de uma nova abordagem.
 
 72
 00:04:01,548 --> 00:04:02,883
-A ABORDAGEM DO SEAN.
+A abordagem do Sean.
 
 73
 00:04:04,785 --> 00:04:05,619
-EI, SEAN.
+Ei, Sean.
 
 74
 00:04:07,354 --> 00:04:09,890
-O TOBY VAI RECEBER OS GAROTOS HOJE À NOITE...
+O Toby vai receber os garotos hoje à noite -
 
 75
 00:04:09,923 --> 00:04:12,459
-PARA JOGAR CARTAS, FALAR DE GAROTAS, COISAS DE GAROTOS.
+para jogar cartas, falar de garotas, coisas de garotos.
 
 76
 00:04:12,492 --> 00:04:13,427
-QUER VIR?
+Quer vir?
 
 77
 00:04:15,062 --> 00:04:15,529
-NÃO.
+Não.
 
 78
 00:04:17,464 --> 00:04:20,400
-SABIA QUE A EMMA VAI ESTAR LÁ...?
+Sabe, a Emma vai estar lá -
 
 79
 00:04:20,434 --> 00:04:21,435
-EMMA?
+Emma?
 
 80
 00:04:23,503 --> 00:04:25,872
-HUM, SIM. NÓS...
+Hum, sim. Nós -
 
 81
 00:04:25,906 --> 00:04:29,276
-... VAMOS RECEBER AS GAROTAS. MAIS TARDE.
+- vamos receber as garotas. Mais tarde.
 
 82
 00:04:33,714 --> 00:04:34,314
-CERTO.
+Certo.
 
 83
 00:04:39,486 --> 00:04:40,921
-VOCÊ É LOUCO?!
+Você é louco?!
 
 84
 00:04:40,954 --> 00:04:42,723
-DEPOIS DA AULA DE REFORÇO DE HOJE À NOITE,
+Depois da aula particular de hoje à noite,
 
 85
 00:04:42,756 --> 00:04:45,492
-A EMMA SERÁ TODA SUA. CONFIE EM MIM.
+a Emma será toda sua. Confie em mim.
 
 86
 00:04:48,095 --> 00:04:50,430
-VOCÊ ACHA QUE A REAÇÃO DO JIMMY FOI ESTRANHA? SOBRE HOJE À NOITE?
+Você acha que a reação do Jimmy foi estranha? Sobre hoje à noite?
 
 87
 00:04:50,464 --> 00:04:53,066
-NÃO. ACHO QUE ELE SÓ ESTAVA TENTANDO SER UM BOM NAMORADO.
+Não. Acho que ele só estava tentando ser um bom namorado.
 
 88
 00:04:53,100 --> 00:04:55,569
-UM BOM NAMORADO IRIA QUERER VIR. NÃO IMPORTA O QUE ACONTECESSE.
+Um bom namorado iria querer vir. Não importa o que acontecesse.
 
 89
 00:04:55,602 --> 00:04:59,106
-MEUS PAIS ESTÃO VIAJANDO. ELE DEVERIA... DEIXA PRA LÁ.
+Meus pais estão viajando. Ele deveria- nunca mais.
 
 90
 00:04:59,139 --> 00:05:02,909
-DE QUALQUER FORMA, ACHEI QUE VOCÊ ESTAVA, VOCÊ SABE, ESQUECENDO ELE.
+De qualquer forma, achei que você estava, você sabe, esquecendo ele.
 
 91
 00:05:02,943 --> 00:05:05,479
-EXATAMENTE O OPOSTO.
+Exatamente o oposto.
 
 92
 00:05:05,512 --> 00:05:07,547
-DEPOIS QUE VOCÊ NAMORA POR UM TEMPO, AS COISAS FICAM MAIS PROFUNDAS.
+Depois que você namora por um tempo, as coisas ficam mais profundas.
 
 93
 00:05:07,581 --> 00:05:08,315
-AH.
+Ah.
 
 94
 00:05:09,082 --> 00:05:11,418
-A NÃO SER QUE ELE ESTEJA ME ESQUECENDO.
+A não ser que ele esteja me esquecendo.
 
 95
 00:05:11,451 --> 00:05:14,521
-NÃO ACHO QUE SEJA ESSE O CASO.
+Não acho que seja esse o caso.
 
 96
 00:05:17,391 --> 00:05:18,392
-A-HAM.
+A-hã.
 
 97
 00:05:21,395 --> 00:05:23,930
-CERTO. ANTES QUE VOCÊ COMECE A AGIR COMO MEUS PAIS, EU ESQUECI...
+Certo. Antes que você comece a agir como meus pais, eu esqueci-
 
 98
 00:05:23,964 --> 00:05:25,565
-EU E A HAZEL TÍNHAMOS PLANOS PARA HOJE À NOITE,
+a Hazel e eu tínhamos planos para hoje à noite,
 
 99
 00:05:25,599 --> 00:05:27,401
-NÃO ACHEI QUE SERIA UM PROBLEMA.
+não achei que seria um problema.
 
 100
 00:05:27,434 --> 00:05:29,369
-NÃO, TUDO BEM.
+Não, tudo bem.
 
 101
 00:05:29,403 --> 00:05:31,071
-(SOM DE BATIDAS NA GARAGEM)
+(Batidas na Garagem)
 
 102
 00:05:40,180 --> 00:05:40,781
-ASH...?
+Ash...?
 
 103
 00:05:42,015 --> 00:05:44,985
-CERTO, EU SEI QUE A MAMÃE E O JEFF DISSERAM APENAS UM AMIGO CADA, MAS...
+Certo, eu sei que a mãe e o Jeff disseram apenas um amigo cada, mas -
 
 104
 00:05:45,018 --> 00:05:46,987
-... MAS NADA, ASHLEY. É UM PRAZER COMPARTILHAR
+-mas nada, Ashley. É um prazer compartilhar
 
 105
 00:05:47,020 --> 00:05:51,024
-ESTA BELA NOITE COM GAROTAS TÃO ADORÁVEIS.
+esta bela noite com garotas tão adoráveis.
 
 106
 00:06:03,170 --> 00:06:06,106
-AQUELA... COISA... ACABOU DE PISCAR PARA MIM?
+Aquela - coisa - acabou de piscar para mim?
 
 107
 00:06:11,678 --> 00:06:14,047
-GENTE, NÃO AGUENTO ISSO...!
+Gente, eu não aguento isso...!
 
 108
 00:06:14,081 --> 00:06:16,450
-VOCÊS REALMENTE ACHAM QUE A ESTRELA VAI MORRER?
+Vocês realmente acham que a estrela vai morrer?
 
 109
 00:06:16,483 --> 00:06:20,053
-PAIGE?! VOCÊ ESTÁ ESTRAGANDO O FILME.
+Paige?! Você está estragando o filme.
 
 110
 00:06:20,087 --> 00:06:22,089
-(BATIDA NA PORTA DA FRENTE)
+(Batida na Porta da Frente)
 
 111
 00:06:24,458 --> 00:06:27,928
-EU NÃO CONVIDEI MAIS NINGUÉM. JURO.
+Eu não convidei mais ninguém. Juro.
 
 112
 00:06:31,998 --> 00:06:34,701
-SEAN? O QUE VOCÊ ESTÁ FAZENDO AQUI?
+Sean? O que você está fazendo aqui?
 
 113
 00:06:34,735 --> 00:06:36,069
-O TOBY ME CONVIDOU.
+O Toby me convidou.
 
 114
 00:06:36,636 --> 00:06:39,072
-TOBY? SEU PILANTRA.
+Toby? Seu pilantra.
 
 115
 00:06:39,106 --> 00:06:40,507
-ELES ESTÃO LÁ EM CIMA.
+Eles estão lá em cima.
 
 116
 00:06:44,544 --> 00:06:47,781
-CERTO, O TOBY ESTÁ SAINDO COM O SEAN? ISSO É ESTRANHO.
+Certo, o Toby está saindo com o Sean? Isso é estranho.
 
 117
 00:06:47,814 --> 00:06:50,183
-O SEAN VIROU UM GATO DESDE AQUELA BRIGA,
+O Sean virou um gato desde aquela briga,
 
 118
 00:06:50,217 --> 00:06:51,084
-OU O QUÊ?
+ou o quê?
 
 119
 00:06:58,825 --> 00:07:03,430
-ENTÃO. SEAN. GAROTAS. GOSTARIAM DE COMPARTILHAR SUA EXPERIÊNCIA?
+Então. Sean. Garotas. Gostaria de compartilhar sua experiência?
 
 120
 00:07:04,064 --> 00:07:05,465
-O QUÊ?
+O qu- quê?
 
 121
 00:07:06,133 --> 00:07:08,502
-VOCÊS SABEM. COMO VOCÊ FAZ PARA SE DAR BEM COMO O SUNDIN.
+Sabe. Como você faz para se dar bem como o Sundin.
 
 122
 00:07:08,535 --> 00:07:09,202
-EU NÃO SEI.
+Eu não.
 
 123
 00:07:10,737 --> 00:07:14,608
-VAMOS LÁ. AS GAROTAS, TIPO, BABAM POR VOCÊ.
+Vamos lá. As garotas, tipo, babam por você.
 
 124
 00:07:15,041 --> 00:07:18,879
-EU NÃO SEI. EU SÓ AJO COMO EU MESMO, EU ACHO.
+Eu não sei. Eu só ajo como eu mesmo, eu acho.
 
 125
 00:07:20,080 --> 00:07:21,815
-POR QUÊ? DE QUEM VOCÊ GOSTA?
+Por quê? De quem você gosta?
 
 126
 00:07:23,950 --> 00:07:26,686
-ENTÃO, PESSOAL, VAMOS JOGAR OU NÃO?
+Então pessoal, vamos jogar ou não?
 
 127
 00:07:26,720 --> 00:07:28,989
-A EMMA SABE QUE ESTOU AQUI, CERTO?
+A Emma sabe que estou aqui, certo?
 
 128
 00:07:30,090 --> 00:07:30,223
-SIM.
+Sim.
 
 129
 00:07:31,591 --> 00:07:33,693
-E ELA ESTÁ BEM COM ISSO?
+E ela está bem com isso?
 
 130
 00:07:33,727 --> 00:07:37,230
-CLARO. AINDA MAIS BEM, É ISSO.
+Claro. Ainda mais bem, é isso.
 
 131
 00:07:40,567 --> 00:07:43,970
-EU TROUXE UM PEQUENO MIMO PARA A FESTA, RAPAZES.
+Eu trouxe um pequeno mimo para a festa, rapazes.
 
 132
 00:07:49,576 --> 00:07:50,043
-ASPIRINA.
+Aspirina.
 
 133
 00:07:51,611 --> 00:07:52,078
-ÊXTASE.
+Êxtase.
 
 134
 00:07:52,646 --> 00:07:54,514
-ÊXTASE? J.T. O QUE VOCÊ ESTÁ...?
+E? J.T. O que você está -!
 
 135
 00:07:55,148 --> 00:07:57,517
-ÊXTASE É A DROGA DO AMOR, CERTO?
+Êxtase é a droga do amor, certo?
 
 136
 00:07:57,551 --> 00:08:01,588
-TEM UMA SALA CHEIA DE GAROTAS LÁ EMBAIXO PRECISANDO DE UM POUCO DE AMOR.
+Tem uma sala cheia de garotas lá embaixo precisando de um pouco de amor.
 
 137
 00:08:01,621 --> 00:08:03,590
-EU NÃO SEI, CARA. ESSAS COISAS SÃO BEM INTENSAS.
+Eu não sei, cara. Essas coisas são bem intensas.
 
 138
 00:08:03,623 --> 00:08:08,728
-É MELHOR SER. PAGUEI DUAS SEMANAS DE MESADA DO MEU PRIMO POR ISSO.
+É melhor ser. Paguei duas semanas de mesada do meu primo por isso.
 
 139
 00:08:08,762 --> 00:08:10,030
-VAMOS DIVIDIR.
+Vamos dividir.
 
 140
 00:08:11,264 --> 00:08:13,600
-CERTO, ME DÁ O COMPRIMIDO.
+Certo, me dá a pílula.
 
 141
 00:08:14,901 --> 00:08:15,836
-EU FAÇO ISSO.
+Eu faço isso.
 
 142
 00:08:21,274 --> 00:08:21,875
-O QUÊ?
+O quê?
 
 143
 00:08:23,877 --> 00:08:25,612
-NÃO É UMA BOA IDEIA, CARA.
+Não é uma boa ideia, cara.
 
 144
 00:08:31,318 --> 00:08:33,019
-EI SEAN. SE DIVERTINDO LÁ EM CIMA?
+Ei Sean. Se divertindo lá em cima?
 
 145
 00:08:33,053 --> 00:08:35,222
-DIVERTIDO DEMAIS.
+Divertido demais.
 
 146
 00:08:35,255 --> 00:08:38,925
-ISSO É...? SEAN, VOCÊ TROUXE DROGAS?!
+Isso é -? Sean, você trouxe drogas?!
 
 147
 00:08:39,593 --> 00:08:41,228
-EU NÃO. O J.T.
+Eu não. O J.T.
 
 148
 00:08:41,261 --> 00:08:42,996
-J.T.?! TOBY?
+J.T.?! Toby?
 
 149
 00:08:44,097 --> 00:08:48,301
-ELES SÃO MUITO NOVOS PARA ESTAR EXPERIMENTANDO DROGAS.
+Eles são muito novos para estarem experimentando drogas.
 
 150
 00:08:51,638 --> 00:08:53,940
-UM COMPRIMIDO DE VITAMINA. O QUE VOCÊ ESTÁ FAZENDO?
+Uma pílula de vitamina. O que você está fazendo?
 
 151
 00:09:01,314 --> 00:09:06,720
-JOGA NA PIA. ELES NUNCA SABERÃO A DIFERENÇA.
+Joga na pia. Eles nunca saberão a diferença.
 
 152
 00:09:16,396 --> 00:09:17,964
-TOBY, VAMOS LÁ.
+Toby, vamos lá.
 
 153
 00:09:17,998 --> 00:09:21,234
-VOCÊ QUER SER UM GAROTO MAU, COMECE AGINDO COMO UM.
+Você quer ser um garoto mau, comece agindo como um.
 
 154
 00:09:21,268 --> 00:09:21,935
-GAROTO MAU?
+Garoto mau?
 
 155
 00:09:22,903 --> 00:09:25,305
-IGNORE ELE. VAMOS APENAS FAZER ISSO.
+Ignore ele. Vamos apenas fazer isso.
 
 156
 00:09:27,374 --> 00:09:29,743
-TEM CERTEZA DE QUE NÃO QUER SE JUNTAR A NÓS?
+Tem certeza de que não quer se juntar a nós?
 
 157
 00:09:29,776 --> 00:09:31,278
-SIM. MEU ASSISTENTE SOCIAL ME MATARIA.
+É. Meu assistente social me mataria.
 
 158
 00:09:31,311 --> 00:09:32,245
-CERTO.
+Ok.
 
 159
 00:09:33,580 --> 00:09:38,318
-EI, ESPERE. MASCARE DEVAGAR. TE DÁ UM MAIOR BARATO.
+Ei espere. Masque devagar. Te dá um barato melhor.
 
 160
 00:10:02,242 --> 00:10:06,212
-AH, A TERRI ESTÁ DANDO UM SHOW DE HORRORES NO VÍDEO NÚMERO DOIS.
+Uh, Terri está colocando o vídeo número dois.
 
 161
 00:10:06,246 --> 00:10:09,249
-DESCULPE, MAS AH, ESSA FESTA
+Desculpe, mas uh, esta reunião
 
 162
 00:10:09,282 --> 00:10:11,651
-ESTÁ FICANDO MUITO CHATA.
+está ficando seriamente chata.
 
 163
 00:10:11,685 --> 00:10:13,887
-CERTO ENTÃO, O QUE VOCÊ QUER FAZER?
+Certo então, o que você quer fazer?
 
 164
 00:10:13,920 --> 00:10:15,855
-CONVIDAR O JIMMY.
+Convide o Jimmy para vir.
 
 165
 00:10:15,889 --> 00:10:18,224
-APENAS PARE DE SER CHATA E QUEBRE UMA REGRA PELA PRIMEIRA VEZ.
+Apenas pare de ser chata e quebre uma regra pela primeira vez.
 
 166
 00:10:18,258 --> 00:10:19,626
-EU JÁ QUEBREI.
+Eu já fiz isso.
 
 167
 00:10:20,026 --> 00:10:21,261
-ENTÃO, CONVIDE ELE DE NOVO.
+Então convide ele de novo.
 
 168
 00:10:21,294 --> 00:10:24,130
-QUERIDA, VOCÊ SÓ PRECISA SE SOLTAR UM POUCO.
+Querida, você só precisa se divertir um pouco.
 
 169
 00:10:24,164 --> 00:10:28,001
-PORQUE VOCÊ É BEM LEGAL QUANDO FAZ ISSO. É SÉRIO.
+Porque você é bem legal quando faz isso. Sério.
 
 170
 00:10:41,748 --> 00:10:43,917
-JIMMY? VEM AQUI.
+Jimmy? Vem cá.
 
 171
 00:10:44,918 --> 00:10:47,320
-EU QUERO ME DIVERTIR... JUNTOS.
+Eu quero me divertir -- juntos.
 
 172
 00:11:07,107 --> 00:11:12,112
-TOBY, ESTOU FLUTUANDO EM UMA NUVEM BRANCA E MACIA.
+Toby, estou flutuando, em uma nuvem branca e fofa.
 
 173
 00:11:14,981 --> 00:11:16,049
-CERTO...
+Certo...
 
 174
 00:11:17,017 --> 00:11:19,486
-VOCÊ NÃO CONSEGUE SENTIR? COMO VOCÊ NÃO CONSEGUE SENTIR?
+Você não consegue sentir? Como você não consegue sentir?
 
 175
 00:11:19,519 --> 00:11:22,722
-EU... EU ESTOU COMEÇANDO A SENTIR. EU ACHO.
+Eu - eu estou começando a sentir. Eu acho.
 
 176
 00:11:24,057 --> 00:11:25,458
-ZZZZ- UUUUU...
+Zzzz- uooooo...
 
 177
 00:11:32,232 --> 00:11:34,300
-CARA. ISSO É INCRÍVEL.
+Cara. Isso é incrível.
 
 178
 00:11:37,370 --> 00:11:39,873
-CARA, ISTO É ÊXTASE.
+Cara - isso é êxtase.
 
 179
 00:11:43,009 --> 00:11:46,513
-ESTOU SENTINDO O AMOR. É HORA DE LIGAR.
+Estou sentindo o amor. É hora de ligar.
 
 180
 00:11:46,546 --> 00:11:47,747
-EMMA?
+Emma?
 
 181
 00:11:56,189 --> 00:11:59,726
-GAROTAS? DIGAM OLÁ AO SEU DESTINO.
+Garotas? Digam olá ao seu destino.
 
 182
 00:12:05,398 --> 00:12:07,467
-AI! ASH, MINHA MÃO!
+Ai! Ash, minha mão!
 
 183
 00:12:08,201 --> 00:12:09,469
-DESCULPE.
+Desculpe.
 
 184
 00:12:12,338 --> 00:12:12,839
-AAAAH!
+AAHHH!
 
 185
 00:12:15,275 --> 00:12:17,410
-CERTO, AGORA ESTOU OFICIALMENTE SURDA.
+Certo, agora estou oficialmente surda.
 
 186
 00:12:17,444 --> 00:12:20,046
-OH, ISSO FOI TÃO ASSUSTADOR!
+Ah, isso foi tão assustador!
 
 187
-00:1
+00:12:20,480 --> 00:12:24,484
+Aposto que me ouviram gritar lá na China!
 
 188
-00:12:20,480 --> 00:12:24,484
-APOSTO QUE ME OUVIRAM GRITAR LÁ NA CHINA!
+00:12:28,021 --> 00:12:28,354
+Ahh!
 
 189
-00:12:28,021 --> 00:12:28,354
-AHH!
+00:12:30,890 --> 00:12:33,126
+Gente, isso vai ser ótimo.
 
 190
-00:12:30,890 --> 00:12:33,126
-GENTE, ISSO VAI SER ÓTIMO.
+00:12:33,159 --> 00:12:34,994
+Uma festa de verdade. Mas se meu pai descobrir que estou aqui?
 
 191
-00:12:33,159 --> 00:12:34,994
-UMA FESTA DE VERDADE. MAS SE MEU PAI DESCOBRIR QUE ESTOU AQUI...
+00:12:35,028 --> 00:12:38,431
+Vou ficar de castigo até o dia do meu casamento.
 
 192
-00:12:35,028 --> 00:12:38,431
-VOU FICAR DE CASTIGO ATÉ O DIA DO MEU CASAMENTO.
+00:12:40,166 --> 00:12:44,037
+Ei - vocês não são o Jimmy e o Spinner!
 
 193
-00:12:40,166 --> 00:12:44,037
-EI! VOCÊS NÃO SÃO O JIMMY E O SPINNER!
+00:12:44,070 --> 00:12:46,473
+A não ser que tenham feito uma cirurgia de mudança de sexo.
 
 194
-00:12:44,070 --> 00:12:46,473
-A NÃO SER QUE TENHAM FEITO UMA CIRURGIA DE MUDANÇA DE SEXO.
+00:12:49,075 --> 00:12:53,113
+Liberty?! Eu não te convidei. Como você soube?
 
 195
-00:12:49,075 --> 00:12:53,113
-LIBERTY?! EU NÃO TE CONVIDEI. COMO VOCÊ SOUBE?
+00:12:53,146 --> 00:12:56,349
+Eu estava mandando vibrações psíquicas?
 
 196
-00:12:53,146 --> 00:12:56,349
-EU ESTAVA MANDANDO VIBRAÇÕES PSÍQUICAS?
+00:12:56,382 --> 00:12:59,385
+Uh, não. J.T. e Toby ligaram.
 
 197
-00:12:56,382 --> 00:12:59,385
-AH, NÃO. O J.T. E O TOBY LIGARAM.
+00:13:01,187 --> 00:13:04,257
+É, e eu que sou a única que está convidando gente demais.
 
 198
-00:13:01,187 --> 00:13:04,257
-É, E EU QUE SOU A ÚNICA QUE ESTÁ CONVIDANDO GENTE DEMAIS.
+00:13:04,290 --> 00:13:09,062
+Liberty, eu queria te dizer isso há, tipo, uma eternidade?
 
 199
-00:13:04,290 --> 00:13:09,062
-LIBERTY, EU QUERO TE CONTAR ISSO DESDE, TIPO, SEMPRE?
+00:13:09,095 --> 00:13:13,166
+Mas eu te entendo. Você é como eu, só que... meio que não.
 
 200
-00:13:09,095 --> 00:13:13,166
-MAS EU TE ENTENDO. VOCÊ É COMO EU, SÓ QUE... MEIO QUE NÃO.
+00:13:14,334 --> 00:13:15,068
+Sabe?
 
 201
-00:13:14,334 --> 00:13:15,068
-SACOU?
+00:13:16,069 --> 00:13:17,237
+Uh -
 
 202
-00:13:16,069 --> 00:13:17,237
-AH...
+00:13:18,571 --> 00:13:22,442
+Ei pessoal. Olhem quem está aqui. Liberty!
 
 203
-00:13:18,571 --> 00:13:22,442
-EI GENTE. OLHEM QUEM ESTÁ AQUI. LIBERTY!
+00:13:27,380 --> 00:13:28,448
+Ash -
 
 204
-00:13:27,380 --> 00:13:28,448
-ASH...
+00:13:33,520 --> 00:13:36,022
+Se joga, Lib-er-dade!
 
 205
-00:13:33,520 --> 00:13:36,022
-ABAIXE-SE, LIB-ER-TY!
+00:13:40,527 --> 00:13:46,232
+A Ash queria se divertir esta noite - acho que ela está se divertindo.
 
 206
-00:13:40,527 --> 00:13:46,232
-A ASH QUERIA SE DIVERTIR ESTA NOITE... ACHO QUE ELA ESTÁ SE DIVERTINDO.
+00:14:01,214 --> 00:14:02,282
+Alô?
 
 207
-00:14:01,214 --> 00:14:02,282
-ALÔ?
+00:14:05,385 --> 00:14:06,252
+Toby...?
 
 208
-00:14:05,385 --> 00:14:06,252
-TOBY...?
+00:14:07,654 --> 00:14:13,126
+Bem-vindo. À Zona do Amor e Harmonia Infinitos de Isaacs.
 
 209
-00:14:07,654 --> 00:14:13,126
-BEM-VINDO. À ZONA DO AMOR INFINITO E DA HARMONIA DO ISAACS.
+00:14:13,159 --> 00:14:13,493
+Sente-se.
 
 210
-00:14:13,159 --> 00:14:13,493
-SENTE-SE.
+00:14:16,963 --> 00:14:19,966
+Obrigado, uh, por nos convidar.
 
 211
-00:14:16,963 --> 00:14:19,966
-OBRIGADO, AH, POR NOS CONVIDAR.
+00:14:25,271 --> 00:14:26,439
+Shalom.
 
 212
-00:14:25,271 --> 00:14:26,439
-SHALOM.
+00:14:34,013 --> 00:14:34,948
+Ei, o que está acontecendo?
 
 213
-00:14:34,013 --> 00:14:34,948
-EI, O QUE ESTÁ ACONTECENDO?
+00:14:34,981 --> 00:14:36,049
+Ei!
 
 214
-00:14:34,981 --> 00:14:36,049
-EI!
+00:14:37,450 --> 00:14:39,953
+É o meu tipo de festa.
 
 215
-00:14:37,450 --> 00:14:39,953
-É O MEU TIPO DE FESTA.
+00:14:40,453 --> 00:14:41,421
+Jimmy! Você veio! Finalmente!
 
 216
-00:14:40,453 --> 00:14:41,421
-JIMMY! VOCÊ VEIO! FINALMENTE!
+00:14:41,454 --> 00:14:43,489
+Quando você decidiu dar uma festa?
 
 217
-00:14:41,454 --> 00:14:43,489
-QUANDO VOCÊ DECIDIU DAR UMA FESTA?
+00:14:43,523 --> 00:14:44,924
+Eu achei que seus pais--
 
 218
-00:14:43,523 --> 00:14:44,924
-EU ACHEI QUE SEUS PAIS...
+00:14:44,958 --> 00:14:46,926
+--esta música não é simplesmente incrível?
 
 219
-00:14:44,958 --> 00:14:46,926
-... ESTA MÚSICA NÃO É INCRÍVEL?
+00:14:46,960 --> 00:14:48,361
+Ash, você está pegando fogo!
 
 220
-00:14:46,960 --> 00:14:48,361
-ASH, VOCÊ ESTÁ PEGANDO FOGO!
+00:14:48,394 --> 00:14:50,663
+Eu sei - está tão quente aqui.
 
 221
-00:14:48,394 --> 00:14:50,663
-EU SEI... ESTÁ TÃO QUENTE AQUI.
+00:14:50,697 --> 00:14:52,365
+Você bebeu?
 
 222
-00:14:50,697 --> 00:14:52,365
-VOCÊ BEBEU?
+00:14:52,398 --> 00:14:54,334
+Não. A,B,C,D -E...
 
 223
-00:14:52,398 --> 00:14:54,334
-NÃO. A, B, C, D... E...
+00:14:58,304 --> 00:15:02,642
+Êxtase?! De onde você conseguiu êxtase-?
 
 224
-00:14:58,304 --> 00:15:02,642
-ÊXTASE?! DE ONDE VOCÊ ARRANJOU ÊXTASE...?
+00:15:02,675 --> 00:15:05,979
+Toby, J.T., um deles -
 
 225
-00:15:02,675 --> 00:15:05,979
-TOBY, J.T., UM DELES...
+00:15:06,012 --> 00:15:08,381
+Você sabe como isso é estúpido?
 
 226
-00:15:06,012 --> 00:15:08,381
-VOCÊ SABE COMO ISSO É ESTÚPIDO?
+00:15:08,414 --> 00:15:11,551
+Pare de ser tão melodramático. Estou me divertindo. Você também pode.
 
 227
-00:15:08,414 --> 00:15:11,551
-PARE DE SER TÃO MELODRAMÁTICO. ESTOU ME DIVERTINDO. VOCÊ TAMBÉM PODE.
+00:15:11,584 --> 00:15:15,355
+Você precisa beber água. E muita.
 
 228
-00:15:11,584 --> 00:15:15,355
-VOCÊ PRECISA BEBER ÁGUA. E MUITA.
+00:15:15,388 --> 00:15:16,723
+Não acredito que você tomaria E-!
 
 229
-00:15:15,388 --> 00:15:16,723
-NÃO ACREDITO QUE VOCÊ TOMOU ÊXTASE!
+00:15:16,756 --> 00:15:19,392
+Certo, calma, pai.
 
 230
-00:15:16,756 --> 00:15:19,392
-CERTO, CALMA, PAPAI.
+00:15:19,425 --> 00:15:21,227
+A Paige está certa, eu preciso me soltar um pouco.
 
 231
-00:15:19,425 --> 00:15:21,227
-A PAIGE ESTÁ CERTA, EU PRECISO ME SOLTAR UM POUCO.
+00:15:21,261 --> 00:15:22,262
+Ash -
 
 232
-00:15:21,261 --> 00:15:22,262
-ASH...
+00:15:23,229 --> 00:15:25,398
+Vou subir ao banheiro.
 
 233
-00:15:23,229 --> 00:15:25,398
-VOU SUBIR AO BANHEIRO.
+00:15:25,431 --> 00:15:28,501
+Vou beber água. Da privada.
 
 234
-00:15:25,431 --> 00:15:28,501
-VOU BEBER ÁGUA. DO VASO SANITÁRIO.
+00:15:36,175 --> 00:15:37,243
+Emma -
 
 235
-00:15:36,175 --> 00:15:37,243
-EMMA...
+00:15:38,111 --> 00:15:38,511
+Emma.
 
 236
-00:15:38,111 --> 00:15:38,511
-EMMA.
+00:15:40,446 --> 00:15:40,647
+Emma!
 
 237
-00:15:40,446 --> 00:15:40,647
-EMMA!
+00:15:42,015 --> 00:15:43,483
+Sean, me deixa em paz. Se eu soubesse que você estaria aqui
 
 238
-00:15:42,015 --> 00:15:43,483
-SEAN, ME DEIXA EM PAZ. SE EU SOUBESSE QUE VOCÊ ESTARIA AQUI
+00:15:43,516 --> 00:15:45,451
+eu teria ficado em casa.
 
 239
-00:15:43,516 --> 00:15:45,451
-EU TERIA FICADO EM CASA.
+00:15:45,485 --> 00:15:47,420
+Vou procurar a Liberty...
 
 240
-00:15:45,485 --> 00:15:47,420
-VOU PROCURAR A LIBERTY...
+00:15:47,453 --> 00:15:49,155
+Emma. Podemos conversar? Por favor?
 
 241
-00:15:47,453 --> 00:15:49,155
-EMMA. PODEMOS CONVERSAR? POR FAVOR?
+00:15:49,188 --> 00:15:50,423
+Não temos nada para conversar.
 
 242
-00:15:49,188 --> 00:15:50,423
-NÃO TEMOS NADA PARA CONVERSAR.
+00:15:50,456 --> 00:15:52,558
+Emma, você não está sendo justa -
 
 243
-00:15:50,456 --> 00:15:52,558
-EMMA, VOCÊ NÃO ESTÁ SENDO JUSTA...
+00:15:52,592 --> 00:15:56,663
+Sean, você foi longe demais. Acabou. Estamos terminados.
 
 244
-00:15:52,592 --> 00:15:56,663
-SEAN, VOCÊ FOI LONGE DEMAIS. ACABOU. ESTAMOS TERMINADOS.
+00:15:57,530 --> 00:15:58,498
+Sean!
 
 245
-00:15:57,530 --> 00:15:58,498
-SEAN!
+00:16:00,667 --> 00:16:01,734
+Você está bem?
 
 246
-00:16:00,667 --> 00:16:01,734
-VOCÊ ESTÁ BEM?
+00:16:07,040 --> 00:16:10,109
+Você precisa conversar com alguém. Vem.
 
 247
-00:16:07,040 --> 00:16:10,109
-VOCÊ PRECISA CONVERSAR COM ALGUÉM. VEM.
+00:16:14,213 --> 00:16:15,448
+É tão estúpido.
 
 248
-00:16:14,213 --> 00:16:15,448
-É TUDO TÃO ESTÚPIDO.
+00:16:15,481 --> 00:16:18,284
+Eu sei o que você está passando.
 
 249
-00:16:15,481 --> 00:16:18,284
-EU SEI O QUE VOCÊ ESTÁ PASSANDO.
+00:16:18,318 --> 00:16:19,252
+Como?
 
 250
-00:16:18,318 --> 00:16:19,252
-COMO?
+00:16:20,353 --> 00:16:21,454
+Certo, todo mundo acha que você é mau, certo?
 
 251
-00:16:20,353 --> 00:16:21,454
-CERTO, TODO MUNDO ACHA QUE VOCÊ É MAU, CERTO?
+00:16:21,487 --> 00:16:25,725
+Bem, todo mundo acha que eu sou essa garota perfeita e chata.
 
 252
-00:16:21,487 --> 00:16:25,725
-BEM, TODO MUNDO ACHA QUE EU SOU ESSA GAROTA PERFEITA E CHATA.
+00:16:27,460 --> 00:16:29,595
+Eu só achei que a Emma fosse tão diferente.
 
 253
-00:16:27,460 --> 00:16:29,595
-EU SÓ ACHEI QUE A EMMA FOSSE TÃO DIFERENTE.
+00:16:29,629 --> 00:16:33,533
+Por quê? Ela é igual ao Jimmy. Ela só vê...
 
 254
-00:16:29,629 --> 00:16:33,533
-POR QUÊ? ELA É IGUAL AO JIMMY. ELA SÓ VÊ...
+00:16:33,566 --> 00:16:35,735
+... o que ela quer ver.
 
 255
-00:16:33,566 --> 00:16:35,735
-... O QUE ELA QUER VER.
+00:16:35,768 --> 00:16:37,370
+Exatamente.
 
 256
-00:16:35,768 --> 00:16:37,370
-EXATAMENTE.
+00:16:38,805 --> 00:16:40,807
+Oh, Sean não chore.
 
 257
-00:16:38,805 --> 00:16:40,807
-OH, SEAN, NÃO CHORE.
+00:16:40,840 --> 00:16:42,041
+Não chore...
 
 258
-00:16:40,840 --> 00:16:42,041
-NÃO CHORE...
+00:17:13,539 --> 00:17:15,274
+Ei, Jimmy. Você viu a Emma?
 
 259
-00:17:13,539 --> 00:17:15,274
-EI, JIMMY. VOCÊ VIU A EMMA?
+00:17:15,308 --> 00:17:16,542
+Aí está você, Sr. Traficante.
 
 260
-00:17:15,308 --> 00:17:16,542
-AÍ ESTÁ VOCÊ, SR. TRAFICANTE.
+00:17:16,576 --> 00:17:17,777
+O quê -?
 
 261
-00:17:16,576 --> 00:17:17,777
-O QUÊ...?
+00:17:17,810 --> 00:17:19,779
+Você não sabe que "E" leva a coisas mais pesadas?
 
 262
-00:17:17,810 --> 00:17:19,779
-VOCÊ NÃO SABE QUE "ÊXTASE" LEVA A COISAS MAIS PESADAS?
+00:17:19,812 --> 00:17:21,447
+Como meus punhos.
 
 263
-00:17:19,812 --> 00:17:21,447
-COMO MEUS PUNHOS.
+00:17:21,481 --> 00:17:22,749
+O que você se importa se eu usei E?
 
 264
-00:17:21,481 --> 00:17:22,749
-QUE SE IMPORTA SE EU TOMEI ÊXTASE?
+00:17:22,782 --> 00:17:25,451
+Porque você não usou. Ashley usou.
 
 265
-00:17:22,782 --> 00:17:25,451
-PORQUE VOCÊ NÃO TOMOU. A ASHLEY TOMOU.
+00:17:25,485 --> 00:17:27,787
+E ela disse que pegou de você.
 
 266
-00:17:25,485 --> 00:17:27,787
-E ELA DISSE QUE PEGOU DE VOCÊ.
+00:17:27,820 --> 00:17:29,822
+Sean trocou!
 
 267
-00:17:27,820 --> 00:17:29,822
-O SEAN TROCOU!
+00:17:30,523 --> 00:17:32,392
+Sean? Sean está aqui?
 
 268
-00:17:30,523 --> 00:17:32,392
-SEAN? O SEAN ESTÁ AQUI?
+00:17:32,425 --> 00:17:34,494
+Sim, ele está lá em cima.
 
 269
-00:17:32,425 --> 00:17:34,494
-SIM, ELE ESTÁ LÁ EM CIMA.
+00:17:45,138 --> 00:17:46,539
+Sean, o qu-?
 
 270
-00:17:45,138 --> 00:17:46,539
-SEAN, O QUÊ...?
+00:17:47,874 --> 00:17:49,609
+Jimmy. Oh...
 
 271
-00:17:47,874 --> 00:17:49,609
-JIMMY. OH...
+00:17:59,519 --> 00:18:01,788
+Emma? Aí está você.
 
 272
-00:17:59,519 --> 00:18:01,788
-EMMA? AÍ ESTÁ VOCÊ.
+00:18:04,457 --> 00:18:08,227
+Olha, foi estupidez minha convidar o Sean,
 
 273
-00:18:04,457 --> 00:18:08,227
-OLHA, FOI ESTUPIDEZ MINHA CONVIDAR O SEAN,
+00:18:08,261 --> 00:18:13,199
+e eu quero que você saiba que o único motivo de eu ter feito isso foi porque --
 
 274
-00:18:08,261 --> 00:18:13,199
-E EU QUERO QUE VOCÊ SAIBA QUE O ÚNICO MOTIVO DE EU TER FEITO ISSO FOI PORQUE...
+00:18:38,758 --> 00:18:41,461
+Um, dois, três - mergulho!
 
 275
-00:18:38,758 --> 00:18:41,461
-UM, DOIS, TRÊS... PULAR!
+00:18:43,362 --> 00:18:44,764
+Onde está o Sean?!
 
 276
-00:18:43,362 --> 00:18:44,764
-ONDE ESTÁ O SEAN?!
+00:18:45,631 --> 00:18:46,599
+Jimmy, pare -!
 
 277
-00:18:45,631 --> 00:18:46,599
-JIMMY, PARE!
+00:18:46,632 --> 00:18:48,468
+Onde está o Sean? Spinner?
 
 278
-00:18:46,632 --> 00:18:48,468
-ONDE ESTÁ O SEAN? SPINNER?
+00:18:48,501 --> 00:18:50,937
+Ele foi embora, tipo, uns 2 minutos atrás -
 
 279
-00:18:48,501 --> 00:18:50,937
-ELE FOI EMBORA, TIPO, FAZ UNS 2 MINUTOS...
+00:18:50,970 --> 00:18:52,705
+Jimmy. Pare!
 
 280
-00:18:50,970 --> 00:18:52,705
-JIMMY. PARE!
+00:18:52,738 --> 00:18:55,208
+Certo, eu sei que você está chateado, mas o que acabou de acontecer?
 
 281
-00:18:52,738 --> 00:18:55,208
-CERTO, EU SEI QUE VOCÊ ESTÁ CHATEADO, MAS O QUE ACABOU DE ACONTECER?
+00:18:55,241 --> 00:18:57,944
+Foi a experiência mais intensa da minha vida.
 
 282
-00:18:55,241 --> 00:18:57,944
-FOI A EXPERIÊNCIA MAIS INTENSA DA MINHA VIDA.
+00:18:57,977 --> 00:19:00,179
+Foi, tipo, como este - este telescópio. E eu me vi,
 
 283
-00:18:57,977 --> 00:19:00,179
-FOI, TIPO, COMO... COMO ESTE TELESCÓPIO. E EU ME VI,
+00:19:00,213 --> 00:19:01,280
+a verdadeira eu -
 
 284
-00:19:00,213 --> 00:19:01,280
-A VERDADEIRA EU...
+00:19:02,381 --> 00:19:04,484
+Olha. Você não sabe o que está dizendo -
 
 285
-00:19:02,381 --> 00:19:04,484
-OLHA. VOCÊ NÃO SABE O QUE ESTÁ DIZENDO...
+00:19:04,517 --> 00:19:05,485
+O quê?
 
 286
-00:19:04,517 --> 00:19:05,485
-O QUÊ?
+00:19:06,352 --> 00:19:08,421
+Não é você. São as drogas.
 
 287
-00:19:06,352 --> 00:19:08,421
-NÃO É VOCÊ. SÃO AS DROGAS.
+00:19:08,454 --> 00:19:11,290
+Ah, certo, continue, pai. Continue me dizendo quem eu sou.
 
 288
-00:19:08,454 --> 00:19:11,290
-AH, CERTO, CONTINUE, PAPAI. CONTINUE ME DIZENDO QUEM EU SOU.
+00:19:11,324 --> 00:19:12,725
+Ash, olha -
 
 289
-00:19:11,324 --> 00:19:12,725
-ASH, OLHA...
+00:19:13,493 --> 00:19:15,595
+Não, não, não. É exatamente por isso que eu e o Sean acabamos de -
 
 290
-00:19:13,493 --> 00:19:15,595
-NÃO, NÃO, NÃO. É EXATAMENTE POR ISSO QUE EU E O SEAN ACABAMOS DE...
+00:19:15,628 --> 00:19:17,430
+Ele me entende. Você - ?
 
 291
-00:19:15,628 --> 00:19:17,430
-ELE ME ENTENDE. VOCÊ...?
+00:19:18,531 --> 00:19:19,732
+Ash, pare com isso, e vem comigo-
 
 292
-00:19:18,531 --> 00:19:19,732
-ASH, PARE COM ISSO E VEM COMIGO...
+00:19:19,765 --> 00:19:25,204
+Terri, eu amo sua blusa! É tão brilhante! Como estrelas!
 
 293
-00:19:19,765 --> 00:19:25,204
-TER, EU AMEI SUA BLUSA! É TÃO BRILHANTE! COMO ESTRELAS!
+00:19:25,238 --> 00:19:26,939
+O qu-? Eu vou embora.
 
 294
-00:19:25,238 --> 00:19:26,939
-O QUÊ...? EU VAZEI.
+00:19:26,973 --> 00:19:29,308
+O que eu deveria ter feito?
 
 295
-00:19:26,973 --> 00:19:29,308
-O QUE EU DEVERIA TER FEITO?
+00:19:29,342 --> 00:19:32,545
+Era ter terminado com você. No seu aniversário. Como eu ia fazer.
 
 296
-00:19:29,342 --> 00:19:32,545
-ERA TER TERMINADO COM VOCÊ. NO SEU ANIVERSÁRIO. COMO EU IA FAZER.
+00:19:32,578 --> 00:19:35,348
+Ash, você pode parar de ser uma megera?
 
 297
-00:19:32,578 --> 00:19:35,348
-ASH, PARA DE SER TÃO CHATA, VAI.
+00:19:35,381 --> 00:19:37,283
+Paige, você é uma megera.
 
 298
-00:19:35,381 --> 00:19:37,283
-PAIGE, VOCÊ É CHATA.
+00:19:37,316 --> 00:19:41,320
+Em duas frentes - sua aparência e sua personalidade.
 
 299
-00:19:37,316 --> 00:19:41,320
-EM DUAS COISAS: SUA APARÊNCIA E SUA PERSONALIDADE.
+00:19:46,792 --> 00:19:50,596
+Ah, Jimmy, é que - você não tem o que o Sean tem.
 
 300
-00:19:46,792 --> 00:19:50,596
-AH, JIMMY, É QUE... VOCÊ NÃO TEM O QUE O SEAN TEM.
+00:19:50,630 --> 00:19:54,567
+E você nunca terá. Você simplesmente - não é o suficiente para mim. Desculpe.
 
 301
-00:19:50,630 --> 00:19:54,567
-E VOCÊ NUNCA TERÁ. VOCÊ SIMPLESMENTE... NÃO É O SUFICIENTE PARA MIM. DESCULPE.
+00:19:57,870 --> 00:20:01,908
+Ah, e agora você está chateado. Não fique, está tudo bem, está.
 
 302
-00:19:57,870 --> 00:20:01,908
-AH, E AGORA VOCÊ ESTÁ CHATEADO. NÃO FIQUE, ESTÁ TUDO BEM.
+00:20:01,941 --> 00:20:03,876
+Está tudo bem, está - !
 
 303
-00:20:01,941 --> 00:20:03,876
-ESTÁ TUDO BEM, ESTÁ...!
+00:20:03,910 --> 00:20:05,578
+Legal, Ash.
 
 304
-00:20:03,910 --> 00:20:05,578
-LEGAL, ASH.
+00:20:07,046 --> 00:20:09,582
+Gente, onde vocês estão indo? Qual é, é uma festa.
 
 305
-00:20:07,046 --> 00:20:09,582
-GENTE, ONDE VOCÊS ESTÃO INDO? QUAL É, É UMA FESTA.
+00:20:09,615 --> 00:20:13,219
+Qual é. Onde todo mundo está indo? Vamos lá, pessoal?
 
 306
-00:20:09,615 --> 00:20:13,219
-QUAL É. ONDE TODO MUNDO ESTÁ INDO? VAMOS LÁ, PESSOAL?
+00:20:13,486 --> 00:20:14,453
+Pessoal?
 
 307
-00:20:13,486 --> 00:20:14,453
-PESSOAL?
+00:20:15,454 --> 00:20:16,455
+Vamos lá.
 
 308
-00:20:15,454 --> 00:20:16,455
-VAMOS LÁ.
+00:20:23,996 --> 00:20:25,565
+Quando foi que isso quebrou?
 
 309
-00:20:23,996 --> 00:20:25,565
-QUANDO FOI QUE ISSO QUEBROU?
+00:20:25,598 --> 00:20:27,667
+Quando você estava dançando com a Liberty.
 
 310
-00:20:25,598 --> 00:20:27,667
-QUANDO VOCÊ ESTAVA DANÇANDO COM A LIBERTY.
+00:20:27,700 --> 00:20:29,802
+Quando você estava doidona de ecstasy.
 
 311
-00:20:27,700 --> 00:20:29,802
-QUANDO VOCÊ ESTAVA DOIDONA NO ÊXTASE.
+00:20:29,835 --> 00:20:31,470
+No que você estava pensando, Ash?
 
 312
-00:20:29,835 --> 00:20:31,470
-NO QUE VOCÊ ESTAVA PENSANDO, ASH?
+00:20:31,504 --> 00:20:32,638
+No que eu estava pensando?
 
 313
-00:20:31,504 --> 00:20:32,638
-NO QUE EU ESTAVA PENSANDO?
+00:20:32,672 --> 00:20:34,874
+O que você e o J.T. estavam fazendo com ecstasy, para começo de conversa?
 
 314
-00:20:32,672 --> 00:20:34,874
-O QUE VOCÊ E O J.T. ESTAVAM FAZENDO COM ÊXTASE, PARA COMEÇAR?
+00:20:34,907 --> 00:20:39,345
+Gente, não importa.
 
 315
-00:20:34,907 --> 00:20:39,345
-GENTE, NÃO IMPORTA.
+00:20:39,378 --> 00:20:41,013
+Eu fui tão ruim assim?
 
 316
-00:20:39,378 --> 00:20:41,013
-EU FUI TÃO RUIM ASSIM?
+00:20:43,616 --> 00:20:46,052
+E se eu ligar para o Jimmy -
 
 317
-00:20:43,616 --> 00:20:46,052
-E SE EU LIGAR PARA O JIMMY...?
+00:20:46,085 --> 00:20:50,790
+Ash, a Paige não quer falar com você. Você realmente acha que o Jimmy vai?
 
 318
-00:20:46,085 --> 00:20:50,790
-ASH, A PAIGE NÃO QUER FALAR COM VOCÊ. VOCÊ REALMENTE ACHA QUE O JIMMY VAI?
+00:20:50,823 --> 00:20:52,692
+Eu sou tão idiota!
 
 319
-00:20:50,823 --> 00:20:52,692
-EU SOU TÃO IDIOTA!
+00:20:52,725 --> 00:20:55,361
+Como eu vou encarar todo mundo de novo?
 
 320
-00:20:52,725 --> 00:20:55,361
-COMO EU VOU ENCARAR TODO MUNDO DE NOVO?
-
-321
 00:20:55,394 --> 00:20:57,363
 (BATIDA NA PORTA)
 
-322
+321
 00:20:57,396 --> 00:20:59,665
-JIMMY?
+Jimmy?
+
+322
+00:20:59,699 --> 00:21:03,402
+Aqui. O Jimmy - não quer mais essas coisas.
 
 323
-00:20:59,699 --> 00:21:03,402
-AQUI. O JIMMY... NÃO QUER MAIS ESSAS COISAS.
+00:21:03,436 --> 00:21:05,571
+Spinner, como ele está -?
 
 324
-00:21:03,436 --> 00:21:05,571
-SPINNER, COMO ELE ESTÁ...?
+00:21:05,605 --> 00:21:07,974
+Só pegue. E não ligue para ele.
 
 325
-00:21:05,605 --> 00:21:07,974
-APENAS PEGUE. E NÃO LIGA PARA ELE.
+00:21:12,712 --> 00:21:15,548
+Ash -
 
 326
-00:21:12,712 --> 00:21:15,548
-ASH...
+00:21:16,816 --> 00:21:21,587
+Oh! É hora de limpar este lugar!
 
 327
-00:21:16,816 --> 00:21:21,587
-OH! É HORA DE LIMPAR ESTE LUGAR!
+00:21:21,687 --> 00:21:22,922
+Eles vão chegar em breve!
 
 328
-00:21:21,687 --> 00:21:22,922
-ELES VÃO CHEGAR EM BREVE!
+00:21:22,955 --> 00:21:26,058
+Quer dizer, vamos lá! A gente não acabou de-
 
 329
-00:21:22,955 --> 00:21:26,058
-QUAL É! NÓS NÃO ACABAMOS DE...
-
-330
 00:21:26,092 --> 00:21:29,862
-ASH? VOCÊ ESTÁ BEM?
+Ash? Você está bem?

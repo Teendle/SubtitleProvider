@@ -28,7 +28,7 @@ Te amo... Te amo.
 
 8
 00:00:26,433 --> 00:00:26,734
-OOOOH!
+Ahhh!
 
 9
 00:00:27,601 --> 00:00:30,804
@@ -68,7 +68,7 @@ O J.T. está esperando por nós.
 
 18
 00:01:00,868 --> 00:01:03,370
-Em, seu quarto está um desastre.
+Emma, seu quarto está um desastre.
 
 19
 00:01:03,404 --> 00:01:04,705
@@ -132,11 +132,11 @@ Emma? Agora!... Emma?
 
 34
 00:01:55,656 --> 00:01:59,493
-♪ Whatever it takes ♪
+♪ O que for preciso ♪
 
 35
 00:01:59,526 --> 00:02:02,396
-♪ I know I can make it through ♪
+♪ Eu sei que posso superar ♪
 
 36
 00:02:02,596 --> 00:02:04,465
@@ -145,39 +145,39 @@ nos visite em: teendle.win
 
 37
 00:02:04,665 --> 00:02:06,667
-♪ If I hold out ♪
+♪ Se eu resistir ♪
 
 38
 00:02:08,402 --> 00:02:11,271
-♪ I know I can make it through ♪
+♪ Eu sei que posso superar ♪
 
 39
 00:02:14,508 --> 00:02:15,709
-♪ Be the best ♪
+♪ Ser o melhor ♪
 
 40
 00:02:15,742 --> 00:02:19,346
-♪ The best that I can be ♪
+♪ O melhor que eu posso ser ♪
 
 41
 00:02:19,379 --> 00:02:22,616
-♪ Hear what I say to you ♪
+♪ Ouça o que eu digo a você ♪
 
 42
 00:02:22,649 --> 00:02:26,520
-♪ Whatever it takes ♪
+♪ O que for preciso ♪
 
 43
 00:02:26,553 --> 00:02:28,522
-♪ I know I can make it through ♪
+♪ Eu sei que posso superar ♪
 
 44
 00:02:28,555 --> 00:02:30,891
-♪ I know I know ♪
+♪ Eu sei, eu sei ♪
 
 45
 00:02:30,924 --> 00:02:33,727
-♪ I know I can make it through ♪
+♪ Eu sei que posso superar ♪
 
 46
 00:02:35,863 --> 00:02:37,331
@@ -185,7 +185,7 @@ Obrigada por trazerem isso.
 
 47
 00:02:37,364 --> 00:02:38,265
-Sem problemas, Srta. Nelson.
+Sem problemas, Sra. Nelson.
 
 48
 00:02:38,298 --> 00:02:39,399
@@ -205,7 +205,7 @@ Tem certeza de que você consegue carregar isso?
 
 52
 00:02:44,972 --> 00:02:47,474
-Eu pequena, mas forte... Como touro.
+Eu sou pequena, mas forte... Como touro.
 
 53
 00:02:47,508 --> 00:02:49,209
@@ -213,7 +213,7 @@ Falando em touro...
 
 54
 00:02:49,243 --> 00:02:51,245
-Obrigada de novo, pessoal. E Em?
+Obrigada de novo, pessoal. E Emma?
 
 55
 00:02:51,278 --> 00:02:53,280
@@ -253,7 +253,7 @@ manter o Refúgio de Vida Selvagem Polar intocado.
 
 64
 00:03:20,307 --> 00:03:21,875
-Obrigado pela sua ajuda com tudo isso, Em,
+Obrigado pela sua ajuda com tudo isso, Emma,
 
 65
 00:03:21,909 --> 00:03:23,443
@@ -397,7 +397,7 @@ Eu sei. Eu sei.
 
 100
 00:04:45,626 --> 00:04:48,095
-Joey, nós sentimos muito pela sua esposa.
+Joey, nós sentimos muito pela sua esposa ter falecido.
 
 101
 00:04:48,128 --> 00:04:49,863
@@ -421,11 +421,11 @@ pego as chaves e damos uma volta, ok?
 
 106
 00:05:00,040 --> 00:05:01,575
-Angela, você quer dar uma volta? É?
+Angela, você quer dar uma volta? Sim?
 
 107
 00:05:01,608 --> 00:05:04,444
-Nós vamos vender um carro pra Lucy. É.
+Nós vamos vender um carro pra Lucy. Sim.
 
 108
 00:05:15,122 --> 00:05:17,524
@@ -509,11 +509,11 @@ Todos os computadores aqui estão conectados
 
 128
 00:06:18,885 --> 00:06:21,421
-à Internet via acesso discado de alta velocidade.
+à Internet via acesso telefônico de alta velocidade.
 
 129
 00:06:21,455 --> 00:06:23,657
-Ah, você vê, Toby. Você não tinha isso na sua antiga escola.
+Ah, viu, Toby? Você não tinha isso na sua antiga escola.
 
 130
 00:06:23,690 --> 00:06:24,091
@@ -537,7 +537,7 @@ Acampamento de Verão Berkley.
 
 135
 00:06:34,234 --> 00:06:35,068
-Eu acho que eles são melhores amigos.
+Acho que eles são melhores amigos.
 
 136
 00:06:35,102 --> 00:06:36,169
@@ -553,7 +553,7 @@ a Degrassi é a escola mais próxima, então...
 
 139
 00:06:40,240 --> 00:06:41,942
-Eu acho que vamos deixar vocês dois se reapresentarem
+Acho que vamos deixar vocês dois se reaproximarem
 
 140
 00:06:41,975 --> 00:06:43,677
@@ -565,11 +565,11 @@ na minha sala.
 
 142
 00:06:45,212 --> 00:06:46,980
-Então, Toby, se você precisar de...
+Então, Toby, se você precisar de um...
 
 143
 00:06:47,013 --> 00:06:48,448
-Eu vou andando pra casa, ok?
+Eu vou pra casa a pé, ok?
 
 144
 00:06:48,482 --> 00:06:49,216
@@ -588,7 +588,7 @@ este é o Toby. Nós fomos pro acampamento juntos.
 Não, sério?
 
 148
-00:06:58,625 --> 00:07:01,928
+00:07:00,160 --> 00:07:01,928
 Ah, prazer em conhecê-lo.
 
 149
@@ -601,11 +601,11 @@ Manny, você vem comigo.
 
 151
 00:07:06,166 --> 00:07:07,467
-Não. Não, não!
+Não! Não, não!
 
 152
 00:07:07,501 --> 00:07:09,569
-Vocês duas ficam de guarda.
+Vocês dois ficam de guarda.
 
 153
 00:07:10,771 --> 00:07:13,507
@@ -645,7 +645,7 @@ Eu quero te exibir. Nos exibir.
 
 162
 00:07:49,176 --> 00:07:51,244
-Por favor?
+Por favooooor?
 
 163
 00:07:51,278 --> 00:07:53,814
@@ -653,7 +653,7 @@ Sim, perfeito. Ótimo.
 
 164
 00:07:53,847 --> 00:07:56,817
-Cinco horas. Obrigada, querido.
+Cinco horas. Obrigada, amor.
 
 165
 00:07:56,850 --> 00:07:58,852
@@ -665,7 +665,7 @@ Obrigada.
 
 167
 00:08:19,773 --> 00:08:20,073
-Cobra!
+Snake!
 
 168
 00:08:21,408 --> 00:08:26,847
@@ -681,7 +681,7 @@ Certo. Esta é sua melhor lembrança da Degrassi.
 
 171
 00:08:40,126 --> 00:08:43,930
-O quê!? Então eu tive uma fase de usar faixa na cabeça.
+O quê!? Então eu tive uma fase de usar faixas de cabelo.
 
 172
 00:08:43,964 --> 00:08:45,098
@@ -689,7 +689,7 @@ Ah, qual é, eram os anos 80... Você estava lá.
 
 173
 00:08:45,131 --> 00:08:48,001
-Ah, falando dos anos 80, que tal isto?
+Ah, falando dos anos 80, que tal isso?
 
 174
 00:08:48,034 --> 00:08:48,101
@@ -697,7 +697,7 @@ Ah.
 
 175
 00:08:49,035 --> 00:08:50,036
-O fedora do Joey.
+O chapéu do Joey.
 
 176
 00:08:50,070 --> 00:08:51,137
@@ -717,7 +717,7 @@ Eu não sei.
 
 180
 00:08:55,675 --> 00:08:58,578
-Eu acho que o Joey ainda usa ela.
+Acho que o Joey ainda usa ela.
 
 181
 00:09:00,981 --> 00:09:02,649
@@ -801,7 +801,7 @@ Los Angeles? Ele trabalha com show business?
 
 201
 00:10:04,778 --> 00:10:07,113
-Mhm. Ele é diretor.
+Aham. Ele é diretor.
 
 202
 00:10:07,147 --> 00:10:10,684
@@ -824,7 +824,8 @@ Ah, mas Joey, a reunião?
 Você realmente não vai?
 
 207
-00:10:25,265 --> 00
+00:10:25,265 --> 00:10:26,866
+Não, eu não vou.
 
 208
 00:10:28,234 --> 00:10:31,338
@@ -840,7 +841,7 @@ Sabe de uma coisa? Ele adoraria. Nós dois vamos.
 
 211
 00:10:35,709 --> 00:10:39,245
-Ótimo. Certo. Então te vejo mais tarde.
+Ótimo. Certo. Então vejo vocês mais tarde.
 
 212
 00:10:39,279 --> 00:10:40,880
@@ -892,11 +893,11 @@ Ha-ha-ha.
 
 224
 00:11:06,973 --> 00:11:09,309
-Ok, encontrar um estranho
+Ok, se você vai encontrar um estranho
 
 225
 00:11:09,342 --> 00:11:12,812
-que você conheceu na internet pode ser muito perigoso.
+que você conheceu na internet, isso pode ser muito perigoso.
 
 226
 00:11:12,846 --> 00:11:13,980
@@ -912,7 +913,7 @@ Eu conheço o Jordan há muito mais tempo do que te conheço.
 
 229
 00:11:19,185 --> 00:11:20,920
-Gente, tá tranquilo.
+Gente, tá tudo bem.
 
 230
 00:11:20,954 --> 00:11:23,957
@@ -936,7 +937,7 @@ Parem de fazer disso algo que não é.
 
 235
 00:11:31,898 --> 00:11:32,298
-Tá bom.
+Ok.
 
 236
 00:11:34,801 --> 00:11:35,735
@@ -952,7 +953,7 @@ Ai meu Deus.
 
 239
 00:11:45,011 --> 00:11:46,446
-Espera, espera, espera. Volta.
+Espere, espere, espere. Volta.
 
 240
 00:11:46,479 --> 00:11:48,114
@@ -960,7 +961,7 @@ Eu quero ver aquele de novo.
 
 241
 00:11:48,148 --> 00:11:49,783
-Não tenta passar rápido por esse.
+Não tente passar rápido por esse.
 
 242
 00:11:49,816 --> 00:11:50,884
@@ -1020,7 +1021,7 @@ Da próxima vez, podemos tentar pedir antes de invadir?
 
 256
 00:12:20,880 --> 00:12:24,384
-Da próxima vez, podemos ser mais educadas com a nossa convidada? Em?
+Da próxima vez, poderíamos ser mais educadas com a nossa convidada? Em?
 
 257
 00:12:24,417 --> 00:12:26,252
@@ -1040,7 +1041,7 @@ E você é uma stalker.
 
 261
 00:12:31,024 --> 00:12:33,259
-Eu não acredito que você está mesmo aqui!
+Não acredito que você está mesmo aqui!
 
 262
 00:12:33,293 --> 00:12:35,562
@@ -1048,7 +1049,7 @@ No meu quarto superbagunçado...
 
 263
 00:12:35,595 --> 00:12:37,063
-Não se preocupa com isso.
+Não se preocupe com isso.
 
 264
 00:12:37,097 --> 00:12:39,265
@@ -1080,7 +1081,7 @@ Relaxe! Eu não conseguiria hackear nem um saco de papel!
 
 271
 00:12:53,546 --> 00:12:54,914
-Mas eu consigo dizer quando a minha filha
+Mas eu consigo dizer quando minha filha
 
 272
 00:12:54,948 --> 00:12:56,783
@@ -1088,7 +1089,7 @@ está interessada em garotos.
 
 273
 00:12:57,117 --> 00:13:00,553
-Mãe, eu não estou fazendo sexo.
+Mãe, eu não estou transando.
 
 274
 00:13:00,587 --> 00:13:03,089
@@ -1104,11 +1105,11 @@ Tchau.
 
 277
 00:13:13,466 --> 00:13:14,968
-Ok, nós olhamos todos os e-mails.
+Certo, nós lemos todos os e-mails.
 
 278
 00:13:15,001 --> 00:13:18,471
-Nenhuma locadora de vídeo. Nenhuma menção a dentes faltando.
+Nenhuma locadora. Nenhuma menção a dentes faltando.
 
 279
 00:13:18,505 --> 00:13:19,973
@@ -1120,11 +1121,11 @@ O J.T. só é imaturo.
 
 281
 00:13:22,942 --> 00:13:25,345
-Aquele Toby parece ser legal.
+Aquele Toby parece legal.
 
 282
 00:13:25,378 --> 00:13:28,047
-Ele é legal, eu acho. Novo.
+Ele é legal, eu acho. Jovem.
 
 283
 00:13:29,015 --> 00:13:31,384
@@ -1208,7 +1209,7 @@ sobre vocês.
 
 303
 00:14:25,338 --> 00:14:28,174
-Uma espécie de "Sociedade dos Poetas Mortos" encontra "Footloose".
+Uma espécie de "Mentes Perigosas" encontra "Footloose".
 
 304
 00:14:28,208 --> 00:14:29,475
@@ -1268,19 +1269,19 @@ seguidos de um bacharelado com honras e um mestrado em Antropologia.
 
 318
 00:15:01,241 --> 00:15:03,376
-Doutorado daqui a um ano.
+Doutorado em mais um ano.
 
 319
 00:15:03,409 --> 00:15:04,811
-Gente, isso não é ser corajosa.
+Pessoal, isso não é ser corajoso.
 
 320
 00:15:04,844 --> 00:15:09,649
-Não, você tem razão. É simplesmente brilhante, fantástico, incrível.
+Não, você tem razão. É simplesmente brilhante, incrível, fantástico.
 
 321
 00:15:09,682 --> 00:15:12,719
-Não chega a ser fantástico. É só... A vida.
+Nem chega a ser incrível. É só... a vida.
 
 322
 00:15:12,752 --> 00:15:15,421
@@ -1292,7 +1293,7 @@ Mais ou menos como o Wheels.
 
 324
 00:15:17,357 --> 00:15:20,560
-Mata um garoto. Dez anos depois... Impune.
+Mata um garoto. Dez anos depois... Livre.
 
 325
 00:15:23,396 --> 00:15:24,564
@@ -1396,7 +1397,7 @@ Keith, se você tivesse visto o Joey no ensino médio,
 
 350
 00:16:24,791 --> 00:16:26,793
-um bobão de marca maior.
+um completo palhaço, o tempo todo.
 
 351
 00:16:26,826 --> 00:16:27,560
@@ -1428,7 +1429,7 @@ Podemos pedir mais duas dessas? Obrigada.
 
 358
 00:16:53,319 --> 00:16:54,687
-Joey, nós estamos bem aqui.
+Joey, nós estamos bem ali.
 
 359
 00:16:54,721 --> 00:16:57,657
@@ -1452,7 +1453,7 @@ Joey, volta aqui.
 
 364
 00:17:02,829 --> 00:17:06,466
-Cobra, me larga. Por favor, não comece!
+Snake, me larga. Por favor, não comece!
 
 365
 00:17:06,499 --> 00:17:07,600
@@ -1556,7 +1557,7 @@ Ah, qual é. Os anos 80 estão de volta.
 
 390
 00:18:34,954 --> 00:18:38,891
-Além disso, o Go-Go's voltou. Anda logo.
+Além disso, o The Go-Gos voltou. Anda logo.
 
 391
 00:18:39,826 --> 00:18:41,694
@@ -1620,7 +1621,7 @@ Sim, nós nos damos muito bem. Às vezes,
 
 406
 00:19:21,968 --> 00:19:25,738
-Bem, às vezes você
+Bem, às vezes você tem que arriscar.
 
 407
 00:19:25,771 --> 00:19:26,606
@@ -1652,11 +1653,11 @@ Ah, que pensamento horrível.
 
 414
 00:19:43,923 --> 00:19:45,892
-Então ele é bonitinho?
+Então ele é bonito?
 
 415
 00:19:45,925 --> 00:19:51,931
-Anda logo! Eu quero detalhes! Detalhes, detalhes!
+Vamos lá! Eu quero detalhes! Detalhes, detalhes!
 
 416
 00:19:51,964 --> 00:19:54,600
@@ -1664,7 +1665,7 @@ Spike, o que você achou do Keith?
 
 417
 00:19:54,634 --> 00:19:55,568
-A Caitlin podia encontrar alguém muito melhor.
+A Caitlin podia arrumar alguém muito melhor.
 
 418
 00:19:55,601 --> 00:19:57,303
@@ -1692,7 +1693,7 @@ das minhas cruzadas ambientais.
 
 424
 00:20:17,523 --> 00:20:19,692
-O que você disse... Nossa!
+O que você disse, nossa!
 
 425
 00:20:20,626 --> 00:20:22,662

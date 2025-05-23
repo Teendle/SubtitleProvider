@@ -1,10 +1,10 @@
 1
 00:00:01,208 --> 00:00:04,311
-VINTE E OITO HORAS, QUATORZE MINUTOS...
+Vinte e oito horas, quatorze minutos-
 
 2
 00:00:04,345 --> 00:00:07,281
-Você pode parar com a contagem regressiva, por favor?
+Você pode parar com a contagem regressiva, por favor.
 
 3
 00:00:07,314 --> 00:00:09,550
@@ -28,11 +28,11 @@ Eu não estou falando da Kate.
 
 8
 00:00:21,161 --> 00:00:24,465
-Uau. Sua mãe vem amanhã?
+Uau. Sua mãe vem amanhã? -
 
 9
 00:00:24,832 --> 00:00:27,801
-Cara. Eu devia vender ingressos.
+Oh, cara. Eu deveria vender ingressos.
 
 10
 00:00:27,835 --> 00:00:30,471
@@ -68,23 +68,23 @@ Quanto tempo a gente ainda tem?
 
 18
 00:00:47,888 --> 00:00:51,625
-Vinte e oito horas, treze minutos e dezessete segundos.
+Vinte e oito horas, treze minutos, dezessete segundos.
 
 19
 00:00:51,658 --> 00:00:54,595
-Vinte e sete horas, treze minutos e dezesseis segundos.
+Vinte e oito horas, treze minutos, dezesseis segundos.
 
 20
 00:00:54,628 --> 00:00:56,397
-Vinte e sete horas, treze minutos...
+Vinte e oito horas, treze minutos--
 
 21
 00:00:57,865 --> 00:01:00,067
-♪ Não importa o que aconteça
+♪ O que for preciso
 
 22
 00:01:01,335 --> 00:01:04,171
-♪ Sei que posso superar
+♪ Eu sei que posso superar
 
 23
 00:01:04,371 --> 00:01:06,473
@@ -97,7 +97,7 @@ nos visite em: teendle.win
 
 25
 00:01:10,310 --> 00:01:13,147
-♪ Sei que posso superar
+♪ Eu sei que posso superar
 
 26
 00:01:16,383 --> 00:01:18,152
@@ -113,11 +113,11 @@ nos visite em: teendle.win
 
 29
 00:01:24,658 --> 00:01:26,660
-♪ Não importa o que aconteça
+♪ O que for preciso
 
 30
 00:01:28,362 --> 00:01:29,863
-♪ Sei que posso conseguir
+♪ Eu sei que posso conseguir
 
 31
 00:01:29,897 --> 00:01:31,565
@@ -125,7 +125,7 @@ nos visite em: teendle.win
 
 32
 00:01:33,233 --> 00:01:35,869
-♪ Sei que posso superar
+♪ Eu sei que posso superar
 
 33
 00:01:47,381 --> 00:01:48,916
@@ -797,7 +797,7 @@ Desculpa.
 
 200
 00:10:02,409 --> 00:10:04,377
-O prazo final da A Voz da Juventude é
+O prazo final da Folha da Escola é
 
 201
 00:10:04,411 --> 00:10:06,880
@@ -853,7 +853,7 @@ Ortografia também não.
 
 214
 00:10:44,484 --> 00:10:46,086
-Dois "E" em "premium".
+Dois "e" em "premium".
 
 215
 00:10:50,957 --> 00:10:52,726
@@ -1277,7 +1277,7 @@ Uma aula. Eu me empolguei no laboratório de informática.
 
 320
 00:16:46,479 --> 00:16:48,348
-Achei que ir morar com você e a Dona Perfeita
+Achei que ir morar com você e a June Cleaver
 
 321
 00:16:48,381 --> 00:16:50,383

@@ -4,7 +4,7 @@ Emma, você salvou meu coração e meu projeto.
 
 2
 00:00:03,610 --> 00:00:05,412
-Amo você... Jordan.
+Amo você -- Jordan.
 
 3
 00:00:07,781 --> 00:00:08,515
@@ -20,7 +20,7 @@ Ele está vindo para cá em uma viagem escolar.
 
 6
 00:00:14,188 --> 00:00:16,323
-Viagem escolar? É verão.
+Viagem escolar - é verão.
 
 7
 00:00:16,357 --> 00:00:17,424
@@ -32,7 +32,7 @@ Você nunca ouviu falar em privacidade?
 
 9
 00:00:19,393 --> 00:00:22,296
-Relaxe, eu não conseguiria hackear nem uma sacola de papel,
+Relaxe, eu não conseguiria hackear nem um saco de papel,
 
 10
 00:00:22,329 --> 00:00:25,332
@@ -40,7 +40,7 @@ mas eu sei quando minha filha está interessada em garotos.
 
 11
 00:00:25,366 --> 00:00:28,068
-Ele quer me encontrar amanhã.
+Ele quer me encontrar, amanhã.
 
 12
 00:00:28,102 --> 00:00:28,736
@@ -113,7 +113,7 @@ Mãe, você vai se atrasar muito.
 
 29
 00:01:28,328 --> 00:01:30,564
-Atrasada. Eu já estou atrasada.
+Atrasada demais. Eu estou atrasada.
 
 30
 00:01:30,597 --> 00:01:33,233
@@ -129,11 +129,11 @@ Sério. É meio assustador.
 
 33
 00:01:36,737 --> 00:01:40,207
-Eu me sinto como se estivesse indo para o baile que eu nunca pude ir.
+Sinto como se estivesse indo para o baile que nunca pude ir.
 
 34
 00:01:40,240 --> 00:01:42,543
-Ah, isso parece tão chato.
+Ah, isso soa tão brega.
 
 35
 00:01:46,447 --> 00:01:48,382
@@ -149,11 +149,11 @@ Sim. Manny e eu vamos assistir TV a noite toda.
 
 38
 00:01:52,953 --> 00:01:56,523
-E podemos até comer pipoca... com manteiga de verdade.
+E podemos até comer pipoca - com manteiga de verdade.
 
 39
 00:01:56,557 --> 00:01:57,658
-Que chocante.
+Muito chocante.
 
 40
 00:01:57,691 --> 00:01:59,493
@@ -173,7 +173,7 @@ Oi.
 
 44
 00:02:23,383 --> 00:02:25,252
-Como vai? Bem-vinda.
+Como vai? Bem-vindo.
 
 45
 00:02:25,285 --> 00:02:26,520
@@ -181,11 +181,11 @@ Oi.
 
 46
 00:02:26,553 --> 00:02:28,489
-Ah, escute, por que a Ashley aqui não te leva para um tour
+Ah, escuta, por que a Ashley aqui não te mostra
 
 47
 00:02:28,522 --> 00:02:30,457
-pelo novo e melhorado Degrassi?
+o novo e melhorado Degrassi?
 
 48
 00:02:30,491 --> 00:02:32,426
@@ -205,7 +205,7 @@ O quê? Temos que fazer um tour?
 
 52
 00:02:37,264 --> 00:02:39,600
-Que tal se eu pegar umas bebidas para a gente?
+Que tal eu pegar umas bebidas pra gente?
 
 53
 00:02:39,633 --> 00:02:40,701
@@ -213,7 +213,7 @@ Certo.
 
 54
 00:02:42,102 --> 00:02:43,337
-O Programa de Imersão em Mídias é único em nossa escola.
+O programa de Imersão em Mídia é exclusivo da nossa escola.
 
 55
 00:02:43,370 --> 00:02:49,309
@@ -221,7 +221,7 @@ Temos mais de cinquenta computadores de alta velocidade com acesso à internet
 
 56
 00:02:49,343 --> 00:02:50,744
-e outros fins educacionais.
+e para outros fins educacionais.
 
 57
 00:02:50,777 --> 00:02:54,948
@@ -241,7 +241,7 @@ Sério? Que alívio.
 
 61
 00:03:09,696 --> 00:03:12,332
-É. Talvez eu o encontre quando eu for mais velha, né?
+É. Talvez eu o encontre quando for mais velha, né?
 
 62
 00:03:12,366 --> 00:03:15,536
@@ -253,7 +253,7 @@ Ah, tem um programa hoje à noite
 
 64
 00:03:17,337 --> 00:03:18,672
-sobre a reserva natural.
+sobre o refúgio de vida selvagem.
 
 65
 00:03:18,705 --> 00:03:20,574
@@ -265,7 +265,7 @@ Sabe, pelo Jordan.
 
 67
 00:03:21,942 --> 00:03:23,977
-Eu podia te ajudar a pesquisar.
+Eu poderia te ajudar a pesquisar.
 
 68
 00:03:24,011 --> 00:03:26,847
@@ -309,7 +309,7 @@ Sinto muito pela noite passada.
 
 78
 00:03:43,697 --> 00:03:45,599
-Não foi assim que eu imaginei que a gente ia se ver de novo
+Não foi assim que imaginei que nos veríamos de novo
 
 79
 00:03:45,632 --> 00:03:47,034
@@ -321,7 +321,7 @@ Eu também não.
 
 81
 00:03:49,369 --> 00:03:51,004
-Podemos dizer que o passado ficou para trás.
+Podemos simplesmente dizer que o passado é passado.
 
 82
 00:03:51,038 --> 00:03:54,675
@@ -337,7 +337,7 @@ Não sei o que estou dizendo.
 
 85
 00:03:59,646 --> 00:04:01,315
-Eu só... estou tentando dizer...
+Eu só... estou tentando dizer,
 
 86
 00:04:01,348 --> 00:04:04,351
@@ -413,7 +413,7 @@ Bem, posso te pagar uma bebida então?
 
 104
 00:04:38,118 --> 00:04:39,620
-Eu acho que são de graça.
+Acho que são de graça.
 
 105
 00:04:39,653 --> 00:04:42,656
@@ -429,7 +429,7 @@ Tchau.
 
 108
 00:05:07,147 --> 00:05:09,616
-(Secretária eletrônica) Por favor, deixe seu recado após o sinal.
+(Secretária eletrônica) Por favor, deixe sua mensagem após o sinal.
 
 109
 00:05:09,650 --> 00:05:11,652
@@ -693,7 +693,7 @@ Uau. Isso é incrível.
 
 174
 00:08:21,942 --> 00:08:26,880
-O Jordan é um garoto e tanto. Puxou você.
+O Jordan é um garoto e tanto. Depois de você.
 
 175
 00:08:36,823 --> 00:08:39,092
@@ -733,7 +733,7 @@ Tem umas trilhas incríveis por lá.
 
 184
 00:09:11,258 --> 00:09:13,727
-Qual o problema? Você não gosta de cogumelos?
+Qual o problema, você não gosta de cogumelos?
 
 185
 00:09:13,760 --> 00:09:16,963
@@ -761,7 +761,7 @@ Você é o Jordan, não é?
 
 191
 00:09:49,763 --> 00:09:52,365
-Uma salva de palmas para a queridinha ambientalista de Degrassi,
+Dêem uma salva de palmas para a própria lutadora ambiental de Degrassi,
 
 192
 00:09:52,399 --> 00:09:55,669
@@ -777,7 +777,7 @@ Nossa. Isso é incrível. Ver todos vocês aqui juntos de novo.
 
 195
 00:10:11,718 --> 00:10:14,988
-Sabe, eu estava com medo de vir para cá.
+Sabe, eu estava com medo de vir aqui.
 
 196
 00:10:15,021 --> 00:10:17,724
@@ -820,7 +820,8 @@ Ei, Alison... você está planejando ir para Los Angeles
 antes ou depois que ele terminar com a Caitlin?
 
 206
-0
+00:10:43,350 --> 00:10:44,884
+Certo. Sua coisa bipolar e ciumenta
 
 207
 00:10:44,918 --> 00:10:46,319
@@ -904,7 +905,7 @@ Pega!
 
 227
 00:11:39,773 --> 00:11:41,474
-Mas que diabos está acontecendo aqui?
+Mas que diabos está acontecendo?
 
 228
 00:11:41,508 --> 00:11:43,877
@@ -1136,7 +1137,7 @@ Não entendi.
 
 285
 00:16:00,366 --> 00:16:03,403
-Olha só. Você e a Emma leram A Fuga das Galinhas.
+Olha só. Você e a Emma leram "A Fuga das Galinhas".
 
 286
 00:16:03,436 --> 00:16:05,571
@@ -1152,7 +1153,7 @@ O próximo e-mail do Jordan?
 
 289
 00:16:09,242 --> 00:16:12,245
-Ele também gostou de A Fuga das Galinhas. Grande coisa.
+Ele também gostou de "A Fuga das Galinhas". Grande coisa.
 
 290
 00:16:12,278 --> 00:16:14,280
@@ -1212,7 +1213,7 @@ Aqui. A última mensagem dele.
 
 304
 00:16:58,691 --> 00:17:02,362
-Ele está no Vale Bartley, quarto 1409.
+Ele está no Bartley Valley, quarto 1409.
 
 305
 00:17:07,600 --> 00:17:09,068
@@ -1288,7 +1289,7 @@ Eu ligo para os seus pais.
 
 323
 00:18:09,729 --> 00:18:12,532
-Emma... você tem um cheiro tão doce...
+Emma... Você tem um cheiro tão doce...
 
 324
 00:18:33,386 --> 00:18:35,588
@@ -1416,7 +1417,7 @@ Você nunca cometeu um erro antes?
 
 355
 00:20:27,533 --> 00:20:28,601
-Tipo, sei lá, me ter como filha?
+Tipo, sei lá, me ter?
 
 356
 00:20:28,634 --> 00:20:30,469
@@ -1456,7 +1457,7 @@ Você não entende?!
 
 365
 00:20:45,017 --> 00:20:47,486
-Você não se lembra como é ter 12 anos!
+Você não se lembra como é ter doze anos!
 
 366
 00:20:47,520 --> 00:20:49,655

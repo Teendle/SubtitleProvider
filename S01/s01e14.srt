@@ -1,110 +1,110 @@
 1
 00:00:03,977 --> 00:00:05,579
-TUBO DE RAIOS CATÓDICOS.
+Tubo de raios catódicos.
 
 2
 00:00:07,514 --> 00:00:11,452
-O TUBO DE RAIOS CATÓDICOS, AH, FOI DESENVOLVIDO... QUANDO?
+Tubo de raios catódicos- uh - foi desenvolvido... quando?
 
 3
 00:00:13,754 --> 00:00:18,025
-1897. E QUANDO FOI A PRIMEIRA TRANSMISSÃO TELEVISIVA?
+1897. E quando foi a primeira transmissão televisiva?
 
 4
 00:00:20,294 --> 00:00:21,028
-HUM... 1956?
+Hum... 1956?
 
 5
 00:00:22,496 --> 00:00:23,697
-QUASE. 1936.
+Quase. 1936.
 
 6
 00:00:25,099 --> 00:00:26,734
-É, SÓ DUAS DÉCADAS DE DIFERENÇA.
+É, só duas décadas de diferença.
 
 7
 00:00:28,802 --> 00:00:33,607
-EI, VÁ COM CALMA, É DIFICIL LEMBRAR DESSAS COISAS.
+Ei- vá com calma, isso é difícil de lembrar.
 
 8
 00:00:33,640 --> 00:00:37,778
-VOCÊ ESTÁ FAZENDO ISSO ERRADO, VEM CÁ. DEIXA COMIGO. SENTA AÍ.
+Você está fazendo isso errado. Vem cá. Deixa comigo. Senta aí.
 
 9
 00:00:43,884 --> 00:00:46,820
-ENTÃO, A MAMÃE LIGOU. ELA PAROU DE BEBER.
+Então a mãe ligou. Ela parou de beber.
 
 10
 00:00:48,789 --> 00:00:50,224
-QUE BOM PARA ELA.
+Bom para ela.
 
 11
 00:00:50,257 --> 00:00:52,526
-É, BEM, EU SÓ ESTOU TE AVISANDO PORQUE ELA, AH...
+É, bem, eu só estou te avisando porque ela, ah-
 
 12
 00:00:52,559 --> 00:00:54,528
-QUIS FALAR COM VOCÊ.
+quis falar com você.
 
 13
 00:00:54,561 --> 00:00:58,599
-O QUE SIGNIFICA QUE ELA VAI LIGAR DE NOVO E...
+O que significa que ela vai ligar de novo e --
 
 14
 00:00:58,632 --> 00:01:00,501
-...E ELA VAI QUERER FALAR COMIGO SOBRE VOLTARMOS
+-- e ela vai querer falar comigo sobre voltar a morar
 
 15
 00:01:00,534 --> 00:01:01,602
-A VIVER COM ELES EM WASAGA BEACH.
+com eles em Wasaga Beach.
 
 16
 00:01:01,635 --> 00:01:05,239
-BEM, ISSO NÃO VAI ACONTECER, ESTÁ BEM? ESQUEÇA.
+Bem, isso não vai acontecer, está bem? Esquece.
 
 17
 00:01:05,272 --> 00:01:05,672
-SEAN...
+Sean --
 
 18
 00:01:07,207 --> 00:01:08,842
-...EU NÃO VOU VOLTAR!
+--Eu não vou voltar!
 
 19
 00:01:09,510 --> 00:01:11,378
-EI... VÁ COM CALMA.
+Ei -- vá com calma.
 
 20
 00:01:12,846 --> 00:01:15,616
-USE ALGUNS DAQUELES TRUQUES QUE ELES TE ENSINARAM.
+Use alguns daqueles truques que eles te ensinaram.
 
 21
 00:01:15,649 --> 00:01:20,320
-CERTO, SABE DE UMA COISA? VOCÊ NÃO É MEU ASSISTENTE SOCIAL, ESTÁ BEM?
+Certo, sabe de uma coisa? Você não é meu assistente social, está bem?
 
 22
 00:01:20,754 --> 00:01:23,590
-OLHA, NÃO SE PREOCUPE COM A MAMÃE, ESTÁ BEM?
+Olha. Não se preocupe com a mãe, ok?
 
 23
 00:01:27,594 --> 00:01:31,532
-SÓ MANTENHA SUA FICHA LIMPA, TIRE BOAS NOTAS...
+Só mantenha sua ficha limpa, tire boas notas-
 
 24
 00:01:31,565 --> 00:01:34,701
-...E TUDO VAI FICAR BEM, ESTÁ BEM?
+e tudo vai ficar bem. Certo?
 
 25
 00:01:38,539 --> 00:01:39,673
-ESTÁ BEM.
+Certo.
 
 26
 00:01:39,773 --> 00:01:41,842
-♪ O QUE FOR PRECISO
+♪ O que for preciso
 
 27
 00:01:43,377 --> 00:01:46,213
-♪ EU SEI QUE POSSO SUPERAR
+♪ Eu sei que posso superar
 
 28
 00:01:46,413 --> 00:01:48,415
@@ -113,143 +113,143 @@ nos visite em: teendle.win
 
 29
 00:01:48,615 --> 00:01:50,217
-♪ SE EU RESISTIR
+♪ Se eu resistir
 
 30
 00:01:52,252 --> 00:01:54,888
-♪ EU SEI QUE POSSO SUPERAR
+♪ Eu sei que posso superar
 
 31
 00:01:57,891 --> 00:01:59,660
-♪ SER O MELHOR
+♪ Ser o melhor
 
 32
 00:01:59,693 --> 00:02:01,628
-♪ O MELHOR QUE EU POSSO SER
+♪ O melhor que eu posso ser
 
 33
 00:02:03,230 --> 00:02:05,566
-♪ OUÇA O QUE EU DIGO A VOCÊ
+♪ Ouça o que eu digo a você
 
 34
 00:02:06,533 --> 00:02:08,535
-♪ O QUE FOR PRECISO
+♪ O que for preciso
 
 35
 00:02:10,571 --> 00:02:12,539
-♪ EU SEI QUE POSSO CONSEGUIR
+♪ Eu sei que posso conseguir
 
 36
 00:02:14,741 --> 00:02:16,677
-♪ EU SEI QUE POSSO SUPERAR
+♪ Eu sei que posso superar
 
 37
 00:02:20,447 --> 00:02:23,183
-ESTA PROVA DE IMERSÃO NA MÍDIA VAI ME MATAR.
+Esta prova de imersão em mídia vai me matar.
 
 38
 00:02:23,217 --> 00:02:27,254
-TÃO MORTO QUE VÃO TER QUE VERIFICAR MEUS REGISTROS DENTÁRIOS, MEU DNA...
+Tão morto, que vão ter que verificar meus registros dentários, meu DNA-
 
 39
 00:02:27,287 --> 00:02:29,556
-VOCÊ PODERIA PARAR DE SER TÃO MELODRAMÁTICO POR UMA VEZ?
+Você pode parar de ser tão melodramático por uma vez?
 
 40
 00:02:29,590 --> 00:02:31,658
-POR FAVOR?!
+Por favor?!
 
 41
 00:02:31,692 --> 00:02:33,727
-EU NÃO SOU MELODRAMÁTICO.
+Eu não sou melodramático.
 
 42
 00:02:33,760 --> 00:02:36,530
-J.T., TENTE ESTUDAR, AJUDA.
+J.T., tente estudar. Ajuda.
 
 43
 00:02:36,563 --> 00:02:39,533
-EMMA, VOCÊ DISSE QUE ME AJUDARIA A ESTUDAR PARA A PROVA, CERTO?
+Emma. Você disse que me ajudaria a estudar para a prova, certo?
 
 44
 00:02:39,566 --> 00:02:40,701
-CLARO, ADORARIA.
+Claro, adoraria.
 
 45
 00:02:40,734 --> 00:02:42,803
-ESTÁ PREOCUPADO COM IMERSÃO NA MÍDIA?
+Você está preocupada com Imersão em Mídia?
 
 46
 00:02:42,836 --> 00:02:44,371
-MUITO.
+Muito.
 
 47
 00:02:45,672 --> 00:02:48,675
-OH, SR. SIMPSON. HISTÓRIA DA MÍDIA DO SÉCULO XX
+Ah, Sr. Simpson. História da mídia do século XX
 
 48
 00:02:48,709 --> 00:02:50,577
-É UM COMPONENTE IMPORTANTE DESTA PROVA.
+é um componente importante desta prova.
 
 49
 00:02:50,611 --> 00:02:52,846
-PRECISAMOS DE ALGO ANTES DISSO?
+Precisamos de algo antes disso?
 
 50
 00:02:52,880 --> 00:02:54,515
-COMO A TIPOGRAFIA DE GUTENBERG?
+Como a prensa de Gutenberg?
 
 51
 00:02:54,548 --> 00:02:57,417
-NÃO, LIBERTY. APENAS O QUE ESTUDAMOS.
+Não, Liberty. Apenas o que estudamos.
 
 52
 00:02:57,451 --> 00:02:58,619
-PORQUE EU SEI SOBRE A TIPOGRAFIA DE GUTENBERG.
+Porque eu sei sobre a prensa de Gutenberg.
 
 53
 00:02:58,652 --> 00:03:01,255
-TENHO CERTEZA QUE SIM. EU DEVERIA, AH...
+Tenho certeza que sim. Eu deveria, uh-
 
 54
 00:03:01,288 --> 00:03:05,425
-BEM, MATEMÁTICA NÃO É MEU FORTE, MAS SE EU QUISER UM A+
+Agora- Matemática não é meu forte. Mas se eu quero um A+
 
 55
 00:03:05,459 --> 00:03:09,263
-EM IMERSÃO NA MÍDIA, VOU TER QUE TIRAR CERCA DE 92,48%
+em Imersão na Mídia, terei que tirar cerca de 92.48%
 
 56
 00:03:09,296 --> 00:03:13,700
-NESTA PROVA. ESSA CONTA ESTÁ CERTA PARA VOCÊS?
+nesta prova. Esse cálculo parece certo para você?
 
 57
 00:03:14,535 --> 00:03:16,637
-VOCÊS ACABARAM DE OUVIR O SR. RADITCH ME CHAMAR?
+Vocês ouviram o Sr. Raditch me chamar?
 
 58
 00:03:16,670 --> 00:03:19,540
-É, EU ACHO QUE O OUVI ME CHAMAR.
+Sim, acho que ouvi ele me chamar.
 
 59
 00:03:21,875 --> 00:03:24,711
-EI, SEAN, VAI SENTIR FALTA DESSE ARMÁRIO, NÉ?
+Ei Sean, vai sentir falta desse armário, hein?
 
 60
 00:03:24,745 --> 00:03:27,514
-O QUE ERA PARA SER ISSO?
+O que é que isso quer dizer?
 
 61
 00:03:27,548 --> 00:03:29,516
-NADA, É SÓ QUE VOCÊ VAI PARA A OITAVA SÉRIE
+Nada, é só que você vai para a oitava série
 
 62
 00:03:29,550 --> 00:03:30,951
-ANO QUE VEM, FINALMENTE.
+ano que vem, finalmente.
 
 63
 00:03:31,585 --> 00:03:33,520
-É, FINALMENTE.
+É, finalmente.
 
 64
 00:03:33,987 --> 00:03:35,255
@@ -257,1094 +257,1095 @@ ANO QUE VEM, FINALMENTE.
 
 65
 00:03:36,723 --> 00:03:38,926
-PAIGE! OLHA SÓ ISSO!
+Paige! Olha só isso!
 
 66
 00:03:38,959 --> 00:03:40,861
-SPINNER, VAMOS NOS ATRASAR E O RADITCH
+Spinner, vamos nos atrasar e o Raditch
 
 67
 00:03:40,894 --> 00:03:42,729
-VAI TE EXPULSAR.
+vai te expulsar.
 
 68
 00:03:43,664 --> 00:03:46,366
-E DAÍ? QUALQUER COISA PARA ME TIRAR DA PROVA DE INGLÊS.
+E daí? Qualquer coisa para me livrar da prova de inglês.
 
 69
 00:03:46,400 --> 00:03:47,801
-PENSEI QUE VOCÊ TINHA LIDO TODOS OS LIVROS.
+Pensei que você tinha lido todos os livros.
 
 70
 00:03:47,834 --> 00:03:50,571
-SIM, UMA VEZ. AGORA É PARA EU REVISÁ-LOS PARA A PROVA?
+Sim. Uma vez. Agora é para eu revisá-los para a prova?
 
 71
 00:03:50,604 --> 00:03:53,674
-DEIXA PARA LÁ. JÁ TRABALHEI O SUFICIENTE.
+Deixa pra lá. Já trabalhei o suficiente.
 
 72
 00:03:53,707 --> 00:03:58,545
-ARGH! ANDA LOGO, VOCÊ SABE O FASCISTA QUE O RADITCH É...
+Ah! Anda logo. Você sabe o fascista que o Raditch é-
 
 73
 00:04:01,915 --> 00:04:04,718
-PAIGE, GAVIN, VOCÊS ESTÃO ATRASADOS.
+Paige, Gavin, vocês estão atrasados.
 
 74
 00:04:04,751 --> 00:04:07,588
-VEJO QUE ALGUMAS COISAS NÃO MUDARAM.
+Vejo que algumas coisas não mudaram.
 
 75
 00:04:15,095 --> 00:04:18,065
-...E EU SEI QUE FALO POR TODA A DEGRASSI QUANDO DIGO...
+...e eu sei que falo por toda a Degrassi quando digo-
 
 76
 00:04:18,098 --> 00:04:20,734
-SEJA BEM-VINDA DE VOLTA, SRA. KWAN. SENTIMOS SUA FALTA.
+bem-vinda de volta, Sra. Kwan. Sentimos sua falta.
 
 77
 00:04:20,767 --> 00:04:23,036
-OBRIGADA, SR. RADITCH.
+Obrigada, Sr. Raditch.
 
 78
 00:04:23,070 --> 00:04:25,672
-CERTO, ENTÃO, POR ONDE COMEÇAR...
+Certo, então, por onde começar...
 
 79
 00:04:26,773 --> 00:04:28,475
-SIM, TERRI?
+Sim, Terri?
 
 80
 00:04:29,576 --> 00:04:31,745
-HUM... EU SEI QUE NÃO É DA MINHA CONTA, MAS...
+Hum... Eu sei que não é da minha conta, mas...
 
 81
 00:04:31,778 --> 00:04:33,614
-ESTÁ TUDO BEM?
+está tudo bem?
 
 82
 00:04:34,448 --> 00:04:37,651
-SIM, MEU MARIDO TERMINOU TODA A QUIMIOTERAPIA
+Sim. Meu marido terminou toda a quimioterapia,
 
 83
 00:04:38,685 --> 00:04:40,087
-E ESTÁ MELHORANDO A CADA DIA.
+e está melhorando a cada dia.
 
 84
 00:04:40,120 --> 00:04:42,723
-AGORA, COMO ESTÃO AS PROVAS DE VOCÊS?
+Agora - como estão suas provas?
 
 85
 00:04:43,590 --> 00:04:46,560
-VEJA PELO LADO BOM, SÓ FALTA UMA PROVA.
+Veja pelo lado bom. Quer dizer, só falta uma prova.
 
 86
 00:04:46,593 --> 00:04:48,662
-A MINHA. O QUE HOUVE, OSKAR?
+A minha. O que foi, Oskar?
 
 87
 00:04:49,630 --> 00:04:54,801
-NÃO ESTOU ME SENTINDO MUITO BEM, SRA. KWAN. POSSO SER DISPENSADO?
+Não estou me sentindo muito bem, Sra. Kwan. Posso ser dispensado?
 
 88
 00:04:57,871 --> 00:05:00,707
-ESPERO QUE O OSKAR NÃO ESTEJA PEGANDO ESSA GRIPE.
+Espero que o Oskar não esteja pegando essa gripe.
 
 89
 00:05:00,741 --> 00:05:04,711
-ESSES VÍRUS PARECEM FLORESCER EM ÉPOCAS DE ESTRESSE.
+Esses vírus parecem florescer em épocas de estresse.
 
 90
 00:05:04,745 --> 00:05:07,347
-CERTO, VAMOS COMEÇAR NOSSA REVISÃO...
+Certo, vamos começar nossa revisão...
 
 91
 00:05:12,119 --> 00:05:14,855
-ENTÃO EU VOU PEGAR MEU LIVRO.
+Então eu vou pegar meu livro.
 
 92
 00:05:15,789 --> 00:05:18,058
-POR QUE NÃO ESTUDAMOS AQUI MESMO?
+Por que não estudamos aqui mesmo?
 
 93
 00:05:18,091 --> 00:05:21,361
-AH... O TRACKER CONSERTA MOTOCICLETAS, VAI SER BARULHENTO.
+Uh... Tracker conserta motocicletas - vai ser barulhento.
 
 94
 00:05:21,395 --> 00:05:23,030
-CERTO, TUDO BEM.
+Certo. Tanto faz.
 
 95
 00:05:23,797 --> 00:05:27,868
-HUM... VOCÊ SE IMPORTARIA... SE ESPERASSE LÁ FORA?
+Hum- você se importaria... Se esperasse lá fora?
 
 96
 00:05:29,603 --> 00:05:32,673
-MEU LUGAR NÃO É COMO O SEU. É UM LIXÃO.
+Minha casa não é como a sua. É um lixão.
 
 97
 00:05:33,407 --> 00:05:36,743
-CERTO, CLARO. ESPERO BEM AQUI.
+Certo, claro. Espero bem aqui.
 
 98
 00:05:47,421 --> 00:05:49,956
-EI, ENTÃO, O QUE VOCÊ ESTÁ FAZENDO AQUI?
+Ei. Então, o que você está fazendo aqui?
 
 99
 00:05:52,459 --> 00:05:54,428
-UMA NOVA MATÉRIA PARA O JORNAL DA ESCOLA?
+Uma nova matéria para o jornal da escola?
 
 100
 00:05:54,461 --> 00:05:57,731
-A VIDA DO OUTRO LADO DA CIDADE?
+Vida do outro lado da linha do trem?
 
 101
 00:05:57,764 --> 00:06:00,834
-NÃO, ESTOU ESPERANDO O SEAN, VAMOS ESTUDAR JUNTOS HOJE À NOITE.
+Não, estou esperando o Sean. Vamos estudar juntos hoje à noite.
 
 102
 00:06:00,867 --> 00:06:02,602
-OH, É? O QUE VOCÊ ACHA?
+Ah é? O que você acha?
 
 103
 00:06:02,636 --> 00:06:06,440
-VOCÊ ESTÁ SENDO UMA BOA INFLUÊNCIA OU ALGO ASSIM?
+Você está sendo uma boa influência ou algo assim?
 
 104
 00:06:07,574 --> 00:06:12,446
-PORQUE VOCÊ É, ELE NÃO SE METEU EM ENCRENCA ESTE ANO.
+Porque você é. Ele não se meteu em encrenca este ano.
 
 105
 00:06:13,680 --> 00:06:15,749
-ISSO É BOM, ENTÃO... OBRIGADO.
+Isso é bom. Então - obrigada.
 
 106
 00:06:16,616 --> 00:06:18,719
-ENCRENCA? COMO ASSIM?
+Encrenca? Como assim?
 
 107
 00:06:18,752 --> 00:06:22,556
-AH, NÃO SE PREOCUPE COM ISSO, É PASSADO.
+Ah, não se preocupe com isso. É passado.
 
 108
 00:06:23,757 --> 00:06:26,693
-ELE É UM GAROTO DIFERENTE AGORA.
+Ele é um garoto diferente agora.
 
 109
 00:06:29,830 --> 00:06:31,932
-SOBRE O QUE VOCÊS ESTAVAM FALANDO?
+Sobre o que vocês estavam falando?
 
 110
 00:06:31,965 --> 00:06:34,735
-NADA, ENTÃO, VOCÊS VÃO ESTUDAR JUNTOS?
+Nada. Então, vocês vão estudar juntos?
 
 111
 00:06:34,768 --> 00:06:36,703
-SIM, VAMOS, EM.
+Sim. Vem, Emma.
 
 112
 00:06:41,675 --> 00:06:44,144
-CERTO, REPITA COMIGO: SHOOTBAC.
+Certo, repita comigo. SHOOTBAC.
 
 113
 00:06:44,177 --> 00:06:47,447
-SHOOTBAC? ISSO CAI NA PROVA?
+SHOOTBAC? Isso cai na prova?
 
 114
 00:06:48,248 --> 00:06:50,450
-NÃO, EU INVENTEI.
+Não, eu inventei.
 
 115
 00:06:50,484 --> 00:06:52,486
-AS CONSOANTES REPRESENTAM AS TAGS HTML
+As consoantes - representam as tags HTML
 
 116
 00:06:52,519 --> 00:06:54,755
-USADAS EM UMA PÁGINA DA WEB. S É DE STARTING, H DE HEAD,
+usadas em uma página da web. S é para starting, H para head,
 
 117
 00:06:54,788 --> 00:06:57,791
-T DE TITLE, B DE BODY E C DE CLOSING.
+T - title, B - body e C - closing.
 
 118
 00:06:58,792 --> 00:07:02,596
-EU ADICIONEI VOGAIS PARA FACILITAR A MEMORIZAÇÃO. SHOOTBAC!
+Eu adicionei vogais para facilitar a memorização. SHOOTBAC!
 
 119
 00:07:02,629 --> 00:07:04,664
-VOCÊ É TÃO LIBERTY!
+Você é tão Liberty!
 
 120
 00:07:04,698 --> 00:07:06,833
-EU NÃO SOU, ISSO SE CHAMA MNEMÔNICO.
+Eu não sou. Isso se chama mnemônica.
 
 121
 00:07:06,867 --> 00:07:09,870
-CERTO, LIBERTY, TANTO FAZ, LIBERTY.
+Certo, Liberty. Tanto faz, Liberty.
 
 122
 00:07:17,677 --> 00:07:20,480
-QUER MEXER COMIGO? EU ACABO COM VOCÊ.
+Quer mexer comigo? Eu acabo com você.
 
 123
 00:07:20,514 --> 00:07:22,582
-EU SOU O PROBLEMA. HEH HEH.
+Eu sou problema. Heh-heh.
 
 124
 00:07:24,050 --> 00:07:25,218
-É, EU SEI.
+É. Eu sei.
 
 125
 00:07:28,054 --> 00:07:29,523
-VOCÊ SABE DO QUÊ?
+Você sabe do quê?
 
 126
 00:07:30,157 --> 00:07:34,528
-SÓ... O TRACKER DISSE QUE VOCÊ SE METEU EM ENCRENCA UMA VEZ.
+Só- O Tracker só disse que você se meteu em encrenca uma vez.
 
 127
 00:07:36,596 --> 00:07:39,666
-ELE NÃO ME CONTOU OS DETALHES.
+Ele não me contou os detalhes.
 
 128
 00:07:45,105 --> 00:07:46,106
-CERTO.
+Certo.
 
 129
 00:07:47,240 --> 00:07:51,945
-EM WASAGA BEACH, EU BRIGUEI COM UM CARA.
+Em Wasaga Beach eu briguei com um cara.
 
 130
 00:07:53,013 --> 00:07:55,749
-ESTROGUEI A AUDIÇÃO DELE PRA VALER.
+Estroguei a audição dele pra valer.
 
 131
 00:07:55,782 --> 00:07:57,150
-VOCÊ DEIXOU ELE SURDO?
+Você deixou ele surdo?
 
 132
 00:07:57,184 --> 00:07:59,119
-É, É. DE UM OUVIDO,
+É, é. De um ouvido,
 
 133
 00:08:00,720 --> 00:08:01,721
-PERMANENTEMENTE?
+permanentemente?
 
 134
 00:08:03,590 --> 00:08:06,760
-NÃO ME ORGULHO DO QUE FIZ, SABE?
+Não me orgulho do que fiz, sabe?
 
 135
 00:08:08,595 --> 00:08:12,065
-ÀS VEZES EU SÓ FICO MUITO, MUITO BRAVO E...
+Às vezes eu só fico muito, muito bravo e--
 
 136
 00:08:15,836 --> 00:08:18,171
-...MAS ESTOU TRABALHANDO NISSO, ESTÁ BEM?
+Mas estou trabalhando nisso, ok?
 
 137
 00:08:18,905 --> 00:08:21,775
-E... FOI HÁ UM ANO, CERTO?
+E... foi há um ano, certo?
 
 138
 00:08:21,808 --> 00:08:23,510
-SIM, SIM, FOI.
+Sim, sim, foi.
 
 139
 00:08:25,812 --> 00:08:27,514
-QUE CHEIRO É ESSE?
+Que cheiro é esse?
 
 140
 00:08:28,582 --> 00:08:29,983
-OH, NÃO! A PIPOCA!
+Ah, não! A pipoca!
 
 141
 00:08:34,855 --> 00:08:37,858
-QUE TAL COMERMOS AMENDOIM TORRADO?
+Que tal comermos milho torrado?
 
 142
 00:08:44,364 --> 00:08:46,700
-ENTÃO, ESTÃO NERVOSOS?
+Então, está nervosa?
 
 143
 00:08:46,733 --> 00:08:47,734
-SIM.
+Sim.
 
 144
 00:08:49,669 --> 00:08:51,671
-CERTO, PESSOAL. COMO TODOS SABEM, AS PROVAS DE IMERSÃO NA MÍDIA
+Certo, pessoal. Como todos sabem, suas provas de Imersão na Mídia
 
 145
 00:08:51,705 --> 00:08:53,907
-SERÃO FEITAS ONLINE, O QUE É MUITO LEGAL.
+serão feitas online. O que é muito legal.
 
 146
 00:08:53,940 --> 00:08:57,210
-ENTÃO... TODOS ESTÃO NA PÁGINA DA PROVA DE IMERSÃO NA MÍDIA?
+Então - todos estão na página da prova de Imersão na Mídia?
 
 147
 00:08:57,244 --> 00:09:01,748
-CERTO, CLIQUEM NO LINK QUE DIZ "TESTE DE REVISÃO DA UNIDADE".
+Certo. Cliquem no link que diz "Prova de Revisão da Unidade."
 
 148
 00:09:03,617 --> 00:09:04,885
-E QUANDO SOLICITAR, DIGITEM A SENHA "BROOMHEAD",
+E quando solicitar, digitem a senha "BROOMHEAD"
 
 149
 00:09:04,918 --> 00:09:06,186
-TUDO EM MINÚSCULAS.
+tudo em minúsculas.
 
 150
 00:09:08,989 --> 00:09:10,690
-QUARENTA E CINCO MINUTOS.
+Quarenta e cinco minutos.
 
 151
 00:09:10,724 --> 00:09:15,228
-A PROVA TERMINA AUTOMATICAMENTE QUANDO O TEMPO ACABAR. BOA SORTE.
+A prova termina automaticamente quando o tempo acabar. Boa sorte.
 
 152
 00:09:27,274 --> 00:09:30,844
-SPINNER, EU TE AVISEI, NÃO QUERO OUVIR NENHUMA IDEIA ESTÚPIDA.
+Spinner, eu te disse. Não quero ouvir nenhuma ideia estúpida.
 
 153
 00:09:30,877 --> 00:09:34,047
-E FICAR DOENTE DE PROPÓSITO SE ENQUADRA NISSO.
+E ficar doente de propósito? Se enquadra.
 
 154
 00:09:34,080 --> 00:09:36,650
-PAIGE, VOCÊ TEM CERTEZA DE QUE NÃO É VIDENTE?
+Paige, você tem certeza de que não é vidente?
 
 155
 00:09:36,683 --> 00:09:38,385
-PORQUE VOCÊ ACABOU DE LER MINHA MENTE.
+Porque você acabou de ler minha mente.
 
 156
 00:09:38,418 --> 00:09:40,120
-ATCHIM!
+Atchim!
 
 157
 00:09:40,153 --> 00:09:40,987
-SAÚDE!
+Saúde!
 
 158
 00:09:47,661 --> 00:09:49,062
-JÁ VOLTO.
+Já volto.
 
 159
 00:09:52,299 --> 00:09:53,733
-MÁ IDEIA, SPINNER.
+Má ideia, Spinner.
 
 160
 00:09:53,767 --> 00:09:55,635
-EU ACHO QUE PEGUEI O QUE O OSKAR TEVE.
+Eu acho que peguei o que o Oskar teve.
 
 161
 00:09:55,669 --> 00:09:57,637
-QUE TIPO DE AMIGO EU SERIA SE DEIXASSE
+Que tipo de amigo eu seria se deixasse
 
 162
 00:09:57,671 --> 00:10:00,740
-UM PEQUENO VÍRUS DE GRIPE SE INTROMETER ENTRE NÓS?
+um pequeno vírus de gripe se intrometer entre nós?
 
 163
 00:10:00,774 --> 00:10:04,311
-DESCULPEM O ATRASO, PESSOAL. ACABEI DE CORRIGIR AS PROVAS DE VOCÊS,
+Desculpem o atraso, pessoal. Acabei de corrigir suas provas
 
 164
 00:10:04,344 --> 00:10:06,713
-E, NO GERAL, FIQUEI SATISFEITO.
+e no geral fiquei satisfeito.
 
 165
 00:10:07,714 --> 00:10:10,850
-NO ENTANTO, ALGUMAS NOTAS FORAM DECEPCIONANTES.
+No entanto, algumas notas foram decepcionantes.
 
 166
 00:10:14,354 --> 00:10:15,755
-51%? SIM!!
+51%? Sim!!
 
 167
 00:10:17,324 --> 00:10:19,859
-AGORA SÓ PRECISO ME LIVRAR DE INGLÊS
+Agora só preciso me livrar de Inglês,
 
 168
 00:10:19,893 --> 00:10:21,328
-E AÍ VOU EU, ENSINO MÉDIO!
+e aí vou eu, Ensino Médio!
 
 169
 00:10:21,361 --> 00:10:23,763
-AH, TERRI, VOCÊ SABE QUE NÃO É PERMITIDO TRAZER BEBIDAS
+Uh, Terri, você sabe que não é permitido trazer bebidas
 
 170
 00:10:23,797 --> 00:10:25,432
-PARA A SALA DE AULA, CERTO?
+para a sala de aula, certo?
 
 171
 00:10:25,465 --> 00:10:29,302
-DESCULPE, SR. ARMSTRONG. EU IA JOGAR FORA...
+Desculpe, Sr. Armstrong. Eu ia jogar fora-
 
 172
 00:10:29,336 --> 00:10:32,706
-AH AH! EU FAÇO ISSO PARA VOCÊ.
+Uh-uh! Eu faço isso para você.
 
 173
 00:10:33,974 --> 00:10:39,012
-E SPINNER, QUANDO TERMINAR, SENTE-SE.
+E Spinner, quando terminar- tome seu lugar.
 
 174
 00:10:39,045 --> 00:10:43,883
-CERTO, E O RESTO DOS RESULTADOS. ASHLEY, EXCELENTE TRABALHO, 91%,
+Ok, e o resto dos resultados, Ashley, excelente trabalho- 91%,
 
 175
 00:10:44,718 --> 00:10:47,821
-E PAIGE, UMA BOA MELHORA, 84%.
+e Paige, uma boa melhora - 84%,
 
 176
 00:10:47,854 --> 00:10:51,791
-JIMMY, AQUELA AJUDA EXTRA VALEU A PENA, VOCÊ TIROU 70%.
+Jimmy, aquela ajuda extra valeu a pena, você tirou 70 %.
 
 177
 00:11:08,341 --> 00:11:09,743
-NÃO, NÃO TERMINEI.
+Não. Não terminei.
 
 178
 00:11:12,012 --> 00:11:14,080
-QUARENTA E CINCO MINUTOS, LEMBRA?
+Quarenta e cinco minutos, lembra?
 
 179
 00:11:14,114 --> 00:11:15,482
-MAS... EU NÃO TERMINEI!
+Mas - eu não terminei!
 
 180
 00:11:15,515 --> 00:11:18,118
-O TEMPO ACABOU. VOCÊ ESTÁ FORA DO SISTEMA.
+O tempo acabou. Você está bloqueado.
 
 181
 00:11:22,088 --> 00:11:24,124
-VIU, SEAN? NÃO FOI TÃO DIFÍCIL.
+Viu Sean? Não foi tão difícil.
 
 182
 00:11:24,157 --> 00:11:26,026
-DO QUE VOCÊ ESTÁ FALANDO?
+Do que você está falando?
 
 183
 00:11:26,059 --> 00:11:27,427
-EU NEM TIVE TEMPO DE TERMINAR, EU REPROVEI.
+Eu nem tive tempo de terminar. Eu reprovei.
 
 184
-00:11:27,4
+00:11:27,460 --> 00:11:28,695
+Ah.
 
 185
 00:11:28,828 --> 00:11:29,929
-EU ESTAVA CERTO. ESTOU FERRADO.
+Eu estava certo. Estou ferrado.
 
 186
 00:11:29,963 --> 00:11:31,297
-SEAN, VOCÊ NÃO SABE DISSO.
+Sean, você não sabe disso.
 
 187
 00:11:31,331 --> 00:11:33,466
-NÃO, EMMA, VOCÊ NÃO SABE. TUDO O QUE EU JÁ TENTEI...
+Não, Emma. Você não sabe. Tudo o que eu já tentei -
 
 188
 00:11:33,500 --> 00:11:34,768
-...EU FALHEI.
+- eu falhei.
 
 189
 00:11:34,801 --> 00:11:37,070
-SEAN, QUAL É...
+Sean, vamos lá -
 
 190
 00:11:37,804 --> 00:11:41,007
-SABE DE UMA COISA, EMMA? SÓ... NÃO FALA COMIGO, ESTÁ BEM?
+Sabe de uma coisa Emma? Só- não fala comigo, ok?
 
 191
 00:11:41,041 --> 00:11:42,776
-SÓ... ME DEIXA EM PAZ.
+Só- me deixa em paz.
 
 192
 00:12:00,860 --> 00:12:02,429
-AAH, QUAL É O PROBLEMA? ESQUECEU A SENHA?
+Ah- qual é o problema? Esqueceu a senha?
 
 193
 00:12:02,462 --> 00:12:04,464
-VOCÊ DEVERIA PEDIR UM RITALIN PARA O SPINNER,
+Você deveria pedir uma Ritalina pro Spinner.
 
 194
 00:12:04,497 --> 00:12:06,399
-AJUDA MUITO A AGUÇAR A MEMÓRIA.
+Realmente ajuda a aguçar a memória.
 
 195
 00:12:06,433 --> 00:12:08,468
-ISSO FOI UMA PIADA?
+Isso foi uma piada?
 
 196
 00:12:09,135 --> 00:12:10,103
-É, RELAXA.
+É. Relaxe.
 
 197
 00:12:10,136 --> 00:12:10,970
-NÃO ME PROVOCA, ESTÁ BEM?
+Não me provoca, ok?
 
 198
 00:12:11,004 --> 00:12:12,839
-CARA, QUAL É O SEU PROBLEMA?
+Cara, qual é o seu problema?
 
 199
 00:12:12,872 --> 00:12:13,606
-QUAL É O MEU PROBLEMA?
+Qual é o meu problema?
 
 200
 00:12:13,640 --> 00:12:15,275
-É. VOCÊ ENTENDE INGLÊS?
+É. Você entende inglês?
 
 201
 00:12:15,308 --> 00:12:17,110
-ENTÃO VOCÊ ACHA QUE EU SOU ESTÚPIDO?
+Então você acha que eu sou estúpido?
 
 202
 00:12:17,143 --> 00:12:19,412
-NÃO, EU ACHO QUE VOCÊ É UM ESTRANHO.
+Não- eu acho que você é um esquisito.
 
 203
 00:12:21,014 --> 00:12:25,518
-EI! EI, PESSOAL! PESSOAL, O QUE ESTÁ ACONTECENDO AQUI?
+Ei! Ei pessoal- pessoal, o que está acontecendo aqui?
 
 204
 00:12:27,520 --> 00:12:31,024
-NADA, ESTAMOS SÓ BRINCANDO.
+Nada. Estamos só brincando.
 
 205
 00:12:32,425 --> 00:12:35,962
-BEM, PAREM COM ISSO, ESTÁ BEM?
+Bem, parem com isso, está bem?
 
 206
 00:12:39,332 --> 00:12:41,501
-TE VEJO DEPOIS DA AULA.
+Te vejo depois da aula.
 
 207
 00:13:02,589 --> 00:13:06,493
-SRA. KWAN, NÃO ESTOU ME SENTINDO MUITO BEM.
+Sra. Kwan, não estou me sentindo muito bem.
 
 208
 00:13:06,526 --> 00:13:11,798
-GAVIN, VOCÊ ESTÁ PEGANDO FOGO. É MELHOR IR VER A ENFERMEIRA.
+Gavin, você está pegando fogo. É melhor ir ver a enfermeira.
 
 209
 00:13:12,398 --> 00:13:15,502
-JIMMY, VOCÊ NÃO PODE BRIGAR COM O SEAN.
+Jimmy, você não pode brigar com o Sean.
 
 210
 00:13:15,535 --> 00:13:17,137
-O PSICOPATA COMEÇOU COM TUDO ASSIM QUE VOLTOU
+O psicopata começou com tudo assim que voltou
 
 211
 00:13:17,170 --> 00:13:20,840
-PARA A DEGRASSI. SABE DE UMA COISA? EU VOU ACABAR COM ISSO.
+para a Degrassi. Sabe de uma coisa? Eu vou acabar com isso.
 
 212
 00:13:20,874 --> 00:13:22,876
-EU OUVI DIZER QUE ELE FOI EXPULSO DE WASAGA PORQUE BRIGOU
+Ouvi dizer que ele foi mandado de volta de Wasaga porque brigou-
 
 213
 00:13:22,909 --> 00:13:25,512
-COM UM GAROTO E O DEIXOU SURDO DE UM OUVIDO.
+com um garoto e o deixou surdo de um ouvido.
 
 214
 00:13:25,545 --> 00:13:29,883
-ENTÃO É VERDADE?! VOCÊ VAI MESMO BRIGAR COM O SEAN?
+Então é verdade?! Você realmente vai brigar com o Sean?
 
 215
 00:13:29,916 --> 00:13:31,417
-LIBERTY VAN ZANDT?
+Liberty Van Zandt?
 
 216
 00:13:31,518 --> 00:13:32,986
-PRESENTE.
+Aqui.
 
 217
 00:13:33,019 --> 00:13:35,121
-JAMES TIBERIUS YORKE?
+James Tiberius Yorke?
 
 218
 00:13:35,155 --> 00:13:37,323
-É J.T. E EU AINDA ESTOU AQUI, APESAR DO QUANTO
+É J.T. E eu ainda estou aqui. Apesar do quanto
 
 219
 00:13:37,357 --> 00:13:39,492
-AQUELA PROVA DE IMERSÃO NA MÍDIA FOI...
+aquela prova de imersão em mídia foi-
 
 220
 00:13:39,526 --> 00:13:42,595
-OBRIGADO, J.T., INFORMAÇÕES DEMAIS.
+Obrigado, J.T. Muita informação.
 
 221
 00:13:42,629 --> 00:13:44,998
-E SÓ FALTA O SEAN.
+E só falta o Sean.
 
 222
 00:13:46,065 --> 00:13:47,567
-SEAN, VOCÊ ESTÁ ATRASADO.
+Sean. Você está atrasado.
 
 223
 00:13:48,601 --> 00:13:52,372
-É, COMO SE FOSSE O FIM DO MUNDO?
+É, como se fosse o fim do mundo?
 
 224
 00:13:52,405 --> 00:13:54,007
-NÃO, É O FIM DO SEU HORÁRIO DE ALMOÇO,
+Não, é o fim do seu horário de almoço.
 
 225
 00:13:54,040 --> 00:13:57,544
-QUE VOCÊ VAI PASSAR COMIGO AGORA.
+Que você vai passar comigo agora.
 
 226
 00:13:57,577 --> 00:13:58,845
-QUE ÓTIMO.
+Que ótimo.
 
 227
 00:14:07,153 --> 00:14:10,156
-36,5, TEMPERATURA CORPORAL NORMAL.
+98,6, temperatura corporal normal.
 
 228
 00:14:10,190 --> 00:14:13,259
-O QUÊ? MAS... EU ESTOU PEGANDO FOGO.
+O quê? Mas - eu estou pegando fogo.
 
 229
 00:14:14,694 --> 00:14:17,530
-VOCÊ ESTÁ UM POUCO QUENTE.
+Você está um pouco quente.
 
 230
 00:14:17,564 --> 00:14:20,033
-CLARO, VOCÊ PODE TER CORRIDO POR AÍ...
+Claro, você pode ter corrido por aí -
 
 231
 00:14:20,066 --> 00:14:24,204
-ENFERMEIRA HENDERSON, ESTOU CHOCADO QUE VOCÊ SUGIRA TAL COISA!
+Enfermeira Henderson, estou chocado que você sugira tal coisa!
 
 232
 00:14:24,237 --> 00:14:26,573
-TALVEZ ESSE TERMÔMETRO DA ERA ESPACIAL ESTEJA, TIPO,
+Talvez esse termômetro da era espacial esteja, tipo,
 
 233
 00:14:26,606 --> 00:14:28,107
-COM DEFEITO.
+com defeito.
 
 234
 00:14:29,509 --> 00:14:35,014
-BEM, EXISTE UM MÉTODO TENTADO E TESTADO... À PROVA DE FALHAS.
+Bem, existe um método testado e aprovado... À prova de falhas.
 
 235
 00:14:40,153 --> 00:14:45,892
-HUM... O QUE VOCÊ ESTÁ FAZENDO? NÃO QUERO ESSA COISA NA MINHA BOCA.
+Hum- o que você está fazendo? Não quero essa coisa na minha boca.
 
 236
 00:14:48,061 --> 00:14:51,231
-NÃO VAI NA SUA BOCA...
+Não vai na sua boca...
 
 237
 00:14:52,665 --> 00:14:56,703
-QUER SABER? ESTOU ME SENTINDO MUITO MELHOR, DE REPENTE.
+Sabe de uma coisa? Estou me sentindo muito melhor. De repente.
 
 238
 00:14:56,736 --> 00:14:57,537
-MESMO?
+Mesmo?
 
 239
 00:15:10,483 --> 00:15:13,319
-SEM BILHETE DO SR. HENDERSON?
+Sem bilhete do Sr. Henderson?
 
 240
 00:15:19,425 --> 00:15:21,694
-GAVIN, NÓS DOIS SABEMOS O QUE VOCÊ TENTOU FAZER AGORA.
+Gavin. Nós dois sabemos o que você tentou fazer agora.
 
 241
 00:15:21,728 --> 00:15:23,529
-SRA. KWAN, EU REPUDIO...
+Sra. Kwan, eu repudio --
 
 242
 00:15:23,563 --> 00:15:26,566
-E VOU GUARDAR ISSO SÓ ENTRE NÓS.
+E vou guardar isso só entre nós.
 
 243
 00:15:26,599 --> 00:15:28,668
-PARTE DE UM NOVO COMEÇO. EM TROCA, VOCÊ VAI ME ESCUTAR.
+Parte de um novo começo. Em troca você vai me escutar.
 
 244
 00:15:28,701 --> 00:15:30,536
-VOCÊ NÃO É UM GAROTO BURRO,
+Você não é um garoto burro.
 
 245
 00:15:31,371 --> 00:15:33,539
-MAS AS COISAS QUE VOCÊ FAZ AQUI SÃO.
+Mas as coisas que você faz aqui são.
 
 246
 00:15:33,573 --> 00:15:34,641
-SE VOCÊ CANALIZASSE TODA ESSA ENERGIA PARA OS ESTUDOS,
+Se você canalizasse toda essa energia para os estudos,
 
 247
 00:15:34,674 --> 00:15:37,110
-VOCÊ PODERIA SER UM BOM ALUNO.
+você poderia ser um bom aluno.
 
 248
 00:15:37,143 --> 00:15:41,281
-MAS SRA. KWAN, ESSAS PROVAS... ELAS ME DÃO MEDO.
+Mas Sra. Kwan. Essas provas. Elas me dão medo.
 
 249
 00:15:41,314 --> 00:15:42,515
-DEVE SER MEU TDAH.
+Deve ser meu TDAH.
 
 250
 00:15:42,548 --> 00:15:44,617
-VOCÊ TOMOU SEU RITALIN?
+Você tomou seu Ritalin?
 
 251
 00:15:44,651 --> 00:15:45,985
-CLARO.
+Claro.
 
 252
 00:15:46,019 --> 00:15:49,622
-ENTÃO NÃO É SEU TDAH. GAVIN, EU DIGO O QUE VOCÊ FAZ:
+Então não é seu TDAH. Gavin, eu digo o que você faz:
 
 253
 00:15:49,656 --> 00:15:53,159
-PARE DE EVITAR, RESPIRE, SE CONCENTRE
+pare de evitar. Respire. Se concentre.
 
 254
 00:15:53,192 --> 00:15:57,030
-E FAÇA ESTA PROVA, UMA QUESTÃO DE CADA VEZ.
+E faça esta prova uma questão de cada vez.
 
 255
 00:16:00,066 --> 00:16:03,603
-TURMA? VOCÊS TÊM QUARENTA E CINCO MINUTOS. E... VALENDO.
+Turma? Vocês têm quarenta e cinco minutos. E - valendo.
 
 256
 00:16:13,813 --> 00:16:17,350
-EU DEVO DEVOLVER AS PROVAS DE VOCÊS AMANHÃ.
+Eu deveria devolver as provas de vocês amanhã.
 
 257
 00:16:17,383 --> 00:16:20,053
-CERTO, VAMOS ALMOÇAR, EXCETO O SEAN.
+Certo, vamos almoçar. Exceto o Sean.
 
 258
 00:16:29,762 --> 00:16:32,198
-O QUE ESTÁ ACONTECENDO?
+O que está acontecendo?
 
 259
 00:16:32,231 --> 00:16:35,234
-SÓ SENDO EU MESMO. UM FRACASSADO.
+Só sendo eu mesmo. Um fracassado.
 
 260
 00:16:36,269 --> 00:16:39,739
-SEAN, VOCÊ NÃO É UM FRACASSADO.
+Sean - você não é um fracassado.
 
 261
 00:16:39,772 --> 00:16:43,276
-AH, NÃO? EU ARRASALHEI NAQUELA PROVA.
+Ah não? Eu arruinei aquela prova.
 
 262
 00:16:43,309 --> 00:16:45,645
-COMO VOCÊ SABE? EU NEM CORRIGI AINDA...
+Como você sabe? Eu nem corrigi ainda -
 
 263
 00:16:45,678 --> 00:16:49,515
-NEM SE DÊ AO TRABALHO. EU REPROVEI, ESSA É A MINHA VIDA.
+Nem se dê ao trabalho. Eu reprovei. Essa é a minha vida.
 
 264
 00:16:50,583 --> 00:16:54,354
-COMO ASSIM, ESSA É A SUA VIDA?
+Como assim, essa é a sua vida?
 
 265
 00:16:54,387 --> 00:16:57,123
-É ASSIM QUE AS COISAS SÃO.
+É assim que as coisas são.
 
 266
 00:17:00,360 --> 00:17:02,295
-BEM, EU ACHO QUE SE VOCÊ ACREDITA NISSO,
+Bem, eu acho que se você acredita nisso,
 
 267
 00:17:02,328 --> 00:17:05,331
-ENTÃO É ASSIM QUE VAI SER.
+então é assim que vai ser.
 
 268
 00:17:05,365 --> 00:17:08,768
-OH, É! QUEM É O REI DO MUNDO? SIM,
+Ah é! Quem é o rei do mundo! Sim.
 
 269
 00:17:08,801 --> 00:17:10,503
-EU PASSEI NA PROVA.
+Eu passei na prova.
 
 270
 00:17:11,337 --> 00:17:13,606
-PRESUMO QUE TENHA IDO BEM, GAVIN?
+Presumo que tenha ido bem, Gavin?
 
 271
 00:17:13,639 --> 00:17:16,342
-EU NÃO FAZIA IDEIA DE QUE SABIA TANTO!
+Eu não fazia ideia de que sabia tanto!
 
 272
 00:17:16,376 --> 00:17:19,712
-VIU SÓ AS COISAS BOAS QUE ACONTECEM QUANDO VOCÊ SE CONCENTRA?
+Então você viu o que acontece quando se concentra?
 
 273
 00:17:19,746 --> 00:17:22,448
-EU DEVO TUDO A VOCÊ, SRA. KWAN!
+Eu devo tudo a você, Sra. Kwan!
 
 274
 00:17:22,782 --> 00:17:25,184
-EI, ONDE VOCÊS DOIS ESTÃO INDO?
+Ei - onde vocês dois estão indo?
 
 275
 00:17:25,218 --> 00:17:27,620
-SEAN CAMERON QUER BRIGAR COM O JIMMY.
+Sean Cameron quer brigar com o Jimmy.
 
 276
 00:17:27,653 --> 00:17:29,522
-ISSO NÃO VAI ACONTECER.
+Isso não vai acontecer.
 
 277
 00:17:29,555 --> 00:17:32,325
-CARA, VOCÊ VAI FUGIR DO...
+Cara, você vai fugir do-
 
 278
 00:17:32,358 --> 00:17:34,293
-JIMMY, VAMOS.
+Jimmy. Vamos.
 
 279
 00:17:34,627 --> 00:17:39,499
-OLHA, CARA, NÃO PRECISAMOS FAZER ISSO. É IDIOTICE.
+Olha cara, não precisamos fazer isso. É estupidez.
 
 280
 00:17:40,133 --> 00:17:43,569
-CARA, NÃO É À TOA QUE O ARMSTRONG TE TIROU DO TIME.
+Cara, não é à toa que o Armstrong te tirou do time.
 
 281
 00:17:43,603 --> 00:17:46,172
-ELE SÓ ME TIROU PORQUE VOCÊ ENTROU NO MEU CAMINHO E FINGIU UMA LESÃO.
+Ele só me tirou porque você entrou no meu caminho. E fingiu uma lesão.
 
 282
 00:17:46,205 --> 00:17:47,573
-É, TANTO FAZ.
+É. Tanto faz.
 
 283
 00:17:47,607 --> 00:17:49,575
-VOCÊ QUER BRIGAR? ENTÃO VAMOS BRIGAR.
+Você quer brigar? Então vamos brigar.
 
 284
 00:17:49,609 --> 00:17:52,645
-TE ENCONTRO NO BECO.
+Te encontro no beco.
 
 285
 00:17:52,678 --> 00:17:55,281
-JIMMY, SE VOCÊ FIZER ISSO, NÃO ESPERE QUE EU VÁ ASSISTIR.
+Jimmy, se você fizer isso, não espere que eu vá assistir.
 
 286
 00:17:55,314 --> 00:17:58,718
-TUDO BEM. VAI SER FEIO DE QUALQUER JEITO...
+Certo. Vai ser feio, de qualquer forma-
 
 287
 00:18:11,164 --> 00:18:12,698
-SEAN, PARE COM ISSO.
+Sean, pare com isso.
 
 288
 00:18:13,433 --> 00:18:14,700
-SAI DAQUI, EMMA.
+Sai daqui, Emma.
 
 289
 00:18:14,734 --> 00:18:17,203
-EMMA, SÓ VAI EMBORA.
+Emma, só vai embora.
 
 290
 00:18:17,236 --> 00:18:18,538
-E SE O RADITCH DESCOBRIR?
+E se o Raditch descobrir?
 
 291
 00:18:18,571 --> 00:18:21,374
-ESTAMOS FORA DA ESCOLA.
+Estamos fora da escola.
 
 292
 00:18:21,407 --> 00:18:23,810
-POR FAVOR, ANTES QUE FIQUE SÉRIO DEMAIS.
+Por favor. Antes que fique sério demais.
 
 293
 00:18:23,843 --> 00:18:26,379
-BRIGA! BRIGA! BRIGA!
+Briga! Briga! Briga!
 
 294
 00:18:29,215 --> 00:18:32,585
-VAI CHORAR AGORA, JIMMY? É?
+O que você vai chorar agora, Jimmy, hã?
 
 295
 00:18:32,618 --> 00:18:34,754
-BRIGA! BRIGA! BRIGA!
+Briga! Briga! Briga!
 
 296
 00:19:00,580 --> 00:19:02,615
-SEAN, DEIXA ELE EM PAZ!
+Sean, deixa ele em paz!
 
 297
 00:19:02,648 --> 00:19:05,251
-EMMA, SAI DAQUI!
+Emma, sai daqui!
 
 298
 00:19:14,494 --> 00:19:14,694
-EMMA!
+Emma.
 
 299
 00:19:17,597 --> 00:19:18,664
-EMMA, EU SIN...
+Emma. Eu s--
 
 300
 00:19:27,006 --> 00:19:29,475
-...E AÍ O COVARDE VAI EMBORA, DEPOIS DE PROVOCAR A BRIGA
+...e aí o covarde vai embora, depois de provocar a briga
 
 301
 00:19:29,509 --> 00:19:31,611
-E JOGAR A PRÓPRIA NAMORADA NO CHÃO...
+e jogar a própria namorada no chão-
 
 302
 00:19:31,644 --> 00:19:32,345
-O SEAN FEZ ISSO? COM A EMMA?
+Sean fez isso? Com a Emma?
 
 303
 00:19:32,378 --> 00:19:35,548
-UH-HUH. TOTALMENTE COVARDE.
+Aham. Totalmente covarde.
 
 304
 00:19:35,581 --> 00:19:38,584
-É, E VOCÊ É TÃO VALENTE POR TER ENTRADO EM UMA BRIGA.
+É, e você é tão valente por ter entrado em uma briga.
 
 305
 00:19:38,618 --> 00:19:40,486
-ASH, QUAL É...
+Ash, qual é--
 
 306
 00:19:42,288 --> 00:19:43,956
-EI, COMO FOI A PROVA DA KWAN?
+Ei - como foi a prova da Kwan?
 
 307
 00:19:43,990 --> 00:19:45,925
-BRUTAL. VOCÊS TÊM SORTE DE TER PERDIDO.
+Brutal. Vocês têm sorte de ter perdido.
 
 308
 00:19:45,958 --> 00:19:48,528
-PERDIDO? EU TENHO QUE FAZER HOJE DEPOIS DA AULA.
+Perdido? Eu tenho que fazer hoje depois da aula.
 
 309
 00:19:48,561 --> 00:19:50,863
-UMA REPOSIÇÃO. PROVAVELMENTE MAIS DIFÍCIL.
+Uma reposição. Provavelmente mais difícil.
 
 310
 00:19:50,897 --> 00:19:53,900
-AAH, SÉRIO? COITADA DA TER.
+Ah, sério? Coitada da Terri.
 
 311
 00:19:53,933 --> 00:19:56,269
-NOSSA, OBRIGADA PELA SOLIDARIEDADE.
+Nossa, obrigada pela solidariedade.
 
 312
 00:19:56,302 --> 00:19:57,403
-O DIA ESTÁ LINDO DEMAIS!
+O dia está lindo demais!
 
 313
 00:19:57,436 --> 00:20:00,706
-ME LIVREI DA MINHA PIOR MATÉRIA, É FIM DE SEMANA,
+Me livrei da minha pior matéria. É fim de semana.
 
 314
 00:20:00,740 --> 00:20:03,743
-MEU PAI CONSEGUIU ESSES INGRESSOS INCRÍVEIS PARA O JOGO...
+Meu pai conseguiu esses ingressos incríveis para o jo--
 
 315
 00:20:03,776 --> 00:20:04,377
-ATCHIM!
+Atchim!
 
 316
 00:20:06,379 --> 00:20:09,382
-AH... FOI ASSIM QUE A MINHA GRIPE COMEÇOU.
+Uh-- foi assim que a minha gripe começou.
 
 317
 00:20:09,415 --> 00:20:11,617
-NÃO É NADA, UM POUCO DE POEIRA...
+Não é nada. Um pouco de poeira--
 
 318
 00:20:11,651 --> 00:20:12,251
-ATCHIM!
+Atchim!
 
 319
 00:20:13,486 --> 00:20:15,555
-AAH, COITADO DO SPINNER.
+Ah, coitado do Spinner.
 
 320
 00:20:16,422 --> 00:20:18,324
-AH, TALVEZ A GENTE TE VEJA NA SEGUNDA,
+Uh, talvez a gente te veja na segunda.
 
 321
 00:20:18,357 --> 00:20:20,860
-QUANDO VOCÊ NÃO ESTIVER MAIS CONTAGIOSO.
+Quando você não estiver mais contagioso.
 
 322
 00:20:21,827 --> 00:20:25,364
-PESSOAL, QUAL É, EU ESTOU BEM...
+Pessoal, qual é. Eu estou bem --
 
 323
 00:20:25,398 --> 00:20:26,465
-ATCHIM! AH, NÃO...
+Atchim. Ah, não...
 
 324
 00:20:29,936 --> 00:20:31,003
-SEAN.
+Sean.
 
 325
 00:20:35,074 --> 00:20:39,478
-BOAS NOTÍCIAS. TERMINEI DE CORRIGIR, E VOCÊ FOI BEM.
+Boas notícias. Terminei de corrigir. E você foi bem.
 
 326
 00:20:40,313 --> 00:20:40,513
-O QUÊ?
+O quê?
 
 327
 00:20:41,981 --> 00:20:45,651
-SUA MELHOR NOTA ATÉ AGORA. ISSO PUXOU SUA MÉDIA PARA B-.
+Sua melhor nota até agora. Isso puxou sua média para B-.
 
 328
 00:20:45,685 --> 00:20:47,453
-MAS... EU NÃO TERMINEI...
+Mas - eu não terminei --
 
 329
 00:20:47,486 --> 00:20:50,389
-E DAÍ? VOCÊ FOI MUITO BEM NO RESTO, FOI UM BOM TRABALHO.
+E daí? Você foi muito bem no resto. Foi um bom trabalho.
 
 330
 00:20:50,423 --> 00:20:53,059
-VOCÊ DEVERIA SE ORGULHAR DE SI MESMO,
+Você deveria se orgulhar de si mesmo.
 
 331
 00:20:53,092 --> 00:20:55,561
-E APRENDA COM ISSO, ESTÁ BEM?
+E aprenda com isso - ok?
 
 332
 00:21:00,399 --> 00:21:02,868
-EMMA! EMMA! POR FAVOR, PARE.
+Emma, Emma! Por favor. Pare.
 
 333
 00:21:08,808 --> 00:21:11,477
-EMMA, ONTEM FOI UM ERRO, ESTÁ BEM?
+Emma, ontem foi um erro, ok?
 
 334
 00:21:13,913 --> 00:21:17,049
-EU ACABEI DE PEGAR MINHA NOTA COM O SR. SIMPSON,
+Eu acabei de pegar minha nota com o Sr. Simpson.
 
 335
 00:21:17,083 --> 00:21:18,884
-EU PASSEI AFINAL.
+Eu passei afinal.
 
 336
 00:21:21,687 --> 00:21:24,023
-EU DEVERIA TER TE ESCUTADO...
+Eu deveria ter te escutado-
 
 337
 00:21:24,590 --> 00:21:25,758
-...E EU SINTO MUITO.
+e eu sinto muito.
 
 338
 00:21:27,827 --> 00:21:28,427
@@ -1352,4 +1353,4 @@ EU DEVERIA TER TE ESCUTADO...
 
 339
 00:21:29,662 --> 00:21:30,396
-EU TAMBÉM.
+Eu também.

@@ -4,7 +4,7 @@
 
 2
 00:00:09,483 --> 00:00:11,518
-Ooh! Quente...
+Uau! Muito quente...
 
 3
 00:00:11,552 --> 00:00:13,721
@@ -24,7 +24,7 @@ Ah. Ahn, nossa, eu esqueci. Eu tenho que ir falar com a Liberty...
 
 7
 00:00:27,735 --> 00:00:29,303
-E aí, você fez aquela tarefa de matemática?
+Então, você fez aquela tarefa de matemática?
 
 8
 00:00:29,336 --> 00:00:30,371
@@ -225,7 +225,7 @@ Desculpe - quem quer que esteja fazendo esse barulho-
 
 57
 00:03:01,421 --> 00:03:05,726
-por favor, cesse e desista. Isso significa, pare.
+por favor, pare. Isso significa, pare.
 
 58
 00:03:09,329 --> 00:03:13,734
@@ -369,7 +369,7 @@ mas isso não significa que os outros também achem...
 
 93
 00:05:40,414 --> 00:05:42,516
-Que tirana...
+Que tirana ...
 
 94
 00:05:44,017 --> 00:05:46,386
@@ -417,7 +417,7 @@ Eu vou acabar usando uma rede de cabelo também.
 
 105
 00:06:16,583 --> 00:06:19,953
-Ei, princesinha. Menos conversa, mais trabalho.
+Ei princesinha. Menos conversa, mais trabalho.
 
 106
 00:06:26,793 --> 00:06:28,762
@@ -493,7 +493,7 @@ Eu te disse --
 
 124
 00:07:05,866 --> 00:07:07,868
-Em, estamos falando do Sean.
+Emma, estamos falando do Sean.
 
 125
 00:07:07,901 --> 00:07:10,704
@@ -733,7 +733,7 @@ Sem problemas.
 
 184
 00:11:59,959 --> 00:12:01,161
-Então, o que você quer fazer?
+Então o que você quer fazer?
 
 185
 00:12:01,194 --> 00:12:02,295
@@ -804,459 +804,457 @@ Já volto.
 Tem alguém aí?
 
 202
-00:13:53,239 --> 00:13:56,
-
-203
+00:13:53,239 --> 00:13:56,142
 Lou, você - viu alguém rondando por aqui?
 
-204
+203
 00:13:56,543 --> 00:13:58,111
 Você se importa de abrir essa porta para mim?
 
-205
+204
 00:13:58,144 --> 00:14:00,480
 Ok.
 
-206
+205
 00:14:26,172 --> 00:14:28,241
 Hora da segunda parte.
 
-207
+206
 00:14:33,947 --> 00:14:36,349
 Oi - eu gostaria de fazer um pedido, por favor?
 
-208
+207
 00:14:41,487 --> 00:14:42,589
 Você não precisava ter pagado meu jantar.
 
-209
+208
 00:14:42,622 --> 00:14:45,024
 Por favor. Depois de voltarmos para a minha casa para eu me trocar,
 
-210
+209
 00:14:45,058 --> 00:14:47,594
 e a minha mãe ter tirado outra foto nossa?
 
-211
+210
 00:14:47,627 --> 00:14:49,362
 Era o mínimo que eu podia fazer.
 
-212
+211
 00:14:49,395 --> 00:14:51,264
 Ah, bem - ok. Eu vou escolher o filme.
 
-213
+212
 00:14:51,297 --> 00:14:54,934
 Combinado. Eu peguei um hambúrguer vegetariano pra você... Espero que esteja tudo bem.
 
-214
+213
 00:14:54,968 --> 00:14:57,937
 Sim, tudo bem. Contanto que não seja um hambúrguer de carne.
 
-215
+214
 00:14:57,971 --> 00:14:59,939
 Você também é vegetariana?
 
-216
+215
 00:14:59,973 --> 00:15:02,408
 Na verdade, eu adoro carne.
 
-217
+216
 00:15:02,442 --> 00:15:04,677
 Mas no verão passado, eu passei um mês com meus tios
 
-218
+217
 00:15:04,711 --> 00:15:07,981
 na fazenda deles? Eles criam gado para abate.
 
-219
+218
 00:15:08,014 --> 00:15:09,716
 Abate?
 
-220
+219
 00:15:09,749 --> 00:15:12,952
 É, é um jeito mais educado de dizer "matança".
 
-221
+220
 00:15:12,986 --> 00:15:15,555
 Enfim, eu vi algumas vacas sendo "abatidas".
 
-222
+221
 00:15:15,588 --> 00:15:20,293
 Foi horrível. Os sons - e o sangue e as tripas,
 
-223
+222
 00:15:20,326 --> 00:15:24,464
 escorrendo por todo lado. E o cheiro, era simplesmente --
 
-224
+223
 00:15:25,298 --> 00:15:27,233
 Desculpe. Eu realmente não queria-
 
-225
+224
 00:15:27,267 --> 00:15:30,470
 Não. Está tudo bem. Sério.
 
-226
+225
 00:15:30,703 --> 00:15:33,706
 De qualquer forma, eu pensei que se eu não conseguia lidar
 
-227
+226
 00:15:33,740 --> 00:15:35,541
 em vê-los virar carne?
 
-228
+227
 00:15:35,575 --> 00:15:37,477
 Então eu também não conseguiria comer carne.
 
-229
+228
 00:15:37,510 --> 00:15:40,613
 É um bom jeito de ver as coisas.
 
-230
+229
 00:15:40,647 --> 00:15:43,683
 Quer dizer - muitas pessoas são hipócritas assim --
 
-231
+230
 00:15:43,716 --> 00:15:46,085
 Elas simplesmente pegam a carne no supermercado,
 
-232
+231
 00:15:46,119 --> 00:15:48,421
 em embalagens brilhantes e bonitas, e nem pensam
 
-233
+232
 00:15:48,454 --> 00:15:50,590
 no que aconteceu com ela antes de chegar lá.
 
-234
+233
 00:15:50,623 --> 00:15:53,359
 Você está com uma meleca no queixo.
 
-235
+234
 00:15:58,331 --> 00:16:03,670
 [batida na porta]
 
-236
+235
 00:16:07,206 --> 00:16:10,143
 Sim, doze dúzias de asinhas de frango com mel e alho aqui.
 
-237
+236
 00:16:10,176 --> 00:16:12,278
 Mas -- eu não pedi nada.
 
-238
+237
 00:16:12,312 --> 00:16:14,781
 O número aqui é 555-1950?
 
-239
+238
 00:16:14,814 --> 00:16:16,115
 Sim --
 
-240
+239
 00:16:16,149 --> 00:16:17,283
 E você é -- Sra. Kwan?
 
-241
+240
 00:16:17,317 --> 00:16:18,584
 Sim, mas --
 
-242
+241
 00:16:18,618 --> 00:16:20,119
 Então você pediu isso.
 
-243
+242
 00:16:20,153 --> 00:16:22,689
 São cinquenta e três e quarenta e oito, por favor.
 
-244
+243
 00:16:22,722 --> 00:16:25,491
 De jeito nenhum que eu vou pagar por isso!
 
-245
+244
 00:16:25,625 --> 00:16:31,564
 Sra. Kwan, eu ajudo a pagar, eu estou com fome.
 
-246
+245
 00:16:32,665 --> 00:16:35,034
 Eu estou com fome, Akesh ...
 
-247
+246
 00:16:35,134 --> 00:16:36,169
 Ok.
 
-248
+247
 00:16:38,538 --> 00:16:41,207
 Eu também estou com fome, Sra. Kwan.
 
-249
+248
 00:16:41,607 --> 00:16:43,710
 Você está com fome, cara? Você tem dinheiro?
 
-250
+249
 00:16:48,715 --> 00:16:50,817
 Ei, Sra. Kwan.
 
-251
+250
 00:16:50,850 --> 00:16:53,519
 Eu vou comer a asinha de frango.
 
-252
+251
 00:16:56,422 --> 00:16:59,158
 Eu como a asinha de frango.
 
-253
+252
 00:17:00,159 --> 00:17:02,095
 Eu comi a asinha de frango!
 
-254
+253
 00:17:07,100 --> 00:17:08,601
 Minha carteira.
 
-255
+254
 00:17:10,203 --> 00:17:12,372
 Eu pago o filme, lembra?
 
-256
+255
 00:17:12,405 --> 00:17:15,274
 Não, não é isso. Minha carteira estava na bandeja
 
-257
+256
 00:17:15,308 --> 00:17:17,443
 e aí nós jogamos nossas coisas fora-
 
-258
+257
 00:17:17,477 --> 00:17:18,811
 Você jogou sua carteira fora?
 
-259
+258
 00:17:18,845 --> 00:17:21,381
 Eu não sei. Acho que sim -!
 
-260
+259
 00:17:39,699 --> 00:17:41,701
 Acho que achei -
 
-261
+260
 00:17:44,303 --> 00:17:46,239
 Eca!
 
-262
+261
 00:17:50,710 --> 00:17:54,814
 Oi. Ela perdeu a carteira.
 
-263
+262
 00:17:56,349 --> 00:17:57,717
 Acho que vocês gostariam que a gente fizesse isso
 
-264
+263
 00:17:57,750 --> 00:18:00,520
 em outro lugar, né?
 
-265
+264
 00:18:01,621 --> 00:18:03,222
 Isso é por me fazer passar cada hora do almoço
 
-266
+265
 00:18:03,256 --> 00:18:05,158
 no refeitório.
 
-267
+266
 00:18:05,324 --> 00:18:08,494
 E isso é por me fazer usar uma rede de cabelo em público.
 
-268
+267
 00:18:09,862 --> 00:18:11,697
 Vamos lá, Jimmy. Pode mandar bala.
 
-269
+268
 00:18:11,831 --> 00:18:12,832
 Acho que não -
 
-270
+269
 00:18:12,865 --> 00:18:14,867
 Você não sabe o que está perdendo.
 
-271
+270
 00:18:16,269 --> 00:18:19,405
 E isso é por me fazer ler Shakespeare em público.
 
-272
+271
 00:18:19,572 --> 00:18:22,208
 E isso é por fazer eu e a Ashley nos sentirmos como lixo.
 
-273
+272
 00:18:39,692 --> 00:18:43,229
 [choro]
 
-274
+273
 00:18:51,971 --> 00:18:53,773
 Não está aqui.
 
-275
+274
 00:18:53,806 --> 00:18:56,909
 Alguém deve ter roubado.
 
-276
+275
 00:18:58,644 --> 00:19:00,546
 Você tem certeza de que a deixou na bandeja?
 
-277
+276
 00:19:00,580 --> 00:19:02,682
 Claro que eu tenho certeza. Eu paguei pela comida,
 
-278
+277
 00:19:02,715 --> 00:19:03,916
 coloquei minha carteira na bandeja -
 
-279
+278
 00:19:03,950 --> 00:19:06,452
 aí você quase derramou ketchup nela enquanto estávamos comendo -
 
-280
+279
 00:19:06,486 --> 00:19:08,321
 e então eu --
 
-281
+280
 00:19:11,591 --> 00:19:13,626
 Ah, não.
 
-282
+281
 00:19:14,460 --> 00:19:19,665
 Ah, não! Hum, está aqui.
 
-283
+282
 00:19:33,012 --> 00:19:36,782
 Então... isso é antes do cocô e isso é depois do cocô?
 
-284
+283
 00:19:37,383 --> 00:19:39,685
 Eu gostei mais da sua primeira roupa.
 
-285
+284
 00:19:41,654 --> 00:19:44,790
 Eu vou ter sorte se o Sean voltar a falar comigo.
 
-286
+285
 00:19:44,824 --> 00:19:46,692
 Emma. Se o Sean realmente gostar de você-
 
-287
+286
 00:19:46,726 --> 00:19:48,794
 ele não vai deixar que um pouco de cocô de pássaro, lixo podre
 
-288
+287
 00:19:48,828 --> 00:19:50,363
 e algumas fotos constrangedoras
 
-289
+288
 00:19:50,396 --> 00:19:53,399
 mudem a opinião dele. Sério.
 
-290
+289
 00:20:02,408 --> 00:20:03,910
 E então. Como está sua carteira?
 
-291
+290
 00:20:03,943 --> 00:20:07,647
 Sean, me desculpe, me desculpe, me desculpe pela noite de sexta.
 
-292
+291
 00:20:12,718 --> 00:20:15,788
 Posso ficar com isso?
 
-293
+292
 00:20:18,858 --> 00:20:20,893
 É todo seu.
 
-294
+293
 00:20:20,927 --> 00:20:23,429
 Obrigada.
 
-295
+294
 00:20:30,036 --> 00:20:32,338
 Você tinha que ver a cara dela.
 
-296
+295
 00:20:32,371 --> 00:20:34,640
 Eu queria ter uma câmera de vídeo!
 
-297
+296
 00:20:36,776 --> 00:20:38,878
 Foi muito engraçado.
 
-298
+297
 00:20:38,911 --> 00:20:41,781
 Me parece meio cruel.
 
-299
+298
 00:20:43,082 --> 00:20:46,652
 Olha, tanto faz. A Kwan pediu por isso, e a Kwan conseguiu.
 
-300
+299
 00:20:46,686 --> 00:20:48,921
 Em grande estilo.
 
-301
+300
 00:20:51,891 --> 00:20:54,393
 Bom dia a todos.
 
-302
+301
 00:20:54,427 --> 00:20:56,529
 A Sra. Kwan - não estará aqui hoje.
 
-303
+302
 00:20:56,562 --> 00:20:58,598
 Nem pelo resto do semestre.
 
-304
+303
 00:20:58,631 --> 00:21:01,367
 Ela solicitou uma licença. Que eu concedi.
 
-305
+304
 00:21:01,400 --> 00:21:04,704
 Então, eu a substituirei.
 
-306
+305
 00:21:04,737 --> 00:21:06,505
 Infelizmente, isso significa que cancelaremos
 
-307
+306
 00:21:06,539 --> 00:21:08,774
 a viagem de vocês para Stratford.
 
-308
+307
 00:21:10,376 --> 00:21:13,346
 A Sra. Kwan queria que eu pedisse desculpas a vocês por isso.
 
-309
+308
 00:21:15,014 --> 00:21:16,949
 A Sra. Kwan vai ficar bem?
 
-310
+309
 00:21:16,983 --> 00:21:19,619
 Bem - ela tem estado sob muita pressão ultimamente.
 
-311
+310
 00:21:19,652 --> 00:21:22,588
 O marido dela está muito doente. O estresse disso -
 
-312
+311
 00:21:22,622 --> 00:21:25,391
 somado ao trabalho em tempo integral - horas extras, na verdade -
 
-313
+312
 00:21:25,424 --> 00:21:27,693
 foi demais para ela.
 
-314
+313
 00:21:27,727 --> 00:21:29,996
 Certo. Abram seus livros...
 
-315
+314
 00:21:30,029 --> 00:21:32,031
 E suas mentes maleáveis.
 
-316
+315
 00:21:41,874 --> 00:21:48,881
 ♪ [música tema] ♪
