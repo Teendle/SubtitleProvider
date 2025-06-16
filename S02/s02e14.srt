@@ -1,58 +1,58 @@
 1
 00:00:08,282 --> 00:00:10,284
-CHUTA!
+Chuta!
 
 2
 00:00:10,317 --> 00:00:11,251
-ISSO!
+Isso!
 
 3
 00:00:20,394 --> 00:00:22,396
-TÁ OLHANDO O QUÊ, VIADO?
+Tá olhando o quê, viado?
 
 4
 00:00:22,429 --> 00:00:23,497
-O QUÊ?
+O quê?
 
 5
 00:00:24,298 --> 00:00:25,699
-NÃO CONSEGUE TIRAR OS OLHOS DE MIM.
+Não consegue tirar os olhos de mim.
 
 6
 00:00:25,733 --> 00:00:27,301
-Aham, SEI.
+Aham, sei.
 
 7
 00:00:27,334 --> 00:00:28,302
-VAMOS LÁ, PESSOAL. VAMOS JOGAR.
+Vamos lá, pessoal. Vamos jogar.
 
 8
 00:00:28,335 --> 00:00:31,205
-EI, JIMMY, QUE TAL SEU TIME SER PELADOS AGORA?
+Ei, Jimmy, que tal seu time ser "pelados" agora?
 
 9
 00:00:31,238 --> 00:00:33,841
-AH, ENTENDI. VOCÊ SÓ QUER ME VER SEM CAMISA.
+Ah, entendi. Você só quer me ver sem camisa.
 
 10
 00:00:33,874 --> 00:00:34,808
-É ISSO?
+É isso?
 
 11
 00:00:36,110 --> 00:00:37,378
-AHN, NÃO.
+Ahn, não.
 
 12
 00:00:38,579 --> 00:00:40,481
-PRONTO. QUEM MANDA AGORA?
+Pronto. Quem manda agora?
 
 13
 00:00:40,514 --> 00:00:42,416
-EI, SÓ FAÇA ISSO ENQUANTO ESTIVERMOS JOGANDO.
+Ei, só faça isso enquanto estivermos jogando.
 
 14
 00:00:42,449 --> 00:00:46,754
-CERTO, GAROTAS, VAMOS JOGAR OU NÃO?
+Certo, garotas, vamos jogar ou não?
 
 15
 00:00:50,224 --> 00:00:52,159
@@ -101,1282 +101,1280 @@ nos visite em: teendle.win
 
 26
 00:01:38,439 --> 00:01:40,474
-TEM CERTEZA DE QUE ESTOU BEM?
+Tem certeza de que estou bem?
 
 27
 00:01:40,507 --> 00:01:42,810
-DESDE QUANDO VOCÊ SE IMPORTA COM O QUE OS OUTROS PENSAM?
+Desde quando você se importa com o que os outros pensam?
 
 28
 00:01:42,843 --> 00:01:46,313
-NA VERDADE, NÃO. SÓ... CERTAS PESSOAS.
+Na verdade, não. Só... certas pessoas.
 
 29
 00:01:50,317 --> 00:01:54,221
-BOM, EU ACHO QUE VOCÊ ESTÁ ÓTIMO. SUPER NA MODA.
+Bom, eu acho que você está ótimo. Super na moda.
 
 30
 00:01:54,254 --> 00:01:56,790
-UAU! EI, JIM! É, ESPERA AÍ!
+Uau! Ei, Jim! É, espera aí!
 
 31
 00:01:57,458 --> 00:01:59,626
-TE VEJO DEPOIS?
+Te vejo depois?
 
 32
 00:02:02,496 --> 00:02:04,431
-O QUÊ? NENHUM BEIJINHO DE DESPEDIDA?
+O quê? Nenhum beijinho de despedida?
 
 33
 00:02:04,465 --> 00:02:07,768
-QUEM ME DERA. ELE É UM GRANDE AMIGO, MAS...
+Quem me dera. Ele é um grande amigo, mas...
 
 34
 00:02:07,801 --> 00:02:09,870
-MAS VOCÊ QUER MAIS, NÉ?
+Mas você quer mais, né?
 
 35
 00:02:13,207 --> 00:02:17,511
-CERTO. GRANDE DIA PARA VOCÊS. DRA. SALLY ESTÁ DE VOLTA.
+Ok. Grande dia para vocês. Dra. Sally está de volta.
 
 36
 00:02:17,544 --> 00:02:18,912
-QUEM É DRA. SALLY?
+Quem é Dra. Sally?
 
 37
 00:02:18,946 --> 00:02:21,415
-EDUCADORA SEXUAL. MUITO FRANCA, MUITO INFORMADA.
+Educadora sexual. Muito franca, muito informada.
 
 38
 00:02:21,448 --> 00:02:23,484
-SR. S...
+Sr. S...
 
 39
 00:02:23,917 --> 00:02:26,854
-SOU TOTALMENTE A FAVOR DESTA CONVERSA SOBRE SEXO, CLARO.
+sou totalmente a favor desta conversa sobre sexo, claro.
 
 40
 00:02:26,887 --> 00:02:29,590
-MAS NÃO FIZEMOS ISSO ANO PASSADO?
+Mas não fizemos isso ano passado?
 
 41
 00:02:29,623 --> 00:02:32,359
-SIM, MAS SEMPRE HÁ MAIS PARA APRENDER.
+Sim, mas sempre há mais para aprender sobre.
 
 42
 00:02:32,392 --> 00:02:34,795
-RELAÇÕES SEXUAIS SAUDÁVEIS. IDENTIDADE SEXUAL,
+relações sexuais saudáveis. Identidade sexual,
 
 43
 00:02:34,828 --> 00:02:36,396
-SER GAY POSITIVO, ESSAS COISAS.
+ser gay positivo, essas coisas.
 
 44
 00:02:36,430 --> 00:02:38,732
-TEM CERTEZA DE QUE ELE NÃO QUIS DIZER HIV POSITIVO?
+Tem certeza de que ele não quis dizer HIV positivo?
 
 45
 00:02:38,765 --> 00:02:40,267
-GAVIN.
+Gavin.
 
 46
 00:02:40,300 --> 00:02:44,505
-PIADAS DEPRECIATIVAS NÃO SÃO ACEITÁVEIS NUNCA.
+Piadas depreciativas não são aceitáveis nunca.
 
 47
 00:02:44,538 --> 00:02:45,739
-A INTOLERÂNCIA VEM DA IGNORÂNCIA.
+A intolerância vem da ignorância.
 
 48
 00:02:45,772 --> 00:02:48,675
-ENTÃO É BOM QUE VOCÊ ESTEJA VENDO A DRA. SALLY NA AULA DE SAÚDE HOJE.
+Então é bom que você esteja vendo a Dra. Sally na aula de saúde hoje.
 
 49
 00:02:48,709 --> 00:02:51,411
-EI, ELA É UM RECURSO VALIOSO.
+Ei, ah, ela é um recurso valioso.
 
 50
 00:02:51,445 --> 00:02:56,183
-APROVEITE-A, CERTO? FAÇA A ELA ESSAS PERGUNTAS IMPORTANTES.
+Aproveite-a, certo? Faça a ela essas perguntas importantes.
 
 51
 00:03:03,757 --> 00:03:06,460
-AGORA, SE VOCÊS DECIDIREM FAZER SEXO,
+Agora, se vocês decidirem fazer sexo,
 
 52
 00:03:06,493 --> 00:03:10,297
-USEM CAMISINHA, CAMISINHA, CAMISINHA.
+usem camisinha, camisinha, camisinha.
 
 53
 00:03:12,699 --> 00:03:15,802
-E ESSE TIPO DE RESPEITO É ESSENCIAL
+E esse tipo de respeito é essencial
 
 54
 00:03:15,836 --> 00:03:20,541
-EM RELACIONAMENTOS HETEROSSEXUAIS E HOMOSSEXUAIS.
+em relacionamentos heterossexuais e homossexuais.
 
 55
 00:03:20,574 --> 00:03:21,508
-HOMOSSEXUAL?
+Homossexual?
 
 56
 00:03:23,477 --> 00:03:24,778
-SIGNIFICA DOIS CARAS.
+Significa dois caras.
 
 57
 00:03:26,046 --> 00:03:29,850
-CAVALHEIROS, O PALCO É DE VOCÊS. NÃO SEJAM TÍMIDOS.
+Cavalheiros, o palco é de vocês. Não sejam tímidos.
 
 58
 00:03:33,554 --> 00:03:35,489
-A MAIORIA DOS CARAS... AS GAROTAS OS EXCITAM.
+A maioria dos caras... as garotas os excitam.
 
 59
 00:03:35,522 --> 00:03:36,390
-COM CERTEZA!
+Com certeza!
 
 60
 00:03:38,392 --> 00:03:39,726
-CERTO, ENTÃO, CARAS GAYS...
+Certo, então, caras gays...
 
 61
 00:03:39,760 --> 00:03:41,662
-COMO VER OUTRO CARA, AHN, OS EXCITA?
+como ver outro cara, ahn, os excita?
 
 62
 00:03:41,695 --> 00:03:45,632
-DA MESMA FORMA QUE VER UMA MULHER ATRATIVA
+Da mesma forma que ver uma mulher atraente
 
 63
 00:03:45,666 --> 00:03:47,467
-EXCITA OS CARAS HÉTEROS.
+excita os caras héteros.
 
 64
 00:03:47,501 --> 00:03:49,736
-MEU IRMÃO MAIS VELHO É GAY
+Meu irmão mais velho é gay
 
 65
 00:03:49,770 --> 00:03:53,040
-E ELE SEMPRE SOUBE, DIZ QUE NASCEU ASSIM.
+e ele sempre soube, diz que nasceu assim.
 
 66
 00:03:53,073 --> 00:03:56,577
-BOM, ESSA É UMA OPINIÃO, ALGUMAS PESSOAS ACHAM QUE É GENÉTICO.
+Bom, essa é uma opinião, algumas pessoas acham que é genético.
 
 67
 00:03:56,610 --> 00:03:59,513
-ISSO NÃO SIGNIFICARIA QUE PAIS GAYS TÊM FILHOS GAYS?
+Isso não significaria que pais gays têm filhos gays?
 
 68
 00:03:59,546 --> 00:04:03,717
-BEM, SE UMA CRIANÇA NASCE COM O CHAMADO "GENE GAY",
+Bem, se uma criança nasce com o chamado "gene gay",
 
 69
 00:04:03,750 --> 00:04:05,786
-ENTÃO SIM, É POSSÍVEL.
+então sim, é possível.
 
 70
 00:04:05,819 --> 00:04:07,688
-ALGUMAS PESSOAS DIZEM QUE É PECADO.
+Algumas pessoas dizem que é pecado.
 
 71
 00:04:07,721 --> 00:04:11,291
-QUAL É O MAIOR PECADO? SER VOCÊ MESMO?
+Qual é o maior pecado? Ser você mesmo?
 
 72
 00:04:11,325 --> 00:04:14,962
-OU FINGIR SER ALGUÉM QUE VOCÊ NÃO É?
+Ou fingir ser alguém que você não é?
 
 73
 00:04:23,704 --> 00:04:26,440
-AGORA, ÀS VEZES CHAMADO SIMPLESMENTE DE PROCESSADOR
+Agora, às vezes chamado simplesmente de processador
 
 74
 00:04:26,473 --> 00:04:27,975
-OU UNIDADE CENTRAL DE PROCESSAMENTO,
+ou unidade central de processamento,
 
 75
 00:04:28,008 --> 00:04:31,345
-A CPU É ONDE A MAIORIA DOS CÁLCULOS OCORREM.
+a CPU é onde a maioria dos cálculos ocorrem.
 
 76
 00:04:31,378 --> 00:04:33,614
-EM ESSÊNCIA, É O CÉREBRO DO SEU COMPUTADOR,
+Em essência, é o cérebro do seu computador,
 
 77
 00:04:33,647 --> 00:04:35,582
-A PARTE QUE SEU COMPUTADOR USA PARA PENSAR.
+a parte que seu computador usa para pensar.
 
 78
 00:04:35,616 --> 00:04:38,018
-ELE PROCESSA DADOS E QUALQUER INSTRUÇÃO QUE VOCÊ LHE DER.
+Ele processa dados e qualquer instrução que você lhe der.
 
 79
 00:04:38,051 --> 00:04:39,953
-SEJA DIRETAMENTE OU POR MEIO DE UM PROGRAMA.
+Seja diretamente ou por meio de um programa.
 
 80
 00:04:39,987 --> 00:04:41,922
-O QUE ELE ESTÁ FAZENDO?
+O que ele está fazendo?
 
 81
 00:04:42,823 --> 00:04:44,491
-EU ACHO MEIO FOFO.
+Eu acho meio fofo.
 
 82
 00:04:44,524 --> 00:04:46,059
-E MEIO OBSESSIVO.
+E meio obsessivo.
 
 83
 00:04:46,093 --> 00:04:48,495
-ESSA TAXA É CHAMADA DE VELOCIDADE DE PROCESSAMENTO CENTRAL.
+Essa taxa é chamada de velocidade de processamento central.
 
 84
 00:04:48,528 --> 00:04:51,798
-E É MEDIDA EM MEGA-HERTZ.
+E é medida em mega-hertz.
 
 85
 00:04:58,138 --> 00:05:03,610
-KENDRA, DIZ AO SEU NAMORADO QUE A HORA DA AULA É MINHA, NÃO DELE.
+Kendra, diz ao seu namorado que a hora da aula é minha, não dele.
 
 86
 00:05:03,644 --> 00:05:04,945
-DESCULPE, SR. SIMPSON.
+Desculpe, Sr. Simpson.
 
 87
 00:05:06,480 --> 00:05:08,081
-EM TERMOS DE PODER DE COMPUTAÇÃO, A CPU
+Em termos de poder de computação, a CPU
 
 88
 00:05:08,115 --> 00:05:10,417
-É O ELEMENTO MAIS IMPORTANTE.
+é o elemento mais importante.
 
 89
 00:05:10,450 --> 00:05:11,618
-OBRIGADO, DRA. SALLY.
+Obrigado, Dra. Sally.
 
 90
 00:05:11,652 --> 00:05:12,719
-DE NADA.
+De nada.
 
 91
 00:05:12,753 --> 00:05:14,488
-PESSOAL, NÃO SE ESQUEÇAM DE PEGAR SEUS KITS DE AMOSTRAS
+Pessoal, não se esqueçam de pegar seus kits de amostras
 
 92
 00:05:14,521 --> 00:05:15,622
-NA SAÍDA.
+na saída.
 
 93
 00:05:15,656 --> 00:05:17,591
-E RECAPITULANDO, PARA MAIS INFORMAÇÕES,
+E recapitulando, para mais informações,
 
 94
 00:05:17,624 --> 00:05:19,493
-VOCÊS PODEM ACESSAR O SITE DA DRA. SALLY,
+vocês podem acessar o site da Dra. Sally,
 
 95
 00:05:19,526 --> 00:05:22,429
-O ENDEREÇO ESTÁ NO QUADRO.
+o endereço está no quadro.
 
 96
 00:05:22,462 --> 00:05:24,598
-E TODA QUARTA-FEIRA À NOITE HÁ
+E toda quarta-feira à noite há
 
 97
 00:05:24,631 --> 00:05:28,001
-UM ENCONTRO DE JOVENS GAYS, LÉSBICAS, BIS E TRANSGÊNEROS
+um encontro de jovens gays, lésbicas, bis e transgêneros
 
 98
 00:05:28,035 --> 00:05:32,539
-NO CENTRO COMUNITÁRIO NA RUA CHURCH. DÊEM UMA OLHADA.
+no centro comunitário na rua Church. Dêem uma olhada.
 
 99
 00:05:34,541 --> 00:05:35,509
-DRA. SALLY, OI.
+Dra. Sally, ei.
 
 100
 00:05:36,610 --> 00:05:39,012
-VAI EM FRENTE, EU OUVI TUDO.
+Vai em frente, eu ouvi tudo.
 
 101
 00:05:39,046 --> 00:05:40,881
-É SOBRE UM GAROTO.
+É sobre um garoto.
 
 102
 00:05:40,914 --> 00:05:44,851
-EU GOSTO DELE, ELE GOSTA DE MIM. PELO MENOS, COMO AMIGO.
+Eu gosto dele, ele gosta de mim. Pelo menos, como amigo.
 
 103
 00:05:45,886 --> 00:05:46,720
-MAS NÃO...
+Mas não...
 
 104
 00:05:48,455 --> 00:05:49,523
-EU NÃO SEI.
+Eu não sei.
 
 105
 00:05:50,524 --> 00:05:53,460
-EU DISSE A ELE QUE GOSTAVA DELE, MAS NADA ACONTECEU.
+Eu disse a ele que gostava dele, mas nada aconteceu.
 
 106
 00:05:53,493 --> 00:05:55,562
-OS GAROTOS TAMBÉM FICAM NERVOSOS.
+Os garotos também ficam nervosos.
 
 107
 00:05:55,595 --> 00:05:59,032
-POR QUE VOCÊ NÃO CONVERSA COM ELE? SEJA CORAJOSA.
+Por que você não conversa com ele? Seja corajosa.
 
 108
 00:05:59,066 --> 00:06:01,601
-CONVERSE MAIS COM ELE.
+Converse mais com ele.
 
 109
 00:06:12,713 --> 00:06:15,115
-AQUI ESTÁ...
+Aqui está...
 
 110
 00:06:15,982 --> 00:06:18,118
-EI, MARCY, NÃO ESQUEÇA SEU ABSORVENTE!
+Ei, Marcy, não esqueça seu absorvente!
 
 111
 00:06:18,151 --> 00:06:19,319
-CALA A BOCA.
+Cala a boca.
 
 112
 00:06:19,352 --> 00:06:22,589
-O QUE FOI? DISTRAÍDA PELOS CONSELHOS DA DRA. SALLY SOBRE AMOR ENTRE GAROTOS?
+O que foi? Distraída pelos conselhos da Dra. Sally sobre amor entre garotos?
 
 113
 00:06:22,622 --> 00:06:24,658
-SPINNER, CALA A BOCA, TÁ?
+Spinner, cala a boca, tá?
 
 114
 00:06:25,559 --> 00:06:27,194
-FOI SÓ UMA PIADA, CARA.
+Foi só uma piada, cara.
 
 115
 00:06:27,227 --> 00:06:28,028
-OLHA, SÓ NÃO DÊ ATENÇÃO A ELE.
+Olha, só não dê atenção a ele.
 
 116
 00:06:28,061 --> 00:06:29,029
-ELE SÓ ESTÁ TENTANDO TE PROVOCAR.
+Ele só está tentando te provocar.
 
 117
 00:06:29,062 --> 00:06:31,598
-EU ODEIO VIADOS, SABE? O QUE ELES FAZEM ME DÁ NOJO.
+Eu odeio viados, sabe? O que eles fazem me dá nojo.
 
 118
 00:06:31,631 --> 00:06:32,799
-EI, MARCO.
+Ei, Marco...
 
 119
 00:06:32,833 --> 00:06:35,836
-ENTÃO APENAS PARE COM ISSO. TIPO, ONTEM MESMO, CERTO?
+Então apenas pare com isso. Tipo, ontem mesmo, certo?
 
 120
 00:06:40,173 --> 00:06:41,942
-SEUS OLHOS SÃO TÃO LINDOS.
+Seus olhos são tão lindos.
 
 121
 00:06:41,975 --> 00:06:45,712
-ELES TÊM MANCHAS VERDES, DOURADAS, NÃO... TOPÁZIO...
+Eles têm manchas verdes, douradas, não... topázio...
 
 122
 00:06:47,013 --> 00:06:47,914
-É MESMO?
+É mesmo?
 
 123
 00:06:47,948 --> 00:06:49,516
-SIM.
+Sim.
 
 124
 00:06:49,549 --> 00:06:51,218
-AHN, OI, EU AINDA ESTOU AQUI.
+Ahn, oi, eu ainda estou aqui.
 
 125
 00:06:51,251 --> 00:06:52,819
-ESTOU TENTANDO COMER.
+Estou tentando comer.
 
 126
 00:06:52,853 --> 00:06:55,589
-DESCULPE. DEVEMOS ESTAR SENDO BEM NOJENTOS.
+Desculpe. Devemos estar sendo bem nojentos.
 
 127
 00:06:55,622 --> 00:06:56,823
-AHN, NÃO MUITO.
+Ahn, não muito.
 
 128
 00:07:00,894 --> 00:07:02,496
-AI, MEU DEUS, ESTOU MENTINDO.
+Ai, meu Deus, estou mentindo.
 
 129
 00:07:04,664 --> 00:07:05,532
-ATÉ LOGO, PESSOAL.
+Até logo, pessoal.
 
 130
 00:07:10,904 --> 00:07:11,838
-TOBY?
+Toby?
 
 131
 00:07:12,773 --> 00:07:15,142
-TALVEZ O JT TENHA RAZÃO.
+Talvez o JT tenha razão.
 
 132
 00:07:15,175 --> 00:07:16,676
-JT? RAZÃO?
+JT? Razão?
 
 133
 00:07:17,911 --> 00:07:19,646
-ESSA É NOVA.
+Essa é nova.
 
 134
 00:07:19,679 --> 00:07:21,648
-A SÉRIO. TALVEZ DEVÊSSEMOS,
+A sério. Talvez devêssemos,
 
 135
 00:07:21,681 --> 00:07:24,117
-VOCÊ SABE, DAR UMA ESFRIADA NAS COISAS.
+você sabe, dar uma esfriada nas coisas.
 
 136
 00:07:24,151 --> 00:07:25,152
-COMO ASSIM?
+Como assim?
 
 137
 00:07:25,185 --> 00:07:26,753
-QUANDO VOCÊ ME MANDOU BEIJINHOS NA AULA DO SIMPSON?
+Quando você me mandou beijinhos na aula do Simpson?
 
 138
 00:07:26,787 --> 00:07:27,621
-EU ME DEI MAL.
+Eu me dei mal.
 
 139
 00:07:27,654 --> 00:07:28,755
-EU TAMBÉM!
+Eu também!
 
 140
 00:07:28,789 --> 00:07:32,659
-KWAN NÃO ACHOU QUE EU PRECISAVA DE TANTO TEMPO NO BANHEIRO ASSIM...
+Kwan não achou que eu precisava de tanto tempo no banheiro assim...
 
 141
 00:07:32,692 --> 00:07:34,995
-EU ESTAVA PENSANDO NOS SEUS PROBLEMAS DE INGLÊS.
+Eu estava pensando nos seus problemas de inglês.
 
 142
 00:07:35,028 --> 00:07:37,063
-VOCÊ É UM AMOR, TOBY, MAS ESTOU BEM.
+Você é um amor, Toby, mas estou bem.
 
 143
 00:07:37,097 --> 00:07:38,331
-NÃO, EU QUERO AJUDAR.
+Não, eu quero ajudar.
 
 144
 00:07:38,365 --> 00:07:41,268
-ENTÃO EU MARQUEI ALGUMAS AULAS PARTICULARES PARA NÓS DOIS.
+Então eu marquei algumas aulas particulares para nós dois.
 
 145
 00:07:41,301 --> 00:07:45,038
-E ALGUNS INTERVALOS PARA ESTUDOS, PARA FICARMOS JUNTOS.
+E alguns intervalos para estudos, para ficarmos juntos.
 
 146
 00:07:45,071 --> 00:07:47,774
-QUARTA É MEU TREINO DE HÓQUEI.
+Quarta é meu treino de hóquei.
 
 147
 00:07:47,808 --> 00:07:48,675
-VOCÊ NÃO ACHA QUE SUAS NOTAS DE INGLÊS
+Você não acha que suas notas de inglês
 
 148
 00:07:48,708 --> 00:07:50,911
-SÃO UM POUCO MAIS IMPORTANTES DO QUE ISSO?
+são um pouco mais importantes do que isso?
 
 149
 00:07:50,944 --> 00:07:54,481
-NÃO, NÃO SÃO. ENTÃO, POR FAVOR, PARE.
+Não, não são. Então, por favor, pare.
 
 150
 00:08:02,189 --> 00:08:03,857
-AGORA, SE O SEU GRUPO ESTIVER PRESTANDO ATENÇÃO,
+Agora, se o seu grupo estiver prestando atenção,
 
 151
 00:08:03,890 --> 00:08:06,660
-VOCÊS DEVEM SER CAPAZES DE PERCEBER OS TRUQUES DO CINEMATOGRAFISTA.
+vocês devem ser capazes de perceber os truques do cinematografista.
 
 152
 00:08:06,693 --> 00:08:08,795
-PRESTEM ATENÇÃO ÀS TÉCNICAS DE NARRATIVA E VOZ OVER.
+Prestem atenção às técnicas de narrativa e voz over.
 
 153
 00:08:08,829 --> 00:08:11,031
-CONSIDEREM AS ESCOLHAS DE EDIÇÃO.
+Considerem as escolhas de edição.
 
 154
 00:08:11,064 --> 00:08:15,168
-COMO A MÚSICA ESTÁ INFLUENCIANDO O PONTO DE VISTA DOS CINEMATOGRAFISTAS, CERTO?
+Como a música está influenciando o ponto de vista dos cinematografistas, certo?
 
 155
 00:08:15,202 --> 00:08:20,140
-TODOS OS TRABALHOS SERÃO ENTREGUES NA SEXTA-FEIRA. TENHAM UM BOM DIA, PESSOAL.
+Todos os trabalhos serão entregues na sexta-feira. Tenham um bom dia, pessoal.
 
 156
 00:08:21,708 --> 00:08:24,778
-PESSOAL, VOLTO EM ALGUNS MINUTOS PARA FECHAR A LOJA, CERTO?
+Pessoal, volto em alguns minutos para fechar a loja, certo?
 
 157
 00:08:24,811 --> 00:08:27,547
-AHN, SIM. SEM PROBLEMAS, SR. SIMPSON.
+Ahn, sim. Sem problemas, Sr. Simpson.
 
 158
 00:08:55,842 --> 00:08:57,310
-EI, MARCO?
+Ei, Marco?
 
 159
 00:09:07,354 --> 00:09:10,223
-VOCÊ VAI ANDANDO PARA CASA COM A GENTE OU NÃO?
+Você vai andando para casa com a gente ou não?
 
 160
 00:09:10,257 --> 00:09:11,324
-NÃO, NÃO, TUDO BEM,
+Não, não, tudo bem,
 
 161
 00:09:11,358 --> 00:09:13,927
-VEJO VOCÊS AMANHÃ.
+vejo vocês amanhã.
 
 162
 00:09:13,960 --> 00:09:14,561
-CERTO.
+Certo.
 
 163
 00:09:25,238 --> 00:09:26,973
-MAS EU GOSTO DAS BALAS ÁCIDAS.
+Mas eu gosto das balas ácidas.
 
 164
 00:09:27,007 --> 00:09:27,941
-CLARO, ELAS SÃO BOAS.
+Claro, elas são boas.
 
 165
 00:09:27,974 --> 00:09:31,311
-MAS HÁ UM MUNDO INTEIRO DE BALAS DE GOMA PARA EXPLORAR.
+Mas há um mundo inteiro de balas de goma para explorar.
 
 166
 00:09:31,344 --> 00:09:32,679
-AQUI.
+Aqui.
 
 167
 00:09:35,415 --> 00:09:36,616
-MARCO?
+Marco?
 
 168
 00:09:38,051 --> 00:09:39,052
-DESCULPE, O QUÊ?
+Desculpe, o quê?
 
 169
 00:09:40,420 --> 00:09:43,223
-NÃO É FÁCIL PARA MIM PERGUNTAR.
+Não é fácil para mim perguntar.
 
 170
 00:09:44,257 --> 00:09:45,926
-ESTOU OUVINDO. ESTOU.
+Estou ouvindo. Estou.
 
 171
 00:09:46,760 --> 00:09:47,160
-CERTO.
+Certo.
 
 172
 00:09:49,195 --> 00:09:51,364
-BEM, SOMOS APENAS AMIGOS?
+Bem, somos apenas amigos?
 
 173
 00:09:56,403 --> 00:09:58,605
-ELLIE, EU GOSTO DE VOCÊ. MUITO.
+Ellie, eu gosto de você. Muito.
 
 174
 00:10:00,407 --> 00:10:02,742
-E EU ACHO QUE VOCÊ TAMBÉM GOSTA DE MIM, CERTO?
+E eu acho que você também gosta de mim, certo?
 
 175
 00:10:02,776 --> 00:10:06,379
-ENTÃO VAMOS SAIR. TIPO, EM UM ENCONTRO DE VERDADE.
+Então vamos sair. Tipo, em um encontro de verdade.
 
 176
 00:10:06,413 --> 00:10:07,914
-VOCÊ ESTÁ FALANDO SÉRIO?
+Você está falando sério?
 
 177
 00:10:07,948 --> 00:10:09,616
-SIM. TOTALMENTE.
+Sim. Totalmente.
 
 178
 00:11:04,437 --> 00:11:07,073
-NOSSO GRUPO DE IMERSÃO NA MÍDIA VAI SE REUNIR NA MINHA CASA ÀS SETE, CERTO?
+Nosso grupo de imersão na mídia vai se reunir na minha casa às sete, certo?
 
 179
 00:11:07,107 --> 00:11:10,110
-CLARO. EU LEVO A FITA.
+Claro. Eu levo a fita.
 
 180
 00:11:10,143 --> 00:11:11,911
-ESTRANHO TER O JIMMY AQUI DE NOVO.
+Estranho ter o Jimmy aqui de novo.
 
 181
 00:11:11,945 --> 00:11:14,681
-BEM, ELE ESTÁ NO NOSSO GRUPO...
+Bem, ele está no nosso grupo...
 
 182
 00:11:15,348 --> 00:11:17,183
-EI, EL! ESPERA AÍ!
+Ei, El! Espera aí!
 
 183
 00:11:17,984 --> 00:11:19,819
-POSSO TE ENCONTRAR LÁ DENTRO?
+Posso te encontrar lá dentro?
 
 184
 00:11:19,853 --> 00:11:21,488
-EL, ESPERA.
+El, espera.
 
 185
 00:11:21,521 --> 00:11:24,024
-POR FAVOR, NÃO TRANSFORME ISSO EM UMA CENA MELOSA DE CONVERSA DE GAROTAS.
+Por favor, não transforme isso em uma cena melosa de conversa de garotas.
 
 186
 00:11:24,057 --> 00:11:25,325
-ESTOU BEM.
+Estou bem.
 
 187
 00:11:26,459 --> 00:11:29,462
-CERTO. DEIXE-ME ADIVINHAR. ENCONTRO RUIM?
+Certo. Deixe-me adivinhar. Encontro ruim?
 
 188
 00:11:29,496 --> 00:11:31,765
-NÃO. EU ME DIVERTI.
+Não. Eu me diverti.
 
 189
-00:11:31,798 --> 00:11:34,
+00:11:31,798 --> 00:11:34,334
+Eu sempre me divirto com o Marco.
 
 190
-EU SEMPRE ME DIVIRTO COM O MARCO.
+00:11:34,367 --> 00:11:36,403
+Mas... foi só isso.
 
 191
-00:11:34,367 --> 00:11:36,403
-MAS... FOI SÓ ISSO.
+00:11:36,436 --> 00:11:39,706
+Ah. Nenhum beijo? Nem mesmo um boa noite?
 
 192
-00:11:36,436 --> 00:11:39,706
-AH. NENHUM BEIJO? NEM MESMO UM BOA NOITE?
+00:11:40,473 --> 00:11:44,010
+Talvez ele não goste de mim desse jeito.
 
 193
-00:11:40,473 --> 00:11:44,010
-TALVEZ ELE NÃO GOSTE DE MIM DESSE JEITO.
+00:11:45,512 --> 00:11:48,982
+Ou... talvez ele não goste de garotas.
 
 194
-00:11:45,512 --> 00:11:48,982
-OU... TALVEZ ELE NÃO GOSTE DE GAROTAS.
+00:11:52,919 --> 00:11:55,288
+Do Spinner, eu esperaria isso.
 
 195
-00:11:52,919 --> 00:11:55,288
-DO SPINNER, EU ESPERARIA ISSO.
+00:11:55,321 --> 00:11:56,956
+Mas de você?
 
 196
-00:11:55,321 --> 00:11:56,956
-MAS DE VOCÊ?
+00:11:56,990 --> 00:11:58,391
+Decepcionante.
 
 197
-00:11:56,990 --> 00:11:58,391
-DECEPCIONANTE.
+00:11:58,425 --> 00:11:59,292
+Só estou preocupada.
 
 198
-00:11:58,425 --> 00:11:59,292
-SÓ ESTOU PREOCUPADA.
+00:11:59,325 --> 00:12:00,460
+Por quê...?
 
 199
-00:11:59,325 --> 00:12:00,460
-POR QUÊ...?
+00:12:01,561 --> 00:12:04,097
+Pelo que minha família passou antes do meu pai sair do armário?
 
 200
-00:12:01,561 --> 00:12:04,097
-PELO QUE MINHA FAMÍLIA PASSOU ANTES DO MEU PAI SAIR DO ARMÁRIO?
+00:12:04,130 --> 00:12:04,798
+Não foi legal.
 
 201
-00:12:04,130 --> 00:12:04,798
-NÃO FOI LEGAL.
+00:12:05,665 --> 00:12:08,234
+E não é relevante. O Marco é hétero.
 
 202
-00:12:05,665 --> 00:12:08,234
-E NÃO É RELEVANTE. O MARCO É HÉTERO.
+00:12:13,239 --> 00:12:15,075
+Alguém está apaixonado.
 
 203
-00:12:13,239 --> 00:12:15,075
-ALGUÉM ESTÁ APAIXONADO.
+00:12:15,108 --> 00:12:18,078
+É. Mas acho que ela está brava comigo.
 
 204
-00:12:15,108 --> 00:12:18,078
-É. MAS ACHO QUE ELA ESTÁ BRAVA COMIGO.
+00:12:18,111 --> 00:12:21,314
+E você está fazendo isso... por ela?
 
 205
-00:12:18,111 --> 00:12:21,314
-E VOCÊ ESTÁ FAZENDO ISSO... POR ELA?
+00:12:22,148 --> 00:12:23,149
+Grande erro.
 
 206
-00:12:22,148 --> 00:12:23,149
-GRANDE ERRO.
+00:12:24,150 --> 00:12:27,353
+Acredite em mim, Toby, isso vai fazer ela se sentir sufocada.
 
 207
-00:12:24,150 --> 00:12:27,353
-ACREDITE EM MIM, TOBY, ISSO VAI FAZER ELA SE SENTIR SUFOCADA.
+00:12:27,387 --> 00:12:28,354
+Sufocada? Não.
 
 208
-00:12:27,387 --> 00:12:28,354
-SUFOCADA? NÃO.
+00:12:29,422 --> 00:12:31,825
+Isso vai mostrar a ela que eu me importo.
 
 209
-00:12:29,422 --> 00:12:31,825
-ISSO VAI MOSTRAR A ELA QUE EU ME IMPORTO.
+00:12:31,858 --> 00:12:33,326
+Toby?
 
 210
-00:12:31,858 --> 00:12:33,326
-TOBY?
+00:12:37,397 --> 00:12:39,199
+O que você está fazendo?
 
 211
-00:12:37,397 --> 00:12:39,199
-O QUE VOCÊ ESTÁ FAZENDO?
+00:12:41,401 --> 00:12:42,268
+Para você.
 
 212
-00:12:41,401 --> 00:12:42,268
-PARA VOCÊ.
+00:12:44,404 --> 00:12:45,205
+Obrigada.
 
 213
-00:12:44,404 --> 00:12:45,205
-OBRIGADA.
+00:13:01,387 --> 00:13:02,355
+Eu te avisei.
 
 214
-00:13:01,387 --> 00:13:02,355
-EU TE AVISEI.
+00:13:09,028 --> 00:13:12,232
+Ei, Marcy, você não está no vestiário errado?
 
 215
-00:13:09,028 --> 00:13:12,232
-EI, MARCY, VOCÊ NÃO ESTÁ NO VESTIÁRIO ERRADO?
+00:13:12,265 --> 00:13:13,600
+Cala a boca, idiota.
 
 216
-00:13:12,265 --> 00:13:13,600
-CALA A BOCA, IDIOTA.
+00:13:13,633 --> 00:13:15,168
+Você só faz uma piada boa por ano.
 
 217
-00:13:13,633 --> 00:13:15,168
-VOCÊ SÓ FAZ UMA PIADA BOA POR ANO.
+00:13:15,201 --> 00:13:17,537
+E você a repete sem parar...
 
 218
-00:13:15,201 --> 00:13:17,537
-E VOCÊ A REPETE SEM PARAR...
+00:13:17,570 --> 00:13:19,973
+Não, não me importa quantas piadas esse cara faz.
 
 219
-00:13:17,570 --> 00:13:19,973
-NÃO, NÃO ME IMPORTA QUANTAS PIADAS ESSE CARA FAZ.
+00:13:20,006 --> 00:13:23,343
+Porque eu sou o único aqui com namorada.
 
 220
-00:13:20,006 --> 00:13:23,343
-PORQUE EU SOU O ÚNICO AQUI COM NAMORADA.
+00:13:23,977 --> 00:13:25,512
+Sério? Quem?
 
 221
-00:13:23,977 --> 00:13:25,512
-SÉRIO? QUEM?
+00:13:26,312 --> 00:13:27,280
+Ellie.
 
 222
-00:13:26,312 --> 00:13:27,280
-ELLIE.
+00:13:29,616 --> 00:13:31,351
+Ellie é sua amiga, que é uma garota,
 
 223
-00:13:29,616 --> 00:13:31,351
-ELLIE É SUA AMIGA, QUE É UMA GAROTA,
+00:13:31,384 --> 00:13:33,153
+mas ela não é sua namorada.
 
 224
-00:13:31,384 --> 00:13:33,153
-MAS ELA NÃO É SUA NAMORADA.
+00:13:33,186 --> 00:13:34,454
+São coisas diferentes.
 
 225
-00:13:33,186 --> 00:13:34,454
-SÃO COISAS DIFERENTES.
+00:13:34,487 --> 00:13:37,490
+Bom, não depois de ontem à noite.
 
 226
-00:13:34,487 --> 00:13:37,490
-BOM, NÃO DEPOIS DE ONTEM À NOITE.
+00:13:40,160 --> 00:13:42,228
+Certo, Del Rossi. Detalhes.
 
 227
-00:13:40,160 --> 00:13:42,228
-CERTO, DEL ROSSI. DETALHES.
+00:13:43,596 --> 00:13:46,332
+Hambúrgueres, filme, longa caminhada para casa...
 
 228
-00:13:43,596 --> 00:13:46,332
-HAMBÚRGUERES, FILME, LONGA CAMINHADA PARA CASA...
+00:13:48,034 --> 00:13:52,038
+Até onde vocês foram? Terceira base? Segunda base?
 
 229
-00:13:48,034 --> 00:13:52,038
-ATÉ ONDE VOCÊS FORAM? TERCEIRA BASE? SEGUNDA BASE?
+00:13:52,071 --> 00:13:53,039
+Vocês ficaram?
 
 230
-00:13:52,071 --> 00:13:53,039
-VOCÊS FICARAM?
+00:13:53,072 --> 00:13:54,474
+Sim. A última coisa.
 
 231
-00:13:53,072 --> 00:13:54,474
-SIM. A ÚLTIMA COISA.
+00:13:56,075 --> 00:13:59,546
+A gente meio que se beijou... por, tipo, uma eternidade.
 
 232
-00:13:56,075 --> 00:13:59,546
-A GENTE MEIO QUE SE BEIJOU... POR, TIPO, UMA ETERNIDADE.
+00:14:02,682 --> 00:14:06,152
+E você é um péssimo mentiroso. Perdedor.
 
 233
-00:14:02,682 --> 00:14:06,152
-E VOCÊ É UM PÉSSIMO MENTIROSO. PERDEDOR.
+00:14:16,596 --> 00:14:18,498
+Quero que cada um de vocês escreva uma redação de duas páginas
 
 234
-00:14:16,596 --> 00:14:18,498
-QUERO QUE CADA UM DE VOCÊS ESCREVA UMA REDAÇÃO DE DUAS PÁGINAS
+00:14:18,531 --> 00:14:20,667
+sobre a carreira dos seus sonhos.
 
 235
-00:14:18,531 --> 00:14:20,667
-SOBRE A CARREIRA DOS SEUS SONHOS.
+00:14:20,700 --> 00:14:22,635
+Não se preocupem em ser práticos.
 
 236
-00:14:20,700 --> 00:14:22,635
-NÃO SE PREOCUPEM EM SER PRÁTICOS.
+00:14:22,669 --> 00:14:25,305
+Este exercício é sobre esperanças, não medos.
 
 237
-00:14:22,669 --> 00:14:25,305
-ESTE EXERCÍCIO É SOBRE ESPERANÇAS, NÃO MEDOS.
+00:14:25,338 --> 00:14:28,174
+Meu medo é que a Kendra me odeie.
 
 238
-00:14:25,338 --> 00:14:28,174
-MEU MEDO É QUE A KENDRA ME ODEIE.
+00:14:28,208 --> 00:14:30,043
+Minha esperança é que eu morra.
 
 239
-00:14:28,208 --> 00:14:30,043
-MINHA ESPERANÇA É QUE EU MORRA.
+00:14:31,444 --> 00:14:32,412
+Me dá um tempo.
 
 240
-00:14:31,444 --> 00:14:32,412
-ME DÁ UM TEMPO.
+00:14:33,379 --> 00:14:35,315
+Acho que ela quer terminar comigo.
 
 241
-00:14:33,379 --> 00:14:35,315
-ACHO QUE ELA QUER TERMINAR COMIGO.
+00:14:35,348 --> 00:14:38,318
+O que eu disse sobre conversar?
 
 242
-00:14:35,348 --> 00:14:38,318
-O QUE EU DISSE SOBRE CONVERSAR?
+00:14:38,351 --> 00:14:39,586
+Desculpe, senhor.
 
 243
-00:14:38,351 --> 00:14:39,586
-DESCULPE, SENHOR.
+00:14:39,619 --> 00:14:40,987
+Posso ir ao banheiro?
 
 244
-00:14:39,619 --> 00:14:40,987
-POSSO IR AO BANHEIRO?
+00:14:41,020 --> 00:14:43,423
+Não. Você pode começar o exercício.
 
 245
-00:14:41,020 --> 00:14:43,423
-NÃO. VOCÊ PODE COMEÇAR O EXERCÍCIO.
+00:14:52,432 --> 00:14:54,133
+Ei, é a namorada do Marco.
 
 246
-00:14:52,432 --> 00:14:54,133
-EI, É A NAMORADA DO MARCO.
+00:14:54,167 --> 00:14:56,336
+Ou será que é a esposa dele? Eu realmente não consigo acompanhar.
 
 247
-00:14:54,167 --> 00:14:56,336
-OU SERÁ QUE É A ESPOSA DELE? EU REALMENTE NÃO CONSIGO ACOMPANHAR.
+00:14:56,369 --> 00:14:58,905
+Só um minuto, pessoal.
 
 248
-00:14:56,369 --> 00:14:58,905
-SÓ UM MINUTO, PESSOAL.
+00:15:00,473 --> 00:15:01,374
+Oi, Ellie.
 
 249
-00:15:00,473 --> 00:15:01,374
-OI, ELLIE.
+00:15:01,407 --> 00:15:01,941
+Oi.
 
 250
-00:15:01,407 --> 00:15:01,941
-OI.
+00:15:03,576 --> 00:15:05,445
+Eu me diverti muito ontem à noite.
 
 251
-00:15:03,576 --> 00:15:05,445
-EU ME DIVERTI MUITO ONTEM À NOITE.
+00:15:05,478 --> 00:15:07,247
+É, eu também.
 
 252
-00:15:05,478 --> 00:15:07,247
-É, EU TAMBÉM.
+00:15:07,280 --> 00:15:09,949
+Mas, eu meio que esqueci uma coisa...
 
 253
-00:15:07,280 --> 00:15:09,949
-MAS, EU MEIO QUE ESQUECI UMA COISA...
+00:15:13,319 --> 00:15:13,620
+Marco!
 
 254
-00:15:13,319 --> 00:15:13,620
-MARCO!
+00:15:18,458 --> 00:15:21,261
+Eles estão esperando. Te vejo depois?
 
 255
-00:15:18,458 --> 00:15:21,261
-ELES ESTÃO ESPERANDO. TE VEJO DEPOIS?
+00:15:26,165 --> 00:15:28,434
+Vai, Marco.
 
 256
-00:15:26,165 --> 00:15:28,434
-VAI LÁ, MARCO.
+00:15:28,468 --> 00:15:32,071
+As coisas estão melhorando para você, amigo.
 
 257
-00:15:28,468 --> 00:15:32,071
-AS COISAS ESTÃO MELHORANDO PARA VOCÊ, AMIGO.
+00:15:34,674 --> 00:15:36,576
+Aquela jogada foi incrível.
 
 258
-00:15:34,674 --> 00:15:36,576
-AQUELA JOGADA FOI INCRÍVEL.
+00:15:36,609 --> 00:15:39,379
+Foi como se a bola estivesse esperando eu chutá-la.
 
 259
-00:15:36,609 --> 00:15:39,379
-FOI COMO SE A BOLA ESTIVESSE ESPERANDO EU CHUTÁ-LA.
+00:15:39,412 --> 00:15:40,280
+Tão legal.
 
 260
-00:15:39,412 --> 00:15:40,280
-TÃO LEGAL.
+00:15:41,581 --> 00:15:42,115
+Ei.
 
 261
-00:15:41,581 --> 00:15:42,115
-EI.
+00:15:45,652 --> 00:15:46,586
+Toby?
 
 262
-00:15:45,652 --> 00:15:46,586
-TOBY?
+00:15:48,354 --> 00:15:49,088
+Para onde você está indo?
 
 263
-00:15:48,354 --> 00:15:49,088
-PARA ONDE VOCÊ ESTÁ INDO?
+00:15:49,122 --> 00:15:49,756
+O que te importa?
 
 264
-00:15:49,122 --> 00:15:49,756
-O QUE TE IMPORTA?
+00:15:49,789 --> 00:15:50,723
+Ah, qual é...
 
 265
-00:15:49,789 --> 00:15:50,723
-AH, QUAL É...
+00:15:50,757 --> 00:15:52,759
+Não. Você não gosta de mim. Estou te sufocando.
 
 266
-00:15:50,757 --> 00:15:52,759
-NÃO. VOCÊ NÃO GOSTA DE MIM. ESTOU TE SUFOCANDO.
+00:15:52,792 --> 00:15:54,527
+Eu nunca disse isso.
 
 267
-00:15:52,792 --> 00:15:54,527
-EU NUNCA DISSE ISSO.
+00:15:54,560 --> 00:15:56,362
+Você não precisou dizer.
 
 268
-00:15:54,560 --> 00:15:56,362
-VOCÊ NÃO PRECISOU DIZER.
+00:16:12,145 --> 00:16:13,212
+O que é isso?
 
 269
-00:16:12,145 --> 00:16:13,212
-O QUE É ISSO?
+00:16:13,246 --> 00:16:15,181
+Volta a dormir, Spin.
 
 270
-00:16:13,246 --> 00:16:15,181
-VOLTA A DORMIR, SPIN.
+00:16:19,118 --> 00:16:22,588
+Tomada cento e vinte e seis de um roedor... Me salva.
 
 271
-00:16:19,118 --> 00:16:22,588
-TOMADA CENTO E VINTE E SEIS DE UM ROEDOR... ME SALVA.
+00:16:22,622 --> 00:16:24,023
+A pizza chegou.
 
 272
-00:16:22,622 --> 00:16:24,023
-A PIZZA CHEGOU.
+00:16:24,057 --> 00:16:25,224
+Salvo!
 
 273
-00:16:24,057 --> 00:16:25,224
-SALVO!
+00:16:31,197 --> 00:16:32,732
+Ahn, pessoal, as damas primeiro, né?
 
 274
-00:16:31,197 --> 00:16:32,732
-AHN, PESSOAL, AS DAMAS PRIMEIRO, NÉ?
+00:16:32,765 --> 00:16:35,501
+Ah, bom, então, depois de você, Marco.
 
 275
-00:16:32,765 --> 00:16:35,501
-AH, BOM, ENTÃO, DEPOIS DE VOCÊ, MARCO.
+00:16:36,569 --> 00:16:39,138
+Ah, nós ofendemos a Ellie?
 
 276
-00:16:36,569 --> 00:16:39,138
-AH, A GENTE OFENDEU A ELLIE?
+00:16:39,172 --> 00:16:40,273
+Pô, você acha?
 
 277
-00:16:39,172 --> 00:16:40,273
-PÔ, VOCÊ ACHA?
+00:16:40,306 --> 00:16:44,744
+Não se iludam. Eu vou ao banheiro.
 
 278
-00:16:40,306 --> 00:16:44,744
-NÃO SE ILUDAM. EU VOU AO BANHEIRO.
+00:16:53,419 --> 00:16:55,388
+Ahn... só vou pegar um pouco de água.
 
 279
-00:16:53,419 --> 00:16:55,388
-AHN... SÓ VOU PEGAR UM POUCO DE ÁGUA.
+00:16:55,421 --> 00:16:56,489
+Ah, eu pego.
 
 280
-00:16:55,421 --> 00:16:56,489
-AH, EU PEGO.
+00:16:56,522 --> 00:16:58,591
+Não, tudo bem. Eu posso pegar.
 
 281
-00:16:56,522 --> 00:16:58,591
-NÃO, TUDO BEM. EU POSSO PEGAR.
+00:17:01,861 --> 00:17:05,231
+Eu não sabia que sua cozinha era lá em cima.
 
 282
-00:17:01,861 --> 00:17:05,231
-EU NÃO SABIA QUE SUA COZINHA ERA LÁ EM CIMA.
+00:17:12,705 --> 00:17:15,074
+Você queria conversar?
 
 283
-00:17:12,705 --> 00:17:15,074
-VOCÊ QUERIA CONVERSAR?
+00:17:17,610 --> 00:17:18,611
+Desculpe.
 
 284
-00:17:17,610 --> 00:17:18,611
-DESCULPE.
+00:17:19,479 --> 00:17:21,347
+Não, foi ótimo.
 
 285
-00:17:19,479 --> 00:17:21,347
-NÃO, FOI ÓTIMO.
+00:17:41,367 --> 00:17:45,204
+Você está tremendo. Quer descer?
 
 286
-00:17:41,367 --> 00:17:45,204
-VOCÊ ESTÁ TREMENDO. QUER DESCER?
+00:17:45,605 --> 00:17:48,141
+Não. Eu quero ficar aqui.
 
 287
-00:17:45,605 --> 00:17:48,141
-NÃO. EU QUERO FICAR AQUI.
+00:17:55,882 --> 00:17:58,351
+Quem diria.
 
 288
-00:17:55,882 --> 00:17:58,351
-QUEM DIRIA.
+00:18:01,754 --> 00:18:04,490
+Ellie, eu gosto de você. E quero te beijar.
 
 289
-00:18:01,754 --> 00:18:04,490
-ELLIE, EU GOSTO DE VOCÊ. E QUERO TE BEIJAR.
+00:18:04,524 --> 00:18:06,325
+Então me beija.
 
 290
-00:18:04,524 --> 00:18:06,325
-ENTÃO ME BEIJA.
+00:18:11,197 --> 00:18:13,266
+Estou fazendo algo errado?
 
 291
-00:18:11,197 --> 00:18:13,266
-ESTOU FAZENDO ALGO ERRADO?
+00:18:13,299 --> 00:18:14,901
+Não, El, você é perfeita.
 
 292
-00:18:13,299 --> 00:18:14,901
-NÃO, EL, VOCÊ É PERFEITA.
+00:18:14,934 --> 00:18:17,136
+Mas você não me acha atraente.
 
 293
-00:18:14,934 --> 00:18:17,136
-MAS VOCÊ NÃO ME ACHA ATRATIVA.
+00:18:17,170 --> 00:18:17,703
+Você é linda.
 
 294
-00:18:17,170 --> 00:18:17,703
-VOCÊ É LINDA.
+00:18:17,737 --> 00:18:19,472
+Não é isso que eu quero dizer.
 
 295
-00:18:17,737 --> 00:18:19,472
-NÃO É ISSO QUE EU QUERO DIZER.
+00:18:19,505 --> 00:18:21,441
+Você me acha... gostosa?
 
 296
-00:18:19,505 --> 00:18:21,441
-VOCÊ ME ACHA... GOSTOSA?
+00:18:27,180 --> 00:18:29,382
+É uma pergunta simples.
 
 297
-00:18:27,180 --> 00:18:29,382
-É UMA PERGUNTA SIMPLES.
+00:18:35,888 --> 00:18:38,357
+Você gosta de garotas... mesmo?
 
 298
-00:18:35,888 --> 00:18:38,357
-VOCÊ GOSTA DE GAROTAS... MESMO?
+00:18:47,467 --> 00:18:48,901
+Ellie, eu quero gostar.
 
 299
-00:18:47,467 --> 00:18:48,901
-ELLIE, EU QUERO GOSTAR.
+00:18:48,935 --> 00:18:51,504
+E eu quero muito gostar de você.
 
 300
-00:18:48,935 --> 00:18:51,504
-E EU QUERO MUITO GOSTAR DE VOCÊ.
+00:18:51,537 --> 00:18:53,139
+Mas se você não consegue...
 
 301
-00:18:51,537 --> 00:18:53,139
-MAS SE VOCÊ NÃO CONSEGUE...
+00:18:54,507 --> 00:18:57,777
+não é justo me deixar no vácuo.
 
 302
-00:18:54,507 --> 00:18:57,777
-NÃO É JUSTO ME DEIXAR NO VÁCUO.
+00:18:57,810 --> 00:19:00,546
+Por favor. Por favor, você pode me dizer?
 
 303
-00:18:57,810 --> 00:19:00,546
-POR FAVOR. POR FAVOR, VOCÊ PODE ME DIZER?
+00:19:01,714 --> 00:19:03,249
+Ellie, eu não sei. Ellie...
 
 304
-00:19:01,714 --> 00:19:03,249
-ELLIE, EU NÃO SEI. ELLIE...
+00:19:07,520 --> 00:19:09,355
+Eu só... estou tentando.
 
 305
-00:19:07,520 --> 00:19:09,355
-EU SÓ... ESTOU TENTANDO.
+00:19:13,659 --> 00:19:16,262
+Eu estou... estou tão confuso...
 
 306
-00:19:13,659 --> 00:19:16,262
-EU ESTOU... ESTOU TÃO CONFUSO...
+00:19:31,644 --> 00:19:33,579
+Acho que talvez você esteja exagerando.
 
 307
-00:19:31,644 --> 00:19:33,579
-ACHO QUE TALVEZ VOCÊ ESTEJA EXAGERANDO.
+00:19:33,613 --> 00:19:34,814
+No que eu estava pensando?
 
 308
-00:19:33,613 --> 00:19:34,814
-NO QUE EU ESTAVA PENSANDO?
+00:19:34,847 --> 00:19:37,683
+Eu, Toby Isaacs, com uma namorada.
 
 309
-00:19:34,847 --> 00:19:37,683
-EU, TOBY ISAACS, COM UMA NAMORADA.
+00:19:37,717 --> 00:19:39,519
+Como se uma garota fosse gostar de mim.
 
 310
-00:19:37,717 --> 00:19:39,519
-COMO SE UMA GAROTA FOSSE GOSTAR DE MIM.
+00:19:39,552 --> 00:19:41,988
+Difícil de acreditar, eu sei. Mas a Kendra gosta.
 
 311
-00:19:39,552 --> 00:19:41,988
-DIFÍCIL DE ACREDITAR, EU SEI. MAS A KENDRA GOSTA.
+00:19:42,021 --> 00:19:43,055
+A Kendra não gosta.
 
 312
-00:19:42,021 --> 00:19:43,055
-A KENDRA NÃO GOSTA.
+00:19:43,089 --> 00:19:46,692
+A Kendra fala por ela mesma, obrigada.
 
 313
-00:19:43,089 --> 00:19:46,692
-A KENDRA FALA POR ELA MESMA, OBRIGADA.
+00:19:46,726 --> 00:19:49,262
+Só vai em frente. Vai em frente. Termina comigo.
 
 314
-00:19:46,726 --> 00:19:49,262
-SÓ VAI EM FRENTE. VAI EM FRENTE. TERMINA COMIGO.
+00:19:49,295 --> 00:19:52,231
+Ah, é por isso que eu estou aqui?
 
 315
-00:19:49,295 --> 00:19:52,231
-AH, É POR ISSO QUE EU ESTOU AQUI?
+00:19:52,265 --> 00:19:53,599
+Toby, eu gosto de você...
 
 316
-00:19:52,265 --> 00:19:53,599
-TOBY, EU GOSTO DE VOCÊ...
+00:19:53,633 --> 00:19:54,934
+Mas só como amigo.
 
 317
-00:19:53,633 --> 00:19:54,934
-MAS SÓ COMO AMIGO.
+00:19:54,967 --> 00:19:57,003
+É exatamente isso, aí está.
 
 318
-00:19:54,967 --> 00:19:57,003
-É EXATAMENTE ISSO.
+00:19:57,036 --> 00:19:57,537
+O quê?
 
 319
-00:19:57,036 --> 00:19:57,537
-O QUÊ?
+00:19:57,570 --> 00:19:59,405
+Você... respondendo por mim.
 
 320
-00:19:57,570 --> 00:19:59,405
-VOCÊ... RESPONDENDO POR MIM.
+00:19:59,438 --> 00:20:01,841
+Simplesmente... estando lá, o tempo todo.
 
 321
-00:19:59,438 --> 00:20:01,841
-SIMPLESMENTE... ESTANDO LÁ, O TEMPO TODO.
+00:20:01,874 --> 00:20:05,244
+Você não suporta ficar perto de mim.
 
 322
-00:20:01,874 --> 00:20:05,244
-VOCÊ NÃO SUPORTA FICAR PERTO DE MIM.
+00:20:06,879 --> 00:20:11,684
+Eu adoro ficar perto de você. Só... não o tempo todo, tá?
 
 323
-00:20:06,879 --> 00:20:11,684
-EU ADORO FICAR PERTO DE VOCÊ. SÓ... NÃO O TEMPO TODO, TÁ?
+00:20:20,660 --> 00:20:22,261
+Marco Del Garanhão.
 
 324
-00:20:20,660 --> 00:20:22,261
-MARCO, O GARANHÃO.
+00:20:22,295 --> 00:20:26,399
+Agora, oficialmente, o Marco estava "pegando um copo d'água", é claro.
 
 325
-00:20:22,295 --> 00:20:26,399
-AGORA, OFICIALMENTE, O MARCO ESTAVA "PEGANDO UM COPO D'ÁGUA", É CLARO.
+00:20:26,432 --> 00:20:31,571
+É claro. E qual foi o gosto daquele copo d'água? Doce?
 
 326
-00:20:26,432 --> 00:20:31,571
-É CLARO. E QUAL FOI O GOSTO DAQUELE COPO D'ÁGUA? DOCE?
+00:20:31,604 --> 00:20:32,972
+Como açúcar.
 
 327
-00:20:31,604 --> 00:20:32,972
-COMO AÇÚCAR.
+00:20:33,005 --> 00:20:35,575
+Vocês podem oficialmente sentir ciúmes de mim agora.
 
 328
-00:20:33,005 --> 00:20:35,575
-VOCÊS PODEM OFICIALMENTE SENTIR CIÚMES DE MIM AGORA.
+00:20:35,608 --> 00:20:36,976
+Ciúmes do quê?
 
 329
-00:20:35,608 --> 00:20:36,976
-CIÚMES DO QUÊ?
+00:20:37,009 --> 00:20:42,648
+De vocês dois, e do intervalo prolongado de vocês no banheiro na sexta à noite.
 
 330
-00:20:37,009 --> 00:20:42,648
-DE VOCÊS DOIS E DO INTERVALO PROLONGADO DE VOCÊS NO BANHEIRO NA SEXTA À NOITE.
+00:20:44,483 --> 00:20:46,786
+Vocês deveriam estar morrendo de ciúmes.
 
 331
-00:20:44,483 --> 00:20:46,786
-VOCÊS DEVERIAM ESTAR MORRENDO DE CIÚMES.
+00:20:51,657 --> 00:20:53,326
+Legal.
 
 332
-00:20:51,657 --> 00:20:53,326
-LEGAL.
+00:20:56,629 --> 00:20:57,530
+El...
 
 333
-00:20:56,629 --> 00:20:57,530
-EL...
+00:20:57,563 --> 00:20:58,664
+De nada.
 
 334
-00:20:57,563 --> 00:20:58,664
-DE NADA.
+00:20:58,698 --> 00:21:01,734
+Mas eu não posso fingir para sempre.
 
 335
-00:20:58,698 --> 00:21:01,734
-MAS EU NÃO POSSO FINGIR PARA SEMPRE.
+00:21:02,668 --> 00:21:04,737
+Você também não.
 
 336
-00:21:02,668 --> 00:21:04,737
-VOCÊ TAMBÉM NÃO.
+00:21:04,770 --> 00:21:05,638
+Eu sei.
 
 337
-00:21:04,770 --> 00:21:05,638
-EU SEI.
+00:21:06,872 --> 00:21:08,708
+Eu estava pensando.
 
 338
-00:21:06,872 --> 00:21:08,708
-EU ESTAVA PENSANDO.
+00:21:08,741 --> 00:21:12,745
+Naquele grupo de jovens gays que o Sr. Armstrong mencionou.
 
 339
-00:21:08,741 --> 00:21:12,745
-NAQUELE GRUPO DE JOVENS GAYS QUE O SR. ARMSTRONG MENCIONOU.
+00:21:12,778 --> 00:21:14,747
+Se você quiser dar uma olhada, eu posso ir com você.
 
 340
-00:21:12,778 --> 00:21:14,747
-SE VOCÊ QUISER DAR UMA OLHADA, EU POSSO IR COM VOCÊ.
+00:21:14,780 --> 00:21:15,281
+Ellie...
 
 341
-00:21:14,780 --> 00:21:15,281
-ELLIE...
+00:21:16,582 --> 00:21:17,750
+Desculpe.
 
 342
-00:21:16,582 --> 00:21:17,750
-DESCULPE.
+00:21:18,384 --> 00:21:20,720
+Não. Obrigado.
 
 343
-00:21:18,384 --> 00:21:20,720
-NÃO. OBRIGADO.
+00:21:20,753 --> 00:21:21,821
+Sério.
 
 344
-00:21:20,753 --> 00:21:21,821
-A SÉRIO.
+00:21:22,922 --> 00:21:26,359
+É que eu não estou pronto para isso ainda. Tá?
 
 345
-00:21:22,922 --> 00:21:26,359
-É QUE EU NÃO ESTOU PRONTO PARA ISSO AINDA. TÁ?
-
-346
 00:21:28,628 --> 00:21:30,696
-QUANDO VOCÊ ESTIVER, EU ESTAREI LÁ.
+Quando você estiver, eu estarei lá.

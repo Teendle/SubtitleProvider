@@ -36,7 +36,7 @@ Você me estuprou!
 
 10
 00:00:31,554 --> 00:00:32,756
-Você queria, e não ouse contar a ninguém.
+Você queria, e não ouse dizer a ninguém o contrário.
 
 11
 00:00:32,789 --> 00:00:34,491
@@ -241,7 +241,7 @@ Para tornar este desejo secreto realidade.
 
 61
 00:03:11,848 --> 00:03:14,317
-Porque meu poema cheira cocô.
+Porque meu poema cheira a cocô.
 
 62
 00:03:16,419 --> 00:03:16,819
@@ -333,11 +333,11 @@ Obrigada.
 
 84
 00:04:24,687 --> 00:04:27,056
-Uma boa adição ao nosso arquivo de biografia.
+Uma boa adição ao nosso arquivo de biografias.
 
 85
 00:04:27,090 --> 00:04:30,360
-Uh, temos tempo para mais um. Liberty.
+Uh, temos tempo para mais uma. Liberty.
 
 86
 00:04:32,929 --> 00:04:34,831
@@ -828,15 +828,16 @@ Ah, Liberty sabe provocar, mas não sabe aguentar, hein?
 Eu não provoquei e não sou nerd, JT idiota.
 
 208
-00:11:21,370 --> 00:11:22,
+00:11:21,370 --> 00:11:22,538
+Oh, são palavras de briga.
 
 209
 00:11:22,571 --> 00:11:25,541
-Está querendo brigar? Certo, bebê chorão! Mau perdedor...
+Quer briga? Certo, bebezinho! Mau perdedor...
 
 210
 00:11:25,574 --> 00:11:27,209
-...Carinha de nojo, santinha do pau oco!
+Carinha de nojo, santinha do pau oco.
 
 211
 00:11:27,243 --> 00:11:28,144
@@ -1028,7 +1029,7 @@ O quê?
 
 258
 00:13:55,057 --> 00:13:55,991
-...É um dragão.
+...é um dragão.
 
 259
 00:13:56,025 --> 00:13:57,960
@@ -1112,7 +1113,7 @@ Paige, se eu vou cantar, essas são as letras que eu vou cantar.
 
 279
 00:15:14,570 --> 00:15:18,641
-Não! Não acredito que eu quis você de volta nesta banda!
+Não, não acredito que eu quis você de volta nesta banda!
 
 280
 00:15:25,080 --> 00:15:26,015
@@ -1372,7 +1373,7 @@ Mas quando é com você, é outra coisa.
 
 344
 00:19:49,144 --> 00:19:51,980
-♪ Você tomou meu corpo e o partiu ao meio.
+♪ Você tomou meu corpo, o partiu ao meio.
 
 345
 00:19:53,181 --> 00:19:57,185
