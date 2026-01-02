@@ -1,3 +1,7 @@
+1
+00:00:23,689 --> 00:00:26,624
+♪ Acordo de manhã, sentindo-me tímida e sozinha ♪
+
 2
 00:00:26,658 --> 00:00:30,094
 ♪ Nossa, eu tenho que ir para a escola ♪
@@ -916,7 +920,8 @@ Tchau.
 Receber.
 
 214
-00:09:40,
+00:09:40,379 --> 00:09:45,483
+Espero receber 20 provas perfeitas.
 
 215
 00:09:45,517 --> 00:09:47,118
@@ -1835,7 +1840,8 @@ Aja como
 se estivesse arrependida.
 
 427
-00:20:15,747 -->
+00:20:15,747 --> 00:20:17,047
+Eles não vão nos acusar.
 
 428
 00:20:17,081 --> 00:20:19,483

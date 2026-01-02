@@ -1,3 +1,7 @@
+1
+00:00:04,370 --> 00:00:07,072
+No armário de vassouras, saguão principal.
+
 2
 00:00:07,106 --> 00:00:10,241
 Por favor, tragam suas
@@ -929,7 +933,8 @@ Sem pílulas...
 sem emoções.
 
 216
-00:
+00:09:37,442 --> 00:09:38,676
+Obrigado...
 
 217
 00:09:38,710 --> 00:09:40,078
@@ -1854,344 +1859,345 @@ Pelo menos eu estou <i>tentando.</i>
 Você não está tentando... você está trapaceando.
 
 426
-00:21:06,063 --> 00:21:07,8
-
-865
 Você nunca
 faz nenhum trabalho.
 
 427
+00:21:06,063 --> 00:21:07,864
+Você nunca faz nada.
+
+428
 00:21:07,898 --> 00:21:10,432
 Você está apenas
 usando o Sr. Raditch
 
-428
+429
 00:21:10,467 --> 00:21:12,100
 como desculpa.
 
-429
+430
 00:21:12,135 --> 00:21:13,336
 Vamos lá!
 
-430
+431
 00:21:13,370 --> 00:21:18,107
 Se você quer que ele pare
 de pensar que você é burro,
 
-431
+432
 00:21:18,141 --> 00:21:19,975
 prove que
 você não é.
 
-432
+433
 00:21:47,437 --> 00:21:49,438
 Tchau, Lou.
 
-433
+434
 00:21:49,472 --> 00:21:50,740
 Tchau.
 
-434
+435
 00:22:39,022 --> 00:22:42,692
 Kathleen:
 Ainda bem que não
 usamos drogas <i>de verdade</i>.
 
-435
+436
 00:22:42,726 --> 00:22:44,993
 Melanie:
 Gastamos
 dez dólares
 
-436
+437
 00:22:45,028 --> 00:22:47,029
 em comprimidos de <i>vitaminas</i>
 
-437
+438
 00:22:47,063 --> 00:22:51,300
 e pagamos o maior
 mico!
 
-438
+439
 00:22:51,334 --> 00:22:54,269
 Todos os alunos usando
 os bicicletários
 
-439
+440
 00:22:54,304 --> 00:22:57,773
 são lembrados de
 trancar suas bicicletas.
 
-440
+441
 00:22:57,807 --> 00:22:59,474
 Ei, pessoal!
 
-441
+442
 00:22:59,509 --> 00:23:01,910
 Querem comprar
 mais alguma coisa?
 
-442
+443
 00:23:01,945 --> 00:23:03,812
 Vitaminas, né?
 
-443
+444
 00:23:03,847 --> 00:23:05,447
 Foi
 uma brincadeira.
 
-444
+445
 00:23:05,482 --> 00:23:07,716
 Vocês não
 entendem de piadas?
 
-445
+446
 00:23:07,751 --> 00:23:09,752
 Ha-ha.
 
-446
+447
 00:23:09,786 --> 00:23:10,786
 Cadê o nosso dinheiro?
 
-447
+448
 00:23:10,820 --> 00:23:13,422
 Nós o queremos <i>agora</i>.
 
-448
+449
 00:23:13,456 --> 00:23:15,892
 Vocês <i>têm</i>
 o nosso dinheiro,
 
-449
+450
 00:23:15,926 --> 00:23:17,493
 não têm?
 
-450
+451
 00:23:17,527 --> 00:23:18,427
 Mais ou menos.
 
-451
+452
 00:23:18,461 --> 00:23:20,061
 Então, cadê ele?
 
-452
+453
 00:23:20,096 --> 00:23:21,631
 Bem...
 
-453
+454
 00:23:22,265 --> 00:23:25,167
 Gostaram das minhas roupas novas?
 
-454
+455
 00:23:25,202 --> 00:23:28,571
 Volte aqui,
 seu camarãozinho!
 
-455
+456
 00:23:53,863 --> 00:23:56,766
 Como ainda faltam alguns minutos,
 
-456
+457
 00:23:56,800 --> 00:24:01,703
 gostaria de ler um trabalho
 que um de vocês escreveu.
 
-457
+458
 00:24:01,738 --> 00:24:03,872
 Acho que é muito bom.
 
-458
+459
 00:24:05,508 --> 00:24:07,009
 "'Estereótipos'.
 
-459
+460
 00:24:07,043 --> 00:24:09,378
 "Quando você estereotipa as pessoas,
 
-460
+461
 00:24:09,412 --> 00:24:13,749
 "você as coloca em uma caixa em vez
 de olhá-las de forma nova.
 
-461
+462
 00:24:13,784 --> 00:24:15,917
 "Eu conheço alguém
 que é inteligente.
 
-462
+463
 00:24:15,952 --> 00:24:17,552
 "Você pensa
 que ele é um nerd
 
-463
+464
 00:24:17,587 --> 00:24:19,521
 "e não sabe
 jogar basquete.
 
-464
+465
 00:24:19,555 --> 00:24:20,756
 "Mas ele sabe.
 
-465
+466
 00:24:20,790 --> 00:24:22,291
 "Eu o vi.
 
-466
+467
 00:24:22,325 --> 00:24:26,162
 "Eu conheço outro garoto
 que é bom em esportes,
 
-467
+468
 00:24:26,196 --> 00:24:29,030
 "mas desorganizado
 na escola.
 
-468
+469
 00:24:29,065 --> 00:24:31,967
 "Você provavelmente
 pensa que ele é burro,
 
-469
+470
 00:24:32,002 --> 00:24:33,402
 "mas ele não é.
 
-470
+471
 00:24:33,436 --> 00:24:36,772
 "Especialmente quando
 ele realmente quer
 
-471
+472
 00:24:36,806 --> 00:24:39,375
 "realizar
 alguma coisa.
 
-472
+473
 00:24:39,409 --> 00:24:42,144
 "Talvez ele tenha
 que se esforçar mais,
 
-473
+474
 00:24:42,178 --> 00:24:45,714
 "mas ele fica muito desanimado
 
-474
+475
 00:24:45,748 --> 00:24:48,083
 quando as pessoas
 o xingam."
 
-475
+476
 00:24:50,854 --> 00:24:53,055
 Vão para a próxima aula.
 
-476
+477
 00:25:02,498 --> 00:25:04,299
 Yick...
 
-477
+478
 00:25:04,334 --> 00:25:05,668
 Venha aqui, por favor.
 
-478
+479
 00:25:16,913 --> 00:25:20,683
 Eu acho que é
 um bom trabalho.
 
-479
+480
 00:25:20,717 --> 00:25:22,651
 Um trabalho nota "A".
 
-480
+481
 00:25:22,685 --> 00:25:24,619
 De verdade, desta vez.
 
-481
+482
 00:25:24,654 --> 00:25:28,323
 Eu sabia que você
 era capaz.
 
-482
+483
 00:25:28,357 --> 00:25:30,025
 Que tal
 
-483
+484
 00:25:30,059 --> 00:25:31,293
 uma página em branco?
 
-484
+485
 00:25:31,328 --> 00:25:33,995
 Vamos começar de novo.
 
-485
+486
 00:25:34,030 --> 00:25:35,998
 Eu vou me esforçar mais.
 
-486
+487
 00:25:36,032 --> 00:25:38,567
 Você vai
 se esforçar mais.
 
-487
+488
 00:25:38,602 --> 00:25:44,340
 E eu vou parar de te chamar
 de "Sr. Yu, o desorganizado".
 
-488
+489
 00:25:45,141 --> 00:25:46,275
 Combinado?
 
-489
+490
 00:26:04,060 --> 00:26:06,929
 Quer treinar
 basquete depois da aula
 
-490
+491
 00:26:06,963 --> 00:26:08,531
 e depois tomar um milk-shake?
 
-491
+492
 00:26:09,766 --> 00:26:11,433
 Se você estiver muito ocupado...
 
-492
+493
 00:26:11,467 --> 00:26:12,768
 Não, eu não estou.
 
-493
+494
 00:26:12,803 --> 00:26:15,671
 Joey:
 Alguém me ajude!
 
-494
+495
 00:26:15,705 --> 00:26:18,807
 Estou preso
 no armário de vassouras!
 
-495
+496
 00:26:18,841 --> 00:26:19,942
 Me tirem daqui!
 
-496
+497
 00:26:19,976 --> 00:26:21,243
 Por favor!
 
-497
+498
 00:26:24,847 --> 00:26:28,884
 Zumbis drogados
 roubaram minhas roupas!
 
-498
+499
 00:26:30,052 --> 00:26:32,321
 Ei, me deixem sair!
 
-499
+500
 00:26:32,355 --> 00:26:34,056
 Que idiota!
 
-500
+501
 00:26:34,090 --> 00:26:35,457
 É.
 
-501
+502
 00:26:38,795 --> 00:26:41,563
 Alguém traga minhas
 roupas de volta!
