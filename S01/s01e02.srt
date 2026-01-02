@@ -1997,4 +1997,3 @@ para a cama.
 00:26:35,393 --> 00:26:38,628
 Talvez minha mãe faça
 um chocolate quente para mim.
-```
