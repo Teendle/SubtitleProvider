@@ -1,3 +1,7 @@
+1
+00:00:04,236 --> 00:00:06,170
+Homem: ♪ Você está tateando algo ♪
+
 2
 00:00:06,205 --> 00:00:09,174
 ♪ Não consegue descobrir o quê ♪
@@ -170,14 +174,13 @@ sorrindo para mim ♪
 ♪ Na Degrassi Junior High. ♪
 
 41
-00:01:41,299 --> 00:01:42,068
-Legendas pelo projeto Teendle!
-nos visite em: teendle.win
-
-42
-00:01:42,268 --> 00:01:47,338
+00:01:42,268 --> 00:01:45,500
 Em seguida, façam um mapa da
 área ao redor da escola.
+
+42
+00:01:45,500 --> 00:01:47,338
+Legendas pelo projeto Teendle! nos visite em: teendle.win
 
 43
 00:01:47,373 --> 00:01:49,840
@@ -908,9 +911,6 @@ seu pai.
 00:10:07,272 --> 00:10:09,574
 Diga a ele que o Joey disse
 "fique tranquilo".
-
-210
-00:10:14,74
 
 210
 00:10:14,746 --> 00:10:17,381
@@ -1806,9 +1806,6 @@ Ele não
 413
 00:22:56,874 --> 00:22:58,875
 Por
-
-413
-00:22:56,874 --> 00:22:58,875
 Por que ele não
 aparece?
 

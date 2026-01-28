@@ -1,3 +1,7 @@
+1
+00:00:02,168 --> 00:00:06,704
+(No sistema de som): Esportes são uma grande parte...
+
 2
 00:00:06,739 --> 00:00:10,742
 E a escola construiu
@@ -942,6 +946,10 @@ time de natação.
 00:11:04,796 --> 00:11:05,797
 Eles são bons.
 
+212
+00:11:05,831 --> 00:11:07,165
+Eles treinam.
+
 213
 00:11:07,199 --> 00:11:10,167
 <i>E</i> eles vão
@@ -1869,6 +1877,7 @@ porque eu sei nadar.
 
 417
 00:22:38,923 --> 00:22:40,824
+Eu não sei jogar futebol.
 
 418
 00:22:40,859 --> 00:22:42,959

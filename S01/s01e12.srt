@@ -1,3 +1,7 @@
+1
+00:00:29,995 --> 00:00:31,996
+Isso é música de verdade.
+
 2
 00:00:32,030 --> 00:00:34,232
 Não essa sua
@@ -1247,8 +1251,8 @@ Ele estava bem
 até descobrir
 
 282
-00:14:03,607 --> 00:14:03,607
-que eu realmente estava grávida.
+00:13:59,537 --> 00:14:03,607
+Que eu estava realmente grávida.
 
 283
 00:14:05,143 --> 00:14:08,412
