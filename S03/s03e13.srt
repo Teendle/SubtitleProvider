@@ -1,1991 +1,1960 @@
 1
 00:00:17,100 --> 00:00:19,102
-ENTÃO... INGLÊS.
+Então... Inglês.
 
 2
 00:00:20,562 --> 00:00:22,189
-VOCÊ LEU O CAPÍTULO?
+Você leu o capítulo?
 
 3
 00:00:22,272 --> 00:00:23,982
-CAPÍTULO DOIS,
-CERTO?
+Capítulo dois,
+certo?
 
 4
 00:00:24,066 --> 00:00:24,441
-SIM.
+Sim.
 
 5
-00:00:26,860 --> 00:00:27,861
-(SINAL TOCA)
+00:00:29,947 --> 00:00:30,864
+Armstrong:
+Ok, todos os seus lugares,
+por favor.
 
 6
-00:00:29,947 --> 00:00:30,864
-ARMSTRONG:
-OK, TODOS OS SEUS LUGARES,
-POR FAVOR.
+00:00:30,948 --> 00:00:32,449
+Vamos começar.
 
 7
-00:00:30,948 --> 00:00:32,449
-VAMOS COMEÇAR.
+00:00:32,533 --> 00:00:33,408
+Amy:
+Parece uma boa ideia.
 
 8
-00:00:32,533 --> 00:00:33,408
-AMY:
-PARECE UMA BOA IDEIA.
+00:00:33,492 --> 00:00:35,035
+Armstrong:
+Ok, preciso de um voluntário
+para vir aqui
 
 9
-00:00:33,492 --> 00:00:35,035
-ARMSTRONG:
-OK, PRECISO DE UM VOLUNTÁRIO
-PARA VIR AQUI
+00:00:35,118 --> 00:00:36,703
+E expandir esses colchetes
 
 10
-00:00:35,118 --> 00:00:36,703
-E EXPANDIR ESSES COLCHETES
+00:00:36,787 --> 00:00:38,872
+E agrupar os termos semelhantes.
 
 11
-00:00:36,787 --> 00:00:38,872
-E AGRUPAR OS TERMOS SEMELHANTES.
+00:00:38,956 --> 00:00:39,998
+Alguém?
 
 12
-00:00:38,956 --> 00:00:39,998
-ALGUÉM?
+00:00:41,458 --> 00:00:41,834
+Emma?
 
 13
-00:00:41,458 --> 00:00:41,834
-EMMA?
+00:00:50,050 --> 00:00:52,719
+Emma:
+Ok, a resposta
+para esse problema é...
 
 14
-00:00:50,050 --> 00:00:52,719
-EMMA:
-OK, A RESPOSTA
-PARA ESSE PROBLEMA É...
+00:00:52,803 --> 00:00:54,429
+8X ao quadrado mais...
 
 15
-00:00:52,803 --> 00:00:54,429
-8X AO QUADRADO MAIS...
-(CADEIRA RANGENDO)
+00:00:58,225 --> 00:00:59,059
+Armstrong:
+Sean. Amy.
 
 16
-00:00:58,225 --> 00:00:59,059
-ARMSTRONG:
-SEAN. AMY.
+00:01:00,811 --> 00:01:02,354
+Vocês dois precisam de um pouco
+de privacidade?
 
 17
-00:01:00,811 --> 00:01:02,354
-VOCÊS DOIS PRECISAM DE UM POUCO
-DE PRIVACIDADE?
+00:01:02,437 --> 00:01:04,940
+Estamos atrapalhando aqui?
 
 18
-00:01:02,437 --> 00:01:04,940
-ESTAMOS ATRAPALHANDO AQUI?
+00:01:07,192 --> 00:01:09,027
+Obrigada, Emma.
 
 19
-00:01:07,192 --> 00:01:09,027
-OBRIGADA, EMMA.
+00:01:15,784 --> 00:01:16,577
+Armstrong:
+Certo, turma.
 
 20
-00:01:15,784 --> 00:01:16,577
-ARMSTRONG:
-CERTO, TURMA.
+00:01:16,660 --> 00:01:19,663
+Vamos nos concentrar
+em nosso trabalho.
 
 21
-00:01:16,660 --> 00:01:19,663
-VAMOS NOS CONCENTRAR
-EM NOSSO TRABALHO.
-
-22
 00:01:23,834 --> 00:01:25,752
 ♪ Whatever it takes ♪
 
-23
+22
 00:01:27,462 --> 00:01:30,299
 ♪ I know I can make it through ♪
 
-24
+23
 00:01:30,499 --> 00:01:32,601
-Legendas pelo projeto Teendle!
-nos visite em: teendle.win
+Legendas pelo projeto teendle!
+Nos visite em: Teendle.Win
 
-25
+24
 00:01:32,801 --> 00:01:34,386
 ♪ If I hold out ♪
 
-26
+25
 00:01:36,471 --> 00:01:39,308
 ♪ I know I can make it through ♪
 
-27
+26
 00:01:44,605 --> 00:01:45,981
 ♪ Be the best ♪
 
-28
+27
 00:01:46,064 --> 00:01:48,400
 ♪ The best that I can be ♪
 
-29
+28
 00:01:49,568 --> 00:01:51,904
 ♪ Hear what I say to you ♪
 
-30
+29
 00:01:52,779 --> 00:01:54,781
 ♪ Whatever it takes ♪
 
-31
+30
 00:01:56,617 --> 00:01:58,785
 ♪ I know I can make it ♪
 
-32
+31
 00:02:01,079 --> 00:02:03,916
 ♪ I know I can make it through ♪
 
-33
+32
 00:02:09,796 --> 00:02:12,257
-SPIKE:
-VENHA VER O PRESENTE DE
-ANIVERSÁRIO DO SNAKE.
+Spike:
+Venha ver o presente de
+aniversário do Snake.
+
+33
+00:02:12,341 --> 00:02:13,300
+Você comprou
+um novo laptop?
 
 34
-00:02:12,341 --> 00:02:13,300
-VOCÊ COMPROU
-UM NOVO LAPTOP?
+00:02:13,383 --> 00:02:14,301
+Um novo usado.
 
 35
-00:02:13,383 --> 00:02:14,301
-UM NOVO USADO.
+00:02:14,384 --> 00:02:17,721
+Para substituir
+o alienware que ele perdeu.
 
 36
-00:02:14,384 --> 00:02:17,721
-PARA SUBSTITUIR
-O ALIENWARE QUE ELE PERDEU.
+00:02:17,804 --> 00:02:19,139
+Você quer que eu restaure
+seus backups?
 
 37
-00:02:17,804 --> 00:02:19,139
-VOCÊ QUER QUE EU RESTAURE
-SEUS BACKUPS?
+00:02:19,223 --> 00:02:20,516
+Você tem tempo?
 
 38
-00:02:19,223 --> 00:02:20,516
-VOCÊ TEM TEMPO?
+00:02:20,599 --> 00:02:20,974
+Eu quero dar a ele
 
 39
-00:02:20,599 --> 00:02:20,974
-EU QUERO DAR A ELE
+00:02:21,058 --> 00:02:22,976
+Antes da festa de
+aniversário dele.
 
 40
-00:02:21,058 --> 00:02:22,976
-ANTES DA FESTA DE
-ANIVERSÁRIO DELE.
+00:02:26,730 --> 00:02:28,148
+Você vai
+convidar o Chris para vir?
 
 41
-00:02:26,730 --> 00:02:28,148
-VOCÊ VAI
-CONVIDAR O CHRIS PARA VIR?
+00:02:28,232 --> 00:02:29,733
+Mãe, ele acabou de terminar
+com a melanda
 
 42
-00:02:28,232 --> 00:02:29,733
-MÃE, ELE ACABOU DE TERMINAR
-COM A MELANDA
+00:02:29,816 --> 00:02:31,527
+E eu não quero ser
+o seu lixo reciclado.
 
 43
-00:02:29,816 --> 00:02:31,527
-E EU NÃO QUERO SER
-O SEU LIXO RECICLADO.
+00:02:36,865 --> 00:02:40,077
+Tem certeza de que não há
+mais nada te impedindo?
 
 44
-00:02:36,865 --> 00:02:40,077
-TEM CERTEZA DE QUE NÃO HÁ
-MAIS NADA TE IMPEDINDO?
+00:02:40,160 --> 00:02:42,829
+Emma:
+Sean? História antiga -
+jurássico.
 
 45
-00:02:40,160 --> 00:02:42,829
-EMMA:
-SEAN? HISTÓRIA ANTIGA -
-JURÁSSICO.
+00:02:44,456 --> 00:02:46,875
+E como os dinossauros...
 
 46
-00:02:44,456 --> 00:02:46,875
-E COMO OS DINOSSAUROS...
+00:02:49,837 --> 00:02:51,255
+Ele agora está extinto.
 
 47
-00:02:49,837 --> 00:02:51,255
-ELE AGORA ESTÁ EXTINTO.
+00:02:53,090 --> 00:02:54,800
+Você viu a amy
+e o Sean na aula de matemática?
 
 48
-00:02:53,090 --> 00:02:54,800
-VOCÊ VIU A AMY
-E O SEAN NA AULA DE MATEMÁTICA?
+00:02:54,883 --> 00:02:56,677
+Foi clássico.
 
 49
-00:02:54,883 --> 00:02:56,677
-FOI CLÁSSICO.
+00:02:56,760 --> 00:02:57,845
+E horrível, e malvado,
+e terrível.
 
 50
-00:02:56,760 --> 00:02:57,845
-E HORRÍVEL, E MALVADO,
-E TERRÍVEL.
+00:02:57,928 --> 00:02:59,555
+E eu odeio o Sean.
 
 51
-00:02:57,928 --> 00:02:59,555
-E EU ODEIO O SEAN.
+00:02:59,638 --> 00:03:00,514
+Obrigada, j.T..
 
 52
-00:02:59,638 --> 00:03:00,514
-OBRIGADA, JT.
+00:03:00,597 --> 00:03:01,598
+Mas você não precisa
+odiar o Sean.
 
 53
-00:03:00,597 --> 00:03:01,598
-MAS VOCÊ NÃO PRECISA
-ODIAR O SEAN.
+00:03:01,682 --> 00:03:03,100
+Eu o superei totalmente.
 
 54
-00:03:01,682 --> 00:03:03,100
-EU O SUPEREI TOTALMENTE.
+00:03:03,183 --> 00:03:04,518
+Toby:
+Mesmo ele continuando com a amy
 
 55
-00:03:03,183 --> 00:03:04,518
-TOBY:
-MESMO ELE CONTINUANDO COM A AMY
+00:03:04,601 --> 00:03:06,270
+Como se você nunca
+tivesse existido?
 
 56
-00:03:04,601 --> 00:03:06,270
-COMO SE VOCÊ NUNCA
-TIVESSE EXISTIDO?
+00:03:06,353 --> 00:03:06,687
+Emma:
+Sim.
 
 57
-00:03:06,353 --> 00:03:06,687
-EMMA:
-SIM.
+00:03:07,396 --> 00:03:09,815
+Mesmo com
+todos os boatos?
 
 58
-00:03:07,396 --> 00:03:09,815
-MESMO COM
-TODOS OS BOATOS?
+00:03:09,898 --> 00:03:11,024
+Emma:
+Que boatos?
 
 59
-00:03:09,898 --> 00:03:11,024
-EMMA:
-QUE BOATOS?
+00:03:11,108 --> 00:03:12,693
+Que a turma do Sean está
+roubando coisas
 
 60
-00:03:11,108 --> 00:03:12,693
-QUE A TURMA DO SEAN ESTÁ
-ROUBANDO COISAS
+00:03:12,776 --> 00:03:13,902
+Da escola
+a torto e a direito?
 
 61
-00:03:12,776 --> 00:03:13,902
-DA ESCOLA
-A TORTO E A DIREITO?
+00:03:13,986 --> 00:03:15,362
+Emma:
+Karma ruim para ele.
 
 62
-00:03:13,986 --> 00:03:15,362
-EMMA:
-KARMA RUIM PARA ELE.
+00:03:15,445 --> 00:03:16,822
+O que isso tem
+a ver comigo?
 
 63
-00:03:15,445 --> 00:03:16,822
-O QUE ISSO TEM
-A VER COMIGO?
+00:03:16,905 --> 00:03:18,991
+Bem, Sean termina
+com você,
 
 64
-00:03:16,905 --> 00:03:18,991
-BEM, SEAN TERMINA
-COM VOCÊ,
+00:03:19,074 --> 00:03:21,076
+O laptop do Simpson
+desaparece...
 
 65
-00:03:19,074 --> 00:03:21,076
-O LAPTOP DO SIMPSON
-DESAPARECE...
+00:03:21,159 --> 00:03:22,327
+Sean fez
+muita coisa.
 
 66
-00:03:21,159 --> 00:03:22,327
-SEAN FEZ
-MUITA COISA.
+00:03:22,411 --> 00:03:24,705
+E no início, eu até pensei
+que ele poderia ter...
 
 67
-00:03:22,411 --> 00:03:24,705
-E NO INÍCIO, EU ATÉ PENSEI
-QUE ELE PODERIA TER...
+00:03:24,788 --> 00:03:27,749
+Mas não,
+isso é maldade demais.
 
 68
-00:03:24,788 --> 00:03:27,749
-MAS NÃO,
-ISSO É MALDADE DEMAIS.
+00:03:28,917 --> 00:03:30,043
+Jimmy:
+Sabia que você não vai aprender
+a estacionar paralelamente
 
 69
-00:03:28,917 --> 00:03:30,043
-JIMMY:
-SABIA QUE VOCÊ NÃO VAI APRENDER
-A ESTACIONAR PARALELAMENTE
+00:03:30,127 --> 00:03:32,045
+Lendo esse livro
+mais dez vezes?
 
 70
-00:03:30,127 --> 00:03:32,045
-LENDO ESSE LIVRO
-MAIS DEZ VEZES?
+00:03:32,129 --> 00:03:33,881
+Hazel:
+Vou pegar o volante
+esta tarde.
 
 71
-00:03:32,129 --> 00:03:33,881
-HAZEL:
-VOU PEGAR O VOLANTE
-ESTA TARDE.
+00:03:33,964 --> 00:03:34,715
+Estou tão pirada!
 
 72
-00:03:33,964 --> 00:03:34,715
-ESTOU TÃO PIRADA!
+00:03:34,798 --> 00:03:36,550
+Vou ser um desastre
+na estrada.
 
 73
-00:03:34,798 --> 00:03:36,550
-VOU SER UM DESASTRE
-NA ESTRADA.
+00:03:36,633 --> 00:03:38,719
+Ok.
+Um, pé no freio.
 
 74
-00:03:36,633 --> 00:03:38,719
-OK.
-UM, PÉ NO FREIO.
+00:03:38,802 --> 00:03:41,013
+Dois, verificar espelho.
 
 75
-00:03:38,802 --> 00:03:41,013
-DOIS, VERIFICAR ESPELHO.
+00:03:41,096 --> 00:03:42,097
+Três-
 
 76
-00:03:41,096 --> 00:03:42,097
-TRÊS-
+00:03:42,723 --> 00:03:44,224
+Para! Não!
 
 77
-00:03:42,723 --> 00:03:44,224
-PARA! NÃO!
+00:03:44,933 --> 00:03:46,059
+Ok,
+agora é a parte
 
 78
-00:03:44,933 --> 00:03:46,059
-OK,
-AGORA É A PARTE
+00:03:46,143 --> 00:03:47,644
+Em que você deveria me fazer
+cócegas nas costas
 
 79
-00:03:46,143 --> 00:03:47,644
-EM QUE VOCÊ DEVERIA ME FAZER
-CÓCEGAS NAS COSTAS
+00:03:47,728 --> 00:03:48,812
+E então nós ríamos,
+etc...
 
 80
-00:03:47,728 --> 00:03:48,812
-E ENTÃO NÓS RÍAMOS,
-ETC...
+00:03:48,896 --> 00:03:51,023
+É, mas eu estou pirando,
+ok?
 
 81
-00:03:48,896 --> 00:03:51,023
-É, MAS EU ESTOU PIRANDO,
-OK?
+00:03:51,106 --> 00:03:52,399
+Eu estive estudando
+o livro e estou perdida.
 
 82
-00:03:51,106 --> 00:03:52,399
-EU ESTIVE ESTUDANDO
-O LIVRO E ESTOU PERDIDA.
+00:03:52,482 --> 00:03:54,151
+Estou totalmente
+sem noção.
 
 83
-00:03:52,482 --> 00:03:54,151
-ESTOU TOTALMENTE
-SEM NOÇÃO.
+00:03:54,234 --> 00:03:54,860
+Querida-
 
 84
-00:03:54,234 --> 00:03:54,860
-QUERIDA-
+00:03:54,943 --> 00:03:58,906
+E nossa instrutora de
+direção, srta. Gonzalez,
+conhecida como satanás,
 
 85
-00:03:54,943 --> 00:03:58,906
-E NOSSA INSTRUTORA DE
-DIREÇÃO, SRTA. GONZALEZ,
-CONHECIDA COMO SATANÁS,
+00:03:58,989 --> 00:04:01,074
+Ela nem deixou
+o sully fazer o teste.
 
 86
-00:03:58,989 --> 00:04:01,074
-ELA NEM DEIXOU
-O SULLY FAZER O TESTE.
+00:04:01,158 --> 00:04:02,743
+E daí?
+O sully é um cdf conhecido.
 
 87
-00:04:01,158 --> 00:04:02,743
-E DAÍ?
-O SULLY É UM CDF CONHECIDO.
+00:04:02,826 --> 00:04:05,245
+É, mas e se a gonzalez me
+reprovar
 
 88
-00:04:02,826 --> 00:04:05,245
-É, MAS E SE A GONZALEZ ME
-REPROVAR
+00:04:05,329 --> 00:04:07,289
+E vocês
+tirarem suas carteiras?
 
 89
-00:04:05,329 --> 00:04:07,289
-E VOCÊS
-TIRAREM SUAS CARTEIRAS?
+00:04:07,372 --> 00:04:10,083
+Jimmy:
+Então, eu e a Paige
+vamos te levar para passear.
 
 90
-00:04:07,372 --> 00:04:10,083
-JIMMY:
-ENTÃO, EU E A PAIGE
-VAMOS TE LEVAR PARA PASSEAR.
+00:04:10,167 --> 00:04:11,668
+Vai ficar tudo bem,
+abelhinha.
 
 91
-00:04:10,167 --> 00:04:11,668
-VAI FICAR TUDO BEM,
-ABELHINHA.
+00:04:11,752 --> 00:04:13,921
+Apenas pegue uma página
+do livro da Paige
 
 92
-00:04:11,752 --> 00:04:13,921
-APENAS PEGUE UMA PÁGINA
-DO LIVRO DA PAIGE
+00:04:14,004 --> 00:04:16,256
+E tente uma marcha mais baixa,
+ok?
 
 93
-00:04:14,004 --> 00:04:16,256
-E TENTE UMA MARCHA MAIS BAIXA,
-OK?
+00:04:19,343 --> 00:04:20,969
+Emma:
+Ok. Então eu estava pensando que
+poderíamos começar a reunião
 
 94
-00:04:19,343 --> 00:04:20,969
-EMMA:
-OK. ENTÃO EU ESTAVA PENSANDO QUE
-PODERÍAMOS COMEÇAR A REUNIÃO
+00:04:21,053 --> 00:04:23,472
+Com este documentário sobre
+a poluição nos grandes lagos.
 
 95
-00:04:21,053 --> 00:04:23,472
-COM ESTE DOCUMENTÁRIO SOBRE
-A POLUIÇÃO NOS GRANDES LAGOS.
+00:04:23,555 --> 00:04:26,975
+Ashley:
+Parece bom.
+Vou colocar o dvd.
 
 96
-00:04:23,555 --> 00:04:26,975
-ASHLEY:
-PARECE BOM.
-VOU COLOCAR O DVD.
+00:04:29,853 --> 00:04:31,313
+Hum, onde está o aparelho
+de dvd?
 
 97
-00:04:29,853 --> 00:04:31,313
-HUM, ONDE ESTÁ O APARELHO
-DE DVD?
+00:04:31,396 --> 00:04:32,356
+Emma:
+O quê?
 
 98
-00:04:31,396 --> 00:04:32,356
-EMMA:
-O QUÊ?
+00:04:32,439 --> 00:04:34,024
+Ah, está apenas com-
 
 99
-00:04:32,439 --> 00:04:34,024
-AH, ESTÁ APENAS COM-
+00:04:42,449 --> 00:04:44,034
+Já volto.
 
 100
-00:04:42,449 --> 00:04:44,034
-JÁ VOLTO.
+00:04:46,703 --> 00:04:47,454
+Algum de vocês viu
 
 101
-00:04:46,703 --> 00:04:47,454
-ALGUM DE VOCÊS VIU
+00:04:47,538 --> 00:04:50,415
+O aparelho de dvd
+do centro de recursos?
 
 102
-00:04:47,538 --> 00:04:50,415
-O APARELHO DE DVD
-DO CENTRO DE RECURSOS?
+00:04:50,499 --> 00:04:52,459
+Isso é uma pergunta
+ou uma acusação?
 
 103
-00:04:50,499 --> 00:04:52,459
-ISSO É UMA PERGUNTA
-OU UMA ACUSAÇÃO?
+00:04:52,543 --> 00:04:53,877
+É uma pergunta.
 
 104
-00:04:52,543 --> 00:04:53,877
-É UMA PERGUNTA.
+00:04:54,878 --> 00:04:57,256
+E você, Sean,
+sabe onde está?
 
 105
-00:04:54,878 --> 00:04:57,256
-E VOCÊ, SEAN,
-SABE ONDE ESTÁ?
+00:04:57,339 --> 00:04:57,589
+Não.
 
 106
-00:04:57,339 --> 00:04:57,589
-NÃO.
+00:05:00,050 --> 00:05:03,053
+Como você pode
+me perguntar isso?
 
 107
-00:05:00,050 --> 00:05:03,053
-COMO VOCÊ PODE
-ME PERGUNTAR ISSO?
+00:05:18,360 --> 00:05:20,279
+O que foi?
 
 108
-00:05:09,226 --> 00:05:10,894
-(BATIDAS DE RAP)
+00:05:20,362 --> 00:05:21,154
+Emma:
+Eu só estava tentando
+me lembrar
 
 109
-00:05:18,360 --> 00:05:20,279
-O QUE FOI?
+00:05:21,238 --> 00:05:23,740
+Do que eu gostava
+nele.
 
 110
-00:05:20,362 --> 00:05:21,154
-EMMA:
-EU SÓ ESTAVA TENTANDO
-ME LEMBRAR
+00:05:24,408 --> 00:05:24,741
+Chris:
+Nele?
 
 111
-00:05:21,238 --> 00:05:23,740
-DO QUE EU GOSTAVA
-NELE.
+00:05:25,742 --> 00:05:26,451
+Nem se dê ao trabalho.
 
 112
-00:05:24,408 --> 00:05:24,741
-CHRIS:
-NELE?
+00:05:26,535 --> 00:05:29,913
+Não vale a pena
+se lembrar do slim shady.
 
 113
-00:05:25,742 --> 00:05:26,451
-NEM SE DÊ AO TRABALHO.
+00:05:30,539 --> 00:05:34,209
+Então... Quer tomar um
+milk-shake ou algo assim?
 
 114
-00:05:26,535 --> 00:05:29,913
-NÃO VALE A PENA
-SE LEMBRAR DO SLIM SHADY.
+00:05:36,128 --> 00:05:37,004
+Emma:
+Você quer dizer...
 
 115
-00:05:30,539 --> 00:05:34,209
-ENTÃO... QUER TOMAR UM
-MILK-SHAKE OU ALGO ASSIM?
-
-116
-00:05:36,128 --> 00:05:37,004
-EMMA:
-VOCÊ QUER DIZER...
-
-117
 00:05:37,087 --> 00:05:38,672
-SAIR EM UM ENCONTRO?
+Sair em um encontro?
 É.
 
-118
+116
 00:05:39,715 --> 00:05:42,050
-ENTÃO DEPOIS DA SUA REUNIÃO?
+Então depois da sua reunião?
+
+117
+00:05:43,177 --> 00:05:43,760
+Por favor?
+
+118
+00:05:47,389 --> 00:05:48,307
+Legal.
 
 119
-00:05:43,177 --> 00:05:43,760
-POR FAVOR?
+00:05:51,268 --> 00:05:51,602
+Sim!
 
 120
-00:05:47,389 --> 00:05:48,307
-LEGAL.
+00:06:02,779 --> 00:06:04,781
+Spinner:
+Desculpe. É que eu estou,
+estou nervoso.
 
 121
-00:05:51,268 --> 00:05:51,602
-SIM!
+00:06:04,865 --> 00:06:05,949
+Jimmy:
+Tudo bem.
 
 122
-00:06:02,779 --> 00:06:04,781
-SPINNER:
-DESCULPE. É QUE EU ESTOU,
-ESTOU NERVOSO.
+00:06:06,033 --> 00:06:07,201
+Minha prima, meeri,
 
 123
-00:06:04,865 --> 00:06:05,949
-JIMMY:
-TUDO BEM.
+00:06:07,284 --> 00:06:09,661
+Estava tão nervosa
+na primeira vez que dirigiu,
 
 124
-00:06:06,033 --> 00:06:07,201
-MINHA PRIMA, MEERI,
+00:06:09,745 --> 00:06:12,122
+Que ela atropelou a mãe dela.
 
 125
-00:06:07,284 --> 00:06:09,661
-ESTAVA TÃO NERVOSA
-NA PRIMEIRA VEZ QUE DIRIGIU,
+00:06:14,291 --> 00:06:14,791
+Duas vezes.
 
 126
-00:06:09,745 --> 00:06:12,122
-QUE ELA ATROPELOU A MÃE DELA.
+00:06:16,752 --> 00:06:18,128
+Spinner:
+Cala a boca.
 
 127
-00:06:14,291 --> 00:06:14,791
-DUAS VEZES.
+00:06:23,800 --> 00:06:25,177
+Ei, a gonzalez não está!
 
 128
-00:06:15,584 --> 00:06:16,668
-(ELE IMITA UM ACIDENTE DE CARRO)
+00:06:26,345 --> 00:06:29,306
+("Be still my beating heart"
+música)
 
 129
-00:06:16,752 --> 00:06:18,128
-SPINNER:
-CALA A BOCA.
-
-130
-00:06:23,800 --> 00:06:25,177
-EI, A GONZALEZ NÃO ESTÁ!
-
-131
-00:06:26,345 --> 00:06:29,306
-("BE STILL MY BEATING HEART"
-MÚSICA)
-
-132
 00:06:29,389 --> 00:06:35,646
 ♪♪♪
 
-133
+130
 00:06:35,729 --> 00:06:37,022
-FALCONE:
-BOA TARDE, PESSOAL.
+Falcone:
+Boa tarde, pessoal.
+
+131
+00:06:37,105 --> 00:06:38,357
+Tivemos duas aulas cheias,
+
+132
+00:06:38,440 --> 00:06:40,359
+Então vocês ficaram comigo
+para a aula prática.
+
+133
+00:06:40,442 --> 00:06:41,777
+Sou o sr. Falcone.
 
 134
-00:06:37,105 --> 00:06:38,357
-TIVEMOS DUAS AULAS CHEIAS,
+00:06:42,819 --> 00:06:44,821
+Paige:
+Hum, Paige Michalchuk.
 
 135
-00:06:38,440 --> 00:06:40,359
-ENTÃO VOCÊS FICARAM COMIGO
-PARA A AULA PRÁTICA.
+00:06:45,656 --> 00:06:46,990
+E posso dizer,
 
 136
-00:06:40,442 --> 00:06:41,777
-SOU O SR. FALCONE.
+00:06:48,200 --> 00:06:52,496
+Como é bom... Ter...
+Aulas de direção com você.
 
 137
-00:06:42,819 --> 00:06:44,821
-PAIGE:
-HUM, PAIGE MICHALCHUK.
+00:06:54,122 --> 00:06:55,666
+Sr. Falcone:
+Bem, é bom ouvir isso.
 
 138
-00:06:45,656 --> 00:06:46,990
-E POSSO DIZER,
+00:06:55,749 --> 00:06:57,376
+Por que você não começa,
+Paige?
 
 139
-00:06:48,200 --> 00:06:52,496
-COMO É BOM... TER...
-AULAS DE DIREÇÃO COM VOCÊ.
+00:06:57,459 --> 00:06:57,835
+Ok.
 
 140
-00:06:54,122 --> 00:06:55,666
-SR. FALCONE:
-BEM, É BOM OUVIR ISSO.
+00:07:01,421 --> 00:07:04,383
+Spinner:
+Ah, você está bem, abelhinha?
+Você parece um pouco nervosa.
 
 141
-00:06:55,749 --> 00:06:57,376
-POR QUE VOCÊ NÃO COMEÇA,
-PAIGE?
+00:07:04,466 --> 00:07:06,635
+Paige:
+Eu? Nervosa? Imagina.
 
 142
-00:06:57,459 --> 00:06:57,835
-OK.
+00:07:16,103 --> 00:07:17,604
+Falcone:
+Antes de colocar o carro
+em 'drive',
 
 143
-00:07:01,421 --> 00:07:04,383
-SPINNER:
-AH, VOCÊ ESTÁ BEM, ABELHINHA?
-VOCÊ PARECE UM POUCO NERVOSA.
+00:07:17,688 --> 00:07:18,814
+Certifique-se de que todos
+os seus passageiros estejam sentados
 
 144
-00:07:04,466 --> 00:07:06,635
-PAIGE:
-EU? NERVOSA? IMAGINA.
+00:07:18,897 --> 00:07:20,399
+E usando os cintos de segurança.
 
 145
-00:07:16,103 --> 00:07:17,604
-FALCONE:
-ANTES DE COLOCAR O CARRO
-EM 'DRIVE',
+00:07:20,482 --> 00:07:22,943
+As portas devem estar
+bem fechadas.
 
 146
-00:07:17,688 --> 00:07:18,814
-CERTIFIQUE-SE DE QUE TODOS
-OS SEUS PASSAGEIROS ESTEJAM SENTADOS
+00:07:23,026 --> 00:07:25,529
+Paige:
+Ok. Hum, verificar espelho.
 
 147
-00:07:18,897 --> 00:07:20,399
-E USANDO OS CINTOS DE SEGURANÇA.
+00:07:26,029 --> 00:07:29,116
+Cinto de segurança. Motorista
+e passageiros. Hum...
 
 148
-00:07:20,482 --> 00:07:22,943
-AS PORTAS DEVEM ESTAR
-BEM FECHADAS.
+00:07:30,158 --> 00:07:34,663
+Falcone:
+Assuma a posição correta
+no volante.
 
 149
-00:07:23,026 --> 00:07:25,529
-PAIGE:
-OK. HUM, VERIFICAR ESPELHO.
+00:07:35,372 --> 00:07:38,208
+Opa! Opa!
+O carro já está ligado!
 
 150
-00:07:26,029 --> 00:07:29,116
-CINTO DE SEGURANÇA. MOTORISTA
-E PASSAGEIROS. HUM...
+00:07:38,834 --> 00:07:39,751
+Paige:
+Desculpe!
 
 151
-00:07:30,158 --> 00:07:34,663
-FALCONE:
-ASSUMA A POSIÇÃO CORRETA
-NO VOLANTE.
+00:07:39,835 --> 00:07:40,252
+Falcone:
+Tudo bem.
 
 152
-00:07:35,372 --> 00:07:38,208
-OPA! OPA!
-O CARRO JÁ ESTÁ LIGADO!
+00:07:40,335 --> 00:07:44,840
+Mas se isso fosse um teste,
+você já teria sido reprovada.
 
 153
-00:07:38,834 --> 00:07:39,751
-PAIGE:
-DESCULPE!
-
-154
-00:07:39,835 --> 00:07:40,252
-FALCONE:
-TUDO BEM.
-
-155
-00:07:40,335 --> 00:07:44,840
-MAS SE ISSO FOSSE UM TESTE,
-VOCÊ JÁ TERIA SIDO REPROVADA.
-
-156
 00:07:44,923 --> 00:07:54,808
 ♪♪♪
 
-157
+154
 00:07:58,395 --> 00:07:59,229
-VOCÊ JÁ TERMINOU?
+Você já terminou?
+
+155
+00:07:59,313 --> 00:08:00,189
+Chris:
+Sim.
+
+156
+00:08:00,272 --> 00:08:02,608
+Então o que você está
+bebendo? Morango?
+
+157
+00:08:02,691 --> 00:08:05,903
+Sabia que eu nunca tomei
+milk-shake de morango por aqui
 
 158
-00:07:59,313 --> 00:08:00,189
-CHRIS:
-SIM.
+00:08:05,986 --> 00:08:06,987
+Nem nada.
 
 159
-00:08:00,272 --> 00:08:02,608
-ENTÃO O QUE VOCÊ ESTÁ
-BEBENDO? MORANGO?
+00:08:07,613 --> 00:08:08,572
+Ah, é mesmo?
 
 160
-00:08:02,691 --> 00:08:05,903
-SABIA QUE EU NUNCA TOMEI
-MILK-SHAKE DE MORANGO POR AQUI
+00:08:08,655 --> 00:08:09,281
+Chris:
+É.
 
 161
-00:08:05,986 --> 00:08:06,987
-NEM NADA.
+00:08:09,364 --> 00:08:10,991
+Então, por que você não
+traz o seu para cá?
 
 162
-00:08:07,613 --> 00:08:08,572
-AH, É MESMO?
+00:08:11,074 --> 00:08:13,035
+Emma:
+Acho que não.
 
 163
-00:08:08,655 --> 00:08:09,281
-CHRIS:
-É.
+00:08:23,837 --> 00:08:24,713
+Quer ir?
 
 164
-00:08:09,364 --> 00:08:10,991
-ENTÃO, POR QUE VOCÊ NÃO
-TRAZ O SEU PARA CÁ?
+00:08:25,797 --> 00:08:28,425
+Não. O Sean não vai
+estragar isso.
 
 165
-00:08:11,074 --> 00:08:13,035
-EMMA:
-ACHO QUE NÃO.
+00:08:29,259 --> 00:08:29,676
+Chris:
+Legal.
 
 166
-00:08:23,837 --> 00:08:24,713
-QUER IR?
+00:08:30,511 --> 00:08:34,348
+Então me fale mais sobre essa
+petição que você está fazendo.
 
 167
-00:08:25,797 --> 00:08:28,425
-NÃO. O SEAN NÃO VAI
-ESTRAGAR ISSO.
+00:08:34,431 --> 00:08:36,850
+Bem, muitos esgotos da cidade
+deságuam no lago,
 
 168
-00:08:29,259 --> 00:08:29,676
-CHRIS:
-LEGAL.
+00:08:36,934 --> 00:08:38,644
+Então nossas praias...
 
 169
-00:08:30,511 --> 00:08:34,348
-ENTÃO ME FALE MAIS SOBRE ESSA
-PETIÇÃO QUE VOCÊ ESTÁ FAZENDO.
+00:08:44,024 --> 00:08:45,317
+Olhe só para eles.
 
 170
-00:08:34,431 --> 00:08:36,850
-BEM, MUITOS ESGOTOS DA CIDADE
-DESÁGUAM NO LAGO,
+00:08:45,400 --> 00:08:48,111
+Eles pensam que podem simplesmente
+pegar o que quiserem.
 
 171
-00:08:36,934 --> 00:08:38,644
-ENTÃO NOSSAS PRAIAS...
+00:08:48,195 --> 00:08:48,612
+Chris:
+Emma.
 
 172
-00:08:44,024 --> 00:08:45,317
-OLHE SÓ PARA ELES.
+00:08:52,199 --> 00:08:53,659
+Sean:
+Vaza daqui, Emma.
 
 173
-00:08:45,400 --> 00:08:48,111
-ELES PENSAM QUE PODEM SIMPLESMENTE
-PEGAR O QUE QUISEREM.
+00:08:53,742 --> 00:08:55,869
+Emma:
+Você vai dizer ao gerente
+o que você tem na sua jaqueta?
 
 174
-00:08:48,195 --> 00:08:48,612
-CHRIS:
-EMMA.
+00:08:59,206 --> 00:09:01,792
+Gerente:
+E o que seria?
 
 175
-00:08:52,199 --> 00:08:53,659
-SEAN:
-VAZA DAQUI, EMMA.
+00:09:04,670 --> 00:09:06,630
+Emma:
+Então, o que você faz
+quando não está tocando?
 
 176
-00:08:53,742 --> 00:08:55,869
-EMMA:
-VOCÊ VAI DIZER AO GERENTE
-O QUE VOCÊ TEM NA SUA JAQUETA?
+00:09:06,713 --> 00:09:09,716
+Chris:
+Bem, eu leio, ouço música.
 
 177
-00:08:59,206 --> 00:09:01,792
-GERENTE:
-E O QUE SERIA?
+00:09:11,260 --> 00:09:13,846
+Hum... Tem uma festa de
+aniversário amanhã para o Snake.
 
 178
-00:09:04,670 --> 00:09:06,630
-EMMA:
-ENTÃO, O QUE VOCÊ FAZ
-QUANDO NÃO ESTÁ TOCANDO?
+00:09:13,929 --> 00:09:14,596
+A é?
 
 179
-00:09:06,713 --> 00:09:09,716
-CHRIS:
-BEM, EU LEIO, OUÇO MÚSICA.
+00:09:15,305 --> 00:09:18,058
+Emma:
+E eu estava me perguntando se
+você talvez quisesse ir.
 
 180
-00:09:11,260 --> 00:09:13,846
-HUM... TEM UMA FESTA DE
-ANIVERSÁRIO AMANHÃ PARA O SNAKE.
+00:09:18,141 --> 00:09:19,059
+Ser meu par?
 
 181
-00:09:13,929 --> 00:09:14,596
-A É?
+00:09:19,560 --> 00:09:19,977
+Claro.
 
 182
-00:09:15,305 --> 00:09:18,058
-EMMA:
-E EU ESTAVA ME PERGUNTANDO SE
-VOCÊ TALVEZ QUISESSE IR.
+00:09:21,728 --> 00:09:23,814
+Isso vai,
+isso vai ser legal.
 
 183
-00:09:18,141 --> 00:09:19,059
-SER MEU PAR?
+00:09:25,357 --> 00:09:27,025
+(Som alto de bateria
+vindo de um som de carro)
 
 184
-00:09:19,560 --> 00:09:19,977
-CLARO.
+00:09:37,703 --> 00:09:39,663
+Jay:
+Por que você está sempre se
+metendo nos assuntos dos outros?
 
 185
-00:09:21,728 --> 00:09:23,814
-ISSO VAI,
-ISSO VAI SER LEGAL.
+00:09:39,746 --> 00:09:40,414
+Emma:
+Você estava pegando-
 
 186
-00:09:25,357 --> 00:09:27,025
-(SOM ALTO DE BATERIA
-VINDO DE UM SOM DE CARRO)
+00:09:40,497 --> 00:09:42,082
+Jay:
+Apenas algumas barras de
+chocolate.
 
 187
-00:09:37,703 --> 00:09:39,663
-JAY:
-POR QUE VOCÊ ESTÁ SEMPRE SE
-METENDO NOS ASSUNTOS DOS OUTROS?
+00:09:42,165 --> 00:09:42,875
+Grande coisa.
 
 188
-00:09:39,746 --> 00:09:40,414
-EMMA:
-VOCÊ ESTAVA PEGANDO-
+00:09:45,043 --> 00:09:48,589
+Chris:
+Irmãos, então vão comer
+em outro lugar.
 
 189
-00:09:40,497 --> 00:09:42,082
-JAY:
-APENAS ALGUMAS BARRAS DE
-CHOCOLATE.
+00:09:48,672 --> 00:09:50,257
+Sean:
+Vamos, Jay.
 
 190
-00:09:42,165 --> 00:09:42,875
-GRANDE COISA.
+00:09:51,008 --> 00:09:53,051
+Se esses caras querem
+estragar minha diversão?
 
 191
-00:09:43,625 --> 00
+00:09:53,135 --> 00:09:54,511
+Eu vou começar a estragar
+a deles.
 
 192
-00:09:45,043 --> 00:09:48,589
-CHRIS:
-IRMÃOS, ENTÃO VÃO COMER
-EM OUTRO LUGAR.
+00:09:54,595 --> 00:09:56,054
+Emma:
+E qual é a sua ideia
+de diversão, Jay?
 
 193
-00:09:48,672 --> 00:09:50,257
-SEAN:
-VAMOS, JAY.
+00:09:56,138 --> 00:09:57,931
+Roubar o aparelho de dvd
+da escola?
 
 194
-00:09:51,008 --> 00:09:53,051
-SE ESSES CARAS QUEREM
-ESTRAGAR MINHA DIVERSÃO?
+00:09:58,015 --> 00:09:58,974
+Jay:
+Demais.
 
 195
-00:09:53,135 --> 00:09:54,511
-EU VOU COMEÇAR A ESTRAGAR
-A DELES.
+00:09:59,516 --> 00:10:01,018
+Mas roubar um laptop?
 
 196
-00:09:54,595 --> 00:09:56,054
-EMMA:
-E QUAL É A SUA IDEIA
-DE DIVERSÃO, JAY?
+00:10:02,019 --> 00:10:03,437
+Muito melhor.
 
 197
-00:09:56,138 --> 00:09:57,931
-ROUBAR O APARELHO DE DVD
-DA ESCOLA?
+00:10:03,520 --> 00:10:04,354
+Sean:
+Jay.
 
 198
-00:09:58,015 --> 00:09:58,974
-JAY:
-DEMAIS.
+00:10:06,523 --> 00:10:08,108
+Jay:
+O que ela vai fazer?
 
 199
-00:09:59,516 --> 00:10:01,018
-MAS ROUBAR UM LAPTOP?
+00:10:08,192 --> 00:10:10,319
+Se ela for esperta,
+ela vai calar a boca de uma vez.
 
 200
-00:10:02,019 --> 00:10:03,437
-MUITO MELHOR.
+00:10:23,999 --> 00:10:26,251
+O que você está fazendo acordada?
 
 201
-00:10:03,520 --> 00:10:04,354
-SEAN:
-JAY.
+00:10:27,002 --> 00:10:28,921
+Não consegui dormir muito.
 
 202
-00:10:06,523 --> 00:10:08,108
-JAY:
-O QUE ELA VAI FAZER?
+00:10:29,004 --> 00:10:29,922
+Jack te acordou?
 
 203
-00:10:08,192 --> 00:10:10,319
-SE ELA FOR ESPERTA,
-ELA VAI CALAR A BOCA DE UMA VEZ.
+00:10:30,005 --> 00:10:32,799
+Não. Jack dorme como um anjo.
 
 204
-00:10:23,999 --> 00:10:26,251
-O QUE VOCÊ ESTÁ FAZENDO ACORDADA?
+00:10:32,883 --> 00:10:35,219
+Eu desde a quimio?
+Não muito.
 
 205
-00:10:27,002 --> 00:10:28,921
-NÃO CONSEGUI DORMIR MUITO.
+00:10:39,973 --> 00:10:41,308
+Ah, por favor. De novo não.
 
 206
-00:10:29,004 --> 00:10:29,922
-JACK TE ACORDOU?
+00:10:41,391 --> 00:10:42,851
+Que tralha!
 
 207
-00:10:30,005 --> 00:10:32,799
-NÃO. JACK DORME COMO UM ANJO.
+00:10:42,935 --> 00:10:44,353
+Simpson:
+Ei, foi o melhor que
+sua mãe pôde comprar
 
 208
-00:10:32,883 --> 00:10:35,219
-EU DESDE A QUIMIO?
-NÃO MUITO.
+00:10:44,436 --> 00:10:45,771
+E eu estou tocado.
 
 209
-00:10:39,973 --> 00:10:41,308
-AH, POR FAVOR. DE NOVO NÃO.
+00:10:46,939 --> 00:10:50,150
+Tudo o que ele precisa é de
+um ajuste fino.
 
 210
-00:10:41,391 --> 00:10:42,851
-QUE TRALHA!
+00:10:50,234 --> 00:10:51,693
+Vou atualizar a memória ram.
 
 211
-00:10:42,935 --> 00:10:44,353
-SIMPSON:
-EI, FOI O MELHOR QUE
-SUA MÃE PÔDE COMPRAR
+00:10:51,777 --> 00:10:53,070
+Emma:
+Ela não deveria ter que
+comprar um novo para você
 
 212
-00:10:44,436 --> 00:10:45,771
-E EU ESTOU TOCADO.
+00:10:53,153 --> 00:10:55,155
+Em primeiro lugar.
 
 213
-00:10:46,939 --> 00:10:50,150
-TUDO O QUE ELE PRECISA É DE
-UM AJUSTE FINO.
+00:10:55,239 --> 00:10:57,699
+Simpson:
+Bem, se eu não tivesse perdido
+o meu último.
 
 214
-00:10:50,234 --> 00:10:51,693
-VOU ATUALIZAR A MEMÓRIA RAM.
+00:10:57,783 --> 00:10:59,368
+Emma:
+Você não o perdeu.
 
 215
-00:10:51,777 --> 00:10:53,070
-EMMA:
-ELA NÃO DEVERIA TER QUE
-COMPRAR UM NOVO PARA VOCÊ
+00:11:01,495 --> 00:11:02,704
+Simpson:
+O que você quer dizer?
 
 216
-00:10:53,153 --> 00:10:55,155
-EM PRIMEIRO LUGAR.
+00:11:02,788 --> 00:11:05,207
+Emma:
+Nada.
+Eu não quis dizer nada.
 
 217
-00:10:55,239 --> 00:10:57,699
-SIMPSON:
-BEM, SE EU NÃO TIVESSE PERDIDO
-O MEU ÚLTIMO.
+00:11:05,290 --> 00:11:06,792
+Estou apenas cansada.
 
 218
-00:10:57,783 --> 00:10:59,368
-EMMA:
-VOCÊ NÃO O PERDEU.
+00:11:06,875 --> 00:11:09,294
+Vou tomar um banho,
+ok?
 
 219
-00:11:01,495 --> 00:11:02,704
-SIMPSON:
-O QUE VOCÊ QUER DIZER?
+00:11:09,378 --> 00:11:11,046
+Simpson:
+Ok.
 
 220
-00:11:02,788 --> 00:11:05,207
-EMMA:
-NADA.
-EU NÃO QUIS DIZER NADA.
+00:11:23,350 --> 00:11:26,687
+Chris:
+Emma, eu comprei o cd
+mais legal para o aniversário
+do Simpson-
 
 221
-00:11:05,290 --> 00:11:06,792
-ESTOU APENAS CANSADA.
+00:11:26,770 --> 00:11:29,481
+Precisamos pegar
+aquele laptop.
 
 222
-00:11:06,875 --> 00:11:09,294
-VOU TOMAR UM BANHO,
-OK?
+00:11:30,274 --> 00:11:31,066
+Boa sorte.
 
 223
-00:11:09,378 --> 00:11:11,046
-SIMPSON:
-OK.
+00:11:31,149 --> 00:11:32,734
+Eles venderam
+no dia em que o roubaram.
 
 224
-00:11:23,350 --> 00:11:26,687
-CHRIS:
-EMMA, EU COMPREI O CD
-MAIS LEGAL PARA O ANIVERSÁRIO
-DO SIMPSON-
+00:11:32,818 --> 00:11:34,486
+Então o que
+devemos fazer?
 
 225
-00:11:26,770 --> 00:11:29,481
-PRECISAMOS PEGAR
-AQUELE LAPTOP.
+00:11:34,570 --> 00:11:36,071
+Contar ao sr. Raditch?
 
 226
-00:11:30,274 --> 00:11:31,066
-BOA SORTE.
+00:11:36,154 --> 00:11:38,407
+Que o Jay meio que,
+confessou?
 
 227
-00:11:31,149 --> 00:11:32,734
-ELES VENDERAM
-NO DIA EM QUE O ROUBARAM.
+00:11:38,490 --> 00:11:40,075
+Precisamos de provas.
 
 228
-00:11:32,818 --> 00:11:34,486
-ENTÃO O QUE
-DEVEMOS FAZER?
+00:11:40,158 --> 00:11:42,327
+Precisamos
+pegar o Sean.
 
 229
-00:11:34,570 --> 00:11:36,071
-CONTAR AO SR. RADITCH?
+00:11:45,330 --> 00:11:48,584
+Spinner:
+Senhoras e senhores,
+apresento a vocês uma lenda
+da direção,
 
 230
-00:11:36,154 --> 00:11:38,407
-QUE O JAY MEIO QUE,
-CONFESSOU?
+00:11:48,667 --> 00:11:49,710
+Paige Michalchuk.
 
 231
-00:11:38,490 --> 00:11:40,075
-PRECISAMOS DE PROVAS.
+00:11:49,793 --> 00:11:51,295
+Jimmy:
+Ela matou mais cones
+laranjas do que qualquer um
 
 232
-00:11:40,158 --> 00:11:42,327
-PRECISAMOS
-PEGAR O SEAN.
+00:11:51,378 --> 00:11:52,963
+Na história de Degrassi.
 
 233
-00:11:45,330 --> 00:11:48,584
-SPINNER:
-SENHORAS E SENHORES,
-APRESENTO A VOCÊS UMA LENDA
-DA DIREÇÃO,
+00:11:53,046 --> 00:11:55,257
+Spinner:
+Assassina!
 
 234
-00:11:48,667 --> 00:11:49,710
-PAIGE MICHALCHUK.
+00:11:55,340 --> 00:11:56,550
+Você esmagou
+a mamãe cone!
 
 235
-00:11:49,793 --> 00:11:51,295
-JIMMY:
-ELA MATOU MAIS CONES
-LARANJAS DO QUE QUALQUER UM
+00:11:56,633 --> 00:11:58,010
+Você achatou
+o meu irmão cone!
 
 236
-00:11:51,378 --> 00:11:52,963
-NA HISTÓRIA DE DEGRASSI.
+00:11:58,093 --> 00:11:59,261
+Spin, para com isso!
 
 237
-00:11:53,046 --> 00:11:55,257
-SPINNER:
-ASSASSINA!
+00:12:03,765 --> 00:12:06,935
+Armstrong:
+Ok, hoje vamos discutir a
+fatoração de polinômios.
 
 238
-00:11:55,340 --> 00:11:56,550
-VOCÊ ESMAGOU
-A MAMÃE CONE!
+00:12:07,019 --> 00:12:08,228
+Dizem as más línguas,
 
 239
-00:11:56,633 --> 00:11:58,010
-VOCÊ ACHATOU
-O MEU IRMÃO CONE!
+00:12:08,312 --> 00:12:11,273
+Que seu instrutor de direção
+é muito bonito.
 
 240
-00:11:58,093 --> 00:11:59,261
-SPIN, PARA COM ISSO!
+00:12:11,356 --> 00:12:13,734
+É mesmo?
+Eu não tinha notado.
 
 241
-00:12:01,889 --> 00:12:02,890
-(SINAL TOCA)
+00:12:15,569 --> 00:12:17,196
+É por isso que
+você ficou nervosa.
 
 242
-00:12:03,765 --> 00:12:06,935
-ARMSTRONG:
-OK, HOJE VAMOS DISCUTIR A
-FATORAÇÃO DE POLINÔMIOS.
+00:12:17,279 --> 00:12:19,740
+Você está
+caidinha por ele.
 
 243
-00:12:07,019 --> 00:12:08,228
-DIZEM AS MÁS LÍNGUAS,
+00:12:19,823 --> 00:12:21,325
+Hazel, algumas de nós estão
+tentando ter
 
 244
-00:12:08,312 --> 00:12:11,273
-QUE SEU INSTRUTOR DE DIREÇÃO
-É MUITO BONITO.
+00:12:21,408 --> 00:12:23,911
+Uma educação aqui,
+ok?
 
 245
-00:12:11,356 --> 00:12:13,734
-É MESMO?
-EU NÃO TINHA NOTADO.
+00:12:29,666 --> 00:12:30,334
+Anúncio:
+Um anúncio importante
 
 246
-00:12:15,569 --> 00:12:17,196
-É POR ISSO QUE
-VOCÊ FICOU NERVOSA.
+00:12:30,417 --> 00:12:32,753
+Em relação ao
+aparelho de dvd desaparecido
+do departamento de inglês.
 
 247
-00:12:17,279 --> 00:12:19,740
-VOCÊ ESTÁ
-CAIDINHA POR ELE.
+00:12:33,337 --> 00:12:35,797
+Se alguém viu o aparelho,
+gostaria de saber.
 
 248
-00:12:19,823 --> 00:12:21,325
-HAZEL, ALGUMAS DE NÓS ESTÃO
-TENTANDO TER
+00:12:35,881 --> 00:12:38,550
+Tenham certeza de que todas
+as dicas serão muito
+apreciadas...
 
 249
-00:12:21,408 --> 00:12:23,911
-UMA EDUCAÇÃO AQUI,
-OK?
+00:13:14,253 --> 00:13:16,421
+Sean:
+Nancy drew.
 
 250
-00:12:29,666 --> 00:12:30,334
-ANÚNCIO:
-UM ANÚNCIO IMPORTANTE
+00:13:16,505 --> 00:13:17,673
+Por que você está me seguindo?
 
 251
-00:12:30,417 --> 00:12:32,753
-EM RELAÇÃO AO
-APARELHO DE DVD DESAPARECIDO
-DO DEPARTAMENTO DE INGLÊS.
+00:13:17,756 --> 00:13:18,465
+Emma:
+Eu não estava.
 
 252
-00:12:33,337 --> 00:12:35,797
-SE ALGUÉM VIU O APARELHO,
-GOSTARIA DE SABER.
+00:13:21,260 --> 00:13:22,636
+Sean:
+São para a aula de oficina.
 
 253
-00:12:35,881 --> 00:12:38,550
-TENHAM CERTEZA DE QUE TODAS
-AS DICAS SERÃO MUITO
-APRECIADAS...
+00:13:23,303 --> 00:13:25,097
+O quê, você achou que ia ter
+um aparelho de dvd aqui?
 
 254
-00:13:14,253 --> 00:13:16,421
-SEAN:
-NANCY DREW.
+00:13:27,933 --> 00:13:30,644
+Olha, eu sei que nosso término
+foi ruim
 
 255
-00:13:16,505 --> 00:13:17,673
-POR QUE VOCÊ ESTÁ ME SEGUINDO?
+00:13:31,520 --> 00:13:34,273
+E sinto muito que
+você tenha se machucado, ok?
 
 256
-00:13:17,756 --> 00:13:18,465
-EMMA:
-EU NÃO ESTAVA.
+00:13:35,440 --> 00:13:37,025
+Mas isso foi há meses.
 
 257
-00:13:21,260 --> 00:13:22,636
-SEAN:
-SÃO PARA A AULA DE OFICINA.
+00:13:37,109 --> 00:13:38,902
+E o que eu faço
+com o Jay e com a amy?
 
 258
-00:13:23,303 --> 00:13:25,097
-O QUÊ, VOCÊ ACHOU QUE IA TER
-UM APARELHO DE DVD AQUI?
+00:13:38,986 --> 00:13:41,071
+Não é da sua conta.
 
 259
-00:13:27,933 --> 00:13:30,644
-OLHA, EU SEI QUE NOSSO TÉRMINO
-FOI RUIM
+00:13:50,414 --> 00:13:52,875
+Spinner:
+Jimmy, coloque seu capacete!
 
 260
-00:13:31,520 --> 00:13:34,273
-E SINTO MUITO QUE
-VOCÊ TENHA SE MACHUCADO, OK?
+00:13:52,958 --> 00:13:54,668
+Paige:
+Então eu arrebentei na minha
+primeira aula com o falcone.
 
 261
-00:13:35,440 --> 00:13:37,025
-MAS ISSO FOI HÁ MESES.
+00:13:54,751 --> 00:13:55,878
+Poderia acontecer com
+qualquer um.
 
 262
-00:13:37,109 --> 00:13:38,902
-E O QUE EU FAÇO
-COM O JAY E COM A AMY?
+00:13:55,961 --> 00:13:56,837
+Jimmy:
+Ah, mas não aconteceu.
 
 263
-00:13:38,986 --> 00:13:41,071
-NÃO É DA SUA CONTA.
+00:13:56,920 --> 00:13:58,046
+Aconteceu com você.
 
 264
-00:13:50,414 --> 00:13:52,875
-SPINNER:
-JIMMY, COLOQUE SEU CAPACETE!
+00:13:58,130 --> 00:14:01,383
+Hazel:
+Por favor. Ela não teria
+problemas com a gonzalez.
 
 265
-00:13:52,958 --> 00:13:54,668
-PAIGE:
-ENTÃO EU ARREBENTEI NA MINHA
-PRIMEIRA AULA COM O FALCONE.
+00:14:01,466 --> 00:14:02,092
+Do que você está falando?
 
 266
-00:13:54,751 --> 00:13:55,878
-PODERIA ACONTECER COM
-QUALQUER UM.
+00:14:02,176 --> 00:14:05,596
+O falcone é um ótimo
+instrutor. Eu gostei dele.
 
 267
-00:13:55,961 --> 00:13:56,837
-JIMMY:
-AH, MAS NÃO ACONTECEU.
+00:14:05,679 --> 00:14:07,222
+Você não é
+a única.
 
 268
-00:13:56,920 --> 00:13:58,046
-ACONTECEU COM VOCÊ.
+00:14:07,306 --> 00:14:08,515
+Hazel.
 
 269
-00:13:58,130 --> 00:14:01,383
-HAZEL:
-POR FAVOR. ELA NÃO TERIA
-PROBLEMAS COM A GONZALEZ.
+00:14:08,599 --> 00:14:10,434
+O que está acontecendo?
 
 270
-00:14:01,466 --> 00:14:02,092
-DO QUE VOCÊ ESTÁ FALANDO?
+00:14:11,476 --> 00:14:14,104
+Entendi.
+O falcone é bonito, né?
 
 271
-00:14:02,176 --> 00:14:05,596
-O FALCONE É UM ÓTIMO
-INSTRUTOR. EU GOSTEI DELE.
+00:14:16,190 --> 00:14:18,066
+Ok, Marco.
 
 272
-00:14:05,679 --> 00:14:07,222
-VOCÊ NÃO É
-A ÚNICA.
+00:14:18,150 --> 00:14:20,235
+Eu não sou o único
+que acha isso.
 
 273
-00:14:07,306 --> 00:14:08,515
-HAZEL.
+00:14:20,319 --> 00:14:21,904
+Sua namorada é.
 
 274
-00:14:08,599 --> 00:14:10,434
-O QUE ESTÁ ACONTECENDO?
+00:14:24,573 --> 00:14:27,534
+Espere... Você está
+apaixonada pelo falcone?
 
 275
-00:14:11,476 --> 00:14:14,104
-ENTENDI.
-O FALCONE É BONITO, NÉ?
+00:14:27,618 --> 00:14:29,119
+Não...
+Espere, abelhinha.
 
 276
-00:14:16,190 --> 00:14:18,066
-OK, MARCO.
+00:14:45,969 --> 00:14:47,137
+Ei.
 
 277
-00:14:18,150 --> 00:14:20,235
-EU NÃO SOU O ÚNICO
-QUE ACHA ISSO.
+00:14:47,221 --> 00:14:48,764
+E aí?
 
 278
-00:14:20,319 --> 00:14:21,904
-SUA NAMORADA É.
+00:14:48,847 --> 00:14:51,767
+Então, como estão as coisas
+com a Emma?
 
 279
-00:14:24,573 --> 00:14:27,534
-ESPERE... VOCÊ ESTÁ
-APAIXONADA PELO FALCONE?
+00:14:52,851 --> 00:14:55,479
+Sean realmente destruiu
+o coração dela, né?
 
 280
-00:14:27,618 --> 00:14:29,119
-NÃO...
-ESPERE, ABELHINHA.
+00:14:55,562 --> 00:14:56,480
+Jt:
+É.
 
 281
-00:14:45,969 --> 00:14:47,137
-EI.
+00:14:56,563 --> 00:14:59,983
+Eu não gostaria de ser
+o próximo namorado dela.
 
 282
-00:14:47,221 --> 00:14:48,764
-E AÍ?
+00:15:00,609 --> 00:15:01,527
+Sem ofensa.
 
 283
-00:14:48,847 --> 00:14:51,767
-ENTÃO, COMO ESTÃO AS COISAS
-COM A EMMA?
+00:15:05,405 --> 00:15:06,573
+Ser o recalque é ruim.
 
 284
-00:14:52,851 --> 00:14:55,479
-SEAN REALMENTE DESTRUIU
-O CORAÇÃO DELA, NÉ?
+00:15:07,491 --> 00:15:10,536
+Chris, precisamos
+fazer alguma coisa.
 
 285
-00:14:55,562 --> 00:14:56,480
-JT:
-É.
+00:15:11,620 --> 00:15:14,665
+Chris:
+Emma, eu te disse,
+o computador já era.
 
 286
-00:14:56,563 --> 00:14:59,983
-EU NÃO GOSTARIA DE SER
-O PRÓXIMO NAMORADO DELA.
+00:15:14,748 --> 00:15:17,501
+Eu sei, mas o aparelho de dvd
+não está.
 
 287
-00:15:00,609 --> 00:15:01,527
-SEM OFENSA.
+00:15:18,502 --> 00:15:20,087
+Ok.
+Eu estava pensando.
 
 288
-00:15:05,405 --> 00:15:06,573
-SER O RECALQUE É RUIM.
+00:15:20,170 --> 00:15:22,422
+Se conseguirmos que o Raditch
+reviste o carro do Jay,
 
 289
-00:15:07,491 --> 00:15:10,536
-CHRIS, PRECISAMOS
-FAZER ALGUMA COISA.
+00:15:22,506 --> 00:15:25,050
+Quem sabe o que
+ele pode encontrar.
 
 290
-00:15:11,620 --> 00:15:14,665
-CHRIS:
-EMMA, EU TE DISSE,
-O COMPUTADOR JÁ ERA.
+00:15:25,133 --> 00:15:27,803
+Se eu ajudar,
+você vai esquecer isso?
 
 291
-00:15:14,748 --> 00:15:17,501
-EU SEI, MAS O APARELHO DE DVD
-NÃO ESTÁ.
+00:15:28,345 --> 00:15:29,179
+Eu prometo.
 
 292
-00:15:18,502 --> 00:15:20,087
-OK.
-EU ESTAVA PENSANDO.
+00:15:33,225 --> 00:15:35,561
+Raditch:
+Quero pegar quem é
+o responsável.
 
 293
-00:15:20,170 --> 00:15:22,422
-SE CONSEGUIRMOS QUE O RADITCH
-REVISTE O CARRO DO JAY,
+00:15:35,644 --> 00:15:37,479
+Se vocês souberem de algo,
 
 294
-00:15:22,506 --> 00:15:25,050
-QUEM SABE O QUE
-ELE PODE ENCONTRAR.
+00:15:37,563 --> 00:15:39,481
+Todas as dicas são anônimas.
 
 295
-00:15:25,133 --> 00:15:27,803
-SE EU AJUDAR,
-VOCÊ VAI ESQUECER ISSO?
+00:15:39,565 --> 00:15:41,650
+Vocês podem confirmar
+suas acusações?
 
 296
-00:15:28,345 --> 00:15:29,179
-EU PROMETO.
+00:15:41,733 --> 00:15:42,526
+Chris:
+Bem, sr. Raditch-
 
 297
-00:15:33,225 --> 00:15:35,561
-RADITCH:
-QUERO PEGAR QUEM É
-O RESPONSÁVEL.
+00:15:42,609 --> 00:15:43,777
+Emma:
+Claro que podemos.
 
 298
-00:15:35,644 --> 00:15:37,479
-SE VOCÊS SOUBEREM DE ALGO,
+00:15:43,861 --> 00:15:46,238
+Raditch:
+Ok. O aparelho de dvd.
 
 299
-00:15:37,563 --> 00:15:39,481
-TODAS AS DICAS SÃO ANÔNIMAS.
+00:15:46,321 --> 00:15:47,990
+Quando vocês viram
+o crime acontecer?
 
 300
-00:15:39,565 --> 00:15:41,650
-VOCÊS PODEM CONFIRMAR
-SUAS ACUSAÇÕES?
+00:15:48,073 --> 00:15:49,950
+Chris:
+Senhor. Nós não
+exatamente-
 
 301
-00:15:41,733 --> 00:15:42,526
-CHRIS:
-BEM, SR. RADITCH-
+00:15:50,033 --> 00:15:51,535
+Emma:
+Hum, ontem...
 
 302
-00:15:42,609 --> 00:15:43,777
-EMMA:
-CLARO QUE PODEMOS.
+00:15:51,618 --> 00:15:53,036
+Por volta das 16: 00,
 
 303
-00:15:43,861 --> 00:15:46,238
-RADITCH:
-OK. O APARELHO DE DVD.
+00:15:53,120 --> 00:15:55,205
+Chris e eu vimos Sean Cameron
+e Jay hogart
 
 304
-00:15:46,321 --> 00:15:47,990
-QUANDO VOCÊS VIRAM
-O CRIME ACONTECER?
+00:15:55,289 --> 00:15:59,251
+Colocando alguns dos
+equipamentos no civic do Jay.
 
 305
-00:15:48,073 --> 00:15:49,950
-CHRIS:
-SENHOR. NÓS NÃO
-EXATAMENTE-
+00:16:05,090 --> 00:16:06,758
+Raditch:
+Srta. Smith?
 
 306
-00:15:50,033 --> 00:15:51,535
-EMMA:
-HUM, ONTEM...
+00:16:06,842 --> 00:16:09,845
+Você poderia ligar para
+o sargento graham, por favor?
 
 307
-00:15:51,618 --> 00:15:53,036
-POR VOLTA DAS 16:00,
+00:16:09,928 --> 00:16:11,263
+Obrigada.
 
 308
-00:15:53,120 --> 00:15:55,205
-CHRIS E EU VIMOS SEAN CAMERON
-E JAY HOGART
+00:16:18,854 --> 00:16:19,855
+Falcone:
+Tem uma placa de 'pare'
+à frente.
 
 309
-00:15:55,289 --> 00:15:59,251
-COLOCANDO ALGUNS DOS
-EQUIPAMENTOS NO CIVIC DO JAY.
+00:16:19,938 --> 00:16:21,899
+É, eu estou vendo,
+ok?
 
 310
-00:16:05,090 --> 00:16:06,758
-RADITCH:
-SRTA. SMITH?
+00:16:21,982 --> 00:16:22,941
+Ok.
 
 311
-00:16:06,842 --> 00:16:09,845
-VOCÊ PODERIA LIGAR PARA
-O SARGENTO GRAHAM, POR FAVOR?
+00:16:23,692 --> 00:16:24,651
+E você vai apenas
+virar à esquerda.
 
 312
-00:16:09,928 --> 00:16:11,263
-OBRIGADA.
-
-313
-00:16:18,854 --> 00:16:19,855
-FALCONE:
-TEM UMA PLACA DE 'PARE'
-À FRENTE.
-
-314
-00:16:19,938 --> 00:16:21,899
-É, EU ESTOU VENDO,
-OK?
-
-315
-00:16:21,982 --> 00:16:22,941
-OK.
-
-316
-00:16:23,692 --> 00:16:24,651
-E VOCÊ VAI APENAS
-VIRAR À ESQUERDA.
-
-317
 00:16:24,735 --> 00:16:27,571
 É.
-EU SEI O QUE ESTOU FAZENDO!
+Eu sei o que estou fazendo!
+
+313
+00:16:30,991 --> 00:16:32,534
+Cara, você acha
+que é tão bom assim?
+
+314
+00:16:32,618 --> 00:16:34,119
+Paige:
+Spin, para.
+
+315
+00:16:34,661 --> 00:16:36,330
+Uh, Paige,
+não distraia o gavin.
+
+316
+00:16:36,413 --> 00:16:37,706
+Você foi extremamente
+bem hoje,
+
+317
+00:16:37,789 --> 00:16:39,541
+Mas o gavin realmente
+precisa melhorar.
 
 318
-00:16:30,991 --> 00:16:32,534
-CARA, VOCÊ ACHA
-QUE É TÃO BOM ASSIM?
+00:16:39,625 --> 00:16:41,210
+É, extremamente bem,
+né?
 
 319
-00:16:32,618 --> 00:16:34,119
-PAIGE:
-SPIN, PARA.
+00:16:41,293 --> 00:16:45,088
+Qual é a palavra...
+Ah! Favoritismo.
 
 320
-00:16:34,661 --> 00:16:36,330
-UH, PAIGE,
-NÃO DISTRAIA O GAVIN.
+00:16:45,172 --> 00:16:45,631
+Gavin.
 
 321
-00:16:36,413 --> 00:16:37,706
-VOCÊ FOI EXTREMAMENTE
-BEM HOJE,
+00:16:45,714 --> 00:16:46,715
+Spinner:
+Animal de estimação
+da professora.
 
 322
-00:16:37,789 --> 00:16:39,541
-MAS O GAVIN REALMENTE
-PRECISA MELHORAR.
+00:16:46,798 --> 00:16:48,717
+Falcone:
+Gavin, olha-
 
 323
-00:16:39,625 --> 00:16:41,210
-É, EXTREMAMENTE BEM,
-NÉ?
+00:16:49,760 --> 00:16:51,678
+Para a família inocente?
 
 324
-00:16:41,293 --> 00:16:45,088
-QUAL É A PALAVRA...
-AH! FAVORITISMO.
+00:16:52,804 --> 00:16:54,389
+Ela é minha namorada,
+cara!
 
 325
-00:16:45,172 --> 00:16:45,631
-GAVIN.
+00:16:54,473 --> 00:16:55,641
+Gavin, olha para a-
 
 326
-00:16:45,714 --> 00:16:46,715
-SPINNER:
-ANIMAL DE ESTIMAÇÃO
-DA PROFESSORA.
+00:17:02,689 --> 00:17:03,857
+O carro.
 
 327
-00:16:46,798 --> 00:16:48,717
-FALCONE:
-GAVIN, OLHA-
+00:17:08,570 --> 00:17:11,573
+Jay:
+Deixe-me adivinhar,
+nada aqui?
 
 328
-00:16:49,760 --> 00:16:51,678
-PARA A FAMÍLIA INOCENTE?
+00:17:12,741 --> 00:17:15,410
+Raditch:
+Continuem procurando,
+oficiais.
 
 329
-00:16:52,804 --> 00:16:54,389
-ELA É MINHA NAMORADA,
-CARA!
+00:17:26,964 --> 00:17:28,549
+A dica anônima -
 
 330
-00:16:54,473 --> 00:16:55,641
-GAVIN, OLHA PARA A-
+00:17:28,632 --> 00:17:30,133
+Foi você.
 
 331
-00:16:56,141 --> 00:16:57,142
-(ESTALO)
+00:17:33,554 --> 00:17:34,972
+Você sabe que
+eu estou em liberdade condicional.
 
 332
-00:17:02,689 --> 00:17:03,857
-O CARRO.
+00:17:35,055 --> 00:17:38,350
+Raditch:
+Quer dizer alguma coisa,
+sr. Cameron?
 
 333
-00:17:08,570 --> 00:17:11,573
-JAY:
-DEIXE-ME ADIVINHAR,
-NADA AQUI?
+00:17:38,433 --> 00:17:40,352
+Sean:
+É. Vai para o inferno!
 
 334
-00:17:12,741 --> 00:17:15,410
-RADITCH:
-CONTINUEM PROCURANDO,
-OFICIAIS.
+00:17:41,186 --> 00:17:43,230
+Raditch:
+Vejo você na detenção
 
 335
-00:17:26,964 --> 00:17:28,549
-A DICA ANÔNIMA -
+00:17:43,313 --> 00:17:46,567
+Todos os sábados pelos
+próximos dois meses.
 
 336
-00:17:28,632 --> 00:17:30,133
-FOI VOCÊ.
+00:17:57,369 --> 00:17:58,495
+Emma:
+Chris, onde você estava?
 
 337
-00:17:33,554 --> 00:17:34,972
-VOCÊ SABE QUE
-EU ESTOU EM LIBERDADE CONDICIONAL.
+00:17:58,579 --> 00:18:00,664
+Você ouviu as novidades?
 
 338
-00:17:35,055 --> 00:17:38,350
-RADITCH:
-QUER DIZER ALGUMA COISA,
-SR. CAMERON?
+00:18:00,747 --> 00:18:01,874
+Eles não encontraram nada
+no carro do Jay.
 
 339
-00:17:38,433 --> 00:17:40,352
-SEAN:
-É. VAI PARA O INFERNO!
+00:18:01,957 --> 00:18:03,208
+Eu quis dizer sobre o Sean.
 
 340
-00:17:41,186 --> 00:17:43,230
-RADITCH:
-VEJO VOCÊ NA DETENÇÃO
+00:18:03,292 --> 00:18:04,877
+Dois meses de detenção
+aos sábados
 
 341
-00:17:43,313 --> 00:17:46,567
-TODOS OS SÁBADOS PELOS
-PRÓXIMOS DOIS MESES.
+00:18:04,960 --> 00:18:06,295
+Por responder mal
+ao Raditch.
 
 342
-00:17:57,369 --> 00:17:58,495
-EMMA:
-CHRIS, ONDE VOCÊ ESTAVA?
+00:18:06,378 --> 00:18:09,047
+E o computador
+do Simpson?
 
 343
-00:17:58,579 --> 00:18:00,664
-VOCÊ OUVIU AS NOVIDADES?
+00:18:09,131 --> 00:18:09,965
+O que tem ele?
 
 344
-00:18:00,747 --> 00:18:01,874
-ELES NÃO ENCONTRARAM NADA
-NO CARRO DO JAY.
+00:18:10,048 --> 00:18:11,466
+Pensei que era por isso
+que você fez tudo isso.
 
 345
-00:18:01,957 --> 00:18:03,208
-EU QUIS DIZER SOBRE O SEAN.
+00:18:11,550 --> 00:18:12,509
+Era.
 
 346
-00:18:03,292 --> 00:18:04,877
-DOIS MESES DE DETENÇÃO
-AOS SÁBADOS
+00:18:12,593 --> 00:18:13,844
+Mas agora o Sean finalmente
+vai pagar
 
 347
-00:18:04,960 --> 00:18:06,295
-POR RESPONDER MAL
-AO RADITCH.
+00:18:13,927 --> 00:18:16,638
+Pelo que ele me fez.
 
 348
-00:18:06,378 --> 00:18:09,047
-E O COMPUTADOR
-DO SIMPSON?
+00:18:16,722 --> 00:18:19,474
+Ou ao Snake.
+O que ele fez ao Snake.
 
 349
-00:18:09,131 --> 00:18:09,965
-O QUE TEM ELE?
+00:18:19,558 --> 00:18:20,767
+Você mentiu para o Raditch.
 
 350
-00:18:10,048 --> 00:18:11,466
-PENSEI QUE ERA POR ISSO
-QUE VOCÊ FEZ TUDO ISSO.
+00:18:20,851 --> 00:18:23,145
+E daí? Todo mundo sabe
+quem está roubando.
 
 351
-00:18:11,550 --> 00:18:12,509
-ERA.
+00:18:23,228 --> 00:18:25,647
+Sean está finalmente
+tendo o que merece.
 
 352
-00:18:12,593 --> 00:18:13,844
-MAS AGORA O SEAN FINALMENTE
-VAI PAGAR
+00:18:25,731 --> 00:18:27,357
+Não está.
 
 353
-00:18:13,927 --> 00:18:16,638
-PELO QUE ELE ME FEZ.
+00:18:27,441 --> 00:18:30,235
+Apenas enfrente, em,
+você não o superou...
 
 354
-00:18:16,722 --> 00:18:19,474
-OU AO SNAKE.
-O QUE ELE FEZ AO SNAKE.
+00:18:30,319 --> 00:18:31,278
+Chris.
 
 355
-00:18:19,558 --> 00:18:20,767
-VOCÊ MENTIU PARA O RADITCH.
+00:18:31,361 --> 00:18:33,864
+E eu estou apenas
+perdendo meu tempo.
 
 356
-00:18:20,851 --> 00:18:23,145
-E DAÍ? TODO MUNDO SABE
-QUEM ESTÁ ROUBANDO.
+00:18:40,537 --> 00:18:42,039
+Spike:
+Aqui vamos nós.
 
 357
-00:18:23,228 --> 00:18:25,647
-SEAN ESTÁ FINALMENTE
-TENDO O QUE MERECE.
+00:18:42,789 --> 00:18:43,874
+Simpson:
+Nossa.
 
 358
-00:18:25,731 --> 00:18:27,357
-NÃO ESTÁ.
+00:18:45,334 --> 00:18:46,543
+Isso é incrível.
 
 359
-00:18:27,441 --> 00:18:30,235
-APENAS ENFRENTE, EM,
-VOCÊ NÃO O SUPEROU...
+00:18:49,630 --> 00:18:51,548
+Spike:
+Feliz aniversário.
 
 360
-00:18:30,319 --> 00:18:31,278
-CHRIS.
+00:18:51,632 --> 00:18:53,133
+Faça um pedido.
 
 361
-00:18:31,361 --> 00:18:33,864
-E EU ESTOU APENAS
-PERDENDO MEU TEMPO.
+00:18:58,889 --> 00:19:02,809
+Ah, esqueci uma faca.
+Já volto.
 
 362
-00:18:40,537 --> 00:18:42,039
-SPIKE:
-AQUI VAMOS NÓS.
+00:19:03,393 --> 00:19:05,187
+Ei, como vai, cara?
+Obrigado por vir.
 
 363
-00:18:42,789 --> 00:18:43,874
-SIMPSON:
-NOSSA.
+00:19:05,270 --> 00:19:06,396
+Homem:
+Ei cara, feliz aniversário.
 
 364
-00:18:45,334 --> 00:18:46,543
-ISSO É INCRÍVEL.
+00:19:06,480 --> 00:19:08,232
+Simpson:
+Então, dizem as más línguas
+que seu novo amor
 
 365
-00:18:49,630 --> 00:18:51,548
-SPIKE:
-FELIZ ANIVERSÁRIO.
+00:19:08,315 --> 00:19:09,775
+Virá esta noite.
 
 366
-00:18:51,632 --> 00:18:53,133
-FAÇA UM PEDIDO.
+00:19:09,858 --> 00:19:11,318
+Ah, ele não vai poder vir.
 
 367
-00:18:56,053 --> 00:18:56,887
-(APLAUSOS)
+00:19:11,401 --> 00:19:13,570
+Ele está ocupado odiando
+meus miolos agora.
 
 368
-00:18:58,889 --> 00:19:02,809
-AH, ESQUECI UMA FACA.
-JÁ VOLTO.
+00:19:13,654 --> 00:19:16,698
+Totalmente minha culpa -
+eu fiquei louca.
 
 369
-00:19:03,393 --> 00:19:05,187
-EI, COMO VAI, CARA?
-OBRIGADO POR VIR.
+00:19:19,201 --> 00:19:21,411
+Mas se ele valer a pena,
 
 370
-00:19:05,270 --> 00:19:06,396
-HOMEM:
-EI CARA, FELIZ ANIVERSÁRIO.
+00:19:21,495 --> 00:19:23,580
+Ele vai te dar um desconto.
 
 371
-00:19:06,480 --> 00:19:08,232
-SIMPSON:
-ENTÃO, DIZEM AS MÁS LÍNGUAS
-QUE SEU NOVO AMOR
+00:19:32,923 --> 00:19:34,550
+Eu estou trabalhando,
+ok?
 
 372
-00:19:08,315 --> 00:19:09,775
-VIRÁ ESTA NOITE.
+00:19:34,633 --> 00:19:36,260
+E cada dólar que eu ganhar
+nos próximos dez anos
 
 373
-00:19:09,858 --> 00:19:11,318
-AH, ELE NÃO VAI PODER VIR.
+00:19:36,343 --> 00:19:39,429
+Vai direto para consertar
+aquele carro estúpido, então...
 
 374
-00:19:11,401 --> 00:19:13,570
-ELE ESTÁ OCUPADO ODIANDO
-MEUS MIOLOS AGORA.
+00:19:39,513 --> 00:19:42,307
+Então finja
+que sou um cliente, ok?
 
 375
-00:19:13,654 --> 00:19:16,698
-TOTALMENTE MINHA CULPA -
-EU FIQUEI LOUCA.
+00:19:42,391 --> 00:19:44,393
+Eu quero um sanduíche
+clubhouse,
 
 376
-00
+00:19:44,476 --> 00:19:45,394
+Com uma porção de -
 
 377
-00:19:19,201 --> 00:19:21,411
-MAS SE ELE VALER A PENA,
+00:19:45,477 --> 00:19:46,395
+Spinner:
+Falcone?
 
 378
-00:19:21,495 --> 00:19:23,580
-ELE VAI TE DAR UM DESCONTO.
+00:19:48,063 --> 00:19:49,022
+De qualquer forma, não posso
+anotar seu pedido.
 
 379
-00:19:32,923 --> 00:19:34,550
-EU ESTOU TRABALHANDO,
-OK?
+00:19:49,106 --> 00:19:51,191
+Sou apenas o lava-pratos,
+lembra?
 
 380
-00:19:34,633 --> 00:19:36,260
-E CADA DÓLAR QUE EU GANHAR
-NOS PRÓXIMOS DEZ ANOS
+00:19:51,275 --> 00:19:53,277
+Paige:
+Mas você é o meu lava-pratos -
 
 381
-00:19:36,343 --> 00:19:39,429
-VAI DIRETO PARA CONSERTAR
-AQUELE CARRO ESTÚPIDO, ENTÃO...
+00:19:53,360 --> 00:19:55,863
+Meu lava-pratos
+insanamente ciumento.
 
 382
-00:19:39,513 --> 00:19:42,307
-ENTÃO FINJA
-QUE SOU UM CLIENTE, OK?
+00:19:55,946 --> 00:19:57,948
+Spinner:
+Só estou ciumento
+porque me importo.
 
 383
-00:19:42,391 --> 00:19:44,393
-EU QUERO UM SANDUÍCHE
-CLUBHOUSE,
+00:19:58,031 --> 00:19:58,782
+Paige:
+Eu sei, querido.
 
 384
-00:19:44,476 --> 00:19:45,394
-COM UMA PORÇÃO DE -
+00:19:58,866 --> 00:20:02,160
+Você praticamente destruiu
+um carro por mim.
 
 385
-00:19:45,477 --> 00:19:46,395
-SPINNER:
-FALCONE?
+00:20:03,537 --> 00:20:04,955
+Spinner:
+Então, acho que você não vai
+ficar brava
 
 386
-00:19:48,063 --> 00:19:49,022
-DE QUALQUER FORMA, NÃO POSSO
-ANOTAR SEU PEDIDO.
+00:20:05,038 --> 00:20:08,083
+Quando descobrir que
+eu nos troquei de volta para
+a gonzalez?
 
 387
-00:19:49,106 --> 00:19:51,191
-SOU APENAS O LAVA-PRATOS,
-LEMBRa?
+00:20:08,166 --> 00:20:08,417
+Não.
 
 388
-00:19:51,275 --> 00:19:53,277
-PAIGE:
-MAS VOCÊ É O MEU LAVA-PRATOS -
+00:20:09,376 --> 00:20:11,628
+Embora eu vá sentir falta
+daquelas covinhas,
 
 389
-00:19:53,360 --> 00:19:55,863
-MEU LAVA-PRATOS
-INSANAMENTE CIUMENTO.
+00:20:11,712 --> 00:20:14,047
+E daquele queixo esculpido.
 
 390
-00:19:55,946 --> 00:19:57,948
-SPINNER:
-SÓ ESTOU CIUMENTO
-PORQUE ME IMPORTO.
+00:20:15,883 --> 00:20:18,635
+Estou brincando.
+Estou totalmente brincando.
 
 391
-00:19:58,031 --> 00:19:58,782
-PAIGE:
-EU SEI, QUERIDO.
+00:20:35,944 --> 00:20:39,156
+Eu amo essa.
+Faixa três.
 
 392
-00:19:58,866 --> 00:20:02,160
-VOCÊ PRATICAMENTE DESTRUIU
-UM CARRO POR MIM.
+00:20:39,239 --> 00:20:39,990
+Em?
 
 393
-00:20:03,537 --> 00:20:04,955
-SPINNER:
-ENTÃO, ACHO QUE VOCÊ NÃO VAI
-FICAR BRAVA
+00:20:41,366 --> 00:20:43,410
+Eu esperava
+que você estivesse aqui.
 
 394
-00:20:05,038 --> 00:20:08,083
-QUANDO DESCOBRIR QUE
-EU NOS TROQUEI DE VOLTA PARA
-A GONZALEZ?
+00:20:43,493 --> 00:20:43,994
+Que sorte.
 
 395
-00:20:08,166 --> 00:20:08,417
-NÃO.
+00:20:46,747 --> 00:20:49,750
+Eu gosto mais
+quando você sorri,
 
 396
-00:20:09,376 --> 00:20:11,628
-EMBORA EU VÁ SENTIR FALTA
-DAQUELAS COVINHAS,
+00:20:49,833 --> 00:20:52,211
+E eu acho que você tem um
+ótimo gosto para chapéus,
 
 397
-00:20:11,712 --> 00:20:14,047
-E DAQUELE QUEIXO ESCULPIDO.
+00:20:52,294 --> 00:20:54,922
+E um gosto ainda melhor
+para música...
 
 398
-00:20:15,883 --> 00:20:18,635
-ESTOU BRINCANDO.
-ESTOU TOTALMENTE BRINCANDO.
+00:20:55,464 --> 00:20:59,092
+E eu amo que você
+me faça sentir divertida
+novamente.
 
 399
-00:20:35,944 --> 00:20:39,156
-EU AMO ESSA.
-FAIXA TRÊS.
+00:21:00,719 --> 00:21:03,096
+Acho que você deveria
+me dar outra chance.
 
 400
-00:20:39,239 --> 00:20:39,990
-EM?
+00:21:03,180 --> 00:21:04,556
+Você acha?
 
 401
-00:20:41,366 --> 00:20:43,410
-EU ESPERAVA
-QUE VOCÊ ESTIVESSE AQUI.
+00:21:04,640 --> 00:21:07,226
+Eu prometo nunca mais falar
+sobre o Sean.
 
 402
-00:20:43,493 --> 00:20:43,994
-QUE SORTE.
-
-403
-00:20:46,747 --> 00:20:49,750
-EU GOSTO MAIS
-QUANDO VOCÊ SORRI,
-
-404
-00:20:49,833 --> 00:20:52,211
-E EU ACHO QUE VOCÊ TEM UM
-ÓTIMO GOSTO PARA CHAPÉUS,
-
-405
-00:20:52,294 --> 00:20:54,922
-E UM GOSTO AINDA MELHOR
-PARA MÚSICA...
-
-406
-00:20:55,464 --> 00:20:59,092
-E EU AMO QUE VOCÊ
-ME FAÇA SENTIR DIVERTIDA
-NOVAMENTE.
-
-407
-00:21:00,719 --> 00:21:03,096
-ACHO QUE VOCÊ DEVERIA
-ME DAR OUTRA CHANCE.
-
-408
-00:21:03,180 --> 00:21:04,556
-VOCÊ ACHA?
-
-409
-00:21:04,640 --> 00:21:07,226
-EU PROMETO NUNCA MAIS FALAR
-SOBRE O SEAN.
-
-410
 00:21:07,309 --> 00:21:08,268
 É?
 
-411
+403
 00:21:09,269 --> 00:21:11,188
-OK, MAIS UMA VEZ.
+Ok, mais uma vez.
 
-412
+404
 00:21:11,271 --> 00:21:15,317
-SÓ PARA DIZER QUE EU SÓ FIZ
-O QUE FIZ
+Só para dizer que eu só fiz
+o que fiz
 
-413
+405
 00:21:15,400 --> 00:21:18,111
-PORQUE ELE PARTIU MEU
-CORAÇÃO.
+Porque ele partiu meu
+coração.
 
-414
+406
 00:21:18,195 --> 00:21:20,656
-ESTÁ SE SENTINDO
-MELHOR?
+Está se sentindo
+melhor?
 
-415
+407
 00:21:20,739 --> 00:21:21,990
-TALVEZ...
+Talvez...
 
-416
+408
 00:21:22,866 --> 00:21:26,453
-SE VOCÊ VIESSE AQUI
-PARA COMER UM BOLO DE
-ANIVERSÁRIO.
+Se você viesse aqui
+para comer um bolo de
+aniversário.
 
-417
+409
 00:21:26,537 --> 00:21:28,705
-SERIA BOM.
+Seria bom.

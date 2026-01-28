@@ -1,72 +1,72 @@
 1
 00:00:04,838 --> 00:00:06,381
-SEAN:
-VOCÊ VIU ISSO?
-ESSE É O MC TERMINAL.
+Sean:
+Você viu isso?
+Esse é o mc terminal.
 
 2
 00:00:06,465 --> 00:00:08,008
-ELE SOBE NO PALCO
-NUM HUMVEE.
+Ele sobe no palco
+num humvee.
 
 3
 00:00:08,091 --> 00:00:09,426
-É DEMAIS.
+É demais.
 
 4
 00:00:10,469 --> 00:00:12,095
-PRECISAMOS DESSE CD.
+Precisamos desse cd.
 
 5
 00:00:12,179 --> 00:00:14,640
-SÃO CINQUENTA DÓLARES.
-É IMPORTADO.
+São cinquenta dólares.
+É importado.
 
 6
 00:00:14,723 --> 00:00:16,266
-ESPERA AÍ...
+Espera aí...
 
 7
 00:00:16,350 --> 00:00:17,684
-EU TENHO CARTÕES DE DESCONTO.
+Eu tenho cartões de desconto.
 
 8
 00:00:17,768 --> 00:00:19,520
-VOCÊ TEM CARTÕES DE DESCONTO?
+Você tem cartões de desconto?
 
 9
 00:00:19,603 --> 00:00:20,938
-É, DOIS.
+É, dois.
 
 10
 00:00:21,605 --> 00:00:24,775
-ELES ME DÃO 100% DE DESCONTO
-EM TODO LUGAR.
+Eles me dão 100% de desconto
+em todo lugar.
 
 11
 00:00:35,619 --> 00:00:39,748
-SEGURANÇA 1:
-ESQUECERAM DE PAGAR
-ALGUMA COISA, GAROTOS?
+Segurança 1:
+Esqueceram de pagar
+alguma coisa, garotos?
 
 12
 00:00:39,831 --> 00:00:41,124
-BEM, NÓS ÍAMOS-
+Bem, nós íamos-
 
 13
 00:00:41,208 --> 00:00:41,875
-JAY:
-CORRE!
+Jay:
+Corre!
 
 14
 00:00:41,959 --> 00:00:43,418
-SEGURANÇA 1:
-EI! VOLTEM AQUI!
+Segurança 1:
+Ei! Voltem aqui!
 
 15
 00:00:43,502 --> 00:00:45,796
-SEGURANÇA 2:
-EI! EI!
+Segurança 2:
+Ei! Ei!
 
 16
 00:01:11,905 --> 00:01:13,824
@@ -78,8 +78,8 @@ EI! EI!
 
 18
 00:01:18,487 --> 00:01:20,756
-Legendas pelo projeto Teendle!
-nos visite em: teendle.win
+Legendas pelo projeto teendle!
+Nos visite em: Teendle.Win
 
 19
 00:01:20,956 --> 00:01:22,541
@@ -115,1483 +115,1453 @@ nos visite em: teendle.win
 
 27
 00:01:56,241 --> 00:01:57,784
-SEAN:
-ENTÃO UM SEGURANÇA IDIOTA
-ME BANIU DO SHOPPING.
+Sean:
+Então um segurança idiota
+me baniu do shopping.
 
 28
 00:01:57,868 --> 00:01:59,161
-QUEM SE IMPORTA?
+Quem se importa?
 
 29
 00:01:59,703 --> 00:02:00,787
-TRACKER:
-É SÉRIO, SEAN,
+Tracker:
+É sério, Sean,
 
 30
 00:02:00,871 --> 00:02:04,249
-PORQUE ELES PODERIAM TER CHAMADO
-A POLÍCIA DE VERDADE.
+Porque eles poderiam ter chamado
+a polícia de verdade.
 
 31
 00:02:04,333 --> 00:02:07,002
-SEAN:
-EU SEI. DEI SORTE.
+Sean:
+Eu sei. Dei sorte.
 
 32
 00:02:08,337 --> 00:02:11,757
-TRACKER:
-VOCÊ ESTÁ FORA DA CONDICIONAL HÁ,
-QUANTO, UM MÊS?
+Tracker:
+Você está fora da condicional há,
+quanto, um mês?
 
 33
 00:02:11,840 --> 00:02:15,344
-É ASSIM QUE VOCÊ CELEBRA?
-FAZENDO UMA COISA DESSAS?
+É assim que você celebra?
+Fazendo uma coisa dessas?
 
 34
 00:02:15,427 --> 00:02:18,430
-AQUELE CARA, O JAY.
-ELE TE CONVENCEU A FAZER ISSO?
+Aquele cara, o Jay.
+Ele te convenceu a fazer isso?
 
 35
 00:02:18,514 --> 00:02:19,431
-O QUÊ?
+O quê?
 
 36
 00:02:20,057 --> 00:02:21,099
-NÃO, NÃO.
+Não, não.
 
 37
 00:02:22,726 --> 00:02:25,979
-EU CONHEÇO CARAS COMO ELE, SEAN,
-CERTO?
+Eu conheço caras como ele, Sean,
+certo?
 
 38
 00:02:26,063 --> 00:02:28,982
-ELE É MÁ INFLUÊNCIA E VOCÊ VAI TER
-QUE SE AFASTAR DELE.
+Ele é má influência e você vai ter
+que se afastar dele.
 
 39
 00:02:29,066 --> 00:02:32,152
-ELE É MEU MELHOR AMIGO, TÁ LEGAL? PAI.
+Ele é meu melhor amigo, tá legal? Pai.
 
 40
-00:02:32,236 --> 00:02:34,196
-(TELEFONE TOCA)
+00:02:38,951 --> 00:02:40,410
+Tracker:
+Alô?
 
 41
-00:02:38,951 --> 00:02:40,410
-TRACKER:
-ALÔ?
+00:02:40,494 --> 00:02:41,662
+Espere um segundo.
 
 42
-00:02:40,494 --> 00:02:41,662
-ESPERE UM SEGUNDO.
+00:02:41,745 --> 00:02:43,830
+Que tipo de café da manhã
+é esse, hein?
 
 43
-00:02:41,745 --> 00:02:43,830
-QUE TIPO DE CAFÉ DA MANHÃ
-É ESSE, HEIN?
+00:02:43,914 --> 00:02:46,583
+Pode falar. Desculpe.
 
 44
-00:02:43,914 --> 00:02:46,583
-PODE FALAR. DESCULPE.
+00:02:49,086 --> 00:02:51,839
+Achei que você disse que
+a vaga já tinha sido preenchida.
 
 45
-00:02:49,086 --> 00:02:51,839
-ACHEI QUE VOCÊ DISSE QUE
-A VAGA JÁ TINHA SIDO PREENCHIDA.
+00:02:51,922 --> 00:02:53,966
+E quanto é?
 
 46
-00:02:51,922 --> 00:02:53,966
-E QUANTO É?
+00:02:55,551 --> 00:02:56,927
+Com certeza.
 
 47
-00:02:55,551 --> 00:02:56,927
-COM CERTEZA.
+00:03:03,141 --> 00:03:04,226
+Então, j.T....
 
 48
-00:03:03,141 --> 00:03:04,226
-ENTÃO, JT...
+00:03:04,977 --> 00:03:07,396
+Já tem par
+pro baile de gala?
 
 49
-00:03:04,977 --> 00:03:07,396
-JÁ TEM PAR
-PRO BAILE DE GALA?
+00:03:07,479 --> 00:03:08,438
+Por quê?
 
 50
-00:03:07,479 --> 00:03:08,438
-POR QUÊ?
+00:03:08,522 --> 00:03:12,234
+Está me convidando pra sair,
+Liberty?
 
 51
-00:03:08,522 --> 00:03:12,234
-ESTÁ ME CONVIDANDO PRA SAIR,
-LIBERTY?
+00:03:12,317 --> 00:03:15,279
+Não contém a respiração.
+Estou muito bem acompanhada.
 
 52
-00:03:12,317 --> 00:03:15,279
-NÃO CONTÉM A RESPIRAÇÃO.
-ESTOU MUITO BEM ACOMPANHADA.
+00:03:17,030 --> 00:03:19,366
+Jt:
+Nossa. Que bom.
 
 53
-00:03:17,030 --> 00:03:19,366
-JT:
-NOSSA. QUE BOM.
+00:03:19,449 --> 00:03:22,661
+Ele está treinando
+para a foto do crime.
 
 54
-00:03:19,449 --> 00:03:22,661
-ELE ESTÁ TREINANDO
-PARA A FOTO DO CRIME.
+00:03:24,705 --> 00:03:26,832
+Como alguém com mais
+experiência em encontros
 
 55
-00:03:24,705 --> 00:03:26,832
-COMO ALGUÉM COM MAIS
-EXPERIÊNCIA EM ENCONTROS
+00:03:26,915 --> 00:03:30,210
+Eu gostaria de te dar
+alguns conselhos.
 
 56
-00:03:26,915 --> 00:03:30,210
-EU GOSTARIA DE TE DAR
-ALGUNS CONSELHOS.
+00:03:30,294 --> 00:03:32,337
+Ah, isso vai ser bom.
 
 57
-00:03:30,294 --> 00:03:32,337
-AH, ISSO VAI SER BOM.
+00:03:32,421 --> 00:03:34,423
+Liberty: Chama a Manny
+pro baile.
 
 58
-00:03:32,421 --> 00:03:34,423
-LIBERTY:
-(COCHICHANDO) CHAMA A MANNY
-PRO BAILE.
+00:03:34,506 --> 00:03:35,549
+Jt:
+É, tá bom.
 
 59
-00:03:34,506 --> 00:03:35,549
-JT:
-É, TÁ BOM.
+00:03:35,632 --> 00:03:38,552
+Ela não gosta de mim "desse jeito".
 
 60
-00:03:35,632 --> 00:03:38,552
-ELA NÃO GOSTA DE MIM "DESSE JEITO".
+00:03:38,635 --> 00:03:39,970
+Quer apostar?
 
 61
-00:03:38,635 --> 00:03:39,970
-QUER APOSTAR?
+00:03:48,353 --> 00:03:49,563
+Incrível.
 
 62
-00:03:48,353 --> 00:03:49,563
-INCRÍVEL.
+00:03:49,646 --> 00:03:52,399
+Sério, você reinventor
+a maneira de se fazer...
 
 63
-00:03:49,646 --> 00:03:52,399
-SÉRIO, VOCÊ REINVENTOR
-A MANEIRA DE SE FAZER...
+00:03:52,482 --> 00:03:53,984
+Qual é o nome mesmo?
 
 64
-00:03:52,482 --> 00:03:53,984
-QUAL É O NOME MESMO?
+00:03:54,067 --> 00:03:55,777
+Coletor de admissão?
 
 65
-00:03:54,067 --> 00:03:55,777
-COLETOR DE ADMISSÃO?
+00:03:55,861 --> 00:03:56,862
+Desculpe.
 
 66
-00:03:55,861 --> 00:03:56,862
-DESCULPE.
+00:03:56,945 --> 00:03:57,613
+O que eu sei sobre carros
 
 67
-00:03:56,945 --> 00:03:57,613
-O QUE EU SEI SOBRE CARROS
+00:03:57,696 --> 00:04:00,157
+Caberia na cabeça de um alfinete.
 
 68
-00:03:57,696 --> 00:04:00,157
-CABERIA NA CABEÇA DE UM ALFINETE.
+00:04:00,240 --> 00:04:01,909
+Se ao menos o sr. Ehl
+concordasse com você.
 
 69
-00:04:00,240 --> 00:04:01,909
-SE AO MENOS O SR. EHL
-CONCORDASSE COM VOCÊ.
+00:04:01,992 --> 00:04:04,870
+Sobre o trabalho, quero dizer.
+Vale 50%.
 
 70
-00:04:01,992 --> 00:04:04,870
-SOBRE O TRABALHO, QUERO DIZER.
-VALE 50%.
+00:04:04,953 --> 00:04:08,665
+Não é à toa que você gasta
+tanto tempo com isso.
 
 71
-00:04:04,953 --> 00:04:08,665
-NÃO É À TOA QUE VOCÊ GASTA
-TANTO TEMPO COM ISSO.
+00:04:09,249 --> 00:04:10,083
+Ei.
 
 72
-00:04:09,249 --> 00:04:10,083
-EI.
+00:04:13,879 --> 00:04:17,049
+Outros alunos:
 
 73
-00:04:13,879 --> 00:04:17,049
-OUTROS ALUNOS:
-(IMITANDO SONS DE NOJO)
+00:04:19,593 --> 00:04:22,387
+O que ele vê naquela
+abutre sem sal?
 
 74
-00:04:19,593 --> 00:04:22,387
-O QUE ELE VÊ NAQUELA
-ABUTRE SEM SAL?
+00:04:22,471 --> 00:04:25,182
+Amy, você terminou com ele.
 
 75
-00:04:22,471 --> 00:04:25,182
-AMY, VOCÊ TERMINOU COM ELE.
+00:04:27,518 --> 00:04:29,770
+Voz do sistema de som:
+Carol simons, favor comparacer
+à secretaria?
 
 76
-00:04:27,518 --> 00:04:29,770
-VOZ DO SISTEMA DE SOM:
-CAROL SIMONS, FAVOR COMPARACER
-À SECRETARIA?
+00:04:29,853 --> 00:04:33,899
+Carol simons,
+favor comparacer à secretaria.
 
 77
-00:04:29,853 --> 00:04:33,899
-CAROL SIMONS,
-FAVOR COMPARACER À SECRETARIA.
+00:04:33,982 --> 00:04:35,234
+Jt:
+Duas, por favor.
 
 78
-00:04:33,982 --> 00:04:35,234
-JT:
-DUAS, POR FAVOR.
+00:04:35,859 --> 00:04:36,693
+Duas?
 
 79
-00:04:35,859 --> 00:04:36,693
-DUAS?
+00:04:37,986 --> 00:04:40,906
+Bem, o j.T. Finalmente arrumou
+uma garota pra ele.
 
 80
-00:04:37,986 --> 00:04:40,906
-BEM, O JT FINALMENTE ARRUMOU
-UMA GAROTA PRA ELE.
+00:04:40,989 --> 00:04:42,866
+A menos que o outro ingresso
+seja pro Toby.
 
 81
-00:04:40,989 --> 00:04:42,866
-A MENOS QUE O OUTRO INGRESSO
-SEJA PRO TOBY.
+00:04:42,950 --> 00:04:45,244
+Não. Quase isso.
+Na verdade, é pra Raditch.
 
 82
-00:04:42,950 --> 00:04:45,244
-NÃO. QUASE ISSO.
-NA VERDADE, É PRA RADITCH.
+00:04:45,327 --> 00:04:47,579
+A nossa conversa fluíu.
 
 83
-00:04:45,327 --> 00:04:47,579
-A NOSSA CONVERSA FLUÍU.
+00:04:57,548 --> 00:04:59,633
+Jt, essa não é a Raditch,
 
 84
-00:04:57,548 --> 00:04:59,633
-JT, ESSA NÃO É A RADITCH,
+00:04:59,716 --> 00:05:03,428
+Mas é uma escolha bem melhor
+se você quiser dar uns amassos.
 
 85
-00:04:59,716 --> 00:05:03,428
-MAS É UMA ESCOLHA BEM MELHOR
-SE VOCÊ QUISER DAR UNS AMASSOS.
+00:05:03,512 --> 00:05:03,887
+O quê?
 
 86
-00:05:03,512 --> 00:05:03,887
-O QUÊ?
+00:05:04,805 --> 00:05:05,973
+O quê?
 
 87
-00:05:04,805 --> 00:05:05,973
-O QUÊ?
+00:05:06,056 --> 00:05:09,309
+Bem, imagina, Manny,
+com a história dela...
 
 88
-00:05:06,056 --> 00:05:09,309
-BEM, IMAGINA, MANNY,
-COM A HISTÓRIA DELA...
+00:05:09,393 --> 00:05:10,644
+Spinner, como você se sentiria
 
 89
-00:05:09,393 --> 00:05:10,644
-SPINNER, COMO VOCÊ SE SENTIRIA
+00:05:10,727 --> 00:05:13,063
+Se as pessoas falassem da
+Paige desse jeito?
 
 90
-00:05:10,727 --> 00:05:13,063
-SE AS PESSOAS FALASSEM DA
-PAIGE DESSE JEITO?
+00:05:13,146 --> 00:05:15,315
+Eles não falam.
+Porque a Paige não é vadia,
 
 91
-00:05:13,146 --> 00:05:15,315
-ELES NÃO FALAM.
-PORQUE A PAIGE NÃO É VADIA,
+00:05:15,399 --> 00:05:20,571
+E não fica com os namorados
+das outras.
 
 92
-00:05:15,399 --> 00:05:20,571
-E NÃO FICA COM OS NAMORADOS
-DAS OUTRAS.
+00:05:22,406 --> 00:05:25,033
+Olha, j.T., Não quis
+me meter na sua vida.
 
 93
-00:05:22,406 --> 00:05:25,033
-OLHA, JT, NÃO QUIS
-ME METER NA SUA VIDA.
+00:05:25,117 --> 00:05:25,909
+Só...
 
 94
-00:05:25,117 --> 00:05:25,909
-SÓ...
+00:05:25,993 --> 00:05:27,661
+Não se apaixone demais
+por uma garota como a Manny.
 
 95
-00:05:25,993 --> 00:05:27,661
-NÃO SE APAIXONE DEMAIS
-POR UMA GAROTA COMO A MANNY.
+00:05:27,744 --> 00:05:29,913
+Ela tem essa fama
+por um motivo.
 
 96
-00:05:27,744 --> 00:05:29,913
-ELA TEM ESSA FAMA
-POR UM MOTIVO.
+00:05:43,302 --> 00:05:45,304
+Tracker:
+Isso é demais!
 
 97
-00:05:43,302 --> 00:05:45,304
-TRACKER:
-ISSO É DEMAIS!
+00:05:47,890 --> 00:05:49,808
+Ei, sou o Sean, moro aqui.
 
 98
-00:05:47,890 --> 00:05:49,808
-EI, SOU O SEAN, MORO AQUI.
+00:05:49,892 --> 00:05:52,686
+Tracker:
+E aí, mano, vem cá!
 
 99
-00:05:49,892 --> 00:05:52,686
-TRACKER:
-E AÍ, MANO, VEM CÁ!
-(ABRAÇO FORTE E ENTUSIASMADO)
+00:05:52,769 --> 00:05:53,687
+Que dia louco, mano.
 
 100
-00:05:52,769 --> 00:05:53,687
-QUE DIA LOUCO, MANO.
+00:05:53,770 --> 00:05:56,148
+Lembras daquele emprego
+de perfuração de petróleo em alberta?
 
 101
-00:05:53,770 --> 00:05:56,148
-LEMBRAS DAQUELE EMPREGO
-DE PERFURAÇÃO DE PETRÓLEO EM ALBERTA?
+00:05:56,231 --> 00:05:57,524
+Sim?
+Então, o primeiro cara,
 
 102
-00:05:56,231 --> 00:05:57,524
-SIM?
-ENTÃO, O PRIMEIRO CARA,
+00:05:57,608 --> 00:05:59,443
+Ele meio que desistiu
+no último segundo.
 
 103
-00:05:57,608 --> 00:05:59,443
-ELE MEIO QUE DESISTIU
-NO ÚLTIMO SEGUNDO.
+00:05:59,526 --> 00:06:01,528
+Wendy:
+Aí o tracker ficou com a vaga!
+Não é demais?
 
 104
-00:05:59,526 --> 00:06:01,528
-WENDY:
-AÍ O TRACKER FICOU COM A VAGA!
-NÃO É DEMAIS?
+00:06:01,612 --> 00:06:02,863
+Tracker:
+Paga muito bem!
 
 105
-00:06:01,612 --> 00:06:02,863
-TRACKER:
-PAGA MUITO BEM!
+00:06:02,946 --> 00:06:05,073
+Vamos viver
+como reis.
 
 106
-00:06:02,946 --> 00:06:05,073
-VAMOS VIVER
-COMO REIS.
+00:06:05,157 --> 00:06:05,866
+O único problema é que
 
 107
-00:06:05,157 --> 00:06:05,866
-O ÚNICO PROBLEMA É QUE
+00:06:05,949 --> 00:06:07,951
+Temos que estar lá
+tipo, ontem.
 
 108
-00:06:05,949 --> 00:06:07,951
-TEMOS QUE ESTAR LÁ
-TIPO, ONTEM.
+00:06:08,035 --> 00:06:09,786
+Então temos que ir.
 
 109
-00:06:08,035 --> 00:06:09,786
-ENTÃO TEMOS QUE IR.
+00:06:11,914 --> 00:06:13,540
+As provas estão começando.
 
 110
-00:06:11,914 --> 00:06:13,540
-AS PROVAS ESTÃO COMEÇANDO.
+00:06:13,624 --> 00:06:14,625
+Eu perderia o ano.
 
 111
-00:06:13,624 --> 00:06:14,625
-EU PERDERIA O ANO.
+00:06:14,708 --> 00:06:15,918
+Tracker:
+É, eu sei.
 
 112
-00:06:14,708 --> 00:06:15,918
-TRACKER:
-É, EU SEI.
+00:06:16,001 --> 00:06:16,919
+Sinto muito.
 
 113
-00:06:16,001 --> 00:06:16,919
-SINTO MUITO.
+00:06:17,002 --> 00:06:19,588
+Gostaria que tivesse outra coisa
+que pudéssemos fazer.
 
 114
-00:06:17,002 --> 00:06:19,588
-GOSTARIA QUE TIVESSE OUTRA COISA
-QUE PUDÉSSEMOS FAZER.
+00:06:19,671 --> 00:06:20,714
+Tracker,
+eu repeti a sétima série.
 
 115
-00:06:19,671 --> 00:06:20,714
-TRACKER,
-EU REPETI A SÉTIMA SÉRIE.
+00:06:20,797 --> 00:06:23,008
+Não vou repetir a nona.
 
 116
-00:06:20,797 --> 00:06:23,008
-NÃO VOU REPETIR A NONA.
+00:06:23,091 --> 00:06:25,802
+E não posso te deixar
+aqui sozinho.
 
 117
-00:06:23,091 --> 00:06:25,802
-E NÃO POSSO TE DEIXAR
-AQUI SOZINHO.
+00:06:26,929 --> 00:06:28,805
+Ou você vem
+com a gente pra alberta,
 
 118
-00:06:26,929 --> 00:06:28,805
-OU VOCÊ VEM
-COM A GENTE PRA ALBERTA,
+00:06:28,889 --> 00:06:29,932
+Ou eu te deixo em wasaga.
 
 119
-00:06:28,889 --> 00:06:29,932
-OU EU TE DEIXO EM WASAGA.
+00:06:30,015 --> 00:06:34,019
+Sean:
+Não! Não vou morar
+com a mamãe e o papai!
 
 120
-00:06:30,015 --> 00:06:34,019
-SEAN:
-NÃO! NÃO VOU MORAR
-COM A MAMÃE E O PAPAI!
+00:06:34,102 --> 00:06:35,729
+Tracker:
+E eu não vou ficar aqui sentado
+esperando você ir parar na cadeia
 
 121
-00:06:34,102 --> 00:06:35,729
-TRACKER:
-E EU NÃO VOU FICAR AQUI SENTADO
-ESPERANDO VOCÊ IR PARAR NA CADEIA
+00:06:35,812 --> 00:06:37,981
+Com seu amiguinho idiota,
+certo?
 
 122
-00:06:35,812 --> 00:06:37,981
-COM SEU AMIGUINHO IDIOTA,
-CERTO?
+00:06:38,065 --> 00:06:39,274
+Então é isso, fim de papo.
 
 123
-00:06:38,065 --> 00:06:39,274
-ENTÃO É ISSO, FIM DE PAPO.
+00:06:39,358 --> 00:06:41,693
+Alberta, aí vamos nós!
 
 124
-00:06:39,358 --> 00:06:41,693
-ALBERTA, AÍ VAMOS NÓS!
+00:06:45,197 --> 00:06:47,032
+Para duas semanas.
 
 125
-00:06:45,197 --> 00:06:47,032
-PARA DUAS SEMANAS.
+00:06:50,619 --> 00:06:52,329
+Ei, Sean, e aí?
 
 126
-00:06:50,619 --> 00:06:52,329
-EI, SEAN, E AÍ?
+00:06:52,412 --> 00:06:53,580
+Nada.
 
 127
-00:06:52,412 --> 00:06:53,580
-NADA.
+00:06:56,208 --> 00:06:58,210
+Ei. O que foi?
 
 128
-00:06:56,208 --> 00:06:58,210
-EI. O QUE FOI?
+00:06:59,795 --> 00:07:01,505
+Eu estou mudando amanhã para alberta.
 
 129
-00:06:59,795 --> 00:07:01,505
-EU ESTOU MUDANDO AMANHÃ PARA ALBERTA.
+00:07:01,588 --> 00:07:03,090
+Ellie:
+O quê?
 
 130
-00:07:01,588 --> 00:07:03,090
-ELLIE:
-O QUÊ?
+00:07:06,176 --> 00:07:07,845
+Temos que terminar.
 
 131
-00:07:06,176 --> 00:07:07,845
-TEMOS QUE TERMINAR.
+00:07:24,111 --> 00:07:24,945
+E aí, cara?
 
 132
-00:07:24,111 --> 00:07:24,945
-E AÍ, CARA?
+00:07:25,028 --> 00:07:28,323
+Você vai terminar
+esse troço alguma hora?
 
 133
-00:07:25,028 --> 00:07:28,323
-VOCÊ VAI TERMINAR
-ESSE TROÇO ALGUMA HORA?
+00:07:29,741 --> 00:07:31,451
+Olha o que você me fez fazer!
 
 134
-00:07:29,741 --> 00:07:31,451
-OLHA O QUE VOCÊ ME FEZ FAZER!
+00:07:31,535 --> 00:07:33,245
+Talvez se você não fosse
+tão idiota.
 
 135
-00:07:31,535 --> 00:07:33,245
-TALVEZ SE VOCÊ NÃO FOSSE
-TÃO IDIOTA.
+00:07:34,746 --> 00:07:36,582
+Ei, cara, eu estava brincando!
 
 136
-00:07:34,746 --> 00:07:36,582
-EI, CARA, EU ESTAVA BRINCANDO!
+00:07:38,292 --> 00:07:38,876
+Psicopata.
 
 137
-00:07:38,292 --> 00:07:38,876
-PSICOPATA.
+00:07:48,552 --> 00:07:48,927
+Sean!
 
 138
-00:07:44,923 --> 00:07:45,549
-(SOM DE VIDRO QUEBRANDO)
+00:08:00,439 --> 00:08:03,775
+Certo,
+me fala o que está acontecendo.
 
 139
-00:07:48,552 --> 00:07:48,927
-SEAN!
+00:08:04,359 --> 00:08:08,113
+Meu irmão arrumou um emprego
+em alberta e eu vou me mudar...
 
 140
-00:08:00,439 --> 00:08:03,775
-CERTO,
-ME FALA O QUE ESTÁ ACONTECENDO.
+00:08:08,197 --> 00:08:09,114
+Amanhã.
 
 141
-00:08:04,359 --> 00:08:08,113
-MEU IRMÃO ARRUMOU UM EMPREGO
-EM ALBERTA E EU VOU ME MUDAR...
+00:08:09,198 --> 00:08:11,241
+Isso atrapalha o seu ano letivo.
 
 142
-00:08:08,197 --> 00:08:09,114
-AMANHÃ.
+00:08:11,325 --> 00:08:13,118
+E daí? Acha que eu me importo?
 
 143
-00:08:09,198 --> 00:08:11,241
-ISSO ATRAPALHA O SEU ANO LETIVO.
+00:08:13,202 --> 00:08:14,536
+Ehl:
+Sim.
 
 144
-00:08:11,325 --> 00:08:13,118
-E DAÍ? ACHA QUE EU ME IMPORTO?
+00:08:14,620 --> 00:08:16,246
+Você me disse que seria
 
 145
-00:08:13,202 --> 00:08:14,536
-EHL:
-SIM.
+00:08:16,330 --> 00:08:19,958
+A primeira pessoa da sua família
+a se formar no ensino médio.
 
 146
-00:08:14,620 --> 00:08:16,246
-VOCÊ ME DISSE QUE SERIA
+00:08:20,042 --> 00:08:21,835
+É, bem, tanto faz.
 
 147
-00:08:16,330 --> 00:08:19,958
-A PRIMEIRA PESSOA DA SUA FAMÍLIA
-A SE FORMAR NO ENSINO MÉDIO.
+00:08:21,919 --> 00:08:23,212
+É inútil.
 
 148
-00:08:20,042 --> 00:08:21,835
-É, BEM, TANTO FAZ.
+00:08:25,422 --> 00:08:27,549
+E o auxílio estudantil?
 
 149
-00:08:21,919 --> 00:08:23,212
-É INÚTIL.
+00:08:27,633 --> 00:08:28,634
+É, tá.
 
 150
-00:08:25,422 --> 00:08:27,549
-E O AUXÍLIO ESTUDANTIL?
+00:08:29,134 --> 00:08:31,053
+Porque eles estão fazendo fila
+pra dar dinheiro pra caras como eu.
 
 151
-00:08:27,633 --> 00:08:28,634
-É, TÁ.
+00:08:31,136 --> 00:08:33,138
+Ehl:
+Se você tiver notas boas
 
 152
-00:08:29,134 --> 00:08:31,053
-PORQUE ELES ESTÃO FAZENDO FILA
-PRA DAR DINHEIRO PRA CARAS COMO EU.
+00:08:33,222 --> 00:08:36,934
+E conseguir um responsável
+pra assinar toda a sua documentação.
 
 153
-00:08:31,136 --> 00:08:33,138
-EHL:
-SE VOCÊ TIVER NOTAS BOAS
+00:08:39,520 --> 00:08:42,856
+Meus pais não estão aí
+por mim, cara.
 
 154
-00:08:33,222 --> 00:08:36,934
-E CONSEGUIR UM RESPONSÁVEL
-PRA ASSINAR TODA A SUA DOCUMENTAÇÃO.
+00:08:47,444 --> 00:08:48,695
+Então eu estarei.
 
 155
-00:08:39,520 --> 00:08:42,856
-MEUS PAIS NÃO ESTÃO AÍ
-POR MIM, CARA.
+00:08:50,781 --> 00:08:52,616
+Sr. Ehl, o Senhor mal me conhece.
 
 156
-00:08:47,444 --> 00:08:48,695
-ENTÃO EU ESTAREI.
+00:08:52,699 --> 00:08:54,201
+Ehl:
+Sean.
 
 157
-00:08:50,781 --> 00:08:52,616
-SR. EHL, O SENHOR MAL ME CONHECE.
+00:08:54,284 --> 00:08:57,538
+Eu fui a primeira pessoa
+da minha família a se formar.
 
 158
-00:08:52,699 --> 00:08:54,201
-EHL:
-SEAN.
+00:08:57,621 --> 00:08:59,915
+Eu sei mais do que você pensa.
 
 159
-00:08:54,284 --> 00:08:57,538
-EU FUI A PRIMEIRA PESSOA
-DA MINHA FAMÍLIA A SE FORMAR.
+00:09:04,378 --> 00:09:08,006
+Tracker:
+Vamos lá, mano,
+me dá uma mão aqui.
 
 160
-00:08:57,621 --> 00:08:59,915
-EU SEI MAIS DO QUE VOCÊ PENSA.
+00:09:11,051 --> 00:09:12,427
+Certo, eu sei,
+você não quer ir.
 
 161
-00:09:04,378 --> 00:09:08,006
-TRACKER:
-VAMOS LÁ, MANO,
-ME DÁ UMA MÃO AQUI.
+00:09:12,511 --> 00:09:15,639
+Você não quer deixar
+todo mundo.
 
 162
-00:09:11,051 --> 00:09:12,427
-CERTO, EU SEI,
-VOCÊ NÃO QUER IR.
+00:09:15,722 --> 00:09:19,309
+Esta é uma grande oportunidade,
+cara.
 
 163
-00:09:12,511 --> 00:09:15,639
-VOCÊ NÃO QUER DEIXAR
-TODO MUNDO.
+00:09:19,393 --> 00:09:21,728
+Estou te fazendo um favor.
+É um novo começo.
 
 164
-00:09:15,722 --> 00:09:19,309
-ESTA É UMA GRANDE OPORTUNIDADE,
-CARA.
+00:09:21,812 --> 00:09:23,939
+Eu não quero um novo começo.
 
 165
-00:09:19,393 --> 00:09:21,728
-ESTOU TE FAZENDO UM FAVOR.
-É UM NOVO COMEÇO.
+00:09:24,022 --> 00:09:26,817
+Quero ficar aqui,
+exatamente onde eu estou.
 
 166
-00:09:21,812 --> 00:09:23,939
-EU NÃO QUERO UM NOVO COMEÇO.
+00:09:26,900 --> 00:09:28,235
+Sinto muito, mas você não pode.
 
 167
-00:09:24,022 --> 00:09:26,817
-QUERO FICAR AQUI,
-EXATAMENTE ONDE EU ESTOU.
+00:09:28,318 --> 00:09:29,695
+Sean:
+Na verdade, eu posso.
 
 168
-00:09:26,900 --> 00:09:28,235
-SINTO MUITO, MAS VOCÊ NÃO PODE.
+00:09:29,778 --> 00:09:32,030
+Eu posso receber auxílio estudantil.
 
 169
-00:09:28,318 --> 00:09:29,695
-SEAN:
-NA VERDADE, EU POSSO.
+00:09:32,114 --> 00:09:32,948
+Morar aqui.
 
 170
-00:09:29,778 --> 00:09:32,030
-EU POSSO RECEBER AUXÍLIO ESTUDANTIL.
+00:09:34,825 --> 00:09:36,243
+Eu não preciso de você.
 
 171
-00:09:32,114 --> 00:09:32,948
-MORAR AQUI.
+00:09:40,956 --> 00:09:42,624
+Tracker:
+Certo.
 
 172
-00:09:34,825 --> 00:09:36,243
-EU NÃO PRECISO DE VOCÊ.
+00:09:44,668 --> 00:09:47,838
+O aluguel está pago até o final
+do mês mesmo.
 
 173
-00:09:40,956 --> 00:09:42,624
-TRACKER:
-CERTO.
+00:09:47,921 --> 00:09:49,673
+Termine o seu ano.
 
 174
-00:09:44,668 --> 00:09:47,838
-O ALUGUEL ESTÁ PAGO ATÉ O FINAL
-DO MÊS MESMO.
+00:09:49,756 --> 00:09:50,591
+Mas digo uma coisa,
 
 175
-00:09:47,921 --> 00:09:49,673
-TERMINE O SEU ANO.
+00:09:50,674 --> 00:09:55,596
+Você vai estar batendo na minha
+porta antes do que imagina, mano.
 
 176
-00:09:49,756 --> 00:09:50,591
-MAS DIGO UMA COISA,
+00:09:58,098 --> 00:09:59,600
+Voz do sistema de som:
+Atenção, alunos.
 
 177
-00:09:50,674 --> 00:09:55,596
-VOCÊ VAI ESTAR BATENDO NA MINHA
-PORTA ANTES DO QUE IMAGINA, MANO.
+00:09:59,683 --> 00:10:02,269
+A grade de provas será
+divulgada na próxima semana.
 
 178
-00:09:58,098 --> 00:09:59,600
-VOZ DO SISTEMA DE SOM:
-ATENÇÃO, ALUNOS.
+00:10:02,352 --> 00:10:03,562
+Não deixem de conferir os
+horários de todas as suas...
 
 179
-00:09:59,683 --> 00:10:02,269
-A GRADE DE PROVAS SERÁ
-DIVULGADA NA PRÓXIMA SEMANA.
+00:10:03,645 --> 00:10:04,479
+Ellie!
 
 180
-00:10:02,352 --> 00:10:03,562
-NÃO DEIXEM DE CONFERIR OS
-HORÁRIOS DE TODAS AS SUAS...
+00:10:04,563 --> 00:10:06,481
+Acho que é isso.
 
 181
-00:10:03,645 --> 00:10:04,479
-ELLIE!
+00:10:08,150 --> 00:10:10,194
+Eu estava pensando...
 
 182
-00:10:04,563 --> 00:10:06,481
-ACHO QUE É ISSO.
+00:10:10,277 --> 00:10:13,697
+Relacionamentos à distância
+são difíceis, mas-
 
 183
-00:10:08,150 --> 00:10:10,194
-EU ESTAVA PENSANDO...
+00:10:13,780 --> 00:10:15,115
+Não precisamos
+nos preocupar com isso.
 
 184
-00:10:10,277 --> 00:10:13,697
-RELACIONAMENTOS À DISTÂNCIA
-SÃO DIFÍCEIS, MAS-
+00:10:15,199 --> 00:10:18,285
+Adoro como você acha
+isso engraçado.
 
 185
-00:10:13,780 --> 00:10:15,115
-NÃO PRECISAMOS
-NOS PREOCUPAR COM ISSO.
+00:10:25,626 --> 00:10:26,376
+Você vai ficar?
 
 186
-00:10:15,199 --> 00:10:18,285
-ADORO COMO VOCÊ ACHA
-ISSO ENGRAÇADO.
+00:10:26,460 --> 00:10:27,377
+Sim!
 
 187
-00:10:25,626 --> 00:10:26,376
-VOCÊ VAI FICAR?
+00:10:28,086 --> 00:10:29,004
+Ellie:
+Eba!
 
 188
-00:10:26,460 --> 00:10:27,377
-SIM!
+00:11:12,214 --> 00:11:14,925
+Então, Manny.
+O baile de gala se aproxima.
 
 189
-00:10:28,086 --> 00:10:29,004
-ELLIE:
-EBA!
+00:11:15,008 --> 00:11:17,344
+Já escolheu um sari?
 
 190
-00:10:39,306 --> 00:10:41,3
+00:11:18,345 --> 00:11:19,054
+Não.
 
 191
-(MÚSICA ALTA NO RÁDIO)
+00:11:19,847 --> 00:11:22,099
+Já escolhi meu moleton
+e meu sorvete
 
 192
-00:11:12,214 --> 00:11:14,925
-ENTÃO, MANNY.
-O BAILE DE GALA SE APROXIMA.
+00:11:22,182 --> 00:11:24,309
+Porque eu não vou.
 
 193
-00:11:15,008 --> 00:11:17,344
-JÁ ESCOLHEU UM SARI?
+00:11:24,393 --> 00:11:26,103
+Discordo.
 
 194
-00:11:18,345 --> 00:11:19,054
-NÃO.
+00:11:26,186 --> 00:11:28,188
+Você não pode discordar.
 
 195
-00:11:19,847 --> 00:11:22,099
-JÁ ESCOLHI MEU MOLETON
-E MEU SORVETE
+00:11:28,272 --> 00:11:29,690
+Eu não vou.
 
 196
-00:11:22,182 --> 00:11:24,309
-PORQUE EU NÃO VOU.
+00:11:29,773 --> 00:11:32,442
+Além disso, não é como se
+alguém me quisesse lá.
 
 197
-00:11:24,393 --> 00:11:26,103
-DISCORDO.
+00:11:32,526 --> 00:11:34,444
+Eu conheço alguém que quer.
 
 198
-00:11:26,186 --> 00:11:28,188
-VOCÊ NÃO PODE DISCORDAR.
+00:11:34,528 --> 00:11:37,322
+Certo, é bom que não seja
+só você.
 
 199
-00:11:28,272 --> 00:11:29,690
-EU NÃO VOU.
+00:11:37,406 --> 00:11:38,448
+Negativo.
 
 200
-00:11:29,773 --> 00:11:32,442
-ALÉM DISSO, NÃO É COMO SE
-ALGUÉM ME QUISESSE LÁ.
+00:11:38,532 --> 00:11:42,536
+É um certo, digamos,
+"amigo" seu.
 
 201
-00:11:32,526 --> 00:11:34,444
-EU CONHEÇO ALGUÉM QUE QUER.
+00:11:49,042 --> 00:11:50,544
+Você está falando do j.T.?
 
 202
-00:11:34,528 --> 00:11:37,322
-CERTO, É BOM QUE NÃO SEJA
-SÓ VOCÊ.
+00:11:52,212 --> 00:11:54,548
+Bem, ele vai me chamar?
 
 203
-00:11:37,406 --> 00:11:38,448
-NEGATIVO.
+00:11:54,631 --> 00:11:57,384
+Você não ouviu isso de mim.
 
 204
-00:11:38,532 --> 00:11:42,536
-É UM CERTO, DIGAMOS,
-"AMIGO" SEU.
+00:12:01,263 --> 00:12:03,473
+Então o governo te paga
+para não fazer nada?
 
 205
-00:11:49,042 --> 00:11:50,544
-VOCÊ ESTÁ FALANDO DO JT?
+00:12:03,557 --> 00:12:05,475
+Eu tenho que ir pra escola,
+tirar boas notas,
 
 206
-00:11:52,212 --> 00:11:54,548
-BEM, ELE VAI ME CHAMAR?
+00:12:05,559 --> 00:12:08,061
+E tenho que viver de auxílio.
+Isso parece nada?
 
 207
-00:11:54,631 --> 00:11:57,384
-VOCÊ NÃO OUVIU ISSO DE MIM.
+00:12:08,145 --> 00:12:11,148
+Jay:
+Ah, coitadinho do Sean.
+A vida é tão difícil pra ele.
 
 208
-00:12:01,263 --> 00:12:03,473
-ENTÃO O GOVERNO TE PAGA
-PARA NÃO FAZER NADA?
+00:12:11,857 --> 00:12:14,693
+Amy:
+Então, posso ir aí algum dia?
 
 209
-00:12:03,557 --> 00:12:05,475
-EU TENHO QUE IR PRA ESCOLA,
-TIRAR BOAS NOTAS,
+00:12:15,402 --> 00:12:16,904
+Pode. Pode sim. Todos vocês podem.
 
 210
-00:12:05,559 --> 00:12:08,061
-E TENHO QUE VIVER DE AUXÍLIO.
-ISSO PARECE NADA?
+00:12:16,987 --> 00:12:20,741
+Não é só a minha casa,
+é a nossa casa.
 
 211
-00:12:08,145 --> 00:12:11,148
-JAY:
-AH, COITADINHO DO SEAN.
-A VIDA É TÃO DIFÍCIL PRA ELE.
-
-212
-00:12:11,231 --> 00:12:11,773
-(RISOS)
-
-213
-00:12:11,857 --> 00:12:14,693
-AMY:
-ENTÃO, POSSO IR AÍ ALGUM DIA?
-
-214
-00:12:15,402 --> 00:12:16,904
-PODE. PODE SIM. TODOS VOCÊS PODEM.
-
-215
-00:12:16,987 --> 00:12:20,741
-NÃO É SÓ A MINHA CASA,
-É A NOSSA CASA.
-
-216
 00:12:24,536 --> 00:12:39,510
 ♪♪♪
 
-217
+212
 00:12:39,593 --> 00:12:54,191
 ♪♪♪
 
-218
+213
 00:12:54,274 --> 00:13:07,788
 ♪♪♪
 
-219
+214
 00:13:07,871 --> 00:13:23,345
 ♪♪♪
 
-220
+215
 00:13:23,428 --> 00:13:31,144
 ♪♪♪
 
-221
+216
 00:13:32,479 --> 00:13:33,939
-SR. CAMERON.
+Sr. Cameron.
+
+217
+00:13:34,022 --> 00:13:36,984
+Parece que você está
+transformando o atraso em hábito.
+
+218
+00:13:37,067 --> 00:13:38,485
+Desculpe, sr. Ehl.
+
+219
+00:13:38,569 --> 00:13:40,237
+Se for sobre a prova,
+eu faço ela dormindo.
+
+220
+00:13:40,320 --> 00:13:42,364
+Ehl:
+Não é sobre a minha prova.
+
+221
+00:13:42,447 --> 00:13:44,741
+É sobre as suas outras provas.
 
 222
-00:13:34,022 --> 00:13:36,984
-PARECE QUE VOCÊ ESTÁ
-TRANSFORMANDO O ATRASO EM HÁBITO.
+00:13:44,825 --> 00:13:46,243
+E o seu trabalho...
 
 223
-00:13:37,067 --> 00:13:38,485
-DESCULPE, SR. EHL.
+00:13:47,452 --> 00:13:49,621
+Que vale 50%, lembra?
 
 224
-00:13:38,569 --> 00:13:40,237
-SE FOR SOBRE A PROVA,
-EU FAÇO ELA DORMINDO.
+00:13:50,873 --> 00:13:53,208
+Eu vou fazer.
+Prometo.
 
 225
-00:13:40,320 --> 00:13:42,364
-EHL:
-NÃO É SOBRE A MINHA PROVA.
+00:14:27,784 --> 00:14:29,119
+Você reembolsa esses ingressos?
 
 226
-00:13:42,447 --> 00:13:44,741
-É SOBRE AS SUAS OUTRAS PROVAS.
+00:14:29,203 --> 00:14:30,162
+Vendedor:
+Não. Acho que não.
 
 227
-00:13:44,825 --> 00:13:46,243
-E O SEU TRABALHO...
+00:14:30,245 --> 00:14:31,371
+Jt.
 
 228
-00:13:47,452 --> 00:13:49,621
-QUE VALE 50%, LEMBRA?
+00:14:31,455 --> 00:14:34,625
+Posso falar com você
+rapidinho?
 
 229
-00:13:50,873 --> 00:13:53,208
-EU VOU FAZER.
-PROMETO.
+00:14:34,708 --> 00:14:37,336
+Agora não é uma boa
+hora.
 
 230
-00:14:27,784 --> 00:14:29,119
-VOCÊ REEMBOLSA ESSES INGRESSOS?
+00:14:37,419 --> 00:14:40,088
+Ah, eu ouvi dizer que você ia
+me chamar...
 
 231
-00:14:29,203 --> 00:14:30,162
-VENDEDOR:
-NÃO. ACHO QUE NÃO.
+00:14:40,172 --> 00:14:42,174
+E eu estava esperando.
 
 232
-00:14:30,245 --> 00:14:31,371
-JT.
+00:14:43,175 --> 00:14:43,884
+Jt.
 
 233
-00:14:31,455 --> 00:14:34,625
-POSSO FALAR COM VOCÊ
-RAPIDINHO?
+00:14:45,427 --> 00:14:47,429
+Eu te vi com o Craig.
 
 234
-00:14:34,708 --> 00:14:37,336
-AGORA NÃO É UMA BOA
-HORA.
+00:14:47,513 --> 00:14:48,347
+E daí?
 
 235
-00:14:37,419 --> 00:14:40,088
-AH, EU OUVI DIZER QUE VOCÊ IA
-ME CHAMAR...
+00:14:50,224 --> 00:14:52,726
+A gente não se falava desde...
 
 236
-00:14:40,172 --> 00:14:42,174
-E EU ESTAVA ESPERANDO.
+00:14:52,809 --> 00:14:55,437
+Ele só estava vendo
+se eu estava bem.
 
 237
-00:14:43,175 --> 00:14:43,884
-JT.
+00:14:55,521 --> 00:14:56,313
+Ah, tá.
 
 238
-00:14:45,427 --> 00:14:47,429
-EU TE VI COM O CRAIG.
+00:14:56,396 --> 00:14:57,439
+O quê?
 
 239
-00:14:47,513 --> 00:14:48,347
-E DAÍ?
+00:14:57,523 --> 00:15:00,150
+Você acha que eu ia sair
+e transar com ele
 
 240
-00:14:50,224 --> 00:14:52,726
-A GENTE NÃO SE FALAVA DESDE...
+00:15:00,234 --> 00:15:01,985
+Porque eu sou fácil assim?
 
 241
-00:14:52,809 --> 00:14:55,437
-ELE SÓ ESTAVA VENDO
-SE EU ESTAVA BEM.
+00:15:02,069 --> 00:15:02,819
+Manny...
 
 242
-00:14:55,521 --> 00:14:56,313
-AH, TÁ.
+00:15:02,903 --> 00:15:07,616
+Foi ele quem traiu
+a namorada, tá legal?
 
 243
-00:14:56,396 --> 00:14:57,439
-O QUÊ?
+00:15:07,699 --> 00:15:11,703
+Mas ninguém nunca fala
+disso, né?
 
 244
-00:14:57,523 --> 00:15:00,150
-VOCÊ ACHA QUE EU IA SAIR
-E TRANSAR COM ELE
+00:15:19,378 --> 00:15:21,380
+Então acabou
+por aí.
 
 245
-00:15:00,234 --> 00:15:01,985
-PORQUE EU SOU FÁCIL ASSIM?
+00:15:21,463 --> 00:15:23,090
+Jay:
+E aí, Sean.
 
 246
-00:15:02,069 --> 00:15:02,819
-MANNY...
+00:15:23,173 --> 00:15:24,174
+Esses são os caras de montreal.
 
 247
-00:15:02,903 --> 00:15:07,616
-FOI ELE QUEM TRAIU
-A NAMORADA, TÁ LEGAL?
+00:15:24,258 --> 00:15:26,426
+Garoto:
+E aí, cara?
 
 248
-00:15:07,699 --> 00:15:11,703
-MAS NINGUÉM NUNCA FALA
-DISSO, NÉ?
+00:15:28,595 --> 00:15:31,181
+Você vai conseguir
+trabalhar?
 
 249
-00:15:19,378 --> 00:15:21,380
-ENTÃO ACABOU
-POR AÍ.
+00:15:31,265 --> 00:15:32,432
+Vou ter que conseguir.
 
 250
-00:15:21,463 --> 00:15:23,090
-JAY:
-E AÍ, SEAN.
+00:15:52,953 --> 00:15:54,329
+Vai com calma!
 
 251
-00:15:23,173 --> 00:15:24,174
-ESSES SÃO OS CARAS DE MONTREAL.
+00:15:54,413 --> 00:15:55,414
+Ei, seannie,
 
 252
-00:15:24,258 --> 00:15:26,426
-GAROTO:
-E AÍ, CARA?
+00:15:55,497 --> 00:15:58,709
+Quer ver a minha famosíssima
+imitação da avril lavigne?
 
 253
-00:15:28,595 --> 00:15:31,181
-VOCÊ VAI CONSEGUIR
-TRABALHAR?
+00:15:58,792 --> 00:15:59,710
+Claro.
 
 254
-00:15:31,265 --> 00:15:32,432
-VOU TER QUE CONSEGUIR.
+00:16:03,964 --> 00:16:06,592
+Você não gosta mais
+de mim.
 
 255
-00:15:33,767 --> 00:15:36,061
-(A MÚSICA FICA MAIS ALTA)
+00:16:06,675 --> 00:16:08,385
+Amy, você que terminou comigo.
 
 256
-00:15:44,403 --> 00:15:45,237
-(RISOS)
+00:16:08,468 --> 00:16:11,096
+Ellie:
+E ele tem namorada.
 
 257
-00:15:52,953 --> 00:15:54,329
-VAI COM CALMA!
+00:16:11,597 --> 00:16:13,223
+Certo. E você é o quê?
 
 258
-00:15:54,413 --> 00:15:55,414
-EI, SEANNIE,
+00:16:13,307 --> 00:16:16,059
+Uma espécie de vampira
+chupadora de sangue?
 
 259
-00:15:55,497 --> 00:15:58,709
-QUER VER A MINHA FAMOSÍSSIMA
-IMITAÇÃO DA AVRIL LAVIGNE?
+00:16:16,143 --> 00:16:20,230
+Continua dando em cima do meu
+namorado pra você ver.
 
 260
-00:15:58,792 --> 00:15:59,710
-CLARO.
+00:16:36,330 --> 00:16:38,248
+Alex:
+Ei, ei, ei.
 
 261
-00:16:03,964 --> 00:16:06,592
-VOCÊ NÃO GOSTA MAIS
-DE MIM.
+00:16:40,334 --> 00:16:41,084
+Garoto 1:
+Qual é o seu problema, cara?
 
 262
-00:16:06,675 --> 00:16:08,385
-AMY, VOCÊ QUE TERMINOU COMIGO.
+00:16:41,168 --> 00:16:42,669
+Garoto 2:
+Não, qual é o seu problema?
 
 263
-00:16:08,468 --> 00:16:11,096
-ELLIE:
-E ELE TEM NAMORADA.
+00:16:43,795 --> 00:16:44,588
+Sean:
+Ei!
 
 264
-00:16:11,597 --> 00:16:13,223
-CERTO. E VOCÊ É O QUÊ?
+00:16:44,671 --> 00:16:45,339
+Lá fora!
 
 265
-00:16:13,307 --> 00:16:16,059
-UMA ESPÉCIE DE VAMPIRA
-CHUPADORA DE SANGUE?
+00:16:45,839 --> 00:16:46,173
+Jay!
 
 266
-00:16:16,143 --> 00:16:20,230
-CONTINUA DANDO EM CIMA DO MEU
-NAMORADO PRA VOCÊ VER.
+00:16:47,508 --> 00:16:49,885
+Jay:
+Ei, ei, vocês ouviram ele.
 
 267
-00:16:36,330 --> 00:16:38,248
-ALEX:
-EI, EI, EI.
+00:16:50,928 --> 00:16:51,637
+Sean:
+Muito obrigado, Jay.
 
 268
-00:16:40,334 --> 00:16:41,084
-GAROTO 1:
-QUAL É O SEU PROBLEMA, CARA?
+00:16:51,720 --> 00:16:53,847
+Por convidar os caras de montreal.
 
 269
-00:16:41,168 --> 00:16:42,669
-GAROTO 2:
-NÃO, QUAL É O SEU PROBLEMA?
+00:16:53,931 --> 00:16:55,849
+Eu vou acabar com ele-
 
 270
-00:16:43,795 --> 00:16:44,588
-SEAN:
-EI!
+00:16:55,933 --> 00:16:56,975
+Alex:
 
 271
-00:16:44,671 --> 00:16:45,339
-LÁ FORA!
+00:16:57,059 --> 00:16:57,809
+Garotos:
+Ai, meu Deus! O que foi isso?
 
 272
-00:16:45,839 --> 00:16:46,173
-JAY!
+00:16:58,227 --> 00:17:01,813
+É a amy! Tem alguma coisa
+muito, muito errada!
 
 273
-00:16:47,508 --> 00:16:49,885
-JAY:
-EI, EI, VOCÊS OUVIRAM ELE.
+00:17:10,822 --> 00:17:12,491
+Eu não consigo acordar ela.
 
 274
-00:16:50,928 --> 00:16:51,637
-SEAN:
-MUITO OBRIGADO, JAY.
+00:17:17,913 --> 00:17:19,122
+Certo, alguém chama
+uma ambulância!
 
 275
-00:16:51,720 --> 00:16:53,847
-POR CONVIDAR OS CARAS DE MONTREAL.
+00:17:19,206 --> 00:17:20,207
+Garoto:
+Já estou chamando.
 
 276
-00:16:53,931 --> 00:16:55,849
-EU VOU ACABAR COM ELE-
+00:17:20,290 --> 00:17:22,292
+Lá vai o seu
+auxílio estudantil.
 
 277
-00:16:55,933 --> 00:16:56,975
-ALEX:
-(GRITO)
+00:17:22,376 --> 00:17:24,586
+Pode ser
+intoxicação alcoólica.
 
 278
-00:16:57,059 --> 00:16:57,809
-GAROTOS:
-AI, MEU DEUS! O QUE FOI ISSO?
+00:17:24,670 --> 00:17:28,215
+Jay:
+Olha, talvez você nunca
+tenha ido a uma festa,
 
 279
-00:16:58,227 --> 00:17:01,813
-É A AMY! TEM ALGUMA COISA
-MUITO, MUITO ERRADA!
+00:17:28,298 --> 00:17:29,716
+Mas isso acontece.
 
 280
-00:17:10,822 --> 00:17:12,491
-EU NÃO CONSIGO ACORDAR ELA.
+00:17:31,760 --> 00:17:33,470
+Ela vai ficar bem.
 
 281
-00:17:17,913 --> 00:17:19,122
-CERTO, ALGUÉM CHAMA
-UMA AMBULÂNCIA!
+00:17:33,554 --> 00:17:37,599
+Sean:
+Cara, olha pra ela!
+Ela não vai ficar bem!
 
 282
-00:17:19,206 --> 00:17:20,207
-GAROTO:
-JÁ ESTOU CHAMANDO.
+00:17:45,440 --> 00:17:48,777
+Ei, foi bom vocês
+terem ligado pra gente.
 
 283
-00:17:20,290 --> 00:17:22,292
-LÁ VAI O SEU
-AUXÍLIO ESTUDANTIL.
+00:17:52,114 --> 00:17:54,032
+Bem, espero que você esteja feliz,
 
 284
-00:17:22,376 --> 00:17:24,586
-PODE SER
-INTOXICAÇÃO ALCOÓLICA.
+00:17:54,116 --> 00:17:57,703
+Porque você acabou com a festa
+de vez.
 
 285
-00:17:24,670 --> 00:17:28,215
-JAY:
-OLHA, TALVEZ VOCÊ NUNCA
-TENHA IDO A UMA FESTA,
+00:17:57,786 --> 00:17:58,662
+Tanto faz.
 
 286
-00:17:28,298 --> 00:17:29,716
-MAS ISSO ACONTECE.
+00:17:58,745 --> 00:18:01,707
+Os garotos de montreal estão
+enteidados. Pra onde a gente vai?
 
 287
-00:17:31,760 --> 00:17:33,470
-ELA VAI FICAR BEM.
+00:18:01,790 --> 00:18:03,333
+Pra lugar nenhum.
 
 288
-00:17:33,554 --> 00:17:37,599
-SEAN:
-CARA, OLHA PRA ELA!
-ELA NÃO VAI FICAR BEM!
+00:18:03,417 --> 00:18:04,751
+Acabou.
 
 289
-00:17:45,440 --> 00:17:48,777
-EI, FOI BOM VOCÊS
-TEREM LIGADO PRA GENTE.
+00:18:07,838 --> 00:18:11,008
+Foi a sua namorada
+que decidiu isso?
 
 290
-00:17:52,114 --> 00:17:54,032
-BEM, ESPERO QUE VOCÊ ESTEJA FELIZ,
+00:18:11,758 --> 00:18:13,260
+Não, não foi.
 
 291
-00:17:54,116 --> 00:17:57,703
-PORQUE VOCÊ ACABOU COM A FESTA
-DE VEZ.
+00:18:13,343 --> 00:18:14,678
+Fui eu.
 
 292
-00:17:57,786 --> 00:17:58,662
-TANTO FAZ.
+00:18:14,761 --> 00:18:16,346
+A festa acabou.
 
 293
-00:17:58,745 --> 00:18:01,707
-OS GAROTOS DE MONTREAL ESTÃO
-ENTEIDADOS. PRA ONDE A GENTE VAI?
+00:18:16,847 --> 00:18:19,391
+Sabia, eu te achei
+legal.
 
 294
-00:18:01,790 --> 00:18:03,333
-PRA LUGAR NENHUM.
+00:18:19,474 --> 00:18:21,476
+Você me enganou.
 
 295
-00:18:03,417 --> 00:18:04,751
-ACABOU.
+00:18:23,770 --> 00:18:25,355
+Eu te entendo.
 
 296
-00:18:07,838 --> 00:18:11,008
-FOI A SUA NAMORADA
-QUE DECIDIU ISSO?
+00:18:31,153 --> 00:18:31,987
+Jt:
+Manny!
 
 297
-00:18:11,758 --> 00:18:13,260
-NÃO, NÃO FOI.
+00:18:33,030 --> 00:18:34,406
+Olha, eu só queria
+me desculpar, tá?
 
 298
-00:18:13,343 --> 00:18:14,678
-FUI EU.
+00:18:34,489 --> 00:18:37,159
+Eu nunca pensei nada
+de mal de você.
 
 299
-00:18:14,761 --> 00:18:16,346
-A FESTA ACABOU.
+00:18:37,242 --> 00:18:39,077
+Jt, deixa pra lá.
 
 300
-00:18:16,847 --> 00:18:19,391
-SABIA, EU TE ACHEI
-LEGAL.
+00:18:39,161 --> 00:18:39,953
+Jt:
+Quando eu te vi com o Craig,
 
 301
-00:18:19,474 --> 00:18:21,476
-VOCÊ ME ENGANOU.
+00:18:40,037 --> 00:18:42,831
+Eu pensei que você
+ainda gostasse dele.
 
 302
-00:18:23,770 --> 00:18:25,355
-EU TE ENTENDO.
+00:18:42,915 --> 00:18:43,832
+Olha.
 
 303
-00:18:31,153 --> 00:18:31,987
-JT:
-MANNY!
+00:18:43,916 --> 00:18:45,125
+Quando eu te chamei pra sair
+da primeira vez
 
 304
-00:18:33,030 --> 00:18:34,406
-OLHA, EU SÓ QUERIA
-ME DESCULPAR, TÁ?
+00:18:45,209 --> 00:18:46,543
+Você me deu um fora.
 
 305
-00:18:34,489 --> 00:18:37,159
-EU NUNCA PENSEI NADA
-DE MAL DE VOCÊ.
+00:18:46,627 --> 00:18:48,962
+Eu só... Fiquei com medo
+de acontecer de novo.
 
 306
-00:18:37,242 --> 00:18:39,077
-JT, DEIXA PRA LÁ.
+00:18:49,046 --> 00:18:51,256
+Eu fui um idiota, tá?
+Eu admito.
 
 307
-00:18:39,161 --> 00:18:39,953
-JT:
-QUANDO EU TE VI COM O CRAIG,
+00:18:51,340 --> 00:18:53,842
+Mas eu só vou
+te perguntar uma vez.
 
 308
-00:18:40,037 --> 00:18:42,831
-EU PENSEI QUE VOCÊ
-AINDA GOSTASSE DELE.
+00:18:53,926 --> 00:18:56,220
+Eu tenho dois ingressos
+pro baile de gala.
 
 309
-00:18:42,915 --> 00:18:43,832
-OLHA.
+00:18:56,303 --> 00:18:58,472
+Você quer ir comigo?
 
 310
-00:18:43,916 --> 00:18:45,125
-QUANDO EU TE CHAMEI PRA SAIR
-DA PRIMEIRA VEZ
+00:18:59,723 --> 00:19:00,849
+Certo, eu mentí.
+Vou te perguntar duas vezes.
 
 311
-00:18:45,209 --> 00:18:46,543
-VOCÊ ME DEU UM FORA.
+00:19:00,933 --> 00:19:03,101
+Você quer ir comigo?
 
 312
-00:18:46,627 --> 00:18:48,962
-EU SÓ... FIQUEI COM MEDO
-DE ACONTECER DE NOVO.
+00:19:04,937 --> 00:19:07,231
+Estou te avisando,
+estou preparado pra esperar.
 
 313
-00:18:49,046 --> 00:18:51,256
-EU FUI UM IDIOTA, TÁ?
-EU ADMITO.
+00:19:07,314 --> 00:19:09,566
+Meses se for preciso.
 
 314
-00:18:51,340 --> 00:18:53,842
-MAS EU SÓ VOU
-TE PERGUNTAR UMA VEZ.
+00:19:09,650 --> 00:19:13,904
+Bem, talvez não meses.
+Vamos perder o baile.
 
 315
-00:18:53,926 --> 00:18:56,220
-EU TENHO DOIS INGRESSOS
-PRO BAILE DE GALA.
+00:19:14,571 --> 00:19:16,406
+Isso foi um sim?
 
 316
-00:18:56,303 --> 00:18:58,472
-VOCÊ QUER IR COMIGO?
+00:19:16,490 --> 00:19:20,494
+Eu ouvi um sim.
+Pode dar o seu veredito?
 
 317
-00:18:59,723 --> 00:19:00,849
-CERTO, EU MENTÍ.
-VOU TE PERGUNTAR DUAS VEZES.
+00:19:20,577 --> 00:19:22,955
+Jt, você é tão idiota.
 
 318
-00:19:00,933 --> 00:19:03,101
-VOCÊ QUER IR COMIGO?
+00:19:25,999 --> 00:19:28,919
+Jt:
+Mas você diz isso da maneira
+mais carinhosa possível, né?
 
 319
-00:19:04,937 --> 00:19:07,231
-ESTOU TE AVISANDO,
-ESTOU PREPARADO PRA ESPERAR.
+00:19:36,426 --> 00:19:37,219
+Voz do sistema de som:
+Certo, alunos do primeiro ano,
 
 320
-00:19:07,314 --> 00:19:09,566
-MESES SE FOR PRECISO.
+00:19:37,302 --> 00:19:38,512
+Chegou a hora
+que vocês estavam esperando.
 
 321
-00:19:09,650 --> 00:19:13,904
-BEM, TALVEZ NÃO MESES.
-VAMOS PERDER O BAILE.
+00:19:38,595 --> 00:19:40,305
+O leilão dos veteranos
+deste ano será realizado...
 
 322
-00:19:14,571 --> 00:19:16,406
-ISSO FOI UM SIM?
+00:19:40,389 --> 00:19:41,640
+Jay:
+A amy está bem?
 
 323
-00:19:16,490 --> 00:19:20,494
-EU OUVI UM SIM.
-PODE DAR O SEU VEREDITO?
+00:19:44,017 --> 00:19:45,519
+Ela vai ficar.
 
 324
-00:19:20,577 --> 00:19:22,955
-JT, VOCÊ É TÃO IDIOTA.
+00:19:57,281 --> 00:19:58,448
+Sr. Ehl?
 
 325
-00:19:25,999 --> 00:19:28,919
-JT:
-MAS VOCÊ DIZ ISSO DA MANEIRA
-MAIS CARINHOSA POSSÍVEL, NÉ?
+00:19:59,366 --> 00:20:00,951
+Eu trouxe estes formulários.
 
 326
-00:19:36,426 --> 00:19:37,219
-VOZ DO SISTEMA DE SOM:
-CERTO, ALUNOS DO PRIMEIRO ANO,
+00:20:01,451 --> 00:20:02,619
+Traga aqui.
 
 327
-00:19:37,302 --> 00:19:38,512
-CHEGOU A HORA
-QUE VOCÊS ESTAVAM ESPERANDO.
+00:20:08,792 --> 00:20:10,836
+Antes do Senhor assinar...
 
 328
-00:19:38,595 --> 00:19:40,305
-O LEILÃO DOS VETERANOS
-DESTE ANO SERÁ REALIZADO...
+00:20:10,919 --> 00:20:13,922
+Tem uma coisa
+que eu deveria te contar.
 
 329
-00:19:40,389 --> 00:19:41,640
-JAY:
-A AMY ESTÁ BEM?
+00:20:15,591 --> 00:20:17,050
+Eu dei uma festa.
 
 330
-00:19:44,017 --> 00:19:45,519
-ELA VAI FICAR.
-
-331
-00:19:57,281 --> 00:19:58,448
-SR. EHL?
-
-332
-00:19:59,366 --> 00:20:00,951
-EU TROUXE ESTES FORMULÁRIOS.
-
-333
-00:20:01,451 --> 00:20:02,619
-TRAGA AQUI.
-
-334
-00:20:08,792 --> 00:20:10,836
-ANTES DO SENHOR ASSINAR...
-
-335
-00:20:10,919 --> 00:20:13,922
-TEM UMA COISA
-QUE EU DEVERIA TE CONTAR.
-
-336
-00:20:15,591 --> 00:20:17,050
-EU DEI UMA FESTA.
-
-337
 00:20:17,134 --> 00:20:18,343
 E...
 
-338
+331
 00:20:18,427 --> 00:20:20,804
-MEIO QUE SAIU DO CONTROLE.
+Meio que saiu do controle.
+
+332
+00:20:20,888 --> 00:20:22,639
+A polícia foi chamada.
+
+333
+00:20:22,723 --> 00:20:24,975
+Não houve acusações nem nada, mas...
+
+334
+00:20:25,642 --> 00:20:27,394
+Bem, se o Senhor não quiser
+mais ser meu responsável
+
+335
+00:20:27,477 --> 00:20:28,562
+Eu entendo.
+
+336
+00:20:31,773 --> 00:20:32,900
+Eu tenho a sensação de que muita
+
+337
+00:20:32,983 --> 00:20:35,485
+Gente já decepcionou
+você, Sean.
+
+338
+00:20:36,111 --> 00:20:39,823
+Eu não vou
+entrar pra essa lista.
 
 339
-00:20:20,888 --> 00:20:22,639
-A POLÍCIA FOI CHAMADA.
+00:20:40,824 --> 00:20:43,410
+Mas eu não vou assinar...
 
 340
-00:20:22,723 --> 00:20:24,975
-NÃO HOUVE ACUSAÇÕES NEM NADA, MAS...
+00:20:43,493 --> 00:20:46,246
+Enquanto você não me convencer
+de que as festas acabaram
 
 341
-00:20:25,642 --> 00:20:27,394
-BEM, SE O SENHOR NÃO QUISER
-MAIS SER MEU RESPONSÁVEL
+00:20:46,330 --> 00:20:48,582
+E que você está pronto.
 
 342
-00:20:27,477 --> 00:20:28,562
-EU ENTENDO.
+00:20:49,499 --> 00:20:49,917
+Eu estou.
 
 343
-00:20:31,773 --> 00:20:32,900
-EU TENHO A SENSAÇÃO DE QUE MUITA
+00:20:56,215 --> 00:20:57,382
+Eu estou, sr. Ehl.
 
 344
-00:20:32,983 --> 00:20:35,485
-GENTE JÁ DECEPCIONOU
-VOCÊ, SEAN.
+00:21:12,523 --> 00:21:13,357
+Obrigado.
 
 345
-00:20:36,111 --> 00:20:39,823
-EU NÃO VOU
-ENTRAR PRA ESSA LISTA.
+00:21:15,859 --> 00:21:18,237
+Se importa se eu ficar aqui?
 
 346
-00:20:40,824 --> 00:20:43,410
-MAS EU NÃO VOU ASSINAR...
-
-347
-00:20:43,493 --> 00:20:46,246
-ENQUANTO VOCÊ NÃO ME CONVENCER
-DE QUE AS FESTAS ACABARAM
-
-348
-00:20:46,330 --> 00:20:48,582
-E QUE VOCÊ ESTÁ PRONTO.
-
-349
-00:20:49,499 --> 00:20:49,917
-EU ESTOU.
-
-350
-00:20:56,215 --> 00:20:57,382
-EU ESTOU, SR. EHL.
-
-351
-00:21:12,523 --> 00:21:13,357
-OBRIGADO.
-
-352
-00:21:15,859 --> 00:21:18,237
-SE IMPORTA SE EU FICAR AQUI?
-
-353
 00:21:18,320 --> 00:21:19,696
-EU TENHO QUE TERMINAR MEU TRABALHO.
+Eu tenho que terminar meu trabalho.
