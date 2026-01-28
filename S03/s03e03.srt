@@ -1,17 +1,16 @@
 1
 00:00:01,293 --> 00:00:03,921
-ESTUDANTES:
-(CONVERSA ANIMADA)
+Estudantes:
 
 2
 00:00:04,671 --> 00:00:06,673
-PAIGE:
+Paige:
 Não acredito que ganhamos deles
 de seis a dois.
 
 3
 00:00:06,757 --> 00:00:08,509
-E você viu o Sully
+E você viu o sully
 torcer aquele último chute
 
 4
@@ -20,12 +19,12 @@ Antes de ele marcar?!
 
 5
 00:00:10,177 --> 00:00:11,136
-SULLY:
+Sully:
 Pam! Espera.
 
 6
 00:00:11,220 --> 00:00:13,764
-Oi, Sully, Sully.
+Oi, sully, sully.
 Hum...
 
 7
@@ -52,7 +51,7 @@ Em você? Uh...
 
 12
 00:00:26,568 --> 00:00:30,280
-Hum, o Spin não quer
+Hum, o spin não quer
 ser cruel, então, uh, eu serei.
 
 13
@@ -97,8 +96,8 @@ simples assim.
 
 22
 00:01:00,343 --> 00:01:03,238
-Legendas pelo projeto Teendle!
-nos visite em: teendle.win
+Legendas pelo projeto teendle!
+Nos visite em: Teendle.Win
 
 23
 00:01:03,438 --> 00:01:05,232
@@ -138,32 +137,32 @@ nos visite em: teendle.win
 
 32
 00:01:37,681 --> 00:01:39,808
-EMMA:
+Emma:
 Esse clube será minha missão
 do ano.
 
 33
 00:01:39,892 --> 00:01:40,976
-Vou chamá-lo de SITE:
+Vou chamá-lo de site:
 
 34
 00:01:41,059 --> 00:01:42,978
-"Estudantes Incrementando
-o Meio Ambiente".
+"Estudantes incrementando
+o meio ambiente".
 
 35
 00:01:43,061 --> 00:01:43,729
-MANNY:
+Manny:
 Legal.
 
 36
 00:01:43,812 --> 00:01:44,938
-EMMA:
+Emma:
 Teremos campanhas de cartas,
 
 37
 00:01:45,022 --> 00:01:46,690
-uma semana das espécies
+Uma semana das espécies
 ameaçadas...
 
 38
@@ -185,13 +184,13 @@ Uau.
 
 42
 00:01:56,325 --> 00:01:59,411
-MANNY:
+Manny:
 De jeito nenhum vou levar um fora
 este ano
 
 43
 00:01:59,494 --> 00:02:01,747
-por ser "nova demais".
+Por ser "Nova demais".
 
 44
 00:02:01,830 --> 00:02:14,134
@@ -203,12 +202,12 @@ Oof!
 
 46
 00:02:23,727 --> 00:02:24,895
-ANGELA:
+Angela:
 Cadê meu suco?
 
 47
 00:02:24,978 --> 00:02:26,271
-JOEY:
+Joey:
 Ah, droga, papai sempre
 esquece alguma coisa.
 
@@ -219,7 +218,7 @@ Já volto.
 49
 00:02:27,231 --> 00:02:29,358
 Nunca esqueço
-o combustível da Angie!
+o combustível da angie!
 
 50
 00:02:29,441 --> 00:02:30,984
@@ -232,7 +231,7 @@ Aqui está.
 
 52
 00:02:32,277 --> 00:02:35,822
-JOEY:
+Joey:
 Então, pronta para comemorar
 hoje à noite?
 
@@ -278,14 +277,14 @@ Tipo, um milhão de vezes.
 
 62
 00:02:52,923 --> 00:02:54,842
-JOEY:
+Joey:
 Ei, uh, vocês...
 E os ensaios?
 
 63
 00:02:54,925 --> 00:02:55,843
 Preci-
-Precisam de um lugar?
+precisam de um lugar?
 
 64
 00:02:55,926 --> 00:02:57,761
@@ -298,7 +297,7 @@ Sua garagem?
 
 66
 00:02:58,846 --> 00:03:01,849
-JOEY:
+Joey:
 É. A hora que quiserem,
 certo?
 
@@ -307,1847 +306,1744 @@ certo?
 Manda ver, caras!
 
 68
-00:03:04,601 --> 00:03:05,686
-(RISOS)
-
-69
 00:03:05,769 --> 00:03:10,357
-JOEY:
-(CANTANDO)
-♪ Everybody wants something
+Joey: ♪ Everybody wants something
 they will never give up... ♪
 
-70
+69
 00:03:10,440 --> 00:03:13,944
-NARRADOR DO FILME:
+Narrador do filme:
 O sapo, um membro
 do mundo anfíbio.
 
-71
+70
 00:03:14,027 --> 00:03:15,529
 Muitos sapos se sentem
 igualmente em casa
 
-72
+71
 00:03:15,612 --> 00:03:18,198
-em ambientes marinhos,
+Em ambientes marinhos,
 como em terra.
 
-73
+72
 00:03:18,282 --> 00:03:20,409
 Essa classe anfíbia
 de ciclo de vida de criaturas
 
-74
+73
 00:03:20,492 --> 00:03:23,203
-envolve alguns dos mais
+Envolve alguns dos mais
 fascinantes e dramáticos...
 
-75
+74
 00:03:23,287 --> 00:03:24,538
-Desculpa. (RI)
+Desculpa.
 
-76
+75
 00:03:25,372 --> 00:03:28,458
 Eu estava, uh, eu estava só
 olhando para o seu...
 
-77
+76
 00:03:30,127 --> 00:03:31,086
 Para o meu quê?
 
-78
+77
 00:03:32,713 --> 00:03:34,548
 Posso... Posso ver isso?
 
-79
+78
 00:03:35,424 --> 00:03:35,799
 Pode.
 
-80
+79
 00:03:38,510 --> 00:03:41,722
 Sabe, eu faço interpretação
 de rabiscos.
 
-81
+80
 00:03:41,805 --> 00:03:43,515
 Interpretação de rabiscos?
 
-82
+81
 00:03:43,599 --> 00:03:44,433
 Psiu!
 
-83
+82
 00:03:45,726 --> 00:03:47,895
 Seus rabiscos dizem muito
 sobre você.
 
-84
+83
 00:03:47,978 --> 00:03:50,564
 É mesmo?
 O que meus rabiscos dizem?
 
-85
+84
 00:03:51,607 --> 00:03:52,316
 Bom, uh...
 
-86
+85
 00:03:53,233 --> 00:03:55,235
 Essa flor aqui...
 
-87
+86
 00:03:55,319 --> 00:03:56,361
-JT...
+Jt...
 
-88
+87
 00:03:56,445 --> 00:03:58,113
 Quieto, por favor.
 
-89
-00:04:00,949 --> 00:04:01,950
-(RISINHO)
-
-90
+88
 00:04:13,337 --> 00:04:15,589
 Olha este lugar.
 
-91
+89
 00:04:15,672 --> 00:04:16,840
 Velas...
 
-92
+90
 00:04:18,217 --> 00:04:19,218
 Música...
 
-93
+91
 00:04:20,344 --> 00:04:21,345
 Você de avental.
 
-94
+92
 00:04:21,428 --> 00:04:22,596
-JOEY:
-(RI)
+Joey:
 
-95
+93
 00:04:24,014 --> 00:04:25,766
 O que posso dizer?
 
-96
+94
 00:04:26,975 --> 00:04:28,769
 Gosto de criar
 uma atmosfera.
 
-97
+95
 00:04:28,852 --> 00:04:29,811
 Mmm-hmm?
 
-98
+96
 00:04:29,895 --> 00:04:31,063
 Mmm-hmm.
 
-99
-00:04:36,944 --> 00:04:38,362
-(MÚSICA DE BANDA DE ROCK)
-
-100
+97
 00:04:39,696 --> 00:04:42,282
 Isso é obra na rua?
 A essa hora?
 
-101
+98
 00:04:42,366 --> 00:04:44,660
 Ah, é a banda do Craig.
 
-102
+99
 00:04:46,495 --> 00:04:47,204
 Hum...
 
-103
+100
 00:04:48,413 --> 00:04:49,706
 A gente podia...
 
-104
+101
 00:04:50,374 --> 00:04:53,544
 Dar uma passadinha, só por,
 só por um minuto?
 
-105
+102
 00:04:56,380 --> 00:04:56,755
 Claro.
 
-106
+103
 00:04:58,841 --> 00:05:00,551
-(GUITARRA ELÉTRICA) Oh!
+Oh!
 
-107
-00:05:01,468 --> 00:05:02,886
-(GUITARRA ELÉTRICA)
-
-108
-00:05:06,223 --> 00:05:07,057
-(BATERIA)
-
-109
-00:05:13,146 --> 00:05:14,898
-(DESCOMPENSADOS)
-
-110
-00:05:19,027 --> 00:05:20,028
-(BANDA TOCA)
-
-111
+104
 00:05:29,538 --> 00:05:30,706
 Para! Cala a boca!
 
-112
+105
 00:05:32,958 --> 00:05:34,793
 E aí, caras! Como vai?
 
-113
+106
 00:05:34,877 --> 00:05:37,379
 Uhu! Está indo bem!
 Está indo muito bem!
 
-114
+107
 00:05:37,462 --> 00:05:39,631
 Ainda buscando o som de vocês?
 
-115
+108
 00:05:39,715 --> 00:05:41,383
 Estamos no caminho,
-Sr. Jeremiah.
+sr. Jeremiah.
 
-116
-00:05:41,466 --> 00:05:42,301
-(BATERIA)
-
-117
-00:05:44,511 --> 00:05:45,095
-(ESTRONDO)
-
-118
+109
 00:05:46,221 --> 00:05:48,724
-(RI) Certo.
+Certo.
 Mas, caras? Três guitarras?
 
-119
+110
 00:05:48,807 --> 00:05:51,518
 Vocês não estão meio que se
 limitando?
 
-120
+111
 00:05:51,602 --> 00:05:53,228
 Não, deixa eu, uh, deixa eu
 mostrar do que eu estou falando.
 
-121
+112
 00:05:53,312 --> 00:05:54,062
 Eu tenho, hum...
 
-122
+113
 00:05:55,606 --> 00:05:56,440
 É isso aí.
 
-123
+114
 00:05:57,399 --> 00:05:58,901
 Hã? Hã!?
 
-124
+115
 00:05:58,984 --> 00:06:02,196
 Toca piano,
 faz sax, sinos...
 
-125
+116
 00:06:02,279 --> 00:06:04,656
 O que vocês quiserem.
 Essa coisa faz tudo!
 
-126
+117
 00:06:04,740 --> 00:06:07,659
 O quê? Acha que a Ashley
 devia entrar para a banda?
 
-127
+118
 00:06:07,743 --> 00:06:11,205
-JOEY:
+Joey:
 Uh, não, eu ia só, uh...
 
-128
+119
 00:06:11,288 --> 00:06:12,998
 Uh, tocar com vocês?
 Mostrar o que estão perdendo.
 
-129
+120
 00:06:13,081 --> 00:06:13,999
 O quê?
 
-130
+121
 00:06:14,082 --> 00:06:14,791
 Uh-
 
-131
+122
 00:06:15,834 --> 00:06:16,877
 Essa é uma belezinha
 e tanto.
 
-132
+123
 00:06:16,960 --> 00:06:18,712
 Vou dedicar para
-minha querida Angie
+minha querida angie
 
-133
+124
 00:06:18,795 --> 00:06:20,547
-e minha gatinha, Sydney.
+E minha gatinha, Sydney.
 
-134
+125
 00:06:20,631 --> 00:06:21,882
 Certo.
 
-135
+126
 00:06:21,965 --> 00:06:23,008
-JIMMY:
+Jimmy:
 Joey?
 
-136
+127
 00:06:23,091 --> 00:06:24,426
 Qual é o tom?
 
-137
+128
 00:06:24,510 --> 00:06:28,347
 Uh... Si? Não sei.
 Manda ver. Manda ver.
 
-138
+129
 00:06:28,430 --> 00:06:29,389
 Um, dois, três!
 
-139
-00:06:29,473 --> 00:06:31,099
-(TECLADO TOCANDO)
-
-140
+130
 00:06:34,311 --> 00:06:35,312
 É isso aí!
 
-141
+131
 00:06:35,395 --> 00:06:40,567
 ♪ Everybody wants something
 they'll never give up. ♪
 
-142
-00:06:40,651 --> 00:06:42,444
-(MÚSICA TOTALMENTE DESAFINADA)
-
-143
+132
 00:06:42,528 --> 00:06:47,658
 ♪ Everybody wants something
 that'll take your money, ♪
 
-144
+133
 00:06:47,741 --> 00:06:49,743
 ♪ And never give up! ♪
 
-145
-00:06:52,454 --> 00:06:53,622
-(GRUNHE)
-
-146
+134
 00:06:54,665 --> 00:06:56,458
 Quero mais!
 
-147
+135
 00:06:56,542 --> 00:06:57,709
 Vamos lá!
 
-148
+136
 00:06:58,460 --> 00:06:59,378
 É!
 
-149
+137
 00:07:00,295 --> 00:07:01,463
-EMMA:
+Emma:
 Interpretação de rabiscos?!
 
-150
+138
 00:07:01,547 --> 00:07:03,966
-MANNY:
+Manny:
 Eu sei! Ele estava
 totalmente paquerando!
 
-151
+139
 00:07:04,049 --> 00:07:05,717
 Foi estranho,
 mas ao mesmo tempo,
 
-152
+140
 00:07:05,801 --> 00:07:07,219
-meio que fofo.
+Meio que fofo.
 
-153
+141
 00:07:07,302 --> 00:07:08,428
 Ai, meu Deus.
 Você está a fim dele!
 
-154
+142
 00:07:08,512 --> 00:07:12,975
 Não! Quer dizer, ele é fofo,
 bem mais fofo do que ano passado.
 
-155
+143
 00:07:13,058 --> 00:07:14,268
 E estou feliz
 que ele esteja interessado,
 
-156
+144
 00:07:14,351 --> 00:07:16,728
-porque significa que
+Porque significa que
 meu novo visual está funcionando.
 
-157
+145
 00:07:16,812 --> 00:07:18,021
 Mas...?
 
-158
+146
 00:07:18,105 --> 00:07:20,190
-Ele ainda é só o JT.
+Ele ainda é só o j.T..
 
-159
+147
 00:07:21,149 --> 00:07:21,859
 Ah.
 
-160
+148
 00:07:22,901 --> 00:07:27,406
 Meu visual ainda parece
 comportado ou fofo demais.
 Não é...
 
-161
+149
 00:07:29,658 --> 00:07:32,494
 Isso! É disso que eu preciso.
 
-162
+150
 00:07:32,578 --> 00:07:34,538
-(RI) Uma calcinha fio dental?
+Uma calcinha fio dental?
 
-163
+151
 00:07:35,873 --> 00:07:38,834
 É perfeita!
 O que você acha?
 
-164
+152
 00:07:39,418 --> 00:07:43,755
 Acho que não deviam
-vender isso... no shopping.
+vender isso... No shopping.
 
-165
+153
 00:07:46,884 --> 00:07:56,977
 ♪♪♪
 
-166
+154
 00:07:57,060 --> 00:07:58,812
 Quer dizer, essa coisa toda
 é muito esquisita, cara.
 
-167
+155
 00:07:58,896 --> 00:08:01,106
 Eu conheço a Manny
 desde os meus quatro anos.
 
-168
+156
 00:08:01,190 --> 00:08:02,608
 Ano passado, eram
 as mulheres mais velhas gostosas,
 
-169
+157
 00:08:02,691 --> 00:08:04,526
-este ano são
+Este ano são
 as mais novas gostosas.
 
-170
+158
 00:08:04,610 --> 00:08:05,736
 E daí?
 
-171
+159
 00:08:05,819 --> 00:08:08,655
 Você tem razão. E daí?
 E se eu gosto dela? Grande coisa.
 
-172
+160
 00:08:08,739 --> 00:08:09,740
 Quer dizer, não é como se ela
 tivesse se tornado...
 
-173
+161
 00:08:09,823 --> 00:08:13,660
-(BOQUIABERTO)
 Uma pessoa totalmente
 diferente.
 
-174
-00:08:28,884 --> 00:08:29,384
-(BATIDA)
-
-175
+162
 00:08:31,261 --> 00:08:32,012
 Ah!
 
-176
+163
 00:08:40,020 --> 00:08:41,897
 Psiu! Manny!
 
-177
+164
 00:08:41,980 --> 00:08:44,399
 Você sabe que consigo ver
 sua calcinha?
 
-178
+165
 00:08:44,483 --> 00:08:47,986
 Você sabe que
 eu não ligo?
 
-179
+166
 00:08:48,070 --> 00:08:49,196
 Talvez algumas pessoas não
 queiram ter que ver
 
-180
+167
 00:08:49,279 --> 00:08:51,698
-a sua calcinha o dia todo.
+A sua calcinha o dia todo.
 
-181
+168
 00:08:51,782 --> 00:08:55,160
 Se algumas pessoas não gostam,
 talvez não devessem olhar.
 
-182
+169
 00:08:55,244 --> 00:08:56,370
 Você tem tão pouca
 autoconfiança,
 
-183
+170
 00:08:56,453 --> 00:08:58,205
-que precisa mostrar
+Que precisa mostrar
 o corpo inteiro?
 
-184
+171
 00:08:58,288 --> 00:09:00,999
 Não pedi
 a sua opinião, Liberty.
 
-185
+172
 00:09:01,083 --> 00:09:03,043
 O que eu visto não
 é da sua conta.
 
-186
+173
 00:09:03,126 --> 00:09:04,169
-LIBERTY:
+Liberty:
 Ótimo.
 
-187
+174
 00:09:04,253 --> 00:09:05,838
 Mas é contra
 o código de conduta
 
-188
+175
 00:09:05,921 --> 00:09:08,048
-e, se alguém comentasse
-com o Sr. Raditch,
+E, se alguém comentasse
+com o sr. Raditch,
 
-189
+176
 00:09:08,131 --> 00:09:11,969
-tenho certeza de que ele acharia
+Tenho certeza de que ele acharia
 que é da conta dele.
 
-190
+177
 00:09:14,805 --> 00:09:16,139
-MANNY:
+Manny:
 Oi.
 
-191
+178
 00:09:16,223 --> 00:09:16,974
 Oi.
 
-192
+179
 00:09:17,891 --> 00:09:19,226
 Tem certeza de que isso
 não é demais?
 
-193
+180
 00:09:19,309 --> 00:09:20,394
 Você está ótima!
 
-194
+181
 00:09:20,477 --> 00:09:22,396
 Sabe que eu não diria
 se não fosse verdade.
 
-195
+182
 00:09:22,479 --> 00:09:24,231
-E, aparentemente, o JT concorda.
+E, aparentemente, o j.T. Concorda.
 
-196
-00:09:24,314 --> 00:09:25,524
-(RI)
-
-197
+183
 00:09:25,607 --> 00:09:27,109
 Vai falar com ela.
 
-198
+184
 00:09:27,192 --> 00:09:27,943
 Aham.
 
-199
+185
 00:09:28,026 --> 00:09:29,736
 Então o que você vai fazer
 quando ele te convidar para sair?
 
-200
+186
 00:09:29,820 --> 00:09:31,697
-LIBERTY:
+Liberty:
 Quando quem convidar a Manny
 para sair?
 
-201
+187
 00:09:31,780 --> 00:09:34,408
-O JT! Não é fofo?
+O j.T.! Não é fofo?
 
-202
+188
 00:09:34,491 --> 00:09:35,576
 Ah.
 
-203
+189
 00:09:35,659 --> 00:09:38,245
-Não sabia que você gostava do JT.
+Não sabia que você gostava do j.T..
 
-204
+190
 00:09:38,328 --> 00:09:39,496
 Quem sabe.
 
-205
+191
 00:09:41,331 --> 00:09:42,249
 Vai!
 
-206
+192
 00:09:42,332 --> 00:09:43,834
 Tá, tá.
 
-207
+193
 00:09:43,917 --> 00:09:46,170
 É melhor se apressar e decidir.
 
-208
+194
 00:09:47,004 --> 00:09:47,921
 Tá, tá.
 
-209
+195
 00:09:50,716 --> 00:09:51,049
 Manny-
 
-210
+196
 00:09:51,133 --> 00:09:54,595
-EMMA:
+Emma:
 A gente tem que ir para uma
 reunião. Então, tchau!
 
-211
+197
 00:09:54,678 --> 00:09:55,387
 Oi.
 
-212
+198
 00:09:58,557 --> 00:10:00,142
 Acho... Deixa eu adivinhar,
 eu só, hum,
 
-213
+199
 00:10:00,225 --> 00:10:04,813
-interrompi uma conversa
+Interrompi uma conversa
 importante sobre ornitorrincos
 ameaçados de extinção.
 
-214
+200
 00:10:04,897 --> 00:10:07,858
-(RI) Hum, algo um pouco
+Hum, algo um pouco
 mais sério.
 
-215
+201
 00:10:07,941 --> 00:10:08,692
-JT:
+Jt:
 Bom, quer dizer, uh...
 
-216
+202
 00:10:08,775 --> 00:10:12,154
 O que é mais sério do que
 um mamífero que põe ovos?
 
-217
+203
 00:10:12,237 --> 00:10:14,406
 Não sei, você que me diga.
 
-218
+204
 00:10:20,037 --> 00:10:21,079
-SULLY:
+Sully:
 E aí.
 
-219
+205
 00:10:21,163 --> 00:10:22,748
 Manny, né?
 
-220
+206
 00:10:24,166 --> 00:10:26,084
 Essa coisa,
 você vai estar lá?
 
-221
+207
 00:10:26,168 --> 00:10:30,464
 É. É, bom, minha melhor amiga
 está organizando, então...
 
-222
+208
 00:10:30,547 --> 00:10:31,882
-SULLY:
+Sully:
 Ótimo. Bom, uh...
 
-223
+209
 00:10:31,965 --> 00:10:34,051
 Talvez eu apareça por lá.
 
-224
+210
 00:10:36,136 --> 00:10:37,471
-JT:
+Jt:
 Manny?
 
-225
+211
 00:10:38,096 --> 00:10:39,097
 Manny?
 
-226
+212
 00:10:39,723 --> 00:10:40,557
 Ah, desculpa.
 
-227
+213
 00:10:41,183 --> 00:10:43,185
 Do que-do que
 a gente estava falando?
 
-228
+214
 00:10:43,268 --> 00:10:45,938
 Ornitorrincos,
 o que é mais sério.
 
-229
+215
 00:10:47,397 --> 00:10:48,774
 Manny? Está aí?
 
-230
-00:10:52,486 --> 00:10:54,071
-(BATENDO NA JANELA)
-
-231
+216
 00:10:55,531 --> 00:10:57,324
-EMMA:
+Emma:
 O que eu estou dizendo é...
 
-232
+217
 00:10:57,407 --> 00:11:00,244
 Se os seus pais quiserem
 comprar um assento de vaso
 sanitário de madeira tropical,
 
-233
+218
 00:11:00,327 --> 00:11:01,912
-não deixe.
+Não deixe.
 
-234
+219
 00:11:01,995 --> 00:11:03,497
 Todo ano, milhões de hectares
 
-235
+220
 00:11:03,580 --> 00:11:06,083
-de florestas tropicais
+De florestas tropicais
 são destruídos.
 
-236
+221
 00:11:06,166 --> 00:11:08,669
 E as florestas tropicais
 são importantes por tantos
 motivos.
 
-237
+222
 00:11:08,752 --> 00:11:11,213
 Elas abrigam muitas espécies
 de animais e plantas.
 
-238
+223
 00:11:11,296 --> 00:11:13,632
 Elas fornecem oxigênio
 e água potável.
 
-239
-00:11:13,715 --> 00:11:14,508
-(RISOS)
-
-240
+224
 00:11:14,591 --> 00:11:16,927
 Ah, você é tão fofo.
 
-241
+225
 00:11:17,010 --> 00:11:18,011
 Manny.
 
-242
+226
 00:11:18,929 --> 00:11:20,013
 De que nome é apelido?
 
-243
+227
 00:11:20,097 --> 00:11:23,725
-MANNY:
+Manny:
 Manny? Uh... Manuella,
 na verdade.
 
-244
+228
 00:11:24,393 --> 00:11:25,644
 Manuella.
 
-245
+229
 00:11:26,812 --> 00:11:27,604
 Bonito.
 
-246
-00:11:27,688 --> 00:11:28,522
-(RI)
-
-247
+230
 00:11:28,605 --> 00:11:30,148
-EMMA:
+Emma:
 Então, se os seus pais
 ainda insistirem
 
-248
+231
 00:11:30,232 --> 00:11:31,733
-em comprar madeira tropical,
+Em comprar madeira tropical,
 
-249
+232
 00:11:31,817 --> 00:11:33,694
-diga a eles que, ao comprarem
+Diga a eles que, ao comprarem
 o assento de vaso sanitário,
 
-250
+233
 00:11:33,777 --> 00:11:36,029
-eles estão destruindo
+Eles estão destruindo
 a floresta tropical...
 
-251
+234
 00:11:36,113 --> 00:11:38,115
-os pulmões do nosso planeta.
+Os pulmões do nosso planeta.
 
-252
+235
 00:11:43,787 --> 00:11:44,746
-JOEY:
+Joey:
 Caitlin!
 
-253
+236
 00:11:44,830 --> 00:11:47,040
 Joey! Ei, o que você
 está fazendo aqui?
 
-254
+237
 00:11:47,124 --> 00:11:48,208
 Uh, na verdade,
 eu queria saber
 
-255
+238
 00:11:48,292 --> 00:11:49,585
-se podia pegar emprestada
+Se podia pegar emprestada
 aquela câmera de vídeo
 
-256
+239
 00:11:49,668 --> 00:11:51,211
-que você levou
+Que você levou
 para o chá de bebê da Spike.
 
-257
+240
 00:11:51,295 --> 00:11:54,381
 Ah, é, claro. Uh...
-É para a Angela?
+É para a angela?
 
-258
+241
 00:11:54,464 --> 00:11:57,426
 Na verdade, é para
 a banda do Craig.
 
-259
+242
 00:11:57,509 --> 00:11:57,926
 Banda?
 
-260
+243
 00:11:58,510 --> 00:11:59,178
 É.
 
-261
+244
 00:11:59,261 --> 00:12:02,055
 Ah, você deve estar tendo
 uns flashbacks sérios.
 
-262
+245
 00:12:02,139 --> 00:12:02,973
 Ah, e como!
 
-263
+246
 00:12:03,056 --> 00:12:04,892
 Estávamos tocando
 na garagem ontem à noite,
 
-264
+247
 00:12:04,975 --> 00:12:06,393
-foi como voltar
-no tempo com os Zits.
+Foi como voltar
+no tempo com os zits.
 
-265
+248
 00:12:06,476 --> 00:12:07,603
 Totalmente.
 
-266
+249
 00:12:07,686 --> 00:12:09,229
-CAITLIN:
+Caitlin:
 Uh... Tocando?
 
-267
+250
 00:12:09,313 --> 00:12:09,938
-JOEY:
+Joey:
 É.
 
-268
+251
 00:12:10,022 --> 00:12:12,900
-CAITLIN:
-(RI)
-Joey, você não é um adolescente.
+Caitlin: Joey, você não é um adolescente.
 
-269
+252
 00:12:12,983 --> 00:12:14,484
 Eu sei, só pensei
 que os garotos
 
-270
+253
 00:12:14,568 --> 00:12:16,320
-precisavam de uma direção.
+Precisavam de uma direção.
 
-271
+254
 00:12:16,403 --> 00:12:18,155
 Eu sei que você achava
-que os Zits eram uma piada.
+que os zits eram uma piada.
 
-272
+255
 00:12:18,238 --> 00:12:19,740
 Não achava, não!
 
-273
+256
 00:12:19,823 --> 00:12:21,450
 Mas, se tivéssemos
 alguma orientação naquela época,
 
-274
+257
 00:12:21,533 --> 00:12:23,744
-talvez as coisas tivessem
+Talvez as coisas tivessem
 sido diferentes.
 
-275
+258
 00:12:23,827 --> 00:12:27,414
 E talvez se vocês tivessem
 composto mais de uma música.
 
-276
+259
 00:12:27,497 --> 00:12:29,249
-(RI) É isso aí.
+É isso aí.
 
-277
+260
 00:12:29,333 --> 00:12:30,709
 Câmera.
 
-278
+261
 00:12:30,792 --> 00:12:31,960
 Só, uh...
 
-279
+262
 00:12:32,669 --> 00:12:34,421
 Uh, esquece.
 
-280
+263
 00:12:35,005 --> 00:12:36,089
 O quê?
 
-281
+264
 00:12:36,173 --> 00:12:38,926
 Só lembre-se de que
 eles são adolescentes.
 
-282
+265
 00:12:39,009 --> 00:12:40,427
 É tudo o que eu vou dizer.
 
-283
+266
 00:12:40,511 --> 00:12:40,844
 Tchau.
 
-284
-00:12:44,056 --> 00:12:45,682
-(BANDA DE ROCK TOCANDO)
-
-285
+267
 00:12:57,945 --> 00:13:00,781
 Certo, certo, caras, parem!
 Parem! Parem.
 
-286
+268
 00:13:00,864 --> 00:13:03,242
 Craig, só estou pegando
 o seu perfil, cara.
 
-287
+269
 00:13:03,325 --> 00:13:04,451
 Joey, isso é só um ensaio.
 
-288
+270
 00:13:04,535 --> 00:13:07,079
 Acho mesmo que a gente devia
 segurar a câmera e...
 
-289
+271
 00:13:07,162 --> 00:13:10,874
 Nós conversamos sobre isso,
 caras. Esta câmera é o público
 de vocês.
 
-290
+272
 00:13:10,958 --> 00:13:12,543
 Certo? E a presença de palco
 é tão importante
 
-291
+273
 00:13:12,626 --> 00:13:14,628
-quanto o som de vocês.
+Quanto o som de vocês.
 
-292
+274
 00:13:14,711 --> 00:13:16,338
 E... Falando em som,
 
-293
+275
 00:13:16,421 --> 00:13:18,173
-uh, eu sei que vocês querem
+Uh, eu sei que vocês querem
 tocar as músicas de vocês,
 
-294
+276
 00:13:18,257 --> 00:13:20,300
-e acho que é
+E acho que é
 um ótimo objetivo, certo?
 
-295
+277
 00:13:20,384 --> 00:13:22,553
 Mas talvez a gente devesse
 começar com alguns covers
 primeiro.
 
-296
+278
 00:13:22,636 --> 00:13:23,554
 Tipo, uh...
 
-297
+279
 00:13:23,637 --> 00:13:24,721
-Talvez um pouco de George
-Michael?
+Talvez um pouco de george
+michael?
 
-298
+280
 00:13:24,805 --> 00:13:26,306
 Craig, eu sei que você sabe
-a letra de "Faith".
+a letra de "faith".
 
-299
+281
 00:13:26,390 --> 00:13:27,349
 Joey!
 
-300
+282
 00:13:27,432 --> 00:13:28,684
-O quê? (TELEFONE TOCA)
+O quê?
 
-301
+283
 00:13:28,767 --> 00:13:29,977
 Só pensem nisso, certo?
 
-302
+284
 00:13:30,060 --> 00:13:32,938
 Quer dizer, vocês têm que
 aprender a engatinhar antes de
 andar.
 
-303
+285
 00:13:33,021 --> 00:13:34,273
 Certo?
 
-304
+286
 00:13:34,356 --> 00:13:34,857
 Alô?
 
-305
+287
 00:13:35,566 --> 00:13:38,819
 Espera aí, não estou te ouvindo.
 Espera. É...
 
-306
+288
 00:13:38,902 --> 00:13:40,362
 Cara, o Joey é cruel.
 
-307
+289
 00:13:40,445 --> 00:13:43,490
-(RIND0) Tem que aprender
+Tem que aprender
 a engatinhar antes de andar.
 
-308
-00:13:43,574 --> 00:13:44,408
-(RISOS)
-
-309
+290
 00:13:46,118 --> 00:13:47,995
-MARCO:
+Marco:
 Olha, desculpa, tá?
 É engraçado,
 
-310
+291
 00:13:48,078 --> 00:13:50,038
-meio que de um jeito
+Meio que de um jeito
 triste e patético.
 
-311
+292
 00:13:50,122 --> 00:13:52,958
 É, cara, você precisa
 mesmo falar com ele.
 
-312
+293
 00:13:53,041 --> 00:13:54,084
-George Michael?
+George michael?
 
-313
+294
 00:13:54,168 --> 00:13:55,002
-É, "Faith"?
+É, "faith"?
 
-314
+295
 00:13:55,085 --> 00:13:56,712
 Ei, cala a boca!
 
-315
+296
 00:13:57,296 --> 00:13:59,006
 O que eu vou dizer para ele?
 
-316
+297
 00:13:59,089 --> 00:14:01,383
 Ele é tão iludido,
 que acha que está na banda.
 
-317
+298
 00:14:01,466 --> 00:14:04,678
 Ele está passando vergonha
 e nem sabe.
 
-318
+299
 00:14:08,432 --> 00:14:10,392
-VOZ DO SISTEMA DE SOM:
+Voz do sistema de som:
 Atenção, organizadores de
 clubes estudantis, lembrem-se de...
 
-319
+300
 00:14:10,475 --> 00:14:11,476
 Oi.
 
-320
+301
 00:14:11,560 --> 00:14:12,978
 Olha quem veio ajudar.
 
-321
+302
 00:14:13,061 --> 00:14:15,355
 Desculpa.
 Queria muito ter ido.
 
-322
+303
 00:14:15,439 --> 00:14:17,149
 Mas você foi abduzida
 por alienígenas?
 
-323
+304
 00:14:17,232 --> 00:14:19,651
 Quase isso. Tive que ajudar
-o Sr. Ehl na oficina.
+o sr. Ehl na oficina.
 
-324
+305
 00:14:19,735 --> 00:14:20,986
 E como foi?
 
-325
+306
 00:14:21,069 --> 00:14:22,696
 Bom, você é praticamente
 o único cara da escola
 
-326
+307
 00:14:22,779 --> 00:14:23,906
-que não estava lá.
+Que não estava lá.
 
-327
+308
 00:14:23,989 --> 00:14:25,532
 Eu devia estar com ciúmes?
 
-328
+309
 00:14:25,616 --> 00:14:27,576
 Hmm, eles não estavam lá por mim...
 
-329
+310
 00:14:27,659 --> 00:14:28,452
 Não?
 
-330
+311
 00:14:28,535 --> 00:14:30,537
 Nem pelo meio ambiente.
 
-331
+312
 00:14:30,621 --> 00:14:31,455
 Eles só queriam...
 
-332
+313
 00:14:32,831 --> 00:14:35,000
-MANNY:
-Ei, Em! Ei, Sean!
+Manny:
+Ei, em! Ei, Sean!
 
-333
+314
 00:14:39,296 --> 00:14:40,714
-(RI) Eu-eu vou
+Eu-eu vou
 
-334
+315
 00:14:40,797 --> 00:14:42,424
-tirar o resto
+Tirar o resto
 dos cartazes no corredor.
 
-335
+316
 00:14:42,508 --> 00:14:43,592
 Valeu.
 
-336
+317
 00:14:44,593 --> 00:14:47,262
 Teve uma ótima
 participação, hein?
 
-337
+318
 00:14:47,346 --> 00:14:49,389
 É, se algum deles
 voltar.
 
-338
+319
 00:14:49,473 --> 00:14:51,892
 Não se preocupe, eu faço
 eles voltarem.
 
-339
+320
 00:14:51,975 --> 00:14:54,686
-EMMA:
+Emma:
 E então... O que está
-rolando com o JT?
+rolando com o j.T.?
 
-340
+321
 00:14:54,770 --> 00:14:59,107
 De qual você gosta mais:
-Manny ou Manuella?
+Manny ou manuella?
 
-341
+322
 00:14:59,191 --> 00:15:03,153
-O Sully gosta de Manuella,
+O sully gosta de manuella,
 ele diz que é... Exótico.
 
-342
+323
 00:15:03,237 --> 00:15:05,072
 Manuella Santos.
 
-343
+324
 00:15:07,783 --> 00:15:10,077
 Ah, é, você disse
 alguma coisa?
 
-344
+325
 00:15:10,160 --> 00:15:11,954
 Disse, mas não era nada.
 
-345
+326
 00:15:12,037 --> 00:15:13,163
-RADITCH:
+Raditch:
 Manny, eu queria falar
 com você
 
-346
+327
 00:15:13,247 --> 00:15:14,414
-sobre as suas roupas.
+Sobre as suas roupas.
 
-347
+328
 00:15:14,498 --> 00:15:16,041
 Elas desrespeitam o código
 de conduta.
 
-348
+329
 00:15:16,124 --> 00:15:18,085
 Mas todo mundo usa
 top cropped.
 
-349
+330
 00:15:18,168 --> 00:15:19,920
-RADITCH:
+Raditch:
 Não é pelo top cropped.
 
-350
+331
 00:15:20,003 --> 00:15:20,921
 Espero que, amanhã, você
 venha
 
-351
+332
 00:15:21,004 --> 00:15:23,340
-com uma roupa que não mostre
+Com uma roupa que não mostre
 as suas roupas íntimas.
 
-352
+333
 00:15:23,423 --> 00:15:25,425
 Mas calças de cintura baixa
 estão na moda, e eu...
 
-353
+334
 00:15:25,509 --> 00:15:28,303
 E eu recebi reclamações.
 Então, chega de roupas íntimas
 à mostra.
 
-354
-00:15:33,559 --> 00:15:34,977
-(BANDA DE ROCK TOCA)
-
-355
+335
 00:15:39,940 --> 00:15:42,401
 Ei, você desligou tudo
 na garagem?
 
-356
+336
 00:15:42,484 --> 00:15:43,527
 Aham.
 
-357
+337
 00:15:44,278 --> 00:15:45,529
 O que você está assistindo?
 
-358
+338
 00:15:45,612 --> 00:15:47,155
 A filmagem que eu fiz.
 Você devia dar uma olhada.
 
-359
+339
 00:15:47,239 --> 00:15:48,365
 Quero te mostrar
 do que eu estou falando
 
-360
+340
 00:15:48,448 --> 00:15:49,825
-com essa coisa
+Com essa coisa
 de presença de palco.
 
-361
-00:15:49,908 --> 00:15:51,702
-(VÍDEO AVANÇA)
-
-362
+341
 00:15:51,785 --> 00:15:53,871
 Ih, adiantei demais.
 
-363
+342
 00:15:54,580 --> 00:15:57,457
-SPINNER:
-(RIND0) Tem que aprender
+Spinner: Tem que aprender
 a engatinhar antes de andar.
 
-364
-00:15:57,541 --> 00:15:58,375
-(RISOS)
-
-365
+343
 00:15:59,042 --> 00:16:01,128
-MARCO:
+Marco:
 Olha, desculpa, tá?
 É engraçado,
 
-366
+344
 00:16:01,211 --> 00:16:02,713
-meio que de um jeito
+Meio que de um jeito
 triste e patético.
 
-367
+345
 00:16:02,796 --> 00:16:06,341
-SPINNER:
+Spinner:
 Cara, você precisa
 mesmo falar com ele.
 
-368
+346
 00:16:06,425 --> 00:16:07,384
-George Michael?
+George michael?
 
-369
+347
 00:16:07,467 --> 00:16:08,844
-JIMMY:
-É, "Faith"?
+Jimmy:
+É, "faith"?
 
-370
+348
 00:16:08,927 --> 00:16:10,679
-CRAIG:
+Craig:
 Ei, cala a boca!
 
-371
+349
 00:16:10,762 --> 00:16:11,680
 O que eu vou dizer para ele?
 
-372
+350
 00:16:11,763 --> 00:16:14,516
 Ele é tão iludido,
 que acha que está na banda.
 
-373
+351
 00:16:14,600 --> 00:16:15,642
 Acho que eu vou...
 
-374
+352
 00:16:15,726 --> 00:16:18,270
-CRAIG:
+Craig:
 Ele está passando vergonha
 e nem sabe.
 
-375
+353
 00:16:30,115 --> 00:16:31,450
-VOZ DO SISTEMA DE SOM:
-O Clube de Astronomia está
+Voz do sistema de som:
+O clube de astronomia está
 planejando uma excursão
 
-376
+354
 00:16:31,533 --> 00:16:33,160
-para o observatório
+Para o observatório
 no próximo domingo.
 
-377
+355
 00:16:33,243 --> 00:16:35,495
 Estudantes interessados podem
 se inscrever em um formulário
 do lado de fora...
 
-378
+356
 00:16:35,579 --> 00:16:36,580
 Manny.
 
-379
+357
 00:16:37,456 --> 00:16:40,918
 Sei que você ficou muito
 chateada que o Raditch
 te pegou.
 
-380
+358
 00:16:41,001 --> 00:16:45,130
 Na verdade, não acabou sendo
 uma coisa tão ruim.
 
-381
+359
 00:16:45,214 --> 00:16:46,548
 Você quer
 ser suspensa?
 
-382
+360
 00:16:46,632 --> 00:16:48,800
 O quê? Não estou
 infringindo nenhuma regra.
 
-383
+361
 00:16:48,884 --> 00:16:50,302
-Manny. O Sr. Raditch disse...
+Manny. O sr. Raditch disse...
 
-384
+362
 00:16:50,385 --> 00:16:52,846
 Ele disse que nada de roupas
 íntimas à mostra.
 
-385
+363
 00:16:52,930 --> 00:16:55,849
 E você está vendo alguma roupa
 íntima?
 
-386
+364
 00:16:55,933 --> 00:16:56,600
 Não, mas...
 
-387
+365
 00:16:56,683 --> 00:16:57,601
-MANNY:
+Manny:
 Isso mesmo.
 
-388
+366
 00:16:57,684 --> 00:17:00,521
 Porque não estou
 usando nenhuma.
 
-389
+367
 00:17:07,611 --> 00:17:09,530
-SRA. HATZILAKOS:
+Sra. Hatzilakos:
 Então, sapos... São anfíbios.
 
-390
+368
 00:17:09,613 --> 00:17:12,282
 Vivem tanto na terra
 quanto na água,
 
-391
+369
 00:17:12,366 --> 00:17:14,493
-e encontram comida
+E encontram comida
 nos dois ambientes:
 
-392
+370
 00:17:14,576 --> 00:17:18,455
-insetos, peixes pequenos
+Insetos, peixes pequenos
 e até outros sapos.
 
-393
+371
 00:17:18,539 --> 00:17:20,165
 Então, quem quer dar
 um lanchinho
 
-394
+372
 00:17:20,249 --> 00:17:22,376
-para os nossos amigos
+Para os nossos amigos
 de pés palmados?
 
-395
+373
 00:17:24,920 --> 00:17:25,420
 Manny.
 
-396
+374
 00:17:26,004 --> 00:17:26,964
 Eu.
 
-397
-00:17:42,813 --> 00:17:43,647
-(RISOS)
-
-398
+375
 00:17:45,482 --> 00:17:46,233
 Uh, parem!
 
-399
+376
 00:17:48,360 --> 00:17:53,115
-JT:
+Jt:
 Hum, por que a Manny pode dar
 comida para os sapos e eu não?
 
-400
+377
 00:17:53,198 --> 00:17:54,867
 Porque você não se ofereceu.
 
-401
+378
 00:17:54,950 --> 00:17:57,870
 Bom, então eu, uh,
 eu me ofereço.
 
-402
+379
 00:17:58,370 --> 00:18:01,540
 Certo. Então dê comida a eles
 e depois sente-se.
 
-403
-00:18:02,45
-
-404
+380
 00:18:13,802 --> 00:18:14,761
-VOZ DO SISTEMA DE SOM:
+Voz do sistema de som:
 Estudantes interessados
 em participar
 
-405
+381
 00:18:14,845 --> 00:18:17,764
-da Feira de Ciências Regional
-devem procurar a Sra. Hatzilakos.
+Da feira de ciências regional
+devem procurar a sra. Hatzilakos.
 
-406
+382
 00:18:17,848 --> 00:18:19,766
-(PIGARREIA)
 Uh, oi, Manny.
 
-407
+383
 00:18:19,850 --> 00:18:20,475
-Oi, JT.
+Oi, j.T..
 
-408
+384
 00:18:21,143 --> 00:18:24,521
 Olha, uh, eu queria
 saber se talvez
 
-409
+385
 00:18:24,605 --> 00:18:26,523
-você estivesse livre amanhã?
+Você estivesse livre amanhã?
 
-410
+386
 00:18:26,607 --> 00:18:31,528
 Se a gente pudesse, uh...
 Ir ao cinema? Ou fazer algo.
 
-411
+387
 00:18:31,612 --> 00:18:33,405
-Uh, está vendo isso, JT?
+Uh, está vendo isso, j.T.?
 
-412
+388
 00:18:33,488 --> 00:18:34,656
 Tchau-tchau.
 
-413
+389
 00:18:36,200 --> 00:18:37,784
-MANNY:
-Na verdade, JT...
+Manny:
+Na verdade, j.T....
 
-414
+390
 00:18:38,702 --> 00:18:41,705
 Estou ocupada amanhã,
 desculpa.
 
-415
+391
 00:18:47,503 --> 00:18:49,630
 Manny, hum,
 preciso falar com você.
 
-416
+392
 00:18:49,713 --> 00:18:50,130
 Hum...
 
-417
+393
 00:18:50,214 --> 00:18:50,631
 Agora.
 
-418
+394
 00:18:50,714 --> 00:18:51,673
 Claro.
 
-419
+395
 00:18:53,050 --> 00:18:54,968
 Como você pôde fazer isso
-com o JT?
+com o j.T.?
 
-420
+396
 00:18:55,052 --> 00:18:56,887
 O quê?
 Eu não fiz nada.
 
-421
+397
 00:18:56,970 --> 00:18:58,805
 Uh, não, você acabou
 de partir o coração dele.
 
-422
+398
 00:18:58,889 --> 00:18:59,890
 Emma, para com isso.
 
-423
+399
 00:19:00,974 --> 00:19:02,601
 Você está ficando
 com um ego enorme.
 
-424
+400
 00:19:02,684 --> 00:19:03,936
 Não estou, não.
 
-425
+401
 00:19:04,019 --> 00:19:04,937
 Só porque
 estou me vestindo como...
 
-426
+402
 00:19:05,020 --> 00:19:07,022
 Você está se vestindo
 como uma idiota.
 
-427
+403
 00:19:07,105 --> 00:19:09,983
 Mas o que realmente me
 importa é como você está agindo.
 
-428
+404
 00:19:10,067 --> 00:19:12,653
 Eu estou sempre lá
 por você, Emma.
 
-429
+405
 00:19:12,736 --> 00:19:14,738
 Quando você briga com o Sean,
 
-430
+406
 00:19:14,821 --> 00:19:17,157
-quando você descobre que
+Quando você descobre que
 sua mãe está grávida,
 
-431
+407
 00:19:17,241 --> 00:19:20,702
-para o seu clube ambiental
+Para o seu clube ambiental
 idiota.
 
-432
+408
 00:19:20,786 --> 00:19:22,621
 Ele não é idiota.
 
-433
+409
 00:19:23,205 --> 00:19:25,123
 Mas, na única vez
 em que não é sobre você,
 
-434
+410
 00:19:25,207 --> 00:19:27,209
-você faz isso comigo.
+Você faz isso comigo.
 
-435
+411
 00:19:29,169 --> 00:19:30,087
 Só estou preocupada...
 
-436
+412
 00:19:30,170 --> 00:19:34,174
 Porque parece mais
 que você está com ciúmes.
 
-437
+413
 00:19:36,260 --> 00:19:38,011
 Sabe de uma coisa?
 
-438
+414
 00:19:38,095 --> 00:19:39,221
 Esquece isso.
 
-439
+415
 00:19:39,304 --> 00:19:40,556
-MANNY:
+Manny:
 Ótimo!
 
-440
+416
 00:19:40,639 --> 00:19:42,683
-É assim que eu sou agora, Em.
+É assim que eu sou agora, em.
 
-441
+417
 00:19:42,766 --> 00:19:45,018
 E, se você não consegue
 aceitar isso,
 
-442
+418
 00:19:45,102 --> 00:19:46,937
-então não fale comigo.
+Então não fale comigo.
 
-443
+419
 00:19:56,405 --> 00:19:57,698
-JOEY:
+Joey:
 Ei.
 
-444
+420
 00:19:57,781 --> 00:20:00,200
 Achei que você
 nunca mais ia voltar.
 
-445
+421
 00:20:00,284 --> 00:20:04,580
-CRAIG:
+Craig:
 Uh... Eu tive ensaio
 no porão do Marco, e...
 
-446
+422
 00:20:04,663 --> 00:20:05,289
 E, uh...
 
-447
+423
 00:20:10,169 --> 00:20:12,004
 Joey, desculpa mesmo.
 
-448
+424
 00:20:14,256 --> 00:20:15,924
-JOEY:
+Joey:
 Eu devia ter me controlado.
 
-449
+425
 00:20:16,008 --> 00:20:17,759
 Não, você estava
 tentando ajudar.
 
-450
+426
 00:20:17,843 --> 00:20:19,595
-JOEY:
+Joey:
 Eu estava, eu...
 
-451
+427
 00:20:21,138 --> 00:20:22,764
 Craig, quando eu estava
 no ensino médio,
 
-452
+428
 00:20:22,848 --> 00:20:26,685
-minha banda, os Zits,
+Minha banda, os zits,
 significava tudo para mim.
 
-453
+429
 00:20:26,768 --> 00:20:30,689
 Quer dizer, foram bons tempos...
 Alguns dos melhores.
 
-454
+430
 00:20:31,356 --> 00:20:33,317
 Tudo parecia possível.
 
-455
+431
 00:20:34,693 --> 00:20:36,111
 E aí, um dia, eu acordo,
 estou na casa dos trinta,
 
-456
+432
 00:20:36,195 --> 00:20:38,030
-e tenho uma filha
+E tenho uma filha
 e um enteado adolescente
 
-457
+433
 00:20:38,113 --> 00:20:42,993
-e penso comigo mesmo:
+E penso comigo mesmo:
 "Uau, quando foi que isso
 aconteceu?".
 
-458
+434
 00:20:43,076 --> 00:20:47,748
-(SUSPIRA) Acho que eu só estava
+Acho que eu só estava
 tentando sentir aquilo de novo.
 
-459
+435
 00:20:48,832 --> 00:20:51,585
 Então, no porão do Marco, hein?
 
-460
+436
 00:20:51,668 --> 00:20:52,628
 É.
 
-461
+437
 00:20:53,378 --> 00:20:58,008
 Sabe, a acústica da garagem
 é melhor.
 
-462
+438
 00:20:59,510 --> 00:21:01,512
 E o teclado?
 
-463
+439
 00:21:02,930 --> 00:21:04,681
 Está de volta na caixa.
 
-464
+440
 00:21:05,182 --> 00:21:06,016
 Obrigado.
 
-465
+441
 00:21:18,195 --> 00:21:20,864
 Manuella? Algum problema?
 
-466
+442
 00:21:21,573 --> 00:21:22,324
 Não.
 
-467
+443
 00:21:23,742 --> 00:21:26,411
 Está tudo... Ótimo.
