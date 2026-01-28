@@ -1,7 +1,7 @@
 ﻿1
 00:00:00,000 --> 00:00:01,107
 Legendas pelo projeto Teendle!
-nos visite em: teendle.win
+Visite-nos em: teendle.win
 
 2
 00:00:01,190 --> 00:00:03,390
@@ -13,7 +13,7 @@ Claro.
 
 4
 00:00:08,320 --> 00:00:10,460
-Oh, essa é uma bela seleção, senhor.
+Oh, essa é uma bela escolha, senhor.
 
 5
 00:00:10,620 --> 00:00:11,340
@@ -37,7 +37,7 @@ Aquele ali é bem bonito.
 
 10
 00:00:38,770 --> 00:00:40,070
-Ah, você tem toda razão.
+Ah, você tem toda a razão.
 
 11
 00:00:40,230 --> 00:00:41,230
@@ -49,7 +49,7 @@ Aquele custa US$ 199.
 
 13
 00:00:46,630 --> 00:00:47,770
-É com impostos?
+Já com os impostos?
 
 14
 00:00:49,050 --> 00:00:50,650
@@ -65,7 +65,7 @@ Fechado.
 
 17
 00:00:54,290 --> 00:00:55,450
-Ótimo. Ela é toda sua.
+Ótimo. Ele é todo seu.
 
 18
 00:00:55,590 --> 00:00:56,290
@@ -73,7 +73,7 @@ Muito obrigado.
 
 19
 00:00:58,630 --> 00:00:59,950
-Tire-a daqui até segunda-feira.
+Tire-o daqui até segunda-feira.
 
 20
 00:01:00,390 --> 00:01:01,250
@@ -181,11 +181,11 @@ Foi muito legal da sua mãe me convidar para jantar.
 
 46
 00:02:30,720 --> 00:02:32,940
-Nossa. Nós gostamos de você, Joey.
+Nós gostamos de você, Joey.
 
 47
 00:02:34,540 --> 00:02:36,200
-Já te disse como estou orgulhoso de você?
+Já te disse como estou orgulhosa de você?
 
 48
 00:02:37,420 --> 00:02:40,160
@@ -197,11 +197,11 @@ Estou falando sério.
 
 50
 00:02:42,420 --> 00:02:43,900
-Fiz todos aqueles cursos extras.
+Fez todos aqueles cursos extras.
 
 51
 00:02:43,900 --> 00:02:45,880
-Me formei um ano mais cedo.
+Se formou um ano mais cedo.
 
 52
 00:02:49,040 --> 00:02:50,320
@@ -273,11 +273,11 @@ Pelo quê?
 
 69
 00:03:14,100 --> 00:03:15,500
-Bem, veja, todos nós podemos seguir em frente, certo?
+Bem, vejam só, todos nós podemos seguir em frente, certo?
 
 70
 00:03:15,500 --> 00:03:17,140
-Você me viu passar um ano no ensino médio.
+Você me viu sendo reprovado no ensino médio.
 
 71
 00:03:17,620 --> 00:03:18,380
@@ -305,7 +305,7 @@ Eu posso relaxar e me divertir.
 
 77
 00:03:27,640 --> 00:03:28,960
-Você tem razão. Eu deveria ter fugido.
+Você tem razão. Eu devia ter sido reprovado.
 
 78
 00:03:29,600 --> 00:03:30,000
@@ -313,7 +313,7 @@ Cara.
 
 79
 00:03:31,340 --> 00:03:33,340
-É, vou mostrar ao velho como se faz.
+É, vou mostrar ao velhote como se faz.
 
 80
 00:03:34,400 --> 00:03:35,760
@@ -329,7 +329,7 @@ Joey Jeremiah.
 
 83
 00:03:38,180 --> 00:03:39,680
-Um homem baixo na melhor das hipóteses,
+Um homem baixo, na melhor das hipóteses,
 
 84
 00:03:39,880 --> 00:03:41,680
@@ -341,7 +341,7 @@ Bem, isso não é necessariamente verdade.
 
 86
 00:03:43,940 --> 00:03:45,900
-Veja, eu tenho o verão todo para trabalhar meus pais
+Vejam, eu tenho o verão todo para convencer meus pais
 
 87
 00:03:45,900 --> 00:03:47,280
@@ -361,7 +361,7 @@ você se sente alienado,
 
 91
 00:03:53,840 --> 00:03:55,760
-cercado por toda essa exuberância dos formandos?
+cercado por toda essa alegria de formatura?
 
 92
 00:03:55,980 --> 00:03:57,020
@@ -397,7 +397,7 @@ Eu sei. Não acredito.
 
 100
 00:04:19,150 --> 00:04:19,890
-Ei, pessoal.
+Ei, gente.
 
 101
 00:04:20,250 --> 00:04:21,370
@@ -425,7 +425,7 @@ Eu não vi.
 
 107
 00:04:28,890 --> 00:04:30,730
-Bem, Simon tem ótimo gosto.
+Bem, o Simon tem ótimo gosto.
 
 108
 00:04:30,950 --> 00:04:32,330
@@ -477,7 +477,7 @@ Estou tão animada.
 
 120
 00:04:46,710 --> 00:04:48,710
-Vamos nos casar logo após o colegial.
+Vamos nos casar logo depois do ensino médio.
 
 121
 00:04:48,830 --> 00:04:49,750
@@ -501,7 +501,7 @@ Eles ainda nem transaram.
 
 126
 00:04:59,510 --> 00:05:00,490
-Por que eles não se dão bem na cama?
+E se eles não tiverem química na cama?
 
 127
 00:05:00,970 --> 00:05:01,850
@@ -525,7 +525,7 @@ Algum comentário?
 
 132
 00:05:08,110 --> 00:05:08,750
-Sim, querida.
+Sim, querido.
 
 133
 00:05:09,070 --> 00:05:11,010
@@ -593,10 +593,10 @@ Olha para você.
 
 149
 00:05:52,890 --> 00:05:54,010
-Estraga tudo.
+Estraga-prazeres.
 
 150
-00:05:54,450 --> 00:05:55,550
+00:05:44,450 --> 00:05:55,550
 Não me diga o que fazer.
 
 151
@@ -641,11 +641,11 @@ Ei, que ótimo.
 
 161
 00:06:23,430 --> 00:06:24,830
-Convenci ele a baixar para 200 dólares.
+Convenci o cara a baixar para 200 dólares.
 
 162
 00:06:25,050 --> 00:06:25,750
-Ele foi roubado.
+Foi uma pechincha.
 
 163
 00:06:26,510 --> 00:06:26,910
@@ -653,7 +653,7 @@ Legal.
 
 164
 00:06:27,710 --> 00:06:29,510
-Só precisa ser totalmente consertado.
+Só precisa de uma reforma geral.
 
 165
 00:06:30,270 --> 00:06:30,830
@@ -697,7 +697,7 @@ Snake é o nome.
 
 175
 00:06:46,610 --> 00:06:47,410
-Salva-vidas é o jogo.
+Salva-vidas é a profissão.
 
 176
 00:06:47,790 --> 00:06:48,710
@@ -733,7 +733,7 @@ Bem, alguma coisa tem que acontecer.
 
 184
 00:07:05,570 --> 00:07:07,410
-Quer dizer, não vou para a universidade virgem.
+Quer dizer, não vou para a faculdade virgem.
 
 185
 00:07:07,850 --> 00:07:08,790
@@ -741,7 +741,7 @@ Claro que vai.
 
 186
 00:07:10,410 --> 00:07:12,670
-Sou o cara que nunca vai conseguir entrar nas calças da Caitlin.
+Sou o cara que nunca vai conseguir transar com a Caitlin.
 
 187
 00:07:13,290 --> 00:07:15,150
@@ -937,7 +937,7 @@ eu te comprei uma espécie de presente de formatura.
 
 235
 00:08:59,450 --> 00:09:00,870
-Obrigada, Joe.
+Obrigada, Joey.
 
 236
 00:09:15,210 --> 00:09:16,690
@@ -953,7 +953,7 @@ Eu adorei.
 
 239
 00:09:24,450 --> 00:09:26,190
-também uma espécie de anel de noivado.
+é também uma espécie de anel de noivado.
 
 240
 00:09:28,050 --> 00:09:28,870
@@ -969,7 +969,7 @@ Sabe, tipo casamento.
 
 243
 00:09:35,930 --> 00:09:38,690
-Quer dizer, a gente não precisa se casar para terminar a faculdade,
+Quer dizer, a gente não precisa se casar antes de terminar a faculdade,
 
 244
 00:09:38,870 --> 00:09:41,650
@@ -1057,7 +1057,7 @@ Ok, talvez não.
 
 265
 00:11:03,100 --> 00:11:04,520
-Onde você acha que o anãozinho foi?
+Onde você acha que o baixinho foi?
 
 266
 00:11:05,480 --> 00:11:07,700
@@ -1141,7 +1141,7 @@ Então, onde está o Todd?
 
 286
 00:11:59,640 --> 00:12:02,240
-Estamos brigados, como sempre.
+Nós brigamos, como sempre.
 
 287
 00:12:03,440 --> 00:12:04,300
@@ -1161,7 +1161,7 @@ Não sei o que está acontecendo.
 
 291
 00:12:12,580 --> 00:12:14,400
-Você acha que eles são tão importantes,
+Eles acham que são tão importantes,
 
 292
 00:12:14,560 --> 00:12:17,960
@@ -1221,11 +1221,11 @@ Tchau.
 
 306
 00:12:59,230 --> 00:13:01,030
-Ah, foi meio complicado.
+Ah, é meio complicado.
 
 307
 00:13:01,130 --> 00:13:03,530
-Você tem que abri-lo e pronto.
+Você tem que dar um jeitinho para abrir.
 
 308
 00:13:18,900 --> 00:13:19,260
@@ -1325,7 +1325,7 @@ Olha essa bagunça.
 
 332
 00:15:13,540 --> 00:15:15,880
-Eu nunca vou conseguir limpar isso antes que nos levem para casa.
+Eu nunca vou conseguir limpar isso antes de nos buscarem.
 
 333
 00:15:17,820 --> 00:15:18,700
@@ -1345,7 +1345,7 @@ Sabe, eu limpei a cozinha quase toda.
 
 337
 00:15:30,600 --> 00:15:32,160
-Gronko, seu garanhão delicioso.
+Bronco, seu garanhão.
 
 338
 00:15:32,480 --> 00:15:35,160
@@ -1433,11 +1433,11 @@ Claro.
 
 359
 00:16:55,780 --> 00:16:58,260
-Ok, ah, eu tenho que ajudar o Wheels a mudar o carro dele,
+Ok, ah, eu tenho que ajudar o Wheels a rebocar o carro dele,
 
 360
 00:16:58,400 --> 00:17:01,040
-mas, uh, eu poderia te pegar por volta das 7?
+mas, uh, eu poderia te pegar por volta das 7h?
 
 361
 00:17:01,500 --> 00:17:02,860
@@ -1473,7 +1473,7 @@ Te vejo hoje à noite.
 
 369
 00:17:17,940 --> 00:17:19,060
-Tudo bem, tchau, tchau. Tchau, tchau.
+Tudo bem, tchau. Tchau.
 
 370
 00:17:24,090 --> 00:17:25,310
@@ -1545,11 +1545,11 @@ Não, não.
 
 387
 00:18:01,570 --> 00:18:03,890
-Eu te disse, ainda é uma festa de formatura.
+Eu te disse, ainda é um presente de formatura.
 
 388
 00:18:03,890 --> 00:18:04,310
-É um presente de formatura.
+É um presente.
 
 389
 00:18:06,430 --> 00:18:07,050
@@ -1645,11 +1645,11 @@ Só isso?
 
 412
 00:19:47,260 --> 00:19:49,140
-Eu sei que ela não parece grande coisa agora,
+Eu sei que não parece grande coisa agora,
 
 413
 00:19:49,540 --> 00:19:50,700
-mas eu posso consertá-la.
+mas eu posso consertá-lo.
 
 414
 00:19:52,460 --> 00:19:53,780
@@ -1661,7 +1661,7 @@ Meu futuro.
 
 416
 00:19:56,800 --> 00:19:59,240
-Isso é ótimo, mas você acha que ela vai conseguir atravessar o país?
+Isso é ótimo, mas você acha que ele vai conseguir atravessar o país?
 
 417
 00:19:59,900 --> 00:20:00,420
@@ -1673,7 +1673,7 @@ Só precisa de uma bateria e uma pintura.
 
 419
 00:20:03,760 --> 00:20:06,260
-Em setembro, ela vai me levar para Calgary e Cairn.
+Em setembro, ele vai me levar para Calgary e Cairn.
 
 420
 00:20:06,920 --> 00:20:07,700
@@ -1697,5004 +1697,4872 @@ Sim, sem problemas.
 
 425
 00:20:17,300 --> 00:20:18,760
-Achei que a Caitlin estava trabalhando hoje à noite.
+Achei que a Caitlin estivesse trabalhando hoje à noite.
 
 426
-00:20:19,860 --> 00:20:20,340
-01:08:19,860 --> 01:08:20,
+00:20:20,400 --> 00:20:22,480
+Eu estou saindo com a, ahm, Tessa Campanelli.
 
 427
-00:20:20,400 --> 00:20:22,480
-Eu estou saindo com, ahm, Tessa Campanelli.
-
-428
 00:20:24,760 --> 00:20:25,200
 O quê?
 
-429
+428
 00:20:25,980 --> 00:20:26,980
 Ela me convidou para sair.
 
-430
+429
 00:20:26,980 --> 00:20:27,700
 Eu não a convidei.
 
-431
+430
 00:20:28,580 --> 00:20:30,320
 Além disso, ela é bem bonita.
 
-432
+431
 00:20:31,260 --> 00:20:32,880
 Mas eu pensei que você fosse louco pela Caitlin.
 
-433
+432
 00:20:33,400 --> 00:20:33,940
 Eu sou.
 
-434
+433
 00:20:34,440 --> 00:20:35,780
 Olha, isso é só um encontro, cara.
 
-435
+434
 00:20:35,820 --> 00:20:36,460
 Não é grande coisa.
 
-436
+435
 00:20:37,240 --> 00:20:39,260
 A gente sai, vê um filme, come uma pizza.
 
-437
+436
 00:20:39,620 --> 00:20:40,520
 Eu a levo para casa, acabou.
 
-438
+437
 00:20:41,860 --> 00:20:42,900
 Sua vida, cara.
 
-439
+438
 00:20:43,840 --> 00:20:45,460
 Agora vamos devagar, ok?
 
-440
+439
 00:20:46,040 --> 00:20:46,400
 Ok.
 
-441
+440
 00:20:46,700 --> 00:20:47,240
 Bem devagar.
 
-442
+441
 00:20:51,560 --> 00:20:52,800
 Me diga quando for para ir.
 
-443
+442
 00:20:53,860 --> 00:20:54,180
 Ok.
 
-444
+443
 00:20:59,020 --> 00:20:59,620
 O quê?
 
-445
+444
 00:21:08,650 --> 00:21:09,310
 Pintura.
 
-446
+445
 00:21:10,010 --> 00:21:10,930
 E um novo para-choque.
 
-447
+446
 00:21:12,170 --> 00:21:13,030
 Ok, eu posso consertar.
 
-448
+447
 00:21:13,570 --> 00:21:14,250
 Espere, meu carro está aqui.
 
-449
+448
 00:21:16,270 --> 00:21:17,330
 Isso é para você.
 
-450
+449
 00:21:17,970 --> 00:21:18,890
 Isso é para você.
 
-451
+450
 00:21:18,890 --> 00:21:20,810
 E isso é para você.
 
-452
+451
 00:21:21,390 --> 00:21:21,870
 Aproveite sua refeição.
 
-453
+452
 00:21:29,410 --> 00:21:30,210
 Como vai indo?
 
-454
+453
 00:21:31,010 --> 00:21:33,330
 Eu não estaria fazendo isso se não fosse pelo filme.
 
-455
+454
 00:21:34,250 --> 00:21:35,450
 Tem certeza de que não quer?
 
-456
+455
 00:21:35,610 --> 00:21:36,690
 Não, pode ir em frente.
 
-457
+456
 00:21:36,910 --> 00:21:37,750
 Estou cheia.
 
-458
+457
 00:21:39,330 --> 00:21:40,210
 Você insiste.
 
-459
+458
 00:21:42,630 --> 00:21:44,770
 Então, uh, aquele filme foi bem engraçado.
 
-460
+459
 00:21:45,090 --> 00:21:46,250
 Aquele foi um ótimo filme.
 
-461
+460
 00:21:49,870 --> 00:21:50,310
 O quê?
 
-462
+461
 00:21:50,950 --> 00:21:52,330
 Eu estava pensando naquela cena
 
-463
+462
 00:21:53,170 --> 00:21:54,930
 em que o cara perdeu todas as roupas.
 
-464
+463
 00:21:55,910 --> 00:21:57,150
 Aquilo foi hilário.
 
-465
+464
 00:21:57,530 --> 00:21:58,450
 E a guerra de comida.
 
-466
+465
 00:22:00,910 --> 00:22:02,030
 Aquilo foi ótimo.
 
-467
+466
 00:22:02,570 --> 00:22:04,350
 Por que a vida não pode ser assim, sabe?
 
-468
+467
 00:22:04,730 --> 00:22:06,650
 Por que tudo tem que ser tão sério?
 
-469
+468
 00:22:11,710 --> 00:22:12,590
 Então, hum...
 
-470
+469
 00:22:13,910 --> 00:22:15,770
 Eu não preciso estar em casa por mais uma hora e meia.
 
-471
+470
 00:22:17,550 --> 00:22:18,570
 Então, o que você quer fazer?
 
-472
+471
 00:22:20,730 --> 00:22:21,910
 Eu não sei. O que você quer fazer?
 
-473
+472
 00:22:56,780 --> 00:22:58,400
 Apenas vá trabalhar, ok?
 
-474
+473
 00:22:58,820 --> 00:22:59,740
 Comece com esses.
 
-475
+474
 00:23:01,280 --> 00:23:03,580
 Sinto muito que minha filha esteja te dando tanto trabalho.
 
-476
+475
 00:23:04,320 --> 00:23:05,900
 Vou tentar conversar com ela.
 
-477
+476
 00:23:06,600 --> 00:23:08,300
 Obrigado. Tchau.
 
-478
+477
 00:23:11,220 --> 00:23:13,160
-Emma teve outro ataque de birra esta manhã
+A Emma teve outro ataque de birra esta manhã
 
-479
+478
 00:23:13,160 --> 00:23:14,300
 quando eu a levei para a creche.
 
-480
+479
 00:23:14,860 --> 00:23:16,000
 Por que eles não conseguiram lidar com isso?
 
-481
+480
 00:23:16,520 --> 00:23:17,400
-Pague-os o suficiente.
+Pago o suficiente para eles.
 
-482
+481
 00:23:18,540 --> 00:23:21,240
 Bem, você não vai me perguntar sobre o meu encontro com o Joey?
 
-483
+482
 00:23:22,620 --> 00:23:24,100
 Como foi seu encontro com o Joey?
 
-484
+483
 00:23:24,420 --> 00:23:26,320
 Nós nos divertimos muito.
 
-485
+484
 00:23:26,840 --> 00:23:28,180
 Nos divertimos muito.
 
-486
+485
 00:23:28,320 --> 00:23:29,440
 Ele me fez rir.
 
-487
+486
 00:23:30,380 --> 00:23:33,400
 Quando começamos a nos beijar, bem...
 
-488
+487
 00:23:34,440 --> 00:23:35,680
 Tenha cuidado, Tessa.
 
-489
+488
 00:23:36,600 --> 00:23:38,080
-Ele e Caitlin estão terminando
+Ele e a Caitlin estão terminando
 
-490
+489
 00:23:38,080 --> 00:23:39,460
 e voltando há anos.
 
-491
+490
 00:23:40,560 --> 00:23:43,560
 Olha, ela vai para a faculdade no ano que vem.
 
-492
+491
 00:23:44,080 --> 00:23:45,320
 Ele ainda estará no ensino médio.
 
-493
+492
 00:23:45,840 --> 00:23:46,460
 Como eu.
 
-494
+493
 00:23:49,260 --> 00:23:49,940
 Ei, pessoal.
 
-495
+494
 00:23:50,160 --> 00:23:50,660
 Oi, pessoal.
 
-496
+495
 00:23:52,140 --> 00:23:54,120
 Estas são da festa de noivado de ontem à noite.
 
-497
+496
 00:23:54,220 --> 00:23:55,660
 Eu quero vê-las o mais rápido possível.
 
-498
+497
 00:23:55,880 --> 00:23:56,940
-Você deve estar pronta em uma hora.
+Devem estar prontas em uma hora.
+
+498
+00:23:57,140 --> 00:24:00,140
+Isso nos dá tempo suficiente para verificar os padrões da louça.
 
 499
-00:23:57,140 --> 00:24:00,140
-Isso nos dá tempo suficiente para verificar os padrões da China.
-
-500
 00:24:00,400 --> 00:24:02,020
 Há tantas escolhas.
 
-501
+500
 00:24:02,580 --> 00:24:04,460
 Eu nunca soube que casar dava tanto trabalho.
 
-502
+501
 00:24:05,620 --> 00:24:06,220
 Muito obrigada.
 
-503
+502
 00:24:07,500 --> 00:24:08,300
 Tenha um bom dia agora.
 
-504
+503
 00:24:11,040 --> 00:24:12,560
 Então, você estava dizendo?
 
-505
+504
 00:24:13,000 --> 00:24:13,680
 Tudo bem.
 
-506
+505
 00:24:14,260 --> 00:24:15,800
 Bem, começou como um encontro normal.
 
-507
+506
 00:24:16,020 --> 00:24:17,900
 Fomos ao cinema, comemos pizza.
 
-508
+507
 00:24:18,960 --> 00:24:20,840
-Então fomos para o Zôo.
+Então fomos para o Zoológico.
 
-509
+508
 00:24:21,500 --> 00:24:22,300
 Tudo bem.
 
-510
+509
 00:24:22,560 --> 00:24:23,000
 Obrigado.
 
-511
+510
 00:24:27,400 --> 00:24:30,060
 Então, até onde você chegou?
 
-512
+511
 00:24:32,440 --> 00:24:33,320
-Terceira base.
+Quase chegamos aos finalmente.
+
+512
+00:24:34,060 --> 00:24:35,960
+Juro, pensei que ia rolar tudo.
 
 513
-00:24:34,060 --> 00:24:35,960
-Juro, pensei que ia chegar à base principal.
-
-514
 00:24:36,380 --> 00:24:37,280
 Eu estava ficando louco.
 
-515
+514
 00:24:38,080 --> 00:24:39,740
-Mas, sabe, Caitlin ainda é minha garota.
+Mas, sabe, a Caitlin ainda é a minha garota.
 
-516
+515
 00:24:39,980 --> 00:24:40,980
 Vou sair com ela na quinta.
 
-517
+516
 00:24:42,020 --> 00:24:43,180
 Mas foi quente.
 
-518
+517
 00:24:45,260 --> 00:24:46,140
 Segure esse pensamento.
 
-519
+518
 00:24:49,540 --> 00:24:50,500
 Definitivamente quente.
 
-520
+519
 00:25:14,970 --> 00:25:20,510
 Ei, ei, ei.
 
-521
+520
 00:25:21,050 --> 00:25:21,890
 Sem correr, ok?
 
-522
+521
 00:25:26,640 --> 00:25:28,700
 Bem, eu sei que vou fazer questões ambientais
 
-523
+522
 00:25:28,700 --> 00:25:29,900
-em um curso de estudos femininos.
+e um curso de estudos femininos.
 
-524
+523
 00:25:30,180 --> 00:25:32,080
 Eu quero fazer ciência política também,
 
-525
+524
 00:25:32,080 --> 00:25:34,480
 mas aí eu teria que abandonar o jornalismo.
 
-526
+525
 00:25:35,540 --> 00:25:36,480
 Eu não sei.
 
-527
+526
 00:25:37,620 --> 00:25:38,180
 Bem,
 
-528
+527
 00:25:39,960 --> 00:25:42,140
 você poderia tirar um ano de folga
 
-529
+528
 00:25:42,140 --> 00:25:43,920
 e pensar sobre isso.
 
-530
+529
 00:25:44,240 --> 00:25:46,400
 Sim, mas então por que eu estudei tanto
 
-531
+530
 00:25:46,400 --> 00:25:47,460
 para me formar este ano?
 
-532
+531
 00:25:49,300 --> 00:25:49,860
 Certo.
 
-533
+532
 00:25:51,480 --> 00:25:53,280
 Olha, pare de se preocupar com isso
 
-534
+533
 00:25:53,280 --> 00:25:54,260
 e me dê um beijo.
 
-535
+534
 00:26:08,540 --> 00:26:09,560
 Oh, Joey.
 
-536
+535
 00:26:10,420 --> 00:26:11,140
 Vamos lá.
 
-537
+536
 00:26:11,140 --> 00:26:13,080
 Eu só não acho que seja uma boa ideia.
 
-538
+537
 00:26:21,380 --> 00:26:22,600
 Você não confia em mim?
 
-539
+538
 00:26:24,920 --> 00:26:26,460
 Claro que confio em você.
 
-540
+539
 00:26:26,960 --> 00:26:29,600
 Bem, então por que não podemos fazer o que nós dois queremos?
 
-541
+540
 00:26:29,880 --> 00:26:32,520
 Porque não é você.
 
-542
+541
 00:26:32,640 --> 00:26:34,420
 Eu só não acho que estou pronta.
 
-543
+542
 00:26:38,600 --> 00:26:39,300
 Boa noite.
 
-544
+543
 00:26:40,020 --> 00:26:40,440
 Boa noite.
 
-545
+544
 00:26:55,940 --> 00:26:56,300
 Caitlin?
 
-546
+545
 00:26:59,140 --> 00:27:00,440
 Quando posso te ver de novo?
 
-547
+546
 00:27:01,680 --> 00:27:05,220
-Estou trabalhando em turnos noturnos e fins de semana.
+Estou trabalhando em turnos noturnos e nos fins de semana.
 
-548
+547
 00:27:05,860 --> 00:27:07,260
 Ah, ótimo. Estou trabalhando durante o dia.
 
-549
+548
 00:27:08,400 --> 00:27:10,840
 Olha, tenho certeza de que, conforme o verão passar,
 
-550
+549
 00:27:11,080 --> 00:27:12,420
 vamos sincronizar nossos horários.
 
-551
+550
 00:27:16,380 --> 00:27:17,120
 Boa noite.
 
-552
+551
 00:28:00,090 --> 00:28:00,910
 Oi, mãe.
 
-553
+552
 00:28:01,650 --> 00:28:02,310
 Oi, querida.
 
-554
+553
 00:28:03,070 --> 00:28:04,010
 Como foi o filme?
 
-555
+554
 00:28:04,910 --> 00:28:05,430
 Chato.
 
-556
+555
 00:28:12,710 --> 00:28:13,310
 Alô?
 
-557
+556
 00:28:14,710 --> 00:28:15,950
 Sim, ele está.
 
-558
+557
 00:28:17,230 --> 00:28:18,350
 Quem está falando, por favor?
 
-559
+558
 00:28:21,700 --> 00:28:22,180
 Tessa?
 
-560
+559
 00:28:23,860 --> 00:28:25,780
 Hum, vou atender lá em cima, ok, mãe?
 
-561
+560
 00:28:33,560 --> 00:28:34,600
 Eu atendo, mãe!
 
-562
+561
 00:28:36,520 --> 00:28:37,320
 Oi, Tessa.
 
-563
+562
 00:28:38,500 --> 00:28:38,980
 Oi.
 
-564
+563
 00:28:40,760 --> 00:28:42,760
 Hum, eu só liguei para dizer oi
 
-565
+564
 00:28:42,760 --> 00:28:44,680
 e ver como você está.
 
-566
+565
 00:28:45,520 --> 00:28:46,960
 Bem, eu estou bem. Como você está?
 
-567
+566
 00:28:47,940 --> 00:28:48,900
 Bem. Bem.
 
-568
+567
 00:28:52,620 --> 00:28:54,440
 Você gostaria de sair algum dia?
 
-569
+568
 00:28:57,100 --> 00:28:57,580
 Quando?
 
-570
+569
 00:28:58,860 --> 00:28:59,820
 Tipo sábado?
 
-571
+570
 00:29:02,500 --> 00:29:03,280
 Sábado está bom.
 
-572
+571
 00:29:03,940 --> 00:29:06,500
 Bem, ótimo, porque meus pais vão sair.
 
-573
+572
 00:29:07,300 --> 00:29:09,260
 Talvez se você quiser vir, eu posso fazer o jantar para nós.
 
-574
+573
 00:29:09,760 --> 00:29:11,160
 Eu cozinho muito bem.
 
-575
+574
 00:29:13,700 --> 00:29:14,180
 Alô?
 
-576
+575
 00:29:16,720 --> 00:29:18,240
 Hum, claro, por que não?
 
-577
+576
 00:29:18,560 --> 00:29:19,400
 Parece divertido.
 
-578
+577
 00:29:20,360 --> 00:29:22,260
 Bem, ótimo, então. Te vejo lá.
 
-579
+578
 00:29:22,760 --> 00:29:23,600
 Ok, tchau.
 
-580
+579
 00:29:23,600 --> 00:29:24,120
-Tchau, tchau.
+Tchau.
 
-581
+580
 00:29:27,700 --> 00:29:28,520
 Sim!
 
-582
+581
 00:29:35,800 --> 00:29:36,620
 Oi.
 
-583
+582
 00:29:56,290 --> 00:29:58,110
 Oi. Estas são para você.
 
-584
+583
 00:29:58,390 --> 00:29:59,690
 Obrigada.
 
-585
+584
 00:30:00,390 --> 00:30:01,190
 Que fofo.
 
-586
+585
 00:30:02,430 --> 00:30:03,890
 Entre. O jantar está quase pronto.
 
-587
+586
 00:30:04,990 --> 00:30:06,450
 Uau, que lugar legal.
 
-588
+587
 00:30:08,290 --> 00:30:09,050
 Para você?
 
-589
+588
 00:30:09,390 --> 00:30:10,290
 Cheeseburger, por favor.
 
-590
+589
 00:30:10,650 --> 00:30:11,690
 Um cheeseburger.
 
-591
+590
 00:30:12,370 --> 00:30:13,710
 Tostada com molho francês.
 
-592
+591
 00:30:14,870 --> 00:30:15,850
 Molho francês.
 
-593
+592
 00:30:16,230 --> 00:30:17,510
 Você poderia torrar bem nossa torrada?
 
-594
+593
 00:30:18,030 --> 00:30:19,250
 Ok, em vez de francês.
 
-595
+594
 00:30:20,730 --> 00:30:21,590
 O mesmo para mim.
 
-596
+595
 00:30:22,210 --> 00:30:23,190
 Duas tostadas.
 
-597
+596
 00:30:23,670 --> 00:30:24,190
 Cheeseburger.
 
-598
+597
 00:30:26,450 --> 00:30:27,490
 Sem cebola.
 
-599
+598
 00:30:28,490 --> 00:30:30,630
 Dois cheeseburgers sem cebola.
 
-600
+599
 00:30:31,430 --> 00:30:33,630
 Oh, senhora, eu poderia ter dois copos de leite, por favor?
 
-601
+600
 00:30:33,630 --> 00:30:35,650
 Claro, dois copos de leite serão suficientes.
 
-602
+601
 00:30:35,830 --> 00:30:37,090
 Podemos pedir um café, por favor?
 
-603
+602
 00:30:37,850 --> 00:30:38,150
 Sim.
 
-604
+603
 00:30:38,630 --> 00:30:39,970
 Podemos ver o cardápio, por favor?
 
-605
+604
 00:30:40,230 --> 00:30:41,510
 Claro, já volto com vocês.
 
-606
+605
 00:30:42,130 --> 00:30:42,790
 Como vai, pai?
 
-607
+606
 00:30:43,230 --> 00:30:43,630
 Ótimo.
 
-608
+607
 00:30:48,750 --> 00:30:50,470
 Uh, Tessa, essa panela deveria estar fazendo isso?
 
-609
+608
 00:30:51,970 --> 00:30:52,770
 Oh, sim.
 
-610
+609
 00:30:54,930 --> 00:30:56,250
 Você poderia me pegar a peneira?
 
-611
+610
 00:30:56,690 --> 00:30:57,330
 Onde está?
 
-612
+611
 00:30:57,650 --> 00:30:58,310
 Bem ali.
 
-613
+612
 00:30:58,630 --> 00:30:59,250
 Ah, ok.
 
-614
+613
 00:31:02,190 --> 00:31:04,070
 Cuidado. A panela pode estar um pouco quente.
 
-615
+614
 00:31:04,070 --> 00:31:05,070
 Ok.
 
-616
+615
 00:31:09,050 --> 00:31:09,570
 Uh...
 
-617
+616
 00:31:09,570 --> 00:31:11,210
 Uh, algo está queimando, Tessa.
 
-618
+617
 00:31:12,290 --> 00:31:12,650
 Oh!
 
-619
+618
 00:31:13,810 --> 00:31:17,430
 Vamos com pão.
 
-620
+619
 00:31:19,390 --> 00:31:20,010
 Oh, merda.
 
-621
+620
 00:31:25,490 --> 00:31:26,010
 Uh...
 
-622
+621
 00:31:28,550 --> 00:31:31,050
 Oh, é um alarme de incêndio. Pegue uma cadeira.
 
-623
+622
 00:31:31,850 --> 00:31:32,710
 Para quê?
 
-624
+623
 00:31:32,770 --> 00:31:34,070
 Ali, rápido. Eu te mostro.
 
-625
+624
 00:31:35,430 --> 00:31:36,610
 Rápido, suba nela.
 
-626
+625
 00:31:37,790 --> 00:31:38,890
 Você bate nele.
 
-627
+626
 00:31:38,890 --> 00:31:40,310
 Não, do outro lado.
 
-628
+627
 00:31:40,390 --> 00:31:42,030
 Ok, eu peguei, eu peguei, eu peguei.
 
-629
+628
 00:31:51,320 --> 00:31:53,340
-Eu realmente sou uma boa policial.
+Eu realmente sou uma boa cozinheira.
 
-630
+629
 00:31:54,300 --> 00:31:55,100
 Claro que é.
 
-631
+630
 00:31:56,380 --> 00:31:57,540
 Então, você quer pedir pizza?
 
-632
+631
 00:31:58,140 --> 00:31:59,500
 Podemos pedir para eles queimarem.
 
-633
+632
 00:31:59,920 --> 00:32:00,500
 Aqui, pegue isso.
 
-634
+633
 00:32:00,500 --> 00:32:01,040
 O que foi isso?
 
-635
+634
 00:32:01,860 --> 00:32:04,200
 Oh, eu vou te pegar.
 
-636
+635
 00:32:05,480 --> 00:32:06,120
 Tome isso.
 
-637
+636
 00:32:11,620 --> 00:32:12,940
 Aqui, coma um pouco de salada.
 
-638
+637
 00:32:12,940 --> 00:32:13,880
 Oh!
 
-639
+638
 00:32:14,880 --> 00:32:16,320
 Meu Deus!
 
-640
-00:32:30,050 --> 00:32:52,890
-O que você trouxe?
-
-641
+639
 00:32:53,890 --> 00:32:54,570
 O quê?
 
-642
+640
 00:32:55,690 --> 00:32:56,350
 Você sabe.
 
-643
+641
 00:33:10,960 --> 00:33:16,970
 Sim, tem...
 
-644
+642
 00:33:43,320 --> 00:33:44,340
 Oi.
 
-645
+643
 00:33:45,140 --> 00:33:47,060
 Vocês oferecem aulas de natação aqui?
 
-646
+644
 00:33:48,340 --> 00:33:52,000
 Sim, na verdade...
 
-647
+645
 00:33:53,360 --> 00:33:54,840
 Eu mesmo as dou.
 
-648
+646
 00:33:55,960 --> 00:33:56,840
 Ah, é mesmo?
 
-649
+647
 00:33:57,380 --> 00:33:57,800
 Sim.
 
-650
+648
 00:34:00,560 --> 00:34:01,200
 Papai!
 
-651
+649
 00:34:01,580 --> 00:34:02,800
 Sim, querida, o que foi?
 
-652
+650
 00:34:02,920 --> 00:34:03,860
 Estou nadando.
 
-653
+651
 00:34:04,000 --> 00:34:05,860
 Ah, e aquele homem vai te dar
 
-654
+652
 00:34:05,860 --> 00:34:07,900
 aulas de natação o verão todo.
 
-655
+653
 00:34:15,480 --> 00:34:17,560
 Isso é tão deprimente.
 
-656
+654
 00:34:18,200 --> 00:34:19,740
 O dia todo, estou cercado
 
-657
+655
 00:34:19,740 --> 00:34:20,820
 por mulheres seminuas,
 
-658
+656
 00:34:20,820 --> 00:34:22,520
 mas todas têm namorados,
 
-659
+657
 00:34:22,600 --> 00:34:23,260
 ou são casadas.
 
-660
+658
 00:34:23,820 --> 00:34:25,580
 Ninguém nem tentou nada.
 
-661
+659
 00:34:26,080 --> 00:34:27,140
 Você acha que eu algum dia vou transar?
 
-662
+660
 00:34:27,520 --> 00:34:28,080
 Bem, claro.
 
-663
+661
 00:34:29,800 --> 00:34:30,620
 Quando você for mais velho.
 
-664
+662
 00:34:33,340 --> 00:34:34,260
 Aos 95, talvez.
 
-665
+663
 00:34:35,740 --> 00:34:36,360
 Obrigado.
 
-666
+664
 00:34:36,860 --> 00:34:37,900
 Muito obrigado.
 
-667
+665
 00:34:38,200 --> 00:34:38,500
 De nada.
 
-668
+666
 00:34:39,980 --> 00:34:40,660
 E aí, pessoal.
 
-669
+667
 00:34:41,680 --> 00:34:42,160
 E aí.
 
-670
+668
 00:34:43,240 --> 00:34:44,340
 Ei, o carro está ótimo.
 
-671
+669
 00:34:44,560 --> 00:34:45,000
 Valeu.
 
-672
+670
 00:34:45,000 --> 00:34:47,020
 E aqui está ele, senhoras e senhores,
 
-673
+671
 00:34:47,260 --> 00:34:48,620
 virgem número dois.
 
-674
+672
 00:34:50,160 --> 00:34:50,400
 Bah!
 
-675
+673
 00:34:51,180 --> 00:34:51,780
 Errado.
 
-676
+674
 00:34:53,280 --> 00:34:54,220
 Eu te disse.
 
-677
+675
 00:34:55,380 --> 00:34:56,840
 Você está por conta própria, amigo.
 
-678
+676
 00:34:59,040 --> 00:35:00,200
 Aconteceu ontem à noite?
 
-679
+677
 00:35:00,720 --> 00:35:01,280
 Você e Caitlin?
 
-680
+678
 00:35:02,540 --> 00:35:04,440
-Não, não Caitlin.
+Não, não a Caitlin.
 
-681
+679
 00:35:05,120 --> 00:35:05,980
-Bem, então quem, Madonna?
+Bem, então quem, a Madonna?
 
-682
+680
 00:35:07,340 --> 00:35:07,840
 Tessa.
 
-683
+681
 00:35:08,600 --> 00:35:09,000
 É!
 
-684
+682
 00:35:10,820 --> 00:35:11,420
 Tessa?
 
-685
+683
 00:35:11,420 --> 00:35:11,560
 Tessa?
 
-686
+684
 00:35:13,080 --> 00:35:14,040
 Tessa Campanelli?
 
-687
+685
 00:35:14,440 --> 00:35:16,140
 Ei, cara, estávamos só brincando.
 
-688
+686
 00:35:16,240 --> 00:35:17,120
 Ela se empolgou.
 
-689
+687
 00:35:17,900 --> 00:35:19,000
 Quem poderia culpá-la?
 
-690
+688
 00:35:19,580 --> 00:35:20,560
 Bem-vindo ao clube.
 
-691
+689
 00:35:20,720 --> 00:35:21,260
 Obrigado.
 
-692
+690
 00:35:21,280 --> 00:35:21,920
 Espere, espere, espere.
 
-693
+691
 00:35:23,000 --> 00:35:24,040
 O que aconteceu com a Caitlin?
 
-694
+692
 00:35:25,060 --> 00:35:25,540
 Nada.
 
-695
+693
 00:35:26,140 --> 00:35:26,960
 Ela ainda é minha mulher.
 
-696
+694
 00:35:27,680 --> 00:35:28,660
 Você transou com a Tessa?
 
-697
+695
 00:35:30,280 --> 00:35:30,820
 Tudo bem.
 
-698
+696
 00:35:31,600 --> 00:35:33,060
-Caitlin pode levar o tempo dela
+A Caitlin pode levar o tempo que quiser
 
-699
+697
 00:35:33,060 --> 00:35:34,740
 e esperar pelo momento certo.
 
-700
+698
 00:35:36,140 --> 00:35:36,660
 Enquanto isso,
 
-701
+699
 00:35:37,060 --> 00:35:38,400
 eu transo.
 
-702
+700
 00:35:41,160 --> 00:35:43,800
 Eu não queria ir tão rápido.
 
-703
+701
 00:35:44,120 --> 00:35:45,980
 Espero que ele não pense que sou fácil.
 
-704
+702
 00:35:46,480 --> 00:35:47,220
 Como?
 
-705
+703
 00:35:47,360 --> 00:35:49,140
 Se você é fácil, ele é fácil.
 
-706
+704
 00:35:49,500 --> 00:35:51,500
 Nós simplesmente nos divertimos muito juntos.
 
-707
+705
 00:35:52,020 --> 00:35:53,220
-Eu acho que ele e Caitlin
+Eu acho que ele e a Caitlin
 
-708
+706
 00:35:53,220 --> 00:35:54,680
 realmente terminaram dessa vez.
 
-709
+707
 00:35:55,260 --> 00:35:55,780
 Obviamente.
 
-710
+708
 00:35:57,440 --> 00:35:59,120
 Olha, Joey e eu
 
-711
+709
 00:35:59,120 --> 00:36:00,840
 vamos voltar para o colégio no próximo ano.
 
-712
+710
 00:36:00,840 --> 00:36:01,340
 Certo?
 
-713
+711
 00:36:01,780 --> 00:36:02,040
 Hum-hum.
 
-714
+712
 00:36:04,200 --> 00:36:05,720
-Vou voltar como namorada do Joey.
+Vou voltar como a namorada do Joey.
 
-715
+713
 00:36:33,290 --> 00:36:34,610
 Com licença, senhorita.
 
-716
+714
 00:36:36,110 --> 00:36:36,890
 Já volto.
 
-717
+715
 00:36:36,970 --> 00:36:37,710
 Estamos prontos para pedir.
 
-718
+716
 00:37:26,710 --> 00:37:28,010
 Vamos, vamos.
 
-719
+717
 00:37:28,530 --> 00:37:29,130
 Vamos.
 
-720
+718
 00:37:35,460 --> 00:37:36,760
 Eu sei que deveríamos
 
-721
+719
 00:37:36,760 --> 00:37:37,800
 nos encontrar hoje à noite,
 
-722
+720
 00:37:38,100 --> 00:37:40,480
 mas uma das garçonetes precisa de folga.
 
-723
+721
 00:37:41,080 --> 00:37:42,800
 E, quero dizer, eu realmente poderia usar
 
-724
+722
 00:37:42,800 --> 00:37:43,520
 um pouco de dinheiro extra.
 
-725
+723
 00:37:44,180 --> 00:37:45,140
 Caitlin, não se preocupe com isso.
 
-726
+724
 00:37:45,160 --> 00:37:46,520
 Podemos ir em outro momento.
 
-727
+725
 00:37:47,080 --> 00:37:48,920
 Obrigada. Você é tão compreensivo.
 
-728
+726
 00:37:49,240 --> 00:37:50,280
 Ei, olha, não tem problema.
 
-729
+727
 00:37:50,800 --> 00:37:52,360
 Ok. Muito obrigada.
 
-730
+728
 00:37:52,900 --> 00:37:53,420
-Tchau, tchau.
+Tchau.
 
-731
-00:37:55,240 --> 00:38:11,250
-Não sei.
-
-732
+729
 00:38:12,190 --> 00:38:13,010
 Pegue minha camisa.
 
-733
+730
 00:38:13,790 --> 00:38:14,390
 Depressa.
 
-734
+731
 00:38:16,590 --> 00:38:31,860
 Oi, mãe.
 
-735
+732
 00:38:31,860 --> 00:38:33,500
 Oi, Tessa. Como foi sua noite?
 
-736
+733
 00:38:33,780 --> 00:38:34,780
 Boa. Como foi a sua?
 
-737
+734
 00:38:50,860 --> 00:38:52,440
 Você gosta de sexo?
 
-738
+735
 00:38:54,220 --> 00:38:55,920
 De onde veio isso?
 
-739
+736
 00:38:56,900 --> 00:38:58,160
 Eu só estive pensando
 
-740
+737
 00:38:58,900 --> 00:39:00,060
-sobre Joey e eu.
+sobre o Joey e eu.
 
-741
+738
 00:39:00,800 --> 00:39:02,280
 Acho que estou pronta.
 
-742
+739
 00:39:28,670 --> 00:39:30,550
 Devagar, para não rasgar.
 
-743
+740
 00:39:31,010 --> 00:39:32,650
 Certifique-se de que a camisinha não esteja rasgada.
 
-744
+741
 00:39:34,510 --> 00:39:35,870
 Coloque-a na ponta.
 
-745
+742
 00:39:36,530 --> 00:39:38,090
 Aperte para tirar todo o ar.
 
-746
+743
 00:39:38,730 --> 00:39:40,610
 E desenrole-a.
 
-747
+744
 00:39:42,270 --> 00:39:43,770
 Certifique-se de que esteja justa.
 
-748
+745
 00:39:45,130 --> 00:39:46,230
-Ooh, que ajuste.
+Uau, coube certinho.
 
-749
+746
 00:39:46,550 --> 00:39:46,990
 Assim.
 
-750
+747
 00:39:47,890 --> 00:39:49,990
 Aqui está. Olá, Joey.
 
-751
+748
 00:39:50,230 --> 00:39:51,050
 Ele parece muito feliz.
 
-752
+749
 00:40:03,900 --> 00:40:04,720
 Nossa.
 
-753
+750
 00:40:04,800 --> 00:40:05,480
 Que verão.
 
-754
+751
 00:40:06,720 --> 00:40:08,240
 Que verão incrível.
 
-755
+752
 00:40:09,600 --> 00:40:11,040
 Que verão péssimo.
 
-756
+753
 00:40:12,680 --> 00:40:13,560
 Meio de agosto,
 
-757
+754
 00:40:13,760 --> 00:40:15,420
 e ainda sem garota.
 
-758
+755
 00:40:17,120 --> 00:40:17,840
 Bem, então,
 
-759
+756
 00:40:17,880 --> 00:40:18,840
 acho que você não quer ouvir
 
-760
+757
 00:40:18,840 --> 00:40:20,000
 o que eu fiz ontem à noite.
 
-761
+758
 00:40:20,080 --> 00:40:20,680
 Não, não quero.
 
-762
+759
 00:40:21,780 --> 00:40:23,100
 Acho que você pode imaginar
 
-763
+760
 00:40:23,100 --> 00:40:24,260
 que eu transei.
 
-764
+761
 00:40:24,300 --> 00:40:24,620
 Joey.
 
-765
+762
 00:40:25,620 --> 00:40:26,060
 De novo.
 
-766
+763
 00:40:26,060 --> 00:40:29,360
 Você poderia dar um tempo?
 
-767
+764
 00:40:31,280 --> 00:40:31,880
 Snake,
 
-768
+765
 00:40:32,240 --> 00:40:33,700
 tem certeza de que não quer uma cerveja?
 
-769
+766
 00:40:34,580 --> 00:40:35,880
 Tem muitas na geladeira.
 
-770
+767
 00:40:37,100 --> 00:40:38,160
 Wheels, essa é a sua terceira.
 
-771
+768
 00:40:40,880 --> 00:40:41,480
 E daí?
 
-772
+769
 00:40:41,960 --> 00:40:43,580
-Eu substituo o que bebo.
+Eu reponho o que bebo.
 
-773
+770
 00:40:44,720 --> 00:40:45,520
 Meu chefe é legal.
 
-774
+771
 00:40:46,460 --> 00:40:47,580
 Esse não é o meu ponto.
 
-775
+772
 00:40:48,520 --> 00:40:49,860
 Bem, qual é o seu ponto?
 
-776
+773
 00:40:55,400 --> 00:40:56,600
 Ah, Snake.
 
-777
+774
 00:40:57,780 --> 00:40:58,660
 Você sabe
 
-778
+775
 00:40:58,660 --> 00:41:00,660
 que eu transo toda semana?
 
-779
+776
 00:41:00,860 --> 00:41:01,800
 Joey, cala a boca.
 
-780
+777
 00:41:03,300 --> 00:41:04,540
 Você está com ciúmes. Eu entendo.
 
-781
+778
 00:41:05,560 --> 00:41:06,820
 Isso não tem nada a ver com isso.
 
-782
+779
 00:41:08,540 --> 00:41:10,260
 Eu só acho que você deveria terminar com uma delas.
 
-783
+780
 00:41:12,020 --> 00:41:12,800
 Para quê?
 
-784
+781
 00:41:13,620 --> 00:41:14,300
 Elas não sabem
 
-785
+782
 00:41:14,300 --> 00:41:15,340
 que estou saindo com as duas.
 
-786
+783
 00:41:16,040 --> 00:41:17,020
 Ninguém está se machucando.
 
-787
+784
 00:41:17,900 --> 00:41:19,080
 Vai acabar mal, Joey.
 
-788
+785
 00:41:22,260 --> 00:41:22,660
 Sim!
 
-789
+786
 00:41:23,100 --> 00:41:23,500
 Sim!
 
-790
+787
 00:41:23,640 --> 00:41:24,500
 De jeito nenhum.
 
-791
+788
 00:41:24,500 --> 00:41:25,420
 Eu não acredito.
 
-792
+789
 00:41:30,510 --> 00:41:31,590
 Vamos dar uma volta.
 
-793
+790
 00:41:32,410 --> 00:41:33,890
 Cara, não está licenciado.
 
-794
+791
 00:41:34,750 --> 00:41:35,630
 Vamos lá.
 
-795
+792
 00:41:37,250 --> 00:41:38,410
 Só uma volta no quarteirão.
 
-796
+793
 00:41:39,410 --> 00:41:40,090
 Vamos lá.
 
-797
+794
 00:41:40,290 --> 00:41:41,370
-Entre atrás, cara.
+Entra atrás, cara.
 
-798
+795
 00:41:41,970 --> 00:41:43,490
 Você não tem seguro, né?
 
-799
+796
 00:41:43,570 --> 00:41:44,390
 Você ainda tem sua carteira?
 
-800
+797
 00:41:44,690 --> 00:41:45,610
-Entre no carro.
+Entra no carro.
 
-801
+798
 00:42:05,700 --> 00:42:06,640
 Olá, Karen.
 
-802
+799
 00:42:18,780 --> 00:42:19,740
 Eu não sei como
 
-803
+800
 00:42:19,740 --> 00:42:21,380
-vou conciliar Emma e a universidade.
+vou conciliar a Emma e a faculdade.
 
-804
+801
 00:42:22,300 --> 00:42:24,040
 O jardim de infância é só meio período.
 
-805
+802
 00:42:27,680 --> 00:42:28,720
 Você está bem?
 
-806
+803
 00:42:29,400 --> 00:42:31,220
 Não estou me sentindo muito bem.
 
-807
+804
 00:42:31,720 --> 00:42:32,400
 O que há de errado?
 
-808
+805
 00:42:32,960 --> 00:42:33,760
 Eu não sei.
 
-809
+806
 00:42:34,820 --> 00:42:36,560
 Eu só me sinto muito mal.
 
-810
+807
 00:42:38,920 --> 00:42:40,400
 Acha que deveria ir para casa?
 
-811
+808
 00:42:40,880 --> 00:42:42,100
 Eu posso cobrir você.
 
-812
+809
 00:42:43,020 --> 00:42:44,920
 Obrigada. Acho que sim.
 
-813
+810
 00:42:54,010 --> 00:42:56,010
-Oi, Spidey.
+Oi, Spike.
 
-814
+811
 00:42:56,090 --> 00:42:56,330
 Oi, pessoal.
 
-815
+812
 00:42:57,410 --> 00:42:59,030
 As fotos do chá de panela estão prontas?
 
-816
+813
 00:42:59,290 --> 00:42:59,490
 Sim.
 
-817
+814
 00:42:59,830 --> 00:43:01,850
 Que semana.
 
-818
+815
 00:43:02,290 --> 00:43:03,790
 Seu carro finalmente funciona.
 
-819
+816
 00:43:04,270 --> 00:43:05,570
 Snake ainda é virgem.
 
-820
+817
 00:43:06,230 --> 00:43:07,950
-E Caitlin vai me levar para sair no meu aniversário.
+E a Caitlin vai me levar para sair no meu aniversário.
 
-821
+818
 00:43:08,710 --> 00:43:10,410
 Não acredito que você ainda está saindo com a Caitlin.
 
-822
+819
 00:43:10,550 --> 00:43:12,670
 Ei, pessoal, querem que eu nos leve até a festa do Bronco?
 
-823
+820
 00:43:12,830 --> 00:43:14,050
 Olha, você pode licenciar o carro.
 
-824
+821
 00:43:14,210 --> 00:43:14,930
 Eu vou com você.
 
-825
+822
 00:43:15,770 --> 00:43:16,530
 Sem problemas.
 
-826
+823
 00:43:17,590 --> 00:43:18,030
 Snake?
 
-827
+824
 00:43:18,550 --> 00:43:19,950
 Bem, acho que já fomos jovens um dia.
 
-828
+825
 00:43:20,170 --> 00:43:20,390
 É!
 
-829
+826
 00:43:23,110 --> 00:43:24,630
-E você disse que eu fui roubado.
+E você disse que foi uma pechincha.
 
-830
+827
 00:43:27,190 --> 00:43:28,810
 Nossa, que verão.
 
-831
+828
 00:43:29,310 --> 00:43:30,730
 Não fica melhor do que isso.
 
-832
+829
 00:43:31,370 --> 00:43:31,850
 O quê?
 
-833
+830
 00:43:32,390 --> 00:43:32,850
 Vazamento.
 
-834
+831
 00:43:36,830 --> 00:43:38,210
-Tudo bem. Tchau, tchau.
+Tudo bem. Tchau.
 
-835
+832
 00:43:40,110 --> 00:43:41,110
 Posso ajudá-la?
 
-836
+833
 00:43:41,350 --> 00:43:41,710
 Sim.
 
-837
+834
 00:43:41,990 --> 00:43:43,970
 Eu estava me perguntando se talvez eu pudesse ver alguém.
 
-838
+835
 00:43:44,270 --> 00:43:45,390
 Sim. Por qual razão?
 
-839
+836
 00:43:49,340 --> 00:43:49,920
 Gravidez.
 
-840
+837
 00:43:53,510 --> 00:43:55,290
 Não sei como aconteceu.
 
-841
+838
 00:43:56,050 --> 00:43:57,770
 Nós sempre usamos camisinha.
 
-842
+839
 00:43:58,810 --> 00:43:59,470
 Bem, infelizmente,
 
-843
+840
 00:43:59,750 --> 00:44:00,570
 elas não são perfeitas.
 
-844
+841
 00:44:01,630 --> 00:44:02,890
 Às vezes elas saem,
 
-845
+842
 00:44:03,170 --> 00:44:04,790
 ou não são removidas corretamente.
 
-846
+843
 00:44:05,450 --> 00:44:07,890
 Mas isso é tudo bastante irrelevante agora, não é?
 
-847
+844
 00:44:08,810 --> 00:44:09,670
 Você está grávida.
 
-848
+845
 00:44:11,290 --> 00:44:13,050
 Eu quero fazer um aborto.
 
-849
+846
 00:44:13,690 --> 00:44:14,370
 Eu entendo.
 
-850
+847
 00:44:14,810 --> 00:44:17,250
 Mas eu só quero que você se sinta completamente confortável
 
-851
+848
 00:44:17,250 --> 00:44:18,170
 com sua decisão.
 
-852
+849
 00:44:19,950 --> 00:44:21,450
 Eu só quero que você marque
 
-853
+850
 00:44:21,450 --> 00:44:22,130
 uma consulta para mim.
 
-854
+851
 00:44:23,030 --> 00:44:23,590
 Por favor.
 
-855
-00:44:27,730 --> 00:44:29,230
-
-
-856
+852
 00:44:29,230 --> 00:44:30,450
 antes da escola começar.
 
-857
+853
 00:44:30,950 --> 00:44:33,190
 Eu posso te agendar para sábado.
 
-858
+854
 00:44:33,870 --> 00:44:35,330
-Você nem sempre pode cancelar.
+Você sempre pode cancelar.
 
-859
+855
 00:44:36,550 --> 00:44:37,430
 Tire os próximos
 
-860
+856
 00:44:37,430 --> 00:44:39,110
 dias para pensar sobre isso.
 
-861
+857
 00:44:39,690 --> 00:44:41,390
 Não há ninguém com quem você possa discutir
 
-862
+858
 00:44:41,390 --> 00:44:41,950
 isso?
 
-863
+859
 00:44:47,300 --> 00:44:48,560
-Por que eu não posso ir para
+Por que eu não posso ir
 
-864
+860
 00:44:48,560 --> 00:44:49,760
-a festa do Bronco com você?
+à festa do Bronco com você?
 
-865
+861
 00:44:49,900 --> 00:44:51,860
 Eu te disse, é só uma pequena festa.
 
-866
+862
 00:44:51,980 --> 00:44:53,060
-É principalmente só formandos.
+É principalmente só para os formandos.
 
-867
+863
 00:44:53,700 --> 00:44:54,380
 Você vai?
 
-868
+864
 00:44:54,920 --> 00:44:56,400
 Sim, mas eu conheço essas pessoas
 
-869
+865
 00:44:56,400 --> 00:44:57,320
 desde o ensino fundamental.
 
-870
+866
 00:44:57,740 --> 00:44:58,980
 Eu saio com eles.
 
-871
+867
 00:45:00,080 --> 00:45:01,680
 Eu te envergonho ou algo assim?
 
-872
+868
 00:45:02,680 --> 00:45:03,760
 Claro que não.
 
-873
+869
 00:45:04,280 --> 00:45:05,720
 Desculpe, você simplesmente não pode ir.
 
-874
+870
 00:45:10,520 --> 00:45:11,940
 Você gosta de mim,
 
-875
+871
 00:45:12,820 --> 00:45:13,560
 não é?
 
-876
+872
 00:45:16,180 --> 00:45:17,620
 Tessa, você sabe
 
-877
+873
 00:45:17,620 --> 00:45:18,400
 que eu gosto de você.
 
-878
+874
 00:45:20,340 --> 00:45:21,620
 Posso te ver amanhã?
 
-879
+875
 00:45:22,280 --> 00:45:23,380
 É meu aniversário amanhã.
 
-880
+876
 00:45:23,440 --> 00:45:24,860
 Vou sair para jantar com meus pais.
 
-881
+877
 00:45:25,820 --> 00:45:27,520
 Mas eu quero falar com você.
 
-882
+878
 00:45:28,880 --> 00:45:29,940
 Bem, estamos conversando agora.
 
-883
+879
 00:45:30,120 --> 00:45:31,520
 Você não quer me ver?
 
-884
+880
 00:45:33,220 --> 00:45:33,760
 Sim.
 
-885
+881
 00:45:35,260 --> 00:45:35,960
-Saia
+Sair
 
-886
+882
 00:45:35,960 --> 00:45:36,620
 na próxima semana.
 
-887
+883
 00:45:37,120 --> 00:45:37,920
 Na próxima semana.
 
-888
+884
 00:45:39,240 --> 00:45:40,900
 Tessa, você vai relaxar?
 
-889
+885
 00:45:41,420 --> 00:45:42,980
 Eu não gosto de você quando você está assim.
 
-890
+886
 00:45:44,920 --> 00:45:45,420
 Olha,
 
-891
+887
 00:45:45,540 --> 00:45:46,660
 Eu tenho muito trabalho a fazer.
 
-892
+888
 00:45:46,780 --> 00:45:48,340
 É melhor você ir ou eu vou ter problemas.
 
-893
+889
 00:45:55,310 --> 00:45:56,270
 Tenha um feliz
 
-894
+890
 00:45:56,270 --> 00:45:56,830
 aniversário.
 
-895
+891
 00:45:58,150 --> 00:45:58,610
 Tessa!
 
-896
+892
 00:46:00,270 --> 00:46:00,770
 Tessa!
 
-897
+893
 00:46:37,160 --> 00:46:38,660
 Hora de trabalhar.
 
-898
+894
 00:46:41,280 --> 00:46:42,660
 Hora de levantar.
 
-899
+895
 00:46:42,800 --> 00:46:43,700
 Hora de ir trabalhar.
 
-900
-00:46:46,280 --> 00:46:46,780
-
-
-901
+896
 00:46:46,780 --> 00:46:48,160
-anos de idade.
+Você está fazendo 18 anos.
 
-902
+897
 00:46:49,420 --> 00:46:50,700
 Por que eu tenho que trabalhar
 
-903
+898
 00:46:50,700 --> 00:46:51,520
 no meu aniversário?
 
-904
+899
 00:46:52,460 --> 00:46:53,700
-As piores coisas aconteceram.
+Coisas piores já aconteceram.
 
-905
+900
 00:46:54,760 --> 00:46:55,020
 Joey,
 
-906
+901
 00:46:55,980 --> 00:46:58,560
 seu pai e eu queremos que você saiba como estamos orgulhosos de você.
 
-907
+902
 00:46:59,800 --> 00:47:00,720
 Você está se tornando
 
-908
+903
 00:47:00,720 --> 00:47:01,840
 um bom jovem.
 
-909
+904
 00:47:03,120 --> 00:47:04,360
 Enfim, o café está pronto.
 
-910
+905
 00:47:05,720 --> 00:47:06,160
-E
+E...
 
-911
+906
 00:47:07,380 --> 00:47:08,500
 você não precisa se preocupar
 
-912
+907
 00:47:08,500 --> 00:47:09,880
 com as prestações do carro.
 
-913
+908
 00:47:12,440 --> 00:47:13,680
 Você está falando sério?
 
-914
+909
 00:47:13,680 --> 00:47:15,980
 Seu pai e eu cuidaremos disso.
 
-915
+910
 00:47:16,420 --> 00:47:17,440
 Feliz aniversário, Joey.
 
-916
+911
 00:47:18,760 --> 00:47:19,660
 Obrigado, mãe.
 
-917
+912
 00:47:22,440 --> 00:47:23,560
 Agora levante-se.
 
-918
+913
 00:47:24,840 --> 00:47:39,870
 Ele está aqui, querido.
 
-919
+914
 00:47:40,110 --> 00:47:40,830
 Tchau, mãe.
 
-920
+915
 00:47:41,250 --> 00:47:42,630
 Divirta-se em Montreal.
 
-921
+916
 00:47:43,670 --> 00:47:45,830
 Deseje um feliz aniversário ao Joey por mim.
 
-922
+917
 00:47:46,330 --> 00:47:47,730
 Eu vou. Muito obrigada.
 
-923
+918
 00:48:22,150 --> 00:48:23,590
 Oh, é bom. É muito bom.
 
-924
+919
 00:48:25,870 --> 00:48:27,910
-Então, eu vou para o Chalé do Bronco amanhã
+Então, vou para o chalé do Bronco amanhã
 
-925
+920
 00:48:27,910 --> 00:48:29,290
 com a Lucy para preparar tudo para a festa.
 
-926
+921
 00:48:29,950 --> 00:48:31,030
 Cara, você quer vir com a gente?
 
-927
+922
 00:48:31,570 --> 00:48:33,930
 Oh, eu prometi ao Wheels que iria com ele no carro dele
 
-928
+923
 00:48:33,930 --> 00:48:35,430
-e ele sai do trabalho por volta da 1,
+e ele sai do trabalho por volta da 1h,
 
-929
+924
 00:48:35,450 --> 00:48:36,750
 então acho que te encontro lá.
 
-930
+925
 00:48:37,910 --> 00:48:38,390
 Obrigado.
 
-931
+926
 00:48:39,810 --> 00:48:41,570
 Você acha que o carro dele vai conseguir chegar lá?
 
-932
+927
 00:48:42,090 --> 00:48:44,210
-Oh, sim. Sim, eu licenciei esta tarde.
+Oh, sim. Sim, eu o licenciei esta tarde.
 
-933
+928
 00:48:44,610 --> 00:48:46,230
 Na verdade, não parece tão ruim.
 
-934
+929
 00:48:49,290 --> 00:48:50,370
 Ah, obrigado.
 
-935
+930
 00:48:52,710 --> 00:48:54,910
 Não acredito que você não me pediu identidade.
 
-936
+931
 00:48:55,730 --> 00:48:57,470
 Você deve parecer mais velho ou algo assim hoje.
 
-937
+932
 00:48:57,930 --> 00:48:58,550
 O que você acha?
 
-938
+933
 00:49:00,010 --> 00:49:02,790
 Eu acho que você é um cara maravilhoso, Joey Jeremiah.
 
-939
+934
 00:49:04,790 --> 00:49:06,470
 E eu gostaria de propor um brinde.
 
-940
+935
 00:49:07,150 --> 00:49:07,570
 Ok.
 
-941
+936
 00:49:09,890 --> 00:49:12,670
 Eu sei que não conseguimos passar muito tempo juntos
 
-942
+937
 00:49:12,670 --> 00:49:13,690
 até agora neste verão,
 
-943
+938
 00:49:14,530 --> 00:49:17,510
 e eu realmente aprecio o quão compreensivo você tem sido.
 
-944
+939
 00:49:18,610 --> 00:49:19,630
 Não foi nada.
 
-945
+940
 00:49:20,170 --> 00:49:21,350
 Para mim, é alguma coisa.
 
-946
+941
 00:49:22,730 --> 00:49:23,590
 A você.
 
-947
+942
 00:49:33,560 --> 00:49:37,380
 Então, minha mãe foi para Montreal o fim de semana todo.
 
-948
+943
 00:49:38,040 --> 00:49:38,600
 Ah, você está sozinha?
 
-949
+944
 00:49:39,280 --> 00:49:39,700
 Hum-hum.
 
-950
+945
 00:49:40,500 --> 00:49:45,000
 E você sabe como eu odeio dormir sozinha na casa grande.
 
-951
+946
 00:49:45,000 --> 00:49:46,480
 Eu também.
 
-952
+947
 00:49:47,200 --> 00:49:49,660
 Certifique-se de que o alarme esteja ligado antes de ir para a cama à noite, ok?
 
-953
+948
 00:49:50,460 --> 00:49:51,100
 Uh, sim.
 
-954
+949
 00:49:52,180 --> 00:49:52,800
 Obrigada.
 
-955
+950
 00:49:57,860 --> 00:50:01,500
 Uh, Joey?
 
-956
+951
 00:50:06,600 --> 00:50:08,220
 Minha mãe está fora.
 
-957
+952
 00:50:09,220 --> 00:50:10,860
 Estou sozinha.
 
-958
+953
 00:50:25,050 --> 00:50:26,010
 A conta, por favor.
 
-959
+954
 00:50:33,200 --> 00:50:34,040
 Ok.
 
-960
+955
 00:50:35,180 --> 00:50:36,460
 Me desculpe.
 
-961
+956
 00:50:37,920 --> 00:50:38,660
 Tudo bem.
 
-962
+957
 00:50:38,660 --> 00:50:40,860
 Eu não sei porque estou chorando.
 
-963
+958
 00:50:41,740 --> 00:50:43,480
 Quer dizer, eu não estou infeliz.
 
-964
+959
 00:50:46,220 --> 00:50:46,780
 É...
 
-965
+960
 00:50:46,780 --> 00:50:49,120
 Sim, doeu um pouco mais do que eu pensei,
 
-966
+961
 00:50:49,220 --> 00:50:50,640
 mas não é por isso que estou chorando.
 
-967
+962
 00:50:52,440 --> 00:50:54,220
 É normal ficar emotiva.
 
-968
+963
 00:51:02,270 --> 00:51:04,370
 Aí vem o papa-lágrimas.
 
-969
+964
 00:51:05,330 --> 00:51:06,990
 Vamos acabar com essas lágrimas.
 
-970
+965
 00:51:07,470 --> 00:51:09,590
 Vamos. Vamos.
 
-971
+966
 00:51:10,990 --> 00:51:11,550
 Mmm.
 
-972
+967
 00:51:17,270 --> 00:51:18,330
 Eu tenho que ir.
 
-973
+968
 00:51:20,570 --> 00:51:21,130
 Já?
 
-974
+969
 00:51:21,390 --> 00:51:22,310
 Eu tenho.
 
-975
+970
 00:51:23,350 --> 00:51:25,770
 Não posso ficar aqui a noite toda. Meus pais vão me matar.
 
-976
+971
 00:51:28,550 --> 00:51:31,270
 Não acredito na calma com que você está lidando com isso.
 
-977
+972
 00:51:32,010 --> 00:51:33,230
 Eu estava tão nervosa.
 
-978
+973
 00:51:34,650 --> 00:51:35,850
 Eu estava nervosa?
 
-979
+974
 00:51:37,630 --> 00:51:39,450
 Temos que nos ver mais.
 
-980
+975
 00:51:39,450 --> 00:51:43,070
 Eu sei que vai ser muito melhor da próxima vez.
 
-981
+976
 00:51:43,910 --> 00:51:45,030
 Da próxima vez?
 
-982
+977
 00:51:45,710 --> 00:51:47,790
-Você vai para a universidade na próxima semana.
+Você vai para a faculdade na próxima semana.
 
-983
+978
 00:51:49,590 --> 00:51:50,350
 Bem...
 
-984
+979
 00:51:50,350 --> 00:51:53,210
 Ainda não está completamente decidido.
 
-985
+980
 00:51:54,910 --> 00:51:56,370
-Você quer dizer que você pode ficar?
+Você quer dizer que pode ficar?
 
-986
+981
 00:51:57,910 --> 00:51:58,670
 Talvez.
 
-987
+982
 00:51:59,230 --> 00:52:01,030
 Caitlin, você tem que ficar.
 
-988
+983
 00:52:01,630 --> 00:52:03,110
 Você me faria tão feliz.
 
-989
+984
 00:52:04,950 --> 00:52:06,070
 Vamos ver.
 
-990
+985
 00:52:21,540 --> 00:52:23,120
 Você tem certeza de que estava tudo bem?
 
-991
+986
 00:52:24,380 --> 00:52:26,700
 Caitlin, foi ótimo.
 
-992
+987
 00:52:29,460 --> 00:52:31,640
 Estou feliz que fizemos isso direito assim.
 
-993
+988
 00:52:32,880 --> 00:52:36,080
-Acho muito importante que seja a primeira vez para nós dois.
+Acho muito importante que tenha sido a primeira vez para nós dois.
 
-994
+989
 00:52:40,020 --> 00:52:40,560
 Certo.
 
-995
+990
 00:52:43,300 --> 00:52:44,380
 Olha, hum...
 
-996
+991
 00:52:44,380 --> 00:52:46,000
-Te vejo amanhã, Broncos.
+Te vejo amanhã na festa do Bronco.
 
-997
+992
 00:52:46,460 --> 00:52:46,860
 Sim.
 
-998
+993
 00:52:48,260 --> 00:52:48,800
 Tchau.
 
-999
+994
 00:52:49,300 --> 00:52:49,760
 Tchau.
 
-1000
+995
 00:52:54,350 --> 00:52:55,050
 Boa noite.
 
-1001
+996
 00:53:34,560 --> 00:53:35,500
 Bom dia, mãe.
 
-1002
+997
 00:53:35,980 --> 00:53:36,740
 Bom dia.
 
-1003
+998
 00:53:37,820 --> 00:53:39,440
 A que horas você chegou ontem à noite?
 
-1004
+999
 00:53:41,360 --> 00:53:42,300
 Bem tarde.
 
-1005
+1000
 00:53:43,100 --> 00:53:44,720
 E como nos sentimos esta manhã?
 
-1006
+1001
 00:53:45,340 --> 00:53:47,280
 Eu me sinto ótimo. Nunca estive melhor.
 
-1007
+1002
 00:53:48,760 --> 00:53:50,520
 Você está de muito bom humor.
 
-1008
+1003
 00:53:51,720 --> 00:53:53,060
 Eu não sei. Posso evitar?
 
-1009
+1004
 00:53:53,100 --> 00:53:54,740
 É um lindo dia. É verão.
 
-1010
+1005
 00:53:55,220 --> 00:53:56,040
 Sem escola.
 
-1011
+1006
 00:53:56,740 --> 00:53:59,400
 Ah, Tessa ligou ontem à noite.
 
-1012
+1007
 00:54:01,520 --> 00:54:02,120
-Tessa ligou para cá?
+A Tessa ligou para cá?
 
-1013
+1008
 00:54:05,000 --> 00:54:06,520
 O que você disse a ela?
 
-1014
+1009
 00:54:07,300 --> 00:54:08,160
-Eu disse a ela que você estava acordado.
+Eu disse a ela que você estava fora.
 
-1015
+1010
 00:54:10,000 --> 00:54:10,460
 Mãe.
 
-1016
+1011
 00:54:12,120 --> 00:54:12,680
 O quê?
 
-1017
+1012
 00:54:13,620 --> 00:54:14,140
 Nada.
 
-1018
+1013
 00:54:22,180 --> 00:54:22,740
-Olá.
+Alô.
 
-1019
+1014
 00:54:23,880 --> 00:54:25,260
 Bom dia, Tessa.
 
-1020
+1015
 00:54:25,900 --> 00:54:27,180
 Não, mãe, eu não estou em casa.
 
-1021
+1016
 00:54:27,500 --> 00:54:29,060
 Sim, ele está.
 
-1022
+1017
 00:54:29,060 --> 00:54:30,340
 Mãe, eu estou dormindo, ok?
 
-1023
+1018
 00:54:30,720 --> 00:54:31,060
 Mãe.
 
-1024
+1019
 00:54:42,530 --> 00:54:43,390
 Oi, Tessa.
 
-1025
+1020
 00:54:43,790 --> 00:54:44,850
 Você teve um bom jantar?
 
-1026
+1021
 00:54:45,390 --> 00:54:46,530
 Saiu com seus pais?
 
-1027
+1022
 00:54:50,330 --> 00:54:50,810
 Hum...
 
-1028
+1023
 00:54:51,510 --> 00:54:53,350
 Eu queria te falar sobre isso.
 
-1029
+1024
 00:54:53,450 --> 00:54:54,650
-Isto, hum...
+Isso, hum...
 
-1030
+1025
 00:54:54,650 --> 00:54:56,010
 Tudo mudou.
 
-1031
+1026
 00:54:56,490 --> 00:54:58,110
 Sim, aposto.
 
-1032
+1027
 00:54:58,850 --> 00:54:59,410
 Bem, mudou.
 
-1033
+1028
 00:55:01,130 --> 00:55:02,670
 Eu acho que você mentiu para mim.
 
-1034
+1029
 00:55:03,530 --> 00:55:04,710
 O quê, você não acredita em mim?
 
-1035
+1030
 00:55:05,150 --> 00:55:05,550
 Não.
 
-1036
+1031
 00:55:07,710 --> 00:55:10,430
 Escute, Tessa, eu posso sair com quem eu quiser.
 
-1037
+1032
 00:55:10,890 --> 00:55:11,930
 Nós não somos casados, sabe.
 
-1038
+1033
 00:55:13,230 --> 00:55:14,910
 De qualquer forma, o que você estava fazendo ligando para minha casa?
 
-1039
+1034
 00:55:15,230 --> 00:55:16,370
 Você estava me vigiando?
 
-1040
+1035
 00:55:18,330 --> 00:55:19,990
 Eu ia cantar parabéns para você
 
-1041
+1036
 00:55:19,990 --> 00:55:21,070
 na sua secretária eletrônica.
 
-1042
+1037
 00:55:23,210 --> 00:55:24,730
 Deveria ser uma surpresa.
 
-1043
+1038
 00:55:31,510 --> 00:55:33,030
 Olha, Tessa, me desculpe.
 
-1044
+1039
 00:55:33,210 --> 00:55:34,470
 Eu não quis ser duro com você.
 
-1045
+1040
 00:55:34,490 --> 00:55:36,490
 Você não tem a menor ideia do que fez.
 
-1046
+1041
 00:55:39,650 --> 00:55:41,870
 Eu realmente pensei que te amava.
 
-1047
+1042
 00:55:43,070 --> 00:55:44,250
 Eu te odeio.
 
-1048
+1043
 00:55:44,670 --> 00:55:46,110
 E eu nunca mais quero te ver.
 
-1049
+1044
 00:55:46,370 --> 00:55:46,610
 Uau!
 
-1050
+1045
 00:56:08,180 --> 00:56:09,220
 Me deixa em paz.
 
-1051
+1046
 00:56:11,960 --> 00:56:12,680
 Vamos lá.
 
-1052
+1047
 00:56:15,990 --> 00:56:17,170
 Tudo bem, pessoal, falta muito?
 
-1053
+1048
 00:56:17,490 --> 00:56:19,070
 Não, peça ao meu pai para te ajudar com o resto.
 
-1054
+1049
 00:56:24,500 --> 00:56:26,060
-Então, Caitlin se divertiu.
+Então, a Caitlin se divertiu.
 
-1055
+1050
 00:56:27,560 --> 00:56:28,660
 Foi maravilhoso.
 
-1056
+1051
 00:56:29,100 --> 00:56:30,520
 Mas não foi só o sexo.
 
-1057
+1052
 00:56:30,520 --> 00:56:32,120
 Foi depois.
 
-1058
+1053
 00:56:33,340 --> 00:56:34,900
 Ele foi tão...
 
-1059
+1054
 00:56:34,900 --> 00:56:36,260
 Ele foi tão gentil.
 
-1060
+1055
 00:56:37,080 --> 00:56:38,380
 Tão carinhoso.
 
-1061
+1056
 00:56:42,830 --> 00:56:43,990
 Eu vou ficar.
 
-1062
+1057
 00:56:47,110 --> 00:56:48,130
 Como?
 
-1063
+1058
 00:56:48,770 --> 00:56:51,010
 Mal posso esperar para contar a ele que estamos noivos.
 
-1064
+1059
 00:56:51,790 --> 00:56:53,070
 Ele vai ficar tão feliz.
 
-1065
+1060
 00:56:54,550 --> 00:56:57,070
-Caitlin, transe.
+Caitlin, transe com ele, ótimo.
 
-1066
+1061
 00:56:57,230 --> 00:56:58,690
-
-
-1067
-00:56:59,250 --> 00:57:01,710
 Mas não sacrifique todo o seu futuro por um cara.
 
-1068
+1062
 00:57:02,510 --> 00:57:04,750
 Eu não estou sacrificando todo o meu futuro.
 
-1069
+1063
 00:57:05,630 --> 00:57:07,730
-Não há nada de errado em ir para a universidade aqui.
+Não há nada de errado em ir para a faculdade aqui.
 
-1070
+1064
 00:57:08,010 --> 00:57:09,390
 Vocês nem vão durar.
 
-1071
+1065
 00:57:09,570 --> 00:57:11,310
 Você é muito mais inteligente do que ele.
 
-1072
+1066
 00:57:11,470 --> 00:57:12,410
 Isso não é verdade.
 
-1073
+1067
 00:57:12,930 --> 00:57:14,950
-Joey é muito mais esperto com as pessoas do que eu.
+O Joey é muito mais esperto com as pessoas do que eu.
 
-1074
+1068
 00:57:16,090 --> 00:57:17,690
 Enfim, por que você está tão chateada?
 
-1075
+1069
 00:57:18,190 --> 00:57:20,190
 É você quem sempre me diz para tomar decisões.
 
-1076
+1070
 00:57:20,550 --> 00:57:21,930
 Eu acabei de tomar uma decisão importante.
 
-1077
+1071
 00:57:22,150 --> 00:57:23,430
 Nós deveríamos ser colegas de quarto.
 
-1078
+1072
 00:57:24,410 --> 00:57:25,770
 Agora eu vou ter que me inscrever para o alojamento.
 
-1079
+1073
 00:57:26,030 --> 00:57:27,150
 Provavelmente está tudo lotado.
 
-1080
+1074
 00:57:28,170 --> 00:57:29,850
 Tenho certeza de que você vai conseguir entrar no alojamento.
 
-1081
+1075
 00:57:31,190 --> 00:57:31,990
 Eu não vou.
 
-1082
+1076
 00:57:35,800 --> 00:57:36,700
 Esquece.
 
-1083
+1077
 00:57:37,680 --> 00:57:38,580
 Olha, Luce.
 
-1084
+1078
 00:57:39,500 --> 00:57:41,640
 Você vai se divertir muito mais sem mim.
 
-1085
+1079
 00:57:41,880 --> 00:57:42,780
 Você sempre se diverte.
 
-1086
+1080
 00:57:43,460 --> 00:57:45,780
 Você é Lucy Fernandez, oradora da turma.
 
-1087
+1081
 00:57:45,880 --> 00:57:47,520
 Tudo bem, pessoal. Estamos todos prontos.
 
-1088
+1082
 00:57:51,880 --> 00:57:52,360
 Olha.
 
-1089
+1083
 00:57:53,400 --> 00:57:55,800
 Me desculpe. Eu não achei que você ficaria tão brava.
 
-1090
+1084
 00:57:57,660 --> 00:57:59,420
 Mas eu realmente quero ficar.
 
-1091
+1085
 00:57:59,420 --> 00:58:00,660
 Eu só quero ficar com ele.
 
-1092
+1086
 00:58:01,500 --> 00:58:03,020
 Tudo bem, crianças. Divirtam-se.
 
-1093
+1087
 00:58:03,440 --> 00:58:04,120
 Sim senhor.
 
-1094
+1088
 00:58:04,840 --> 00:58:06,020
 Bronco, dirija com cuidado.
 
-1095
+1089
 00:58:06,420 --> 00:58:08,840
 Todos estão prontos para ir?
 
-1096
+1090
 00:58:09,800 --> 00:58:10,220
 Tanto faz.
 
-1097
+1091
 00:58:13,540 --> 00:58:14,740
 Vamos, Snake.
 
-1098
+1092
 00:58:15,620 --> 00:58:16,740
 Cara, esse cara é lento.
 
-1099
+1093
 00:58:18,140 --> 00:58:20,060
 O que eu fiz de tão errado?
 
-1100
+1094
 00:58:20,660 --> 00:58:21,680
 Você mentiu para ela.
 
-1101
+1095
 00:58:22,360 --> 00:58:23,660
 Sim, mas não foi uma grande mentira.
 
-1102
+1096
 00:58:24,360 --> 00:58:25,480
 Ela não sabia que eu estava com a Caitlin.
 
-1103
+1097
 00:58:25,480 --> 00:58:27,480
 Eu não vou pegar nenhuma borboleta enquanto estiver lá, mãe.
 
-1104
+1098
 00:58:27,720 --> 00:58:28,860
 Não, eu não vou...
 
-1105
+1099
 00:58:29,580 --> 00:58:30,940
 Snake, anda logo.
 
-1106
+1100
 00:58:31,240 --> 00:58:32,060
 Sim está bem.
 
-1107
+1101
 00:58:32,940 --> 00:58:33,960
 Esqueça ela.
 
-1108
+1102
 00:58:34,220 --> 00:58:35,980
 Se ela vai surtar, você não precisa dela.
 
-1109
+1103
 00:58:36,420 --> 00:58:37,740
 Eu simplesmente não sei o que aconteceu.
 
-1110
+1104
 00:58:38,000 --> 00:58:39,520
 Tudo estava indo tão bem.
 
-1111
+1105
 00:58:40,880 --> 00:58:41,360
 Mulheres.
 
-1112
+1106
 00:58:41,720 --> 00:58:44,340
 Leve minha mãe, por favor.
 
-1113
+1107
 00:58:46,320 --> 00:58:47,040
 Biscoitos, alguém?
 
-1114
+1108
 00:58:47,680 --> 00:58:48,560
 Não, obrigado.
 
-1115
+1109
 00:58:49,000 --> 00:58:49,820
 Tchau, Archie.
 
-1116
+1110
 00:58:49,900 --> 00:58:50,360
 Tchau, mãe.
 
-1117
+1111
 00:58:50,360 --> 00:58:51,920
 Por que você não guarda sua vara de pescar?
 
-1118
+1112
 00:58:51,980 --> 00:58:52,820
 Eu não quero minha vara de pescar.
 
-1119
+1113
 00:58:54,040 --> 00:58:55,040
 Vamos, vamos indo.
 
-1120
+1114
 00:58:55,360 --> 00:58:55,860
 Tudo bem.
 
-1121
+1115
 00:58:57,940 --> 00:59:06,660
-Cara, ela dirige como um sonho.
+Cara, ele dirige como um sonho.
 
-1122
+1116
 00:59:07,160 --> 00:59:09,200
 Esta belezinha vai me levar até o oeste.
 
-1123
+1117
 00:59:09,800 --> 00:59:10,160
 Liberdade.
 
-1124
+1118
 00:59:10,600 --> 00:59:11,440
 Sem mais avós.
 
-1125
+1119
 00:59:12,420 --> 00:59:14,040
 Sim, mal posso esperar para sair daqui também.
 
-1126
+1120
 00:59:15,180 --> 00:59:16,460
 Eu não gosto que todo mundo vá embora.
 
-1127
+1121
 00:59:17,380 --> 00:59:18,320
 Vamos lá, todo mundo está indo.
 
-1128
+1122
 00:59:18,680 --> 00:59:19,960
 Você ainda tem a Tessa.
 
-1129
+1123
 00:59:20,860 --> 00:59:21,660
 Não, eu não tenho.
 
-1130
+1124
 00:59:22,640 --> 00:59:23,780
 Eles brigaram.
 
-1131
+1125
 00:59:24,380 --> 00:59:24,980
 Ela o largou.
 
-1132
+1126
 00:59:26,280 --> 00:59:27,320
 Bem, bem, bem.
 
-1133
+1127
 00:59:27,400 --> 00:59:28,360
 De volta ao celibato.
 
-1134
+1128
 00:59:29,660 --> 00:59:30,240
 Errado.
 
-1135
+1129
 00:59:31,180 --> 00:59:32,740
-As crianças vão ser fãs da Caitlin.
+As coisas vão esquentar com a Caitlin.
 
-1136
+1130
 00:59:34,040 --> 00:59:34,460
 O quê?
 
-1137
+1131
 00:59:36,460 --> 00:59:38,360
 De uma cama para outra.
 
-1138
+1132
 00:59:38,440 --> 00:59:39,400
 Muito elegante, Jeremiah.
 
-1139
+1133
 00:59:40,020 --> 00:59:41,520
 Com segundos restantes no jogo,
 
-1140
+1134
 00:59:41,780 --> 00:59:43,440
 está Joey 2,
 
-1141
+1135
 00:59:43,860 --> 00:59:45,300
 Snake, sem pontos.
 
-1142
+1136
 00:59:46,240 --> 00:59:47,480
 Não ria, Joey.
 
-1143
+1137
 00:59:47,940 --> 00:59:49,540
-Caitlin vai para a universidade em breve.
+A Caitlin vai para a faculdade em breve.
 
-1144
+1138
 00:59:49,540 --> 00:59:50,920
 Bem, ela pode não ir.
 
-1145
+1139
 00:59:51,660 --> 00:59:52,500
 Espero que não.
 
-1146
+1140
 00:59:52,760 --> 00:59:54,100
-Eu amo que ela vá.
+Eu amaria que ela fosse.
 
-1147
+1141
 00:59:57,700 --> 00:59:58,940
 Agora você tem que pegar a cerveja.
 
-1148
+1142
 00:59:59,780 --> 01:00:00,700
 Eu pego, eu pego.
 
-1149
+1143
 01:00:01,280 --> 01:00:03,000
-Dois monstros gelados para viagem.
+Duas geladas para a viagem.
 
-1150
+1144
 01:00:03,620 --> 01:00:04,400
-Esta é Alexis.
+Esta é a Alexis.
 
-1151
+1145
 01:00:05,300 --> 01:00:06,060
 Alexis, Alexis.
 
-1152
+1146
 01:00:13,240 --> 01:00:14,280
 Ei, pessoal.
 
-1153
+1147
 01:00:15,540 --> 01:00:15,900
 Tudo certo.
 
-1154
+1148
 01:00:16,740 --> 01:00:18,220
 Ah, legal, lá está o Wheels.
 
-1155
+1149
 01:00:24,480 --> 01:00:26,200
 Eu disse que meu carro nos traria aqui.
 
-1156
+1150
 01:00:30,760 --> 01:00:31,560
 E aí, pessoal.
 
-1157
+1151
 01:00:31,660 --> 01:00:32,860
 Ei, como vão as coisas?
 
-1158
+1152
 01:00:34,360 --> 01:00:35,320
 E aí, pessoal.
 
-1159
+1153
 01:00:35,940 --> 01:00:36,720
 Sabe de uma coisa?
 
-1160
+1154
 01:00:37,340 --> 01:00:39,020
 Eu vou ter um lugar como este um dia.
 
-1161
+1155
 01:00:40,020 --> 01:00:41,300
 Livre-se da câmera.
 
-1162
+1156
 01:00:41,440 --> 01:00:42,140
 Ei, me dá uma cerveja.
 
-1163
+1157
 01:00:45,480 --> 01:00:50,060
 Ei, posso tocar mais tarde?
 
-1164
+1158
 01:00:50,760 --> 01:00:51,320
 Muito obrigado.
 
-1165
+1159
 01:00:52,600 --> 01:00:53,280
 Obrigado.
 
-1166
+1160
 01:00:54,200 --> 01:00:56,000
 É um lugar lindo que você tem aqui, cara.
 
-1167
+1161
 01:00:56,100 --> 01:00:57,440
 Oh, olha, uma canoa.
 
-1168
+1162
 01:00:57,720 --> 01:00:58,420
 Nós deveríamos andar de canoa.
 
-1169
+1163
 01:00:58,900 --> 01:01:01,080
 Incrível. Eu amo canoas.
 
-1170
+1164
 01:01:04,020 --> 01:01:04,700
 Joey.
 
-1171
+1165
 01:01:05,380 --> 01:01:06,000
-Caitlyn.
+Caitlin.
 
-1172
+1166
 01:01:06,480 --> 01:01:07,500
 Nós precisamos conversar.
 
-1173
+1167
 01:01:08,280 --> 01:01:08,700
 Claro.
 
-1174
+1168
 01:01:09,860 --> 01:01:12,460
 Lá dentro. É muito sério.
 
-1175
+1169
 01:01:14,280 --> 01:01:14,960
 Ok.
 
-1176
+1170
 01:01:16,400 --> 01:01:17,100
 Com licença.
 
-1177
+1171
 01:01:18,740 --> 01:01:19,580
 Bem,
 
-1178
-01:01:19,740 --> 01:01:21,760
+1172
+01:01:19,740 --> 01:02:21,760
 talvez alguém dê sorte.
 
-1179
+1173
 01:01:23,360 --> 01:01:24,600
 Algo errado?
 
-1180
+1174
 01:01:25,240 --> 01:01:25,600
 Venha aqui.
 
-1181
+1175
 01:01:26,740 --> 01:01:29,560
 Uh, aqui dentro.
 
-1182
+1176
 01:01:30,620 --> 01:01:31,540
 Onde fica a clínica?
 
-1183
+1177
 01:01:31,640 --> 01:01:32,340
 É lá embaixo.
 
-1184
+1178
 01:01:35,740 --> 01:01:36,740
 O que há de errado?
 
-1185
+1179
 01:01:40,910 --> 01:01:41,750
 Olha.
 
-1186
+1180
 01:01:42,330 --> 01:01:44,010
 Vê em que mão está?
 
-1187
+1181
 01:01:48,340 --> 01:01:49,700
 Nós estamos noivos?
 
-1188
+1182
 01:01:50,800 --> 01:01:52,060
 Nós estamos noivos.
 
-1189
+1183
 01:01:52,900 --> 01:01:54,460
 Eu decidi ficar
 
-1190
+1184
 01:01:54,460 --> 01:01:55,860
-e ir para a universidade aqui.
+e ir para a faculdade aqui.
 
-1191
+1185
 01:01:57,200 --> 01:01:58,960
-Caitlyn, isso é ótimo.
+Caitlin, isso é ótimo.
 
-1192
+1186
 01:01:59,280 --> 01:02:00,160
 Isso é fantástico.
 
-1193
+1187
 01:02:01,340 --> 01:02:02,920
 Eu pensei que você estivesse brava comigo.
 
-1194
+1188
 01:02:03,300 --> 01:02:03,980
 Consciência pesada?
 
-1195
+1189
 01:02:04,600 --> 01:02:05,060
 Não.
 
-1196
+1190
 01:02:05,780 --> 01:02:07,220
 O que você fez, Joey?
 
-1197
+1191
 01:02:07,260 --> 01:02:08,600
 Nada. Confie em mim.
 
-1198
+1192
 01:02:08,760 --> 01:02:09,880
 Eu não sei sobre isso.
 
-1199
+1193
 01:02:10,420 --> 01:02:11,260
 Eu não acredito.
 
-1200
+1194
 01:02:12,960 --> 01:02:14,160
 Nós estamos noivos.
 
-1201
+1195
 01:02:26,600 --> 01:02:28,240
 Meu nome é Tessa Campanelli.
 
-1202
+1196
 01:02:29,120 --> 01:02:30,400
 Eu tenho uma consulta
 
-1203
+1197
 01:02:30,400 --> 01:02:31,580
 marcada para esta tarde.
 
-1204
+1198
 01:02:32,940 --> 01:02:34,040
 Tudo bem. Poderia se sentar
 
-1205
+1199
 01:02:34,040 --> 01:02:34,760
-aqui, por favor?
+ali, por favor?
 
-1206
+1200
 01:02:40,520 --> 01:02:41,920
 Oi. Dr. Walker.
 
-1207
+1201
 01:02:42,680 --> 01:02:43,900
 A Srta. Campanelli está aqui.
 
-1208
+1202
 01:02:57,040 --> 01:02:57,520
 Vegetais?
 
-1209
+1203
 01:02:58,940 --> 01:03:00,420
 Podemos fazer espaguete
 
-1210
+1204
 01:03:00,420 --> 01:03:01,020
 ou algo assim.
 
-1211
+1205
 01:03:01,400 --> 01:03:02,500
 Senhoras e senhores,
 
-1212
+1206
 01:03:03,200 --> 01:03:05,020
 eu gostaria de apresentar a vocês
 
-1213
+1207
 01:03:06,220 --> 01:03:07,180
 minha noiva.
 
-1214
+1208
 01:03:13,600 --> 01:03:14,920
 Sra. Jeremiah.
 
-1215
+1209
 01:03:18,540 --> 01:03:18,980
 Parabéns.
 
-1216
+1210
 01:03:19,840 --> 01:03:20,480
 Obrigado, Snake.
 
-1217
+1211
 01:03:21,340 --> 01:03:23,900
-Jeremiah é o nome, e eu tenho tudo.
+Jeremiah é o nome, e eu consegui a garota.
 
-1218
+1212
 01:03:24,560 --> 01:03:25,420
 Como?
 
-1219
+1213
 01:03:25,860 --> 01:03:27,460
 Você me faz parecer um objeto.
 
-1220
+1214
 01:03:27,660 --> 01:03:28,580
 Ah, por favor.
 
-1221
+1215
 01:03:28,640 --> 01:03:29,940
 O objeto do meu desejo.
 
-1222
+1216
 01:03:33,280 --> 01:03:35,200
 Snake, aliás,
 
-1223
+1217
 01:03:35,260 --> 01:03:36,180
 esta é uma garota.
 
-1224
+1218
 01:03:36,880 --> 01:03:38,300
 Eu sei que você não sabe muito sobre elas,
 
-1225
+1219
 01:03:38,340 --> 01:03:40,400
 então eu pensei em trazer uma e te mostrar.
 
-1226
+1220
 01:03:40,400 --> 01:03:41,740
 Não, sério.
 
-1227
+1221
 01:03:42,260 --> 01:03:44,380
 Você vê, eu sei que você não tem muita experiência
 
-1228
+1222
 01:03:44,380 --> 01:03:45,760
 com elas, então eu pensei... É isso aí!
 
-1229
+1223
 01:03:46,360 --> 01:03:48,420
 Eu já tive o suficiente. Ah, qual é.
 
-1230
+1224
 01:03:49,160 --> 01:03:50,140
 Ele está só com ciúmes.
 
-1231
+1225
 01:03:50,540 --> 01:03:52,300
 Ele não tem namorada. Cale a boca, Joey.
 
-1232
+1226
 01:03:52,840 --> 01:03:54,400
 Se você não ficar quieto, há uma ou duas coisas
 
-1233
+1227
 01:03:54,400 --> 01:03:56,320
 que eu poderia dizer sobre você, coisas que algumas pessoas
 
-1234
+1228
 01:03:56,320 --> 01:03:58,360
-podem achar muito interessantes. Ei, whoa, whoa, whoa.
+podem achar muito interessantes.
 
-1235
-01:03:58,580 --> 01:03:59,000
-Snake.
+1229
+01:03:58,360 --> 01:03:59,000
+Ei, opa, opa, opa. Snake.
 
-1236
+1230
 01:04:00,160 --> 01:04:02,540
 O que está acontecendo? Vamos. Vamos lá para fora.
 
-1237
+1231
 01:04:05,280 --> 01:04:06,280
-O que era a carta?
+Do que ele estava falando?
 
-1238
+1232
 01:04:06,300 --> 01:04:07,020
-Ele é perturbado.
+Ele é maluco.
 
-1239
+1233
 01:04:07,020 --> 01:04:09,300
 Isso foi estúpido.
 
-1240
+1234
 01:04:09,680 --> 01:04:10,380
 Ele estava só brincando.
 
-1241
+1235
 01:04:10,560 --> 01:04:11,520
 Vamos jogar vôlei.
 
-1242
+1236
 01:04:11,880 --> 01:04:12,800
 Ah, muito engraçado.
 
-1243
+1237
 01:04:13,700 --> 01:04:15,320
 Estou farto daquele idiota me irritando.
 
-1244
+1238
 01:04:16,440 --> 01:04:17,580
 Viva o verão do inferno.
 
-1245
+1239
 01:04:18,080 --> 01:04:20,440
 Ah, qual é. O cara pensa que tem tudo.
 
-1246
+1240
 01:04:22,480 --> 01:04:24,820
 Você realmente sente pena de si mesmo, não é?
 
-1247
+1241
 01:04:26,220 --> 01:04:28,520
-Oh, coitado do Snakey Wakey.
+Oh, coitado do Snake.
 
-1248
+1242
 01:04:28,660 --> 01:04:30,080
 Ele não consegue transar.
 
-1249
+1243
 01:04:30,620 --> 01:04:32,140
-Mas ele vai para a universidade.
+Mas ele vai para a faculdade.
 
-1250
+1244
 01:04:32,880 --> 01:04:35,020
 Ele tem dois ótimos pais
 
-1251
+1245
 01:04:35,020 --> 01:04:36,020
 que estão vivos e que o amam.
 
-1252
+1246
 01:04:36,860 --> 01:04:38,300
 Ele mora em uma ótima casa.
 
-1253
-01:04:39,200 --> 01:04:40,240
-Ah, sim, bem, talvez pareça fácil
+1247
+01:04:39,200 --> 01:04:41,220
+Ah, sim, bem, talvez pareça fácil de fora, Wheels.
 
-1254
-01:04:40,240 --> 01:04:41,220
-de fora, Wheels.
+1248
+01:04:43,540 --> 01:04:45,840
+Bem, é meio difícil para mim sentir pena de você, Snake.
 
-1255
-01:04:43,540 --> 01:04:44,660
-Bem, é meio difícil para mim
-
-1256
-01:04:44,660 --> 01:04:45,840
-sentir pena de você, Snake.
-
-1257
+1249
 01:04:46,740 --> 01:04:47,660
 Filhinho da mamãe.
 
-1258
+1250
 01:04:48,560 --> 01:04:49,260
 Cresça.
 
-1259
+1251
 01:04:51,200 --> 01:04:53,240
 Ah, e você é tão maduro, Wheels.
 
-1260
-01:04:54,120 --> 01:04:55,280
-O cara passa o verão inteiro
+1252
+01:04:54,120 --> 01:04:57,580
+O cara passa o verão inteiro bebendo cerveja e brincando com seu carro.
 
-1261
-01:04:55,280 --> 01:04:57,580
-bebendo cerveja e brincando com seu carro.
+1253
+01:04:58,500 --> 01:05:00,060
+Cuidado com o que você diz sobre meu carro.
 
-1262
-01:04:58,500 --> 01:04:59,440
-Cuidado com o que você diz
-
-1263
-01:04:59,440 --> 01:05:00,060
-sobre meu carro.
-
-1264
+1254
 01:05:00,500 --> 01:05:02,020
-Eu não sei porque você está tão orgulhoso dele, Wheels.
+Eu não sei por que você está tão orgulhoso dele, Wheels.
 
-1265
-01:05:03,160 --> 01:05:04,400
-Eu colocaria um saco na minha cabeça
+1255
+01:05:03,160 --> 01:05:05,660
+Eu colocaria um saco na minha cabeça se estivesse dirigindo aquela lata velha.
 
-1266
-01:05:04,400 --> 01:05:05,660
-se eu estivesse dirigindo aquela lata velha.
-
-1267
+1256
 01:05:08,300 --> 01:05:10,200
 Sabe, você pode ser um verdadeiro idiota às vezes.
 
-1268
+1257
 01:05:10,620 --> 01:05:10,820
 O quê?
 
-1269
+1258
 01:05:11,160 --> 01:05:12,640
 Sim, você tem uma boca muito grande.
 
-1270
+1259
 01:05:12,860 --> 01:05:13,560
-Eu tenho uma boca grande.
+Eu tenho uma boca grande?
 
-1271
+1260
 01:05:13,640 --> 01:05:15,960
 Eu não tenho nada a ver com você, Wheels.
 
-1272
+1261
 01:05:17,180 --> 01:05:19,580
 Se vocês querem brigar, não façam isso aqui dentro.
 
-1273
+1262
 01:05:19,800 --> 01:05:20,520
 Levem isso lá para fora.
 
-1274
+1263
 01:05:21,100 --> 01:05:22,060
 Tudo bem, vamos lá, vamos.
 
-1275
+1264
 01:05:23,380 --> 01:05:24,660
 Não, Wheels, olha.
 
-1276
+1265
 01:05:25,040 --> 01:05:27,000
 Eu vou pegar aquele seu carro ótimo.
 
-1277
+1266
 01:05:27,080 --> 01:05:28,320
 Podemos ir buscar umas batatas fritas, ok?
 
-1278
+1267
 01:05:28,320 --> 01:05:29,420
 Vamos.
 
-1279
+1268
 01:05:32,840 --> 01:05:34,040
 Eu vou pegar minha bolsa.
 
-1280
+1269
 01:05:35,500 --> 01:05:35,880
 Cara,
 
-1281
+1270
 01:05:36,360 --> 01:05:38,100
 qual é o seu problema? Isso não é você.
 
-1282
-01:05:39,960 --> 01:05:40,960
-Estou cansado
+1271
+01:05:39,960 --> 01:05:41,980
+Estou cansado daqueles caras me enchendo o saco.
 
-1283
-01:05:40,960 --> 01:05:41,980
-daqueles caras me enchendo o saco.
-
-1284
+1272
 01:05:45,060 --> 01:05:46,160
 Eu vou acalmá-lo.
 
-1285
+1273
 01:05:46,780 --> 01:05:47,460
 Fale com o Snake.
 
-1286
+1274
 01:05:51,160 --> 01:05:52,220
 Relaxe, cara.
 
-1287
+1275
 01:06:00,300 --> 01:06:01,640
 O que foi tudo aquilo?
 
-1288
+1276
 01:06:02,540 --> 01:06:03,100
 Eu não sei.
 
-1289
+1277
 01:06:03,140 --> 01:06:04,700
 O cara é um idiota imaturo.
 
-1290
+1278
 01:06:07,540 --> 01:06:09,080
 Ele está reclamando o verão todo.
 
-1291
+1279
 01:06:10,800 --> 01:06:12,000
 Tudo o que ele tem,
 
-1292
+1280
 01:06:12,160 --> 01:06:13,120
 foi dado a ele.
 
-1293
+1281
 01:06:13,680 --> 01:06:15,820
 Tudo o que eu tenho, eu tive que trabalhar para conseguir.
 
-1294
+1282
 01:06:16,460 --> 01:06:18,400
 Ele provavelmente está de mau humor.
 
-1295
+1283
 01:06:19,060 --> 01:06:20,200
 O verão está quase acabando.
 
-1296
+1284
 01:06:20,300 --> 01:06:21,460
-Ele vai para a universidade.
+Ele vai para a faculdade.
 
-1297
+1285
 01:06:22,040 --> 01:06:23,280
 Estamos todos meio nervosos.
 
-1298
+1286
 01:06:24,580 --> 01:06:25,660
 Ok, isso é legal, certo?
 
-1299
+1287
 01:06:26,000 --> 01:06:26,420
 Não perto o suficiente.
 
-1300
+1288
 01:06:26,880 --> 01:06:27,420
 Pronto?
 
-1301
+1289
 01:06:28,920 --> 01:06:29,460
 Oh!
 
-1302
+1290
 01:06:31,160 --> 01:06:32,540
 Ok, mais uma volta.
 
-1303
+1291
 01:06:32,860 --> 01:06:34,220
 Mais uma volta.
 
-1304
+1292
 01:06:36,060 --> 01:06:36,460
 Simon,
 
-1305
+1293
 01:06:36,680 --> 01:06:38,640
 Eu não acredito que você acabou de dizer isso.
 
-1306
-01:06:38,940 --> 01:06:40,400
-Tudo o que eu disse foi que estava cansado
+1294
+01:06:38,940 --> 01:06:41,660
+Tudo o que eu disse foi que estava cansado de ir a chás de panela.
 
-1307
-01:06:40,400 --> 01:06:41,660
-de ir a chás de panela.
-
-1308
+1295
 01:06:41,800 --> 01:06:42,420
 Só isso.
 
-1309
+1296
 01:06:44,260 --> 01:06:46,340
-Você quer chamar isso de casamento, não é?
+Você quer cancelar o casamento, não é?
 
-1310
+1297
 01:06:46,540 --> 01:06:48,280
 Não, eu só estou cansado de ficar sentado
 
-1311
+1298
 01:06:48,280 --> 01:06:49,660
 com um monte de gente que eu não conheço
 
-1312
+1299
 01:06:49,660 --> 01:06:52,540
 tentando agir animado com um monte de presentes que eu não quero.
 
-1313
+1300
 01:06:52,960 --> 01:06:54,300
 Eu sabia que você ia ficar com medo.
 
-1314
+1301
 01:06:55,620 --> 01:06:57,020
 Não é medo.
 
-1315
+1302
 01:06:57,340 --> 01:06:58,980
 Nossa, você poderia me ouvir para variar?
 
-1316
+1303
 01:06:59,000 --> 01:06:59,540
 Cuidado, Simon.
 
-1317
+1304
 01:07:00,720 --> 01:07:01,080
 Vamos lá!
 
-1318
+1305
 01:07:02,740 --> 01:07:04,400
 Ah, isso é muito engraçado, Tim.
 
-1319
+1306
 01:07:04,500 --> 01:07:04,980
 É você?
 
-1320
+1307
 01:07:05,540 --> 01:07:06,540
 Você é um ótimo comediante.
 
-1321
+1308
 01:07:06,860 --> 01:07:07,940
 Espere até eu pegar a bola.
 
-1322
+1309
 01:07:13,580 --> 01:07:14,820
 Divirta-se remando.
 
-1323
+1310
 01:07:15,500 --> 01:07:16,340
-Whoa, lá está o mundo.
+Uau, que mundo.
 
-1324
+1311
 01:07:18,680 --> 01:07:19,120
 Ei!
 
-1325
-01:07:22,120 --> 01:07:23,180
-Oh, tragam para nós
+1312
+01:07:22,120 --> 01:07:24,180
+Oh, tragam para nós uma pizza, ok?
 
-1326
-01:07:23,180 --> 01:07:24,180
-uma pizza, ok?
-
-1327
+1313
 01:07:25,620 --> 01:07:27,140
 Você quer uma?
 
-1328
+1314
 01:07:27,660 --> 01:07:28,340
 Ok ótimo.
 
-1329
+1315
 01:07:39,730 --> 01:07:41,290
 O que você estava tentando fazer lá atrás?
 
-1330
+1316
 01:07:41,870 --> 01:07:43,310
 Você quase estragou tudo para mim.
 
-1331
+1317
 01:07:44,030 --> 01:07:44,970
 Eu poderia ter te matado.
 
-1332
+1318
 01:07:45,050 --> 01:07:47,170
 Nunca mais faça nada assim.
 
-1333
-01:07:49,770 --> 01:07:50,710
-Quando você vai aprender
+1319
+01:07:49,770 --> 01:07:52,150
+Quando você vai aprender a relaxar e levar na brincadeira?
 
-1334
-01:07:50,710 --> 01:07:52,150
-a relaxar e levar na brincadeira?
-
-1335
+1320
 01:07:54,550 --> 01:07:55,990
 Não é uma brincadeira para mim, Joey.
 
-1336
+1321
 01:07:57,770 --> 01:07:59,210
 Você é tão cheio de si.
 
-1337
+1322
 01:07:59,350 --> 01:08:01,250
 Joey Jeremiah, que cara gostosão.
 
-1338
-01:08:02,770 --> 01:08:03,390
-Vamos recapitular
+1323
+01:08:02,770 --> 01:08:04,710
+Vamos recapitular o verão do Jeremiah, que tal?
 
-1339
-01:08:03,390 --> 01:08:04,710
-o verão do Jeremiah, vamos?
+1324
+01:08:06,370 --> 01:08:08,910
+Veja que ser humano incrível e decente você tem sido.
 
-1340
-01:08:06,370 --> 01:08:07,650
-Veja que ser humano
-
-1341
-01:08:07,650 --> 01:08:08,910
-incrível e decente você tem sido.
-
-1342
+1325
 01:08:08,910 --> 01:08:10,590
 Você vai me ouvir.
 
-1343
-01:08:11,610 --> 01:08:12,490
-Joey Jeremiah
+1326
+01:08:11,610 --> 01:08:14,050
+Joey Jeremiah passa o verão namorando a Caitlin.
 
-1344
-01:08:12,490 --> 01:08:14,050
-passa o verão namorando Caitlin.
-
-1345
+1327
 01:08:14,190 --> 01:08:14,710
 Cale a boca.
 
-1346
+1328
 01:08:14,810 --> 01:08:15,710
-E transando com Tessa.
+E transando com a Tessa.
 
-1347
+1329
 01:08:17,270 --> 01:08:18,990
 Vamos dar uma grande salva de palmas, vamos?
 
-1348
+1330
 01:08:19,150 --> 01:08:20,230
 Grandes aplausos.
 
-1349
-01:08:41,380 --> 01:08:42,880
-Snake tem um senso de humor
+1331
+01:08:41,380 --> 01:08:43,520
+O Snake tem um senso de humor muito estranho.
 
-1350
-01:08:42,880 --> 01:08:43,520
-muito estranho.
-
-1351
+1332
 01:08:46,660 --> 01:08:47,620
 Tessa Campanelli?
 
-1352
-01:08:51,850 --> 01:08:53,010
-Você estava transando
+1333
+01:08:51,850 --> 01:08:54,210
+Você estava transando com a Tessa Campanelli?
 
-1353
-01:08:53,010 --> 01:08:54,210
-com Tessa Campanelli?
-
-1354
+1334
 01:08:55,770 --> 01:08:56,410
 Não.
 
-1355
+1335
 01:08:57,050 --> 01:08:58,370
 Não minta para mim, Joey.
 
-1356
+1336
 01:08:59,310 --> 01:09:01,110
 Caitlin, não é o que você pensa.
 
-1357
+1337
 01:09:01,390 --> 01:09:02,650
 Então o que é?
 
-1358
+1338
 01:09:06,310 --> 01:09:06,830
 Ei, Snake!
 
-1359
-01:09:08,430 --> 01:09:10,630
-Eu pareço que quero jogar
+1339
+01:09:08,430 --> 01:09:10,990
+Eu pareço que quero jogar vôlei?
 
-1360
-01:09:10,630 --> 01:09:10,990
-vôlei?
-
-1361
+1340
 01:09:14,470 --> 01:09:21,130
 Simplesmente aconteceu.
 
-1362
+1341
 01:09:21,310 --> 01:09:23,130
 Não significou nada.
 
-1363
-01:09:24,490 --> 01:09:25,450
-Não
+1342
+01:09:24,490 --> 01:09:26,310
+Não significou nada?
 
-1364
-01:09:25,450 --> 01:09:26,310
-significou nada?
+1343
+01:09:28,730 --> 01:09:31,170
+Então você nem era virgem, Joey?
 
-1365
-01:09:28,730 --> 01:09:29,930
-Então você nem era
-
-1366
-01:09:29,930 --> 01:09:31,170
-virgem, Joey?
-
-1367
+1344
 01:09:34,290 --> 01:09:35,270
 Não exatamente.
 
-1368
+1345
 01:09:36,030 --> 01:09:37,910
 Ou você é ou você não é.
 
-1369
+1346
 01:09:45,370 --> 01:09:45,890
 Por quê?
 
-1370
+1347
 01:09:50,180 --> 01:09:51,600
 Você estava sempre ocupada.
 
-1371
+1348
 01:09:52,160 --> 01:09:52,860
 Ela estava lá.
 
-1372
+1349
 01:09:53,140 --> 01:09:55,240
 Ela me convidou para sair. Eu nunca a convidei.
 
-1373
+1350
 01:09:55,300 --> 01:09:56,340
 É verdade. Eu juro.
 
-1374
+1351
 01:09:56,820 --> 01:09:58,160
-Mas você não impediu.
+Mas você não a impediu.
 
-1375
-01:10:00,740 --> 01:10:01,480
-Há quanto tempo
+1352
+01:10:00,740 --> 01:10:02,620
+Há quanto tempo isso está acontecendo?
 
-1376
-01:10:01,480 --> 01:10:02,620
-isso está acontecendo?
-
-1377
+1353
 01:10:02,620 --> 01:10:04,620
 Um tempo.
 
-1378
+1354
 01:10:06,080 --> 01:10:06,760
 Me diga.
 
-1379
+1355
 01:10:11,920 --> 01:10:13,220
 A maior parte do verão, ok?
 
-1380
-01:10:23,740 --> 01:10:24,560
-Eu ia
+1356
+01:10:23,740 --> 01:10:25,800
+Eu ia ficar aqui por você, Joey.
 
-1381
-01:10:24,560 --> 01:10:25,800
-ficar aqui por você, Joey.
+1357
+01:10:26,740 --> 01:10:29,560
+Eu estava fazendo todos os meus planos em torno de você.
 
-1382
-01:10:26,740 --> 01:10:28,520
-Eu estava fazendo todos os meus planos
+1358
+01:10:29,560 --> 01:10:29,560
+Você ainda pode.
 
-1383
-01:10:28,520 --> 01:10:29,560
-em torno de você. Você ainda pode.
-
-1384
+1359
 01:10:29,920 --> 01:10:31,860
-Tessa e eu, nós terminamos. Acabou.
+A Tessa e eu, nós terminamos. Acabou.
 
-1385
+1360
 01:10:31,940 --> 01:10:33,740
 Nunca mais vai acontecer. Eu prometo.
 
-1386
+1361
 01:10:34,000 --> 01:10:34,880
-Você é um bastardo!
+Você é um desgraçado!
 
-1387
+1362
 01:10:36,080 --> 01:10:37,300
 Caitlin, por favor, deixe-me explicar.
 
-1388
+1363
 01:10:38,180 --> 01:10:39,460
 Eu posso explicar.
 
-1389
+1364
 01:10:39,620 --> 01:10:40,400
 Caitlin, por favor.
 
-1390
+1365
 01:10:43,920 --> 01:10:44,940
 Caitlin, por favor.
 
-1391
+1366
 01:10:45,760 --> 01:10:46,940
 Abra a porta, Caitlin.
 
-1392
+1367
 01:10:47,060 --> 01:10:48,600
 Vamos, deixe-me entrar. Eu posso explicar isso.
 
-1393
+1368
 01:10:48,700 --> 01:10:48,980
 Por favor.
 
-1394
+1369
 01:10:50,360 --> 01:10:50,640
 Ah!
 
-1395
+1370
 01:10:52,280 --> 01:11:21,940
 Espere, aquela não é a Allison?
 
-1396
+1371
 01:11:36,730 --> 01:11:38,250
 Vamos lá, pessoal.
 
-1397
+1372
 01:11:38,770 --> 01:11:39,630
 Vamos lá, pessoal.
 
-1398
+1373
 01:11:40,190 --> 01:11:41,370
 Não é real!
 
-1399
+1374
 01:11:53,520 --> 01:11:54,340
 Cale a boca!
 
-1400
+1375
 01:12:07,330 --> 01:12:08,510
 Onde ela está?
 
-1401
+1376
 01:12:16,010 --> 01:12:16,810
 Eu posso respirar?
 
-1402
+1377
 01:12:17,690 --> 01:12:18,830
 Eu vou pegar sua mão, tudo bem?
 
-1403
+1378
 01:12:19,830 --> 01:12:20,890
 Apenas relaxe.
 
-1404
+1379
 01:12:21,430 --> 01:12:22,470
 E respire, ok?
 
-1405
+1380
 01:12:23,570 --> 01:12:24,610
 Olha, deixe-nos olhar para isso.
 
-1406
+1381
 01:12:24,930 --> 01:12:27,390
 Me desculpe, Caitlin. Por favor, acredite em mim.
 
-1407
+1382
 01:12:27,410 --> 01:12:28,890
 Eu não quis te machucar.
 
-1408
+1383
 01:12:30,270 --> 01:12:31,730
 Simplesmente aconteceu.
 
-1409
+1384
 01:12:35,310 --> 01:12:36,430
 Me desculpe.
 
-1410
+1385
 01:12:37,970 --> 01:12:39,390
 Você não deveria saber.
 
-1411
+1386
 01:12:41,930 --> 01:12:43,230
-Eles estão perdidos, Joey.
+Não há mais nós, Joey.
 
-1412
+1387
 01:12:49,170 --> 01:12:50,730
 Você poderia dizer alguma coisa?
 
-1413
+1388
 01:12:52,910 --> 01:12:53,390
 Por favor?
 
-1414
+1389
 01:13:44,960 --> 01:13:46,540
 Tudo bem, Homem-Cobra.
 
-1415
+1390
 01:13:47,040 --> 01:13:48,840
 Você finalmente salvou alguém de se afogar.
 
-1416
+1391
 01:13:49,220 --> 01:13:50,120
 Você é um herói, cara.
 
-1417
+1392
 01:13:50,780 --> 01:13:52,520
-Lucy deveria ter filmado isso com a câmera dela.
+A Lucy deveria ter filmado isso com a câmera dela.
 
-1418
+1393
 01:13:54,220 --> 01:13:55,160
-Onde está Lucy?
+Onde está a Lucy?
 
-1419
+1394
 01:13:55,320 --> 01:13:56,320
 Ela já deveria ter voltado.
 
-1420
+1395
 01:13:56,640 --> 01:13:58,460
-Eu só quebrei e empurrei o carro.
+Eu só freei e desviei o carro.
 
-1421
+1396
 01:14:01,740 --> 01:14:02,540
-É melhor irmos vê-la.
+É melhor irmos procurá-la.
 
-1422
+1397
 01:14:03,180 --> 01:14:04,640
-Snake deveria ter nos contado.
+O Snake deveria ter nos contado.
 
-1423
+1398
 01:14:04,860 --> 01:14:05,660
 Nós tivemos a chance.
 
-1424
+1399
 01:14:06,900 --> 01:14:08,880
 Ei, pessoal, alguém viu a Lucy?
 
-1425
+1400
 01:14:17,000 --> 01:14:18,360
-Jack, você está pegando aquelas trancas.
+Jack, pegue aquelas alavancas.
 
-1426
+1401
 01:14:19,520 --> 01:14:20,600
-Eu peguei aquela mangueira aqui.
+Eu peguei a mangueira aqui.
 
-1427
+1402
 01:14:30,600 --> 01:14:35,160
 Chegamos tarde demais para salvar este aqui.
 
-1428
+1403
 01:14:35,500 --> 01:14:36,360
 Eu encontrei isto no carro.
 
-1429
+1404
 01:14:37,120 --> 01:14:38,560
 Eu vou lá falar com o garoto.
 
-1430
+1405
 01:14:39,380 --> 01:14:39,700
 Ok.
 
-1431
+1406
 01:14:43,020 --> 01:14:44,640
 Ok, filho, você vai ter que vir comigo.
 
-1432
+1407
 01:14:47,500 --> 01:14:49,440
 Acho que temos fogo aqui, pessoal.
 
-1433
+1408
 01:14:50,400 --> 01:14:51,240
 Ok, aqui está outra válvula.
 
-1434
+1409
 01:14:51,340 --> 01:14:52,060
 Apaguei o fogo.
 
-1435
+1410
 01:14:53,000 --> 01:15:08,180
 Larguem os dois de trás, pessoal.
 
-1436
+1411
 01:15:08,280 --> 01:15:09,060
 O carro está vindo.
 
-1437
+1412
 01:15:14,880 --> 01:15:16,580
 Tudo bem, eu peguei a chave inglesa.
 
-1438
+1413
 01:15:16,680 --> 01:15:17,380
 Eu peguei a chave inglesa.
 
-1439
+1414
 01:15:35,880 --> 01:15:37,000
 Você está no número 16.
 
-1440
+1415
 01:15:37,780 --> 01:15:39,200
 Não toque no vidro.
 
-1441
+1416
 01:15:52,920 --> 01:15:53,720
 O que é isso?
 
-1442
+1417
 01:15:53,820 --> 01:15:56,180
 Eu venho aqui para te ver, e ainda temos que falar ao telefone?
 
-1443
+1418
 01:15:58,380 --> 01:15:59,900
 Este não é um lugar engraçado, Joey.
 
-1444
+1419
 01:16:01,200 --> 01:16:02,100
 Eu odeio isso.
 
-1445
+1420
 01:16:03,700 --> 01:16:04,840
 Olha, me desculpe, cara.
 
-1446
+1421
 01:16:07,020 --> 01:16:07,880
 Eu não entendo.
 
-1447
+1422
 01:16:07,920 --> 01:16:09,400
 Por que você está aqui?
 
-1448
+1423
 01:16:11,100 --> 01:16:11,900
 Eu tenho 19 anos.
 
-1449
+1424
 01:16:12,060 --> 01:16:12,940
 Eu não sou mais criança.
 
-1450
+1425
 01:16:16,610 --> 01:16:18,390
 Eu fui acusado.
 
-1451
+1426
 01:16:20,350 --> 01:16:22,330
 Negligência criminosa causando morte.
 
-1452
+1427
 01:16:23,950 --> 01:16:26,270
-Negligência criminosa causando lesão corporal duas vezes.
+Negligência criminosa causando lesão corporal, duas vezes.
 
-1453
+1428
 01:16:29,670 --> 01:16:30,910
 E dirigir embriagado.
 
-1454
+1429
 01:16:36,240 --> 01:16:38,780
 Não foi minha culpa aquela criança não estar usando cinto de segurança.
 
-1455
+1430
 01:16:40,120 --> 01:16:41,420
 Os policiais disseram que você estava...
 
-1456
+1431
 01:16:41,420 --> 01:16:43,680
 Não foi minha culpa a Lucy querer batatas fritas.
 
-1457
+1432
 01:16:47,440 --> 01:16:48,900
 E o que aconteceu com o Snake?
 
-1458
+1433
 01:16:50,240 --> 01:16:51,660
 Eu tentei ligar para ele,
 
-1459
+1434
 01:16:51,660 --> 01:16:53,140
 mas o cara não atende minhas ligações.
 
-1460
+1435
 01:16:54,020 --> 01:16:54,820
 Eu não sei.
 
-1461
+1436
 01:16:55,040 --> 01:16:56,220
-Snake e eu não estamos nos falando.
+O Snake e eu não estamos nos falando.
 
-1462
+1437
 01:16:56,660 --> 01:16:57,920
 Mas por que ele não fala comigo?
 
-1463
+1438
 01:17:00,320 --> 01:17:02,100
 Melhores amigos devem ficar juntos.
 
-1464
+1439
 01:17:13,830 --> 01:17:15,410
 Vai ficar tudo bem, cara.
 
-1465
+1440
 01:17:48,040 --> 01:17:48,760
 Como ela está?
 
-1466
-01:17:55,330 --> 01:17:56,690
-Eles não sabem se ela vai enxergar
+1441
+01:17:55,330 --> 01:17:58,230
+Eles não sabem se ela vai enxergar ou se ela vai andar.
 
-1467
-01:17:57,130 --> 01:17:58,230
-ou se ela vai andar.
-
-1468
+1442
 01:18:00,250 --> 01:18:01,290
 Eles não sabem de nada.
 
-1469
+1443
 01:18:03,410 --> 01:18:04,930
 Você não deveria tê-la deixado ir com eles.
 
-1470
+1444
 01:18:05,550 --> 01:18:06,050
 Bronco.
 
-1471
+1445
 01:18:10,760 --> 01:18:12,020
 Tem mais alguém aqui?
 
-1472
+1446
 01:18:12,880 --> 01:18:13,260
 Sim.
 
-1473
+1447
 01:18:13,840 --> 01:18:15,860
 O pai dela desceu para tomar uma xícara de café.
 
-1474
+1448
 01:18:17,000 --> 01:18:18,720
 E a mãe dela voltará depois do trabalho.
 
-1475
+1449
 01:18:25,280 --> 01:18:26,240
 Posso vê-la?
 
-1476
+1450
 01:18:27,040 --> 01:18:28,040
 Ela está dormindo.
 
-1477
+1451
 01:18:29,580 --> 01:18:30,960
 Tenho certeza que ela ficará feliz que você veio.
 
-1478
+1452
 01:18:31,640 --> 01:18:32,440
 Vá em frente e acorde-a.
 
-1479
+1453
 01:18:32,640 --> 01:18:32,840
 Ok.
 
-1480
+1454
 01:18:49,160 --> 01:18:49,620
 Luce?
 
-1481
+1455
 01:18:53,660 --> 01:18:54,160
 Lucy?
 
-1482
+1456
 01:18:54,160 --> 01:18:54,280
 Lucy?
 
-1483
+1457
 01:18:57,060 --> 01:18:57,660
 Caitlin?
 
-1484
+1458
 01:18:59,940 --> 01:19:00,240
 Oi.
 
-1485
+1459
 01:19:01,200 --> 01:19:02,060
 Como você está?
 
-1486
+1460
 01:19:05,440 --> 01:19:06,560
 Eu não sei.
 
-1487
+1461
 01:19:09,120 --> 01:19:10,960
 Eu não consigo ver nada.
 
-1488
+1462
 01:19:14,580 --> 01:19:16,100
 Tenho certeza que você vai ficar bem.
 
-1489
+1463
 01:19:19,390 --> 01:19:21,530
 Eu não quero ser cega.
 
-1490
+1464
 01:19:27,440 --> 01:19:29,960
-Nós deveríamos estar indo para a universidade juntas.
+Nós deveríamos estar indo para a faculdade juntas.
 
-1491
+1465
 01:19:57,300 --> 01:19:58,560
 Você tem meias suficientes?
 
-1492
+1466
 01:19:58,560 --> 01:19:59,600
 Eu tenho toneladas de meias.
 
-1493
+1467
 01:19:59,760 --> 01:20:01,500
 Eu tenho tudo, mãe.
 
-1494
+1468
 01:20:01,700 --> 01:20:02,660
 Escova de dentes extra.
 
-1495
+1469
 01:20:02,960 --> 01:20:04,760
 Eu tenho toalhas.
 
-1496
+1470
 01:20:05,020 --> 01:20:06,220
 Você sempre esquece alguma coisa.
 
-1497
+1471
 01:20:06,680 --> 01:20:07,900
 Eu vou subir.
 
-1498
+1472
 01:20:09,560 --> 01:20:10,000
 Snake?
 
-1499
+1473
 01:20:21,200 --> 01:20:22,600
 Eu não esperava te ver aqui.
 
-1500
+1474
 01:20:24,160 --> 01:20:25,620
 Sim, bem, eu, hum...
 
-1501
+1475
 01:20:27,020 --> 01:20:28,280
 Eu fui ver o Wheels.
 
-1502
+1476
 01:20:30,840 --> 01:20:32,540
 Ele está muito chateado por você não falar com ele.
 
-1503
+1477
 01:20:33,200 --> 01:20:34,000
 Ele está chateado?
 
-1504
+1478
 01:20:35,540 --> 01:20:37,320
 Os pais dele foram mortos por um motorista bêbado,
 
-1505
+1479
 01:20:37,400 --> 01:20:39,140
 então ele vai e dirige bêbado e mata uma criança.
 
-1506
+1480
 01:20:42,300 --> 01:20:43,440
 Snake, você não entende.
 
-1507
+1481
 01:20:43,600 --> 01:20:45,020
 Ele está realmente perturbado.
 
-1508
+1482
 01:20:45,700 --> 01:20:46,640
 Ele está perturbado?
 
-1509
+1483
 01:20:49,400 --> 01:20:50,440
 E a Lucy?
 
-1510
+1484
 01:20:51,420 --> 01:20:52,880
 O Wheels pensou no futuro da Lucy?
 
-1511
+1485
 01:20:53,780 --> 01:20:54,680
 E aquela criança?
 
-1512
+1486
 01:20:55,020 --> 01:20:55,800
 Dois anos de idade.
 
-1513
+1487
 01:20:57,020 --> 01:20:58,500
 Nunca teve a chance de fazer nada.
 
-1514
+1488
 01:20:58,600 --> 01:21:00,980
-Simplesmente morta, ido, acabado.
+Simplesmente morta, se foi, acabou.
 
-1515
-01:21:06,060 --> 01:21:07,680
-Bem, não falar com o Wheels
+1489
+01:21:06,060 --> 01:21:08,820
+Bem, não falar com o Wheels não vai mudar isso.
 
-1516
-01:21:07,680 --> 01:21:08,820
-não vai mudar isso.
-
-1517
+1490
 01:21:17,910 --> 01:21:18,410
 Escute.
 
-1518
+1491
 01:21:22,770 --> 01:21:25,590
 O que aconteceu na casa do Bronco...
 
-1519
+1492
 01:21:25,590 --> 01:21:26,810
 Eu estava com raiva.
 
-1520
+1493
 01:21:31,510 --> 01:21:33,630
 Sim, bem, ela provavelmente teria descoberto de qualquer maneira.
 
-1521
+1494
 01:21:35,230 --> 01:21:36,870
 Eu só sinto muito que tenha sido por minha causa.
 
-1522
+1495
 01:21:43,100 --> 01:21:44,700
 Então você está realmente indo embora.
 
-1523
+1496
 01:21:46,100 --> 01:21:46,500
 Sim.
 
-1524
+1497
 01:21:48,500 --> 01:21:49,600
 Para dizer a verdade,
 
-1525
+1498
 01:21:50,400 --> 01:21:51,720
-Eu mal posso esperar para sair daqui.
+eu mal posso esperar para sair daqui.
 
-1526
+1499
 01:21:53,480 --> 01:21:54,140
 Ei, Lucy.
 
-1527
+1500
 01:21:54,760 --> 01:21:56,300
 Oi, Jerry. Como você está?
 
-1528
+1501
 01:21:56,820 --> 01:21:57,220
 Bem.
 
-1529
+1502
 01:22:00,400 --> 01:22:01,260
 Vamos, mãe.
 
-1530
+1503
 01:22:03,000 --> 01:22:03,400
 Snake,
 
-1531
+1504
 01:22:04,680 --> 01:22:06,700
 por favor, eu não sei como falar com o Wheels.
 
-1532
+1505
 01:22:09,160 --> 01:22:10,100
 Você não poderia tentar?
 
-1533
+1506
 01:22:11,580 --> 01:22:12,500
 Podemos ir, mãe?
 
-1534
+1507
 01:22:12,500 --> 01:22:15,120
 Vamos lá, cara.
 
-1535
+1508
 01:22:15,120 --> 01:22:16,720
 Somos amigos desde a oitava série.
 
-1536
+1509
 01:22:18,340 --> 01:22:19,020
 Até mais, Jeremiah.
 
-1537
+1510
 01:22:54,570 --> 01:22:55,750
 Este lugar é um amor, né?
 
-1538
+1511
 01:22:55,770 --> 01:22:57,010
 O clima para outubro.
 
-1539
+1512
 01:22:57,410 --> 01:22:58,010
 Sério?
 
-1540
+1513
 01:22:58,370 --> 01:22:59,570
 Eles têm tanta sorte.
 
-1541
+1514
 01:23:05,530 --> 01:23:06,130
 Parabéns.
 
-1542
+1515
 01:23:06,990 --> 01:23:08,010
 Eu amo seu cabelo.
 
-1543
+1516
 01:23:08,470 --> 01:23:09,310
-Alexa que fez.
+A Alexa que fez.
 
-1544
+1517
 01:23:10,930 --> 01:23:13,710
 Ei, Simon.
 
-1545
+1518
 01:23:13,710 --> 01:23:15,590
 Muito obrigado, Snake.
 
-1546
+1519
 01:23:15,730 --> 01:23:16,310
 Muito obrigado.
 
-1547
+1520
 01:23:32,240 --> 01:23:32,840
-Camisola.
+Lingerie.
 
-1548
+1521
 01:23:34,340 --> 01:23:36,920
 Então, Simon, pronto para a grande tarefa de hoje à noite?
 
-1549
+1522
 01:23:37,380 --> 01:23:38,580
 Depois de quatro anos?
 
-1550
+1523
 01:23:38,960 --> 01:23:39,440
 Definitivamente.
 
-1551
+1524
 01:23:40,620 --> 01:23:42,160
 O apartamento está todo pronto.
 
-1552
+1525
 01:23:42,500 --> 01:23:43,700
 Nós mesmos o decoramos.
 
-1553
+1526
 01:23:44,140 --> 01:23:45,380
 Bem, eu decorei.
 
-1554
+1527
 01:23:46,120 --> 01:23:49,260
 Pessoal, nós temos o melhor apartamento.
 
-1555
+1528
 01:23:49,860 --> 01:23:51,040
-E eu deixei Alexa pensar mais tarde.
+E eu deixei a Alexa escolher tudo.
 
-1556
+1529
 01:23:51,160 --> 01:23:52,680
 Ela tomou todas as decisões de decoração.
 
-1557
+1530
 01:23:56,800 --> 01:23:58,520
 Estou tão apaixonado.
 
-1558
+1531
 01:23:59,680 --> 01:24:00,540
 Tão apaixonado.
 
-1559
+1532
 01:24:00,880 --> 01:24:05,620
-Então Erica decidiu ficar na República Dominicana?
+Então a Erica decidiu ficar na República Dominicana?
 
-1560
+1533
 01:24:05,720 --> 01:24:06,000
 Aham.
 
-1561
+1534
 01:24:06,140 --> 01:24:07,300
 Ela vai ensinar inglês.
 
-1562
+1535
 01:24:07,680 --> 01:24:09,120
 Além disso, ela conheceu esse cara, Carlos.
 
-1563
+1536
 01:24:09,680 --> 01:24:10,440
 Apaixonada.
 
-1564
+1537
 01:24:11,740 --> 01:24:13,020
 Estou tão feliz por ela.
 
-1565
+1538
 01:24:13,280 --> 01:24:13,960
 Você quer dançar?
 
-1566
+1539
 01:24:14,340 --> 01:24:14,660
 Claro.
 
-1567
+1540
 01:24:16,040 --> 01:24:16,560
 Caitlin.
 
-1568
+1541
 01:24:16,960 --> 01:24:17,880
 Oi, como vai?
 
-1569
+1542
 01:24:19,020 --> 01:24:20,580
 A cerimônia não está linda?
 
-1570
+1543
 01:24:20,580 --> 01:24:22,420
 Eles parecem tão felizes juntos.
 
-1571
+1544
 01:24:22,800 --> 01:24:23,480
 Eu sei.
 
-1572
+1545
 01:24:24,660 --> 01:24:26,200
-Então você está na universidade agora?
+Então você está na faculdade agora?
 
-1573
+1546
 01:24:26,520 --> 01:24:28,500
-Sim, e Emma está no jardim de infância
+Sim, e a Emma está no jardim de infância,
 
-1574
+1547
 01:24:28,500 --> 01:24:30,320
-para a equipe de estudantes mãe e filha.
+a dupla de mãe e filha universitárias.
 
-1575
+1548
 01:24:31,120 --> 01:24:31,840
 Você quer champanhe?
 
-1576
+1549
 01:24:32,340 --> 01:24:33,360
 Oh, eu adoraria.
 
-1577
+1550
 01:24:34,560 --> 01:24:35,760
 Não demore muito, no entanto.
 
-1578
+1551
 01:24:36,200 --> 01:24:36,980
 Eu não conheço ninguém.
 
-1579
+1552
 01:24:45,360 --> 01:24:46,380
 Ei, como vai?
 
-1580
+1553
 01:24:47,460 --> 01:24:48,200
 Vinho branco, por favor.
 
-1581
+1554
 01:24:49,600 --> 01:24:50,260
 Obrigado.
 
-1582
+1555
 01:24:53,040 --> 01:24:53,560
 Joey.
 
-1583
+1556
 01:24:55,480 --> 01:24:55,790
 Snake.
 
-1584
+1557
 01:24:57,000 --> 01:24:59,000
 Uh, dois champanhes, por favor.
 
-1585
+1558
 01:25:00,680 --> 01:25:02,200
-Então, como está a universidade?
+Então, como está a faculdade?
 
-1586
+1559
 01:25:02,520 --> 01:25:03,560
 Ótimo, simplesmente ótimo.
 
-1587
+1561
 01:25:07,420 --> 01:25:08,980
 Eu te vi na igreja hoje.
 
-1588
+1562
 01:25:09,860 --> 01:25:11,600
 Vejo que você finalmente conseguiu uma garota.
 
-1589
+1563
 01:25:13,260 --> 01:25:14,200
-Sim, Pam.
+Sim, a Pam.
 
-1590
+1564
 01:25:14,980 --> 01:25:15,720
 Ela é ótima.
 
-1591
+1565
 01:25:18,440 --> 01:25:20,300
 Bem, já era hora.
 
-1592
-01:25:21,640 --> 01:25:24,040
-Sim, bem, hum...
+1566
+01:25:21,640 --> 01:25:24,840
+Sim, bem, hum... eu gostaria que você a conhecesse.
 
-1593
-01:25:24,040 --> 01:25:24,840
-Eu gostaria que você a conhecesse.
-
-1594
+1567
 01:25:28,930 --> 01:25:29,750
 Eu gostaria disso.
 
-1595
+1568
 01:25:35,100 --> 01:25:36,100
 Então, como está o Wheels?
 
-1596
+1569
 01:25:37,480 --> 01:25:38,920
 Bem, o julgamento dele é em novembro.
 
-1597
+1570
 01:25:39,960 --> 01:25:40,960
 Ele vai se declarar culpado.
 
-1598
+1571
 01:25:42,360 --> 01:25:44,380
 Parece que ele pode ficar na cadeia por um bom tempo.
 
-1599
+1572
 01:25:47,020 --> 01:25:48,820
-Você alguma vez vai escrever para ele?
+Você vai escrever para ele?
 
-1600
+1573
 01:25:50,560 --> 01:25:51,020
 Talvez.
 
-1601
+1574
 01:25:52,960 --> 01:25:56,100
-Joey, eu gostaria que você conhecesse minha namorada, Pam.
+Joey, eu gostaria que você conhecesse minha namorada, a Pam.
 
-1602
-01:25:57,660 --> 01:25:58,780
-Pam, este é Joey.
+1575
+01:25:57,660 --> 01:25:58,860
+Pam, este é o Joey.
 
-1603
-01:25:58,780 --> 01:25:58,860
-Joey.
-
-1604
+1576
 01:25:59,140 --> 01:26:01,160
 Um velho amigo.
 
-1605
+1577
 01:26:03,100 --> 01:26:04,140
 É um prazer conhecer você.
 
-1606
+1578
 01:26:04,500 --> 01:26:04,760
 Oi.
 
-1607
+1579
 01:26:05,220 --> 01:26:06,580
 Joey, Snake, sorriam.
 
-1608
+1580
 01:26:07,600 --> 01:26:08,920
-Dá para acreditar que Simon está aqui?
+Dá para acreditar que o Simon está aqui?
 
-1609
+1581
 01:26:10,400 --> 01:26:11,720
-Aparentemente, Alexa conseguiu.
+Pelo visto, a Alexa conseguiu o que queria.
 
-1610
+1582
 01:26:12,980 --> 01:26:13,800
 Snake, escute.
 
-1611
+1583
 01:26:13,920 --> 01:26:15,120
 Me liga antes de ir.
 
-1612
+1584
 01:26:15,580 --> 01:26:17,940
 A gente se encontra, joga sinuca, conversa.
 
-1613
+1585
 01:26:18,060 --> 01:26:19,680
 Ok, bem, eu estou aqui pelo resto da semana.
 
-1614
+1586
 01:26:20,400 --> 01:26:21,120
 Que tal sexta-feira?
 
-1615
+1587
 01:26:21,800 --> 01:26:22,120
 Ótimo.
 
-1616
+1588
 01:26:22,960 --> 01:26:23,960
 Prazer em te conhecer, Pam.
 
-1617
+1589
 01:26:23,960 --> 01:26:27,060
-Oh, Lucy nunca aprovaria nada disso.
+Ah, a Lucy nunca aprovaria nada disso.
 
-1618
+1590
 01:26:27,220 --> 01:26:29,220
-Sabe, confira as estatísticas sobre casamento adolescente.
+Sabe, veja as estatísticas sobre casamento na adolescência.
 
-1619
+1591
 01:26:29,960 --> 01:26:31,240
 Sim, ela está muito melhor, né?
 
-1620
+1592
 01:26:31,580 --> 01:26:32,760
 Oh, ela está muito melhor.
 
-1621
-01:26:33,200 --> 01:26:34,500
-Ela tem um olho de volta ao normal,
+1593
+01:26:33,200 --> 01:26:36,240
+Um dos olhos dela voltou ao normal, e ela está usando um tapa-olho no outro.
 
-1622
-01:26:34,640 --> 01:26:36,240
-e ela tem um tapa-olho sobre o outro olho.
-
-1623
+1594
 01:26:36,760 --> 01:26:37,720
 Eu acabei de vê-la esta manhã.
 
-1624
+1595
 01:26:39,600 --> 01:26:40,000
 Caitlin?
 
-1625
+1596
 01:26:44,100 --> 01:26:44,860
 Posso me sentar?
 
-1626
+1597
 01:26:47,740 --> 01:26:48,140
 Claro.
 
-1627
+1598
 01:26:50,820 --> 01:26:51,560
 Oi, Spike.
 
-1628
+1599
 01:26:51,900 --> 01:26:52,300
 Oi.
 
-1629
+1600
 01:26:56,080 --> 01:26:56,560
 Então...
 
-1630
+1601
 01:26:57,120 --> 01:26:58,080
-como está a universidade?
+como está a faculdade?
 
-1631
+1602
 01:26:59,480 --> 01:27:00,240
 Está boa.
 
-1632
+1603
 01:27:00,480 --> 01:27:01,400
 Está muito boa.
 
-1633
+1604
 01:27:02,740 --> 01:27:03,960
 Estou aprendendo muito.
 
-1634
+1605
 01:27:04,840 --> 01:27:05,780
-Jornalismo é perfeito.
+Jornalismo é perfeito para mim.
 
-1635
+1606
 01:27:07,060 --> 01:27:08,520
-Ei, você vai ser famosa.
+Ei, você vai ficar famosa.
 
-1636
+1607
 01:27:09,080 --> 01:27:10,040
 Um dia eu vou me gabar,
 
-1637
+1608
 01:27:10,160 --> 01:27:11,820
-Caitlin? Sim, eu a conheci.
+"Caitlin Ryan? Sim, eu a conheci."
 
-1638
+1609
 01:27:12,840 --> 01:27:14,080
-Nós costumávamos estudar juntos no colégio.
+"A gente estudava junto no colégio."
 
-1639
+1610
 01:27:16,940 --> 01:27:18,980
 Acho que vou pegar algo para comer.
 
-1640
-01:27:30,410 --> 01:27:32,230
-Olha, eu queria me desculpar
+1611
+01:27:30,410 --> 01:27:33,630
+Olha, eu queria me desculpar pelo que eu fiz com você,
 
-1641
-01:27:32,230 --> 01:27:33,630
-pelo que eu fiz com você,
-
-1642
+1612
 01:27:34,850 --> 01:27:35,830
-por te machucar.
+por ter te machucado.
 
-1643
+1613
 01:27:37,830 --> 01:27:38,590
-Me desculpe.
+Sinto muito.
 
-1644
+1614
 01:27:42,620 --> 01:27:44,380
 Você meio que me fez um favor, Joey.
 
-1645
+1615
 01:27:45,520 --> 01:27:46,700
 Estou feliz por ter ido embora.
 
-1646
+1616
 01:27:47,180 --> 01:27:48,600
 Foi a coisa certa a se fazer.
 
-1647
+1617
 01:27:49,400 --> 01:27:50,320
 Eu cresci muito.
 
-1648
+1618
 01:27:53,600 --> 01:27:54,420
-Eu vejo isso.
+Dá para ver.
 
-1649
+1619
 01:27:57,460 --> 01:27:58,760
 Então, você está saindo com alguém?
 
-1650
+1620
 01:28:00,480 --> 01:28:01,360
 Nada de especial.
 
-1651
-01:28:02,060 --> 01:28:02,680
-E você?
+1621
+01:28:02,060 --> 01:28:03,700
+E você? Não.
 
-1652
-01:28:02,680 --> 01:28:03,700
-Não.
-
-1653
+1622
 01:28:05,700 --> 01:28:06,300
 Tessa?
 
-1654
+1623
 01:28:09,060 --> 01:28:10,320
-Nós não nos falamos.
+A gente não se fala.
 
-1655
+1624
 01:28:11,560 --> 01:28:12,620
 Não desde o verão.
 
-1656
+1625
 01:28:14,120 --> 01:28:14,720
 Sim.
 
-1657
+1626
 01:28:15,080 --> 01:28:15,520
-Verão.
+Aquele verão.
 
-1658
+1627
 01:28:17,200 --> 01:28:18,000
 Senhoras e senhores,
 
-1659
+1628
 01:28:18,460 --> 01:28:20,040
 eu gostaria de apresentar os noivos,
 
-1660
+1629
 01:28:20,740 --> 01:28:21,920
 Sr. e Sra. Dexter.
 
-1661
+1630
 01:28:38,250 --> 01:28:40,110
-Você acha que eles vão conseguir?
+Você acha que eles vão dar certo?
 
-1662
+1631
 01:28:41,830 --> 01:28:42,990
-Eles bem que podem.
+É bem possível.
 
-1663
+1632
 01:28:43,990 --> 01:28:45,450
 Eles parecem muito felizes juntos.
 
-1664
+1633
 01:28:47,590 --> 01:28:47,830
 Sim.
 
-1665
+1634
 01:28:59,710 --> 01:29:01,390
 Você quer dançar?
 
-1666
+1635
 01:29:03,730 --> 01:29:04,810
 Como velhos amigos?
 
-1667
+1636
 01:29:08,670 --> 01:29:09,630
 Eu gostaria disso.
 
-1668
+1637
 01:29:24,940 --> 01:29:26,620
-Você já pensou que nós teríamos durado?
+Você acha que a gente teria durado?
 
-1669
-01:29:29,160 --> 01:29:30,800
-Bem, nós nunca saberemos,
+1638
+01:29:29,160 --> 01:29:31,260
+Bem, nós nunca saberemos, não é?
 
-1670
-01:29:30,800 --> 01:29:31,260
-não é?
-
-1671
+1639
 01:29:31,700 --> 01:29:33,160
 Não podemos voltar atrás.
 
-1672
+1640
 01:29:35,380 --> 01:29:38,100
-Mas nós tivemos alguns bons momentos, certo?
+Mas a gente teve bons momentos, né?
 
-1673
+1641
 01:29:39,980 --> 01:29:40,740
 Sim.
 
-1674
+1642
 01:29:41,800 --> 01:29:43,240
-Nós tivemos alguns ótimos momentos.
+A gente teve ótimos momentos.
 
-1675
+1643
 01:30:09,920 --> 01:30:29,740
-Eu te amo.
+(música)
