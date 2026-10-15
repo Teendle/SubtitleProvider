@@ -1,6 +1,6 @@
 1
 00:00:03,421 --> 00:00:04,756
-ADAM:
+Adam:
 Ei, a Imogen
 retornou sua ligação?
 
@@ -47,7 +47,7 @@ Acho que estamos terminando.
 
 11
 00:00:19,562 --> 00:00:22,398
-ADAM:
+Adam:
 Bem, se você ainda gosta dela,
 apenas relaxe;
 
@@ -57,7 +57,7 @@ Avalie, seja tranquilo.
 
 13
 00:00:25,985 --> 00:00:27,820
-ELI:
+Eli:
 Eu consigo ser tranquilo.
 
 14
@@ -128,7 +128,7 @@ algum dia!
 
 28
 00:01:00,395 --> 00:01:01,646
-ELI:
+Eli:
 Isso explica tudo.
 
 29
@@ -163,7 +163,7 @@ Não exagere.
 
 36
 00:01:19,998 --> 00:01:23,084
-Ok. Vou continuar
+OK. Vou continuar
 agindo naturalmente.
 
 37
@@ -256,7 +256,7 @@ Sou eu.
 
 58
 00:02:24,729 --> 00:02:26,397
-(RI)
+(Ri)
 Não tem graça.
 
 59
@@ -297,11 +297,11 @@ Isso é tão humilhante!
 
 67
 00:02:39,619 --> 00:02:40,662
-(RI)
+(Ri)
 
 68
 00:02:40,745 --> 00:02:42,830
-Ok, é aqui que você diz:
+OK, é aqui que você diz:
 "Não se preocupe, Tori,
 
 69
@@ -363,7 +363,7 @@ Código dos manos.
 
 81
 00:03:13,194 --> 00:03:15,572
-(SINAL TOCA)
+(Sinal toca)
 
 82
 00:03:15,655 --> 00:03:17,991
@@ -372,7 +372,7 @@ de queijo?
 
 83
 00:03:28,168 --> 00:03:29,919
-JAKE:
+Jake:
 A propósito, suas anotações de
 espanhol foram a minha salvação.
 
@@ -382,13 +382,13 @@ Obrigada.
 
 85
 00:03:31,004 --> 00:03:32,797
-IMOGEN:
+Imogen:
 Acho que você quer dizer
 "Muchas gracias".
 
 86
 00:03:32,881 --> 00:03:33,882
-(RINDEM)
+(Rindem)
 
 87
 00:03:36,009 --> 00:03:37,969
@@ -406,12 +406,12 @@ somos amigáveis.
 
 90
 00:03:42,724 --> 00:03:44,058
-Ok...
+OK...
 É só isso, Eli.
 
 91
 00:03:44,142 --> 00:03:45,643
-Eu disse "ok".
+Eu disse "OK".
 
 92
 00:03:47,395 --> 00:03:49,397
@@ -420,7 +420,7 @@ Não, me desculpa.
 
 93
 00:03:50,857 --> 00:03:53,109
-AMBOS:
+Ambos:
 Talvez devêssemos...
 
 94
@@ -500,12 +500,12 @@ cada segundo juntos.
 
 111
 00:04:30,063 --> 00:04:31,064
-Ok.
+OK.
 
 112
 00:04:32,524 --> 00:04:35,151
-ARMSTRONG:
-Ok. Hoje é o dia
+Armstrong:
+OK. Hoje é o dia
 que todos vocês estavam esperando.
 
 113
@@ -611,8 +611,7 @@ Jenna.
 
 134
 00:05:21,990 --> 00:05:24,158
-Você e eu -
-seus pais.
+Você e eu... seus pais.
 
 135
 00:05:24,242 --> 00:05:26,286
@@ -621,7 +620,7 @@ os pais dele!
 
 136
 00:05:26,369 --> 00:05:27,871
-SRA. COHEN:
+Sra. Cohen:
 Turma!
 
 137
@@ -630,23 +629,23 @@ Jenna.
 
 138
 00:05:31,249 --> 00:05:32,250
-(SINAL TOCA)
+(Sinal toca)
 
 139
 00:05:33,501 --> 00:05:34,836
-TORI:
-ROAAAAAR!
+Tori:
+Roaaaaar!
 
 140
 00:05:35,837 --> 00:05:38,089
-MARISOL:
+Marisol:
 Vamos lá, Niner,
 vamos ouvir outro rugido.
 
 141
 00:05:38,173 --> 00:05:39,799
-TORI:
-ROAAAAAR!
+Tori:
+Roaaaaar!
 
 142
 00:05:39,883 --> 00:05:42,218
@@ -654,7 +653,7 @@ Acho que isso vale uma moeda.
 
 143
 00:05:46,764 --> 00:05:50,643
-MAYA:
+Maya:
 Uau. Isso é algum tipo de ritual
 bizarro de iniciação?
 
@@ -759,13 +758,13 @@ que você esteja feliz...
 
 165
 00:06:35,480 --> 00:06:36,773
-ADAM:
+Adam:
 Casas de penhores têm um cheiro
 estranho.
 
 166
 00:06:36,856 --> 00:06:39,317
-ELI:
+Eli:
 Ah, o cheiro de
 comportamento impulsivo e arrependimento.
 
@@ -869,7 +868,7 @@ com que me preocupar.
 
 188
 00:07:18,273 --> 00:07:19,274
-ADAM:
+Adam:
 Bem, no momento em que você
 passar por aquela porta,
 
@@ -890,13 +889,13 @@ Ei, Powell!
 
 192
 00:07:27,991 --> 00:07:30,243
-ED:
+Ed:
 KC, o que você
 está fazendo aqui?
 
 193
 00:07:30,326 --> 00:07:32,036
-CATHY:
+Cathy:
 Você esqueceu alguma coisa
 ontem à noite?
 
@@ -916,7 +915,7 @@ para me acostumar.
 
 197
 00:07:38,793 --> 00:07:40,086
-ED:
+Ed:
 É, eu gostaria que você tivesse
 ligado.
 
@@ -1002,7 +1001,7 @@ o tempo todo ♪
 
 214
 00:08:29,177 --> 00:08:32,764
-Ok,
+OK,
 este é o quarto da Fiona.
 
 215
@@ -1011,7 +1010,7 @@ Eu ouço um cara.
 
 216
 00:08:33,848 --> 00:08:35,433
-IMOGEN:
+Imogen:
 Ele quebrou minha câmera,
 foi na minha casa,
 
@@ -1036,7 +1035,7 @@ nada sobre bipolaridade.
 
 221
 00:08:44,317 --> 00:08:46,694
-FIONA:
+Fiona:
 Então é por isso que você
 está se escondendo aqui?
 
@@ -1065,7 +1064,7 @@ que ele é um cara incrível.
 
 227
 00:08:56,454 --> 00:08:58,206
-(RANGIDO ALTO E BAQUE)
+(Rangido alto e baque)
 
 228
 00:08:59,207 --> 00:09:00,124
@@ -1098,7 +1097,7 @@ ou não?
 
 234
 00:09:12,762 --> 00:09:14,305
-IMOGEN:
+Imogen:
 Essa é sua seleção de armas?!
 
 235
@@ -1107,12 +1106,12 @@ Você tem um abajur!
 
 236
 00:09:25,775 --> 00:09:26,818
-AAAHHH!
+Aaahhh!
 
 237
 00:09:26,901 --> 00:09:27,986
-IMOGEN: Eli!
-FIONA: Adam?
+Imogen: Eli!
+Fiona: Adam?
 
 238
 00:09:28,987 --> 00:09:31,990
@@ -1131,7 +1130,7 @@ e dizer oi.
 
 241
 00:09:35,785 --> 00:09:37,620
-ADAM:
+Adam:
 Oi.
 
 242
@@ -1140,18 +1139,18 @@ Então, onde está o francês?
 
 243
 00:09:39,372 --> 00:09:41,749
-FIONA:
+Fiona:
 O quê? Estamos assistindo
 a um filme francês.
 
 244
 00:09:41,833 --> 00:09:43,793
-IMOGEN:
+Imogen:
 Vocês estavam nos espionando?
 
 245
 00:09:43,877 --> 00:09:44,878
-Ok, não diga que isso
+OK, não diga que isso
 é uma coisa maníaca.
 
 246
@@ -1171,7 +1170,7 @@ perto de você!
 
 249
 00:09:52,427 --> 00:09:53,344
-Ok, mas foi você quem mentiu
+OK, mas foi você quem mentiu
 
 250
 00:09:53,428 --> 00:09:54,262
@@ -1229,20 +1228,20 @@ todos vocês.
 
 262
 00:10:21,414 --> 00:10:23,082
-(FOTOS RASGANDO)
+(Fotos rasgando)
 
 263
 00:10:25,001 --> 00:10:27,670
-(GAVETAS BATENDO
-E RANGENDO ALTO)
+(Gavetas batendo
+e rangendo alto)
 
 264
 00:10:31,424 --> 00:10:32,175
-(OFECANTE)
+(Ofecante)
 
 265
 00:10:32,258 --> 00:10:33,968
-BULLFROG:
+Bullfrog:
 São 4 da manhã.
 Que diabos você está fazendo?
 
@@ -1346,7 +1345,7 @@ Nós precisamos de um advogado.
 
 287
 00:11:38,616 --> 00:11:39,909
-LISA:
+Lisa:
 Um advogado?
 
 288
@@ -1486,7 +1485,7 @@ Eu sei,
 
 317
 00:12:43,348 --> 00:12:46,434
-(SUSPIRA)
+(Suspira)
 Mas você pode ser alguém.
 
 318
@@ -1501,7 +1500,7 @@ possa admirar?
 
 320
 00:12:58,571 --> 00:12:59,572
-(RINDEM)
+(Rindem)
 
 321
 00:13:00,198 --> 00:13:01,199
@@ -1509,7 +1508,7 @@ possa admirar?
 
 322
 00:13:04,661 --> 00:13:06,120
-ANÚNCIO SONORO:
+Anúncio sonoro:
 Vamos ter alguns fãs
 nas arquibancadas.
 
@@ -1727,7 +1726,7 @@ por enquanto.
 
 369
 00:14:53,019 --> 00:14:56,064
-Ok. Então como você explica
+OK. Então como você explica
 meu comportamento?
 
 370
@@ -1736,7 +1735,7 @@ Hormônios adolescentes.
 
 371
 00:14:57,982 --> 00:14:58,983
-(ZOMBA)
+(Zomba)
 
 372
 00:14:59,984 --> 00:15:01,236
@@ -1749,7 +1748,7 @@ eu não gosto dessa palavra.
 
 374
 00:15:05,281 --> 00:15:06,616
-Ok, mas então eu provavelmente
+OK, mas então eu provavelmente
 devo ficar longe
 
 375
@@ -1774,7 +1773,7 @@ a lidar com isso.
 
 379
 00:15:16,042 --> 00:15:20,296
-SRA. COHEN:
+Sra. Cohen:
 E amanhã começamos nosso módulo
 sobre equações orgânicas, pessoal.
 
@@ -1868,7 +1867,7 @@ quando estarei pronta.
 
 399
 00:16:17,145 --> 00:16:19,230
-SRA. COHEN:
+Sra. Cohen:
 KC, posso falar
 com você?
 
@@ -1918,7 +1917,7 @@ Claro.
 
 410
 00:16:47,217 --> 00:16:48,468
-TORI:
+Tori:
 Desculpa o atraso.
 
 411
@@ -1932,7 +1931,7 @@ Eu procurei em todo lugar...
 
 413
 00:16:51,304 --> 00:16:53,765
-MARISOL:
+Marisol:
 Tudo bem,
 eu encontrei uma substituta.
 
@@ -2020,7 +2019,7 @@ As coisas precisam mudar.
 
 432
 00:17:43,982 --> 00:17:44,983
-Ok.
+OK.
 
 433
 00:17:46,025 --> 00:17:47,652
@@ -2041,7 +2040,7 @@ essa roupa fedida.
 
 437
 00:17:56,327 --> 00:17:57,328
-(FINGE UM GASPIDO OFENDIDO)
+(Finge um gaspido ofendido)
 
 438
 00:18:10,008 --> 00:18:12,635
@@ -2164,7 +2163,7 @@ também?
 
 464
 00:19:32,048 --> 00:19:34,092
-CONNOR:
+Connor:
 Bola de beisebol de 0,14 kg
 
 465
@@ -2197,7 +2196,7 @@ de Ciências!
 
 471
 00:19:47,772 --> 00:19:48,690
-(APLAUSOS)
+(Aplausos)
 
 472
 00:19:48,773 --> 00:19:50,108
@@ -2239,18 +2238,18 @@ ele pense isso.
 
 480
 00:20:08,543 --> 00:20:10,170
-SRA. COHEN:
+Sra. Cohen:
 Connor?
 
 481
 00:20:10,253 --> 00:20:11,754
-CONNOR:
+Connor:
 Vocês estão prontos
 para a próxima pergunta?
 
 482
 00:20:18,720 --> 00:20:20,221
-Ok, então uma espécie em nível
+OK, então uma espécie em nível
 atômico
 
 483
@@ -2275,7 +2274,7 @@ sempre doíam mais ♪
 
 487
 00:20:31,399 --> 00:20:32,400
-(BATIDA)
+(Batida)
 
 488
 00:20:34,736 --> 00:20:35,987
@@ -2306,8 +2305,8 @@ Super solteiro.
 
 494
 00:20:47,123 --> 00:20:49,334
-BULLFROG:
-(SUSPIRA, DESCULPA) Ah...
+Bullfrog:
+(Suspira, desculpa) Ah...
 Você tem certeza?
 
 495
@@ -2325,13 +2324,13 @@ Má hora?
 
 498
 00:20:57,091 --> 00:20:59,969
-ELI:
+Eli:
 Não. Não,
 só fique longe.
 
 499
 00:21:00,053 --> 00:21:01,346
-IMOGEN:
+Imogen:
 Então, eu recebi uma ligação
 
 500
@@ -2402,7 +2401,7 @@ não estamos namorando.
 
 514
 00:21:27,038 --> 00:21:28,289
-(RINDEM)
+(Rindem)
 
 515
 00:21:28,373 --> 00:21:28,873
@@ -2439,8 +2438,8 @@ Engraçado!
 
 522
 00:21:41,261 --> 00:21:42,262
-AMBOS:
-(RINDEM)
+Ambos:
+(Rindem)
 
 523
 00:21:43,930 --> 00:21:45,640

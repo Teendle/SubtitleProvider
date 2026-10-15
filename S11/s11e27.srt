@@ -1,22 +1,22 @@
 1
 00:00:02,712 --> 00:00:04,964
-(CELULAR TOCA)
+(Celular toca)
 
 2
 00:00:15,642 --> 00:00:16,893
-(SUSPIRA PROFUNDAMENTE)
+(Suspira profundamente)
 
 3
 00:00:20,939 --> 00:00:22,815
-(PORTA BATE)
+(Porta bate)
 
 4
 00:00:22,899 --> 00:00:23,816
-MÃE?
+Mãe?
 
 5
 00:00:23,900 --> 00:00:26,236
-LARA COYNE:
+Lara Coyne:
 Fiona? Você ainda está aqui?
 
 6
@@ -85,15 +85,15 @@ Mande meu carinho para a Holly J.
 
 20
 00:01:08,319 --> 00:01:10,321
-(CELULAR TOCA)
+(Celular toca)
 
 21
 00:01:13,491 --> 00:01:14,742
-(SUSPIRA PROFUNDAMENTE)
+(Suspira profundamente)
 
 22
 00:01:17,579 --> 00:01:18,580
-(SUSPIRA)
+(Suspira)
 
 23
 00:01:22,250 --> 00:01:24,335
@@ -168,7 +168,7 @@ nos visite em: teendle.win
 
 40
 00:02:07,086 --> 00:02:08,004
-GAROTA:
+Garota:
 Vamos lá, mãe,
 
 41
@@ -178,16 +178,16 @@ pegar um bom lugar?
 
 42
 00:02:10,798 --> 00:02:12,967
-(ESTUDANTES E PAIS
-CONVERSAM ANIMADAMENTE)
+(Estudantes e pais
+conversam animadamente)
 
 43
 00:02:14,469 --> 00:02:16,054
-(GAROTA RI)
+(Garota ri)
 
 44
 00:02:18,056 --> 00:02:19,974
-RILEY:
+Riley:
 Então, que cor
 é o seu vestido de baile?
 
@@ -206,7 +206,7 @@ Um corsage combinando.
 
 48
 00:02:26,814 --> 00:02:30,818
-Ok... Eu sinto muito, muito,
+OK... Eu sinto muito, muito,
 muito mesmo!
 
 49
@@ -219,7 +219,7 @@ O Owen te convidou.
 
 51
 00:02:38,201 --> 00:02:39,118
-(SUSPIRO EXASPERADO)
+(Suspiro exasperado)
 
 52
 00:02:39,202 --> 00:02:41,788
@@ -359,19 +359,19 @@ o seu telefone!
 
 81
 00:03:40,096 --> 00:03:43,600
-(BANDA TOCA
-"POMP AND CIRCUMSTANCE")
+(Banda toca
+"pomp and circumstance")
 
 82
 00:03:44,893 --> 00:03:48,313
-SR. SIMPSON:
+Sr. Simpson:
 Estou muito orgulhoso de apresentar
-a oradora da turma deste ano -
+a oradora da turma deste ano...
 
 83
 00:03:48,396 --> 00:03:50,648
 Ela vai para Yale
-ano que vem -
+ano que vem...
 
 84
 00:03:50,732 --> 00:03:51,774
@@ -379,15 +379,15 @@ Holly J Sinclair!
 
 85
 00:03:51,858 --> 00:03:54,736
-(PLATEIA APLAUDE E VIBRA)
+(Plateia aplaude e vibra)
 
 86
 00:03:54,819 --> 00:03:55,862
-WOO!
+Woo!
 
 87
 00:03:55,945 --> 00:03:56,946
-WOO!
+Woo!
 
 88
 00:04:00,408 --> 00:04:02,619
@@ -468,11 +468,11 @@ Ou ir para o exército...
 
 105
 00:04:43,284 --> 00:04:44,410
-(RI)
+(Ri)
 
 106
 00:04:44,494 --> 00:04:48,623
-HOLLY J:
+Holly J:
 Eu sei que não importa
 o quão difícil seja a jornada,
 
@@ -507,15 +507,15 @@ E boa sorte!
 
 113
 00:05:08,184 --> 00:05:10,144
-(TODOS APLAUDEM E VIBRAM)
+(Todos aplaudem e vibram)
 
 114
 00:05:12,397 --> 00:05:13,398
-(SUSPIRA)
+(Suspira)
 
 115
 00:05:14,399 --> 00:05:16,359
-MARISOL:
+Marisol:
 Nós vamos dominar
 a escola ano que vem,
 
@@ -539,7 +539,7 @@ Para perder a virgindade?
 
 120
 00:05:26,286 --> 00:05:27,579
-MARISOL:
+Marisol:
 Uh-oh.
 
 121
@@ -586,7 +586,7 @@ para compartilhar esse biscoito?
 
 130
 00:05:45,305 --> 00:05:47,515
-DREW:
+Drew:
 Ah, tem biscoitos?
 
 131
@@ -621,7 +621,7 @@ Fique à vontade para twittar!
 
 138
 00:06:03,448 --> 00:06:04,782
-(MEIO RI)
+(Meio ri)
 
 139
 00:06:04,866 --> 00:06:06,451
@@ -651,7 +651,7 @@ voltarem ao trabalho, então.
 
 145
 00:06:22,675 --> 00:06:23,676
-(RI)
+(Ri)
 
 146
 00:06:25,887 --> 00:06:28,723
@@ -681,7 +681,7 @@ Sav Bhandari!
 
 152
 00:06:46,783 --> 00:06:47,700
-(TODOS APLAUDINDO E VIBRANDO)
+(Todos aplaudindo e vibrando)
 
 153
 00:06:47,784 --> 00:06:50,161
@@ -703,11 +703,11 @@ Chantay Black!
 
 157
 00:06:57,126 --> 00:06:59,420
-(TODOS APLAUDINDO E VIBRANDO)
+(Todos aplaudindo e vibrando)
 
 158
 00:07:02,090 --> 00:07:03,675
-(APLAUSOS E VIBRAÇÕES)
+(Aplausos e vibrações)
 
 159
 00:07:03,758 --> 00:07:04,968
@@ -715,20 +715,20 @@ Anya MacPherson!
 
 160
 00:07:05,969 --> 00:07:07,971
-(MULTIDÃO APLAUDE E VIBRA)
+(Multidão aplaude e vibra)
 
 161
 00:07:09,389 --> 00:07:10,515
-SR. SIMPSON:
+Sr. Simpson:
 Riley Stavros!
 
 162
 00:07:10,598 --> 00:07:12,433
-(MULTIDÃO VIBRA ALTO)
+(Multidão vibra alto)
 
 163
 00:07:13,434 --> 00:07:14,477
-(APLAUSOS)
+(Aplausos)
 
 164
 00:07:14,561 --> 00:07:15,562
@@ -749,7 +749,7 @@ vocês se formaram!
 
 168
 00:07:24,988 --> 00:07:26,948
-(ESTUDANTES VIBRAM EUFORICAMENTE)
+(Estudantes vibram euforicamente)
 
 169
 00:07:31,119 --> 00:07:32,120
@@ -767,16 +767,16 @@ com todos os nossos amigos... ♪
 
 172
 00:07:37,000 --> 00:07:38,960
-(CARROS RONCAM)
+(Carros roncam)
 
 173
 00:07:42,046 --> 00:07:43,047
-FIONA:
+Fiona:
 Obrigada.
 
 174
 00:07:43,131 --> 00:07:45,216
-CHARLIE:
+Charlie:
 Fiona!
 
 175
@@ -823,11 +823,11 @@ Só me deixa ir, por favor!
 
 184
 00:08:06,070 --> 00:08:07,322
-(FIONA SUSPIra)
+(Fiona suspira)
 
 185
 00:08:08,907 --> 00:08:10,116
-SRA. STAVROS:
+Sra. Stavros:
 Aqui, peça para um dos seus amigos.
 
 186
@@ -881,7 +881,7 @@ Seus padrões são muito altos.
 
 197
 00:08:36,976 --> 00:08:38,269
-(SUSPIRA)
+(Suspira)
 
 198
 00:08:38,353 --> 00:08:39,479
@@ -920,1134 +920,1131 @@ E você está tão bonito.
 
 206
 00:09:10,343 --> 00:09:12,053
-(SUSPIRA PROFUNDAMENTE)
+(Suspira profundamente)
 
 207
 00:09:16,099 --> 00:09:17,433
 Obrigada.
 
-209
+208
 00:09:23,106 --> 00:09:24,107
-(CHORANDO)
+(Chorando)
 
-210
+209
 00:09:26,568 --> 00:09:28,528
 Eu não quero beber.
 
-211
+210
 00:09:30,572 --> 00:09:33,032
 É tão difícil
 lutar contra a vontade.
 
-212
+211
 00:09:33,116 --> 00:09:35,118
 Para quem você pode ligar?
 
-213
+212
 00:09:35,201 --> 00:09:37,036
 Algum tipo de padrinho?
 
-214
+213
 00:09:37,120 --> 00:09:39,414
 Sua mãe ou a Holly J?
 
-215
+214
 00:09:40,623 --> 00:09:42,750
 A Holly J não quer
 me ver agora.
 
-216
+215
 00:09:42,834 --> 00:09:44,419
 Ela acha que eu sou egoísta.
 
-217
+216
 00:09:45,420 --> 00:09:48,590
 É por isso que você queria
 beber?
 
-218
+217
 00:09:54,721 --> 00:09:58,850
 Todo mundo tem alguém
 que pensa neles primeiro;
 
-219
+218
 00:09:58,933 --> 00:10:01,352
 Sabe,
 que está lá por eles!
 
-220
+219
 00:10:02,353 --> 00:10:04,689
 Mas...
 A Holly J está me deixando
 
-221
+220
 00:10:04,772 --> 00:10:07,192
 E ela não pode ser substituída.
 
-222
+221
 00:10:07,275 --> 00:10:08,443
 Por ninguém!
 
-223
+222
 00:10:09,777 --> 00:10:14,073
 Eu sei que não é a mesma coisa,
 mas eu estou aqui
 
-224
+223
 00:10:14,157 --> 00:10:15,533
 Se você precisar de alguém
 para conversar.
 
-225
+224
 00:10:15,617 --> 00:10:17,660
 Pare de ser tão legal!
 
-226
+225
 00:10:18,870 --> 00:10:19,871
-(SUSPIRA)
+(Suspira)
 
-227
+226
 00:10:22,540 --> 00:10:24,083
 Eu perdi o Sr. Calças de Smoking.
 
-228
+227
 00:10:25,084 --> 00:10:26,836
 Do que você está falando?
 
-229
+228
 00:10:26,920 --> 00:10:29,380
 Eu me embriaguei
 e o libertei.
 
-230
+229
 00:10:29,464 --> 00:10:31,007
 Você está falando sério?
 
-231
+230
 00:10:31,090 --> 00:10:32,217
 Por que você faria isso?!
 
-232
+231
 00:10:32,300 --> 00:10:33,468
 Porque!
 
-233
+232
 00:10:34,844 --> 00:10:36,387
 Eu estou sozinha.
 
-234
+233
 00:10:36,471 --> 00:10:38,723
 Eu mereço estar sozinha.
 
-235
+234
 00:10:38,806 --> 00:10:41,935
 Você percebe
 por que está sozinha, Fiona?
 
-236
+235
 00:10:42,018 --> 00:10:43,895
 Você está sozinha porque
 afasta as pessoas!
 
-237
+236
 00:10:43,978 --> 00:10:45,063
 E algum dia,
 
-238
+237
 00:10:45,146 --> 00:10:48,316
 Ninguém vai se importar
 em voltar!
 
-239
+238
 00:10:51,653 --> 00:10:53,238
 Você está certa.
 
-240
+239
 00:10:56,324 --> 00:10:57,700
-(SUSPIRA)
+(Suspira)
 
-241
+240
 00:10:57,784 --> 00:11:00,703
 Eu tenho um lugar
 para ir.
 
-242
+241
 00:11:13,591 --> 00:11:16,219
 Então, uh...
 Em que filme você estava pensando?
 
-243
+242
 00:11:17,220 --> 00:11:20,473
 Ação, terror,
 algo com zumbis talvez?
 
-244
+243
 00:11:20,557 --> 00:11:23,601
 Eu, uh, posso te proteger
 nas partes assustadoras?
 
-245
+244
 00:11:23,685 --> 00:11:24,644
 Ou comédia.
 
-246
+245
 00:11:24,727 --> 00:11:26,813
 Eu amo comédia;
 Quais DVDs você tem?
 
-247
+246
 00:11:26,896 --> 00:11:28,439
 Espere.
 
-248
+247
 00:11:28,523 --> 00:11:30,441
 Tem algo
 que eu quero fazer primeiro.
 
-249
+248
 00:11:30,525 --> 00:11:32,318
-(BATENDO)
+(Batendo)
 
-250
+249
 00:11:32,402 --> 00:11:33,403
 Marisol!
 
-251
+250
 00:11:36,614 --> 00:11:37,574
 O que você está fazendo aqui?
 
-252
+251
 00:11:37,657 --> 00:11:38,700
 Ah, me desculpe.
 
-253
+252
 00:11:38,783 --> 00:11:40,368
 Esqueci minhas chaves!
 Estou trancada para fora.
 
-254
+253
 00:11:41,369 --> 00:11:43,329
 Então você veio para minha casa?
 
-255
+254
 00:11:43,413 --> 00:11:46,624
 Tudo bem,
 não é, Drew?
 
-256
+255
 00:11:46,708 --> 00:11:47,750
 Certo?!
 
-257
+256
 00:11:50,253 --> 00:11:51,963
 É,
 quanto mais, melhor.
 
-258
+257
 00:11:55,884 --> 00:11:59,929
-MULHER: (NO ALTO-FALANTE)
+Mulher: (No alto-falante)
 Dr. Riley, ligue para a emergência.
 
-259
+258
 00:12:03,600 --> 00:12:05,101
 Posso entrar?
 
-260
+259
 00:12:05,185 --> 00:12:06,186
-(CHORANDO)
+(Chorando)
 
-261
+260
 00:12:12,901 --> 00:12:15,403
-FIONA:
+Fiona:
 Vitamina de desculpas.
 
-262
+261
 00:12:19,866 --> 00:12:24,287
 Então... Sua última diálise
 antes da grande cirurgia.
 
-263
+262
 00:12:26,080 --> 00:12:27,916
 Isso é emocionante.
 
-264
+263
 00:12:29,542 --> 00:12:31,920
 Você estava certa
 sobre o Charlie.
 
-265
+264
 00:12:32,003 --> 00:12:33,713
 Você sempre está.
 
-266
+265
 00:12:33,796 --> 00:12:37,884
 Eu odeio como você diz isso
 como se eu fizesse de propósito!
 
-267
+266
 00:12:37,967 --> 00:12:40,053
 Como se eu quisesse que você
 falhasse.
 
-268
+267
 00:12:40,136 --> 00:12:42,430
 Você só está cuidando
 de mim.
 
-269
+268
 00:12:42,514 --> 00:12:44,224
-(SOLUÇA)
+(Soluça)
 
-270
+269
 00:12:44,307 --> 00:12:46,267
 Eu descobri
 que eu ia perder o baile,
 
-271
+270
 00:12:46,351 --> 00:12:50,230
 E eu não podia conversar
 com a minha melhor amiga sobre isso.
 
-272
+271
 00:12:52,398 --> 00:12:57,195
 Uma vitamina não vai fazer
 tudo ficar bem.
 
-273
+272
 00:12:57,278 --> 00:12:58,738
 E francamente,
 estou cansada de resolver
 
-274
+273
 00:12:58,821 --> 00:13:01,324
 Os problemas de todo mundo.
 
-275
+274
 00:13:01,407 --> 00:13:05,078
-(SUSPIRA)
+(Suspira)
 Então agora é sua vez!
 
-276
+275
 00:13:05,161 --> 00:13:06,454
 Meninas, entrem!
 
-277
+276
 00:13:09,415 --> 00:13:10,416
-(VESTIDOS FARFALHAM)
+(Vestidos farfalham)
 
-278
+277
 00:13:11,417 --> 00:13:13,962
-ANYA E CHANTAY:
+Anya e Chantay:
 Feliz pré-baile!
 
-279
+278
 00:13:14,045 --> 00:13:16,256
 Você sabe que é daqui a dois dias,
 certo?
 
-280
+279
 00:13:16,339 --> 00:13:18,174
 Eu planejei um pré-baile para nós!
 
-281
+280
 00:13:18,258 --> 00:13:19,676
 A Fiona reservou para nós
 a melhor equipe de cabelo e maquiagem
 
-282
+281
 00:13:19,759 --> 00:13:20,885
 Da cidade.
 
-283
+282
 00:13:20,969 --> 00:13:22,512
 Eu já acertei tudo
 com sua mãe,
 
-284
+283
 00:13:22,595 --> 00:13:23,888
 Que autorizou
 com seus médicos.
 
-285
+284
 00:13:23,972 --> 00:13:26,307
 E uh...
 Nossa limusine nos aguarda!
 
-286
+285
 00:13:28,268 --> 00:13:31,104
 Olha, o baile não é só sobre
 comer frango seco
 
-287
+286
 00:13:31,187 --> 00:13:34,148
 E dançar ao som de
 "Living on a Prayer".
 
-288
+287
 00:13:34,232 --> 00:13:35,942
 É sobre melhores amigas,
 
-289
+288
 00:13:36,025 --> 00:13:38,236
 E celebrar tudo
 o que vocês passaram juntas
 
-290
+289
 00:13:38,319 --> 00:13:39,487
 Uma última vez.
 
-291
+290
 00:13:41,489 --> 00:13:43,867
 Então, o que me diz,
 Holly J?
 
-292
+291
 00:13:45,702 --> 00:13:48,204
 Você vem com a gente
 para o pré-baile?
 
-293
+292
 00:13:49,205 --> 00:13:50,707
 Eu adoraria!
 
-294
+293
 00:13:50,790 --> 00:13:51,708
-(TODAS RIM)
+(Todas riem)
+
+294
+00:13:53,084 --> 00:13:54,419
+(Música dramática toca na TV)
 
 295
-00:13:53,084 --> 00:13:54,419
-(MÚSICA DRAMÁTICA TOCA NA TV)
-
-296
 00:13:54,502 --> 00:13:55,837
 Este filme é tão profundo.
 
-297
+296
 00:13:58,006 --> 00:13:59,549
-MARISOL:
+Marisol:
 Eu sei.
 
-298
+297
 00:13:59,632 --> 00:14:01,467
 Ele simplesmente te faz...
 pensar.
 
-299
+298
 00:14:01,551 --> 00:14:03,011
-(SUSPIRA PROFUNDAMENTE)
+(Suspira profundamente)
 
-300
+299
 00:14:03,094 --> 00:14:04,596
 Tipo, realmente pensar.
 
-301
+300
 00:14:04,679 --> 00:14:05,680
 É isso aí!
 
-302
+301
 00:14:07,432 --> 00:14:08,349
-MARISOL:
+Marisol:
 O que você está fazendo?!
 
-303
+302
 00:14:08,433 --> 00:14:10,226
 O filme acabou!
 
-304
+303
 00:14:10,310 --> 00:14:11,477
 Essa era a melhor parte!
 
-305
+304
 00:14:11,561 --> 00:14:16,524
 Marisol, você se importaria de dar
 um tempo a mim e à Katie?
 
-306
+305
 00:14:18,568 --> 00:14:21,571
 Alguém já deveria estar em casa
 agora.
 
-307
+306
 00:14:23,489 --> 00:14:25,575
-(SUSSURRA)
+(Sussurra)
 Boa sorte!
 
-308
+307
 00:14:25,658 --> 00:14:27,493
-DREW:
+Drew:
 Obrigado!
 
-309
+308
 00:14:29,829 --> 00:14:31,873
-(PORTA DESLIZA E FECHA)
+(Porta desliza e fecha)
 
-310
+309
 00:14:31,956 --> 00:14:33,625
 Finalmente, estamos sozinhos!
 
-311
+310
 00:14:43,927 --> 00:14:45,178
-(PIGARREIA)
+(Pigarreia)
+
+311
+00:14:50,141 --> 00:14:52,685
+OK, hum...
 
 312
-00:14:50,141 --> 00:14:52,685
-Ok, hum...
-
-313
 00:14:52,769 --> 00:14:53,853
 Eu tenho uma confissão.
 
-314
+313
 00:14:53,937 --> 00:14:56,731
 Eu pedi para a Marisol
 vir aqui hoje.
 
-315
+314
 00:14:56,814 --> 00:14:58,233
 O quê? Por quê?
 
-316
+315
 00:14:58,316 --> 00:14:59,651
-KATIE:
+Katie:
 Eu gosto muito de você,
 
-317
+316
 00:14:59,734 --> 00:15:02,529
 Mas eu não estou pronta
 para fazer sexo.
 
-318
+317
 00:15:02,612 --> 00:15:03,696
 Ainda não.
 
-319
+318
 00:15:03,780 --> 00:15:05,698
 Você achou que iríamos
 fazer sexo?
 
-320
+319
 00:15:05,782 --> 00:15:08,117
 Sim, e eu sou virgem.
 
-321
+320
 00:15:09,160 --> 00:15:11,704
 Então... O teste de DST?
 
-322
+321
 00:15:11,788 --> 00:15:13,957
 Deveria atrasar
 esta conversa.
 
-323
+322
 00:15:14,040 --> 00:15:14,958
 Eu sei que você tem experiência,
 
-324
+323
 00:15:15,041 --> 00:15:18,127
 Então, se você quiser
 terminar comigo...
 
-325
+324
 00:15:19,128 --> 00:15:20,672
 Isso é hilário!
 
-326
+325
 00:15:21,673 --> 00:15:23,007
 O que é hilário?
 
-327
+326
 00:15:23,091 --> 00:15:25,385
 Eu também tenho uma confissão
 a fazer.
 
-328
+327
 00:15:25,468 --> 00:15:26,761
 Eu gosto muito de você.
 
-329
+328
 00:15:26,845 --> 00:15:29,931
 Então eu te convidei para vir,
 sozinha...
 
-330
+329
 00:15:31,558 --> 00:15:33,685
 Para te apresentar
 à minha mãe.
 
-331
+330
 00:15:33,768 --> 00:15:35,311
 Ela estará em casa
 a qualquer minuto.
 
-332
+331
 00:15:35,395 --> 00:15:36,729
 Oh meu Deus!
 
-333
+332
 00:15:36,813 --> 00:15:38,398
 Eu sou a maior perdedora!
 
-334
+333
 00:15:38,481 --> 00:15:39,524
 Não a maior.
 
-335
+334
 00:15:39,607 --> 00:15:40,984
 A mais fofa?
 
-336
+335
 00:15:42,402 --> 00:15:44,529
-AUDRA:
+Audra:
 Cheguei! Tem alguém aí?
 
-337
+336
 00:15:44,612 --> 00:15:46,656
 Sim, aqui embaixo, mãe!
 
-338
+337
 00:15:48,241 --> 00:15:50,076
 Então, você está pronta?
 
-339
+338
 00:15:50,159 --> 00:15:51,744
 Para conhecer sua mãe?
 
-340
+339
 00:15:51,828 --> 00:15:53,204
 Definitivamente.
 
-341
+340
 00:15:57,333 --> 00:15:59,460
-AUDRA: Oi.
-DREW: Ei.
+Audra: Oi.
+Drew: Ei.
 
-342
+341
 00:15:59,544 --> 00:16:01,921
 Ah, quem temos aqui?
 
-343
+342
 00:16:02,005 --> 00:16:04,757
 Esta é a Katie,
 minha nova namorada.
 
-344
+343
 00:16:05,758 --> 00:16:09,596
-KATIE:
+Katie:
 É um prazer conhecê-la,
 Sra. Torres.
 
-345
+344
 00:16:09,679 --> 00:16:12,182
 Uh, bem, por que não nos conhecemos
 melhor.
 
-346
+345
 00:16:12,265 --> 00:16:13,933
 Venham lá para cima.
 
-347
+346
 00:16:14,934 --> 00:16:16,728
 ♪♪♪
 
-348
+347
 00:16:16,811 --> 00:16:18,688
 ♪ Estamos em mundos diferentes ♪
 
-349
+348
 00:16:19,689 --> 00:16:20,857
 ♪ Hoje ♪
 
-350
+349
 00:16:21,858 --> 00:16:25,236
 ♪ Hoje caminhamos pelo mundo ♪
 
-351
+350
 00:16:26,237 --> 00:16:29,115
 ♪ Fizemos nossas reverências hoje ♪
 
-352
+351
 00:16:29,199 --> 00:16:30,450
-(TODOS RINDO)
+(Todos rindo)
 
-353
+352
 00:16:30,533 --> 00:16:33,203
 ♪ Hoje nos afastamos ♪
 
-354
+353
 00:16:34,829 --> 00:16:37,540
 ♪ Inclinamos nossas cabeças
 para agradecer ♪
 
-355
+354
 00:16:38,541 --> 00:16:42,253
 ♪ Porque nosso mundo
 está ficando estranho ♪
 
-356
+355
 00:16:43,254 --> 00:16:48,134
 ♪ A pior parte é
 que o amanhã foi embora ♪
 
-357
+356
 00:16:49,135 --> 00:16:52,472
 ♪ Condenamos as palavras que dizemos ♪
 
-358
+357
 00:16:57,393 --> 00:17:01,022
 ♪ Uma chance de arriscar
 das chamas... ♪
 
-359
+358
 00:17:02,023 --> 00:17:03,066
-(GAROTAS RIM)
+(Garotas riem)
 
-360
+359
 00:17:06,569 --> 00:17:07,695
 Tudo bem, pessoal,
 serpentinas!
 
-361
+360
 00:17:07,779 --> 00:17:09,113
-HOLLY J:
+Holly J:
 Hora da serpentina! Vamos lá!
 
-362
+361
 00:17:11,241 --> 00:17:13,243
 ♪ Hoje ♪
 
-363
+362
 00:17:15,495 --> 00:17:18,248
 ♪ Hoje nos afastamos ♪
 
-364
+363
 00:17:19,249 --> 00:17:20,500
 ♪ Hoje... ♪
 
-365
+364
 00:17:21,501 --> 00:17:22,919
 Meninas, venham aqui!
 
-366
+365
 00:17:26,256 --> 00:17:27,674
 Vocês estão pensando
 o que eu estou pensando?
 
-367
+366
 00:17:27,757 --> 00:17:30,343
-CHANTAY:
+Chantay:
 Nossa própria Calçada da Fama de Degrassi?
 
-368
+367
 00:17:30,426 --> 00:17:31,386
-FIONA:
+Fiona:
 Bem, eu ainda tenho
 mais um ano
 
-369
+368
 00:17:31,469 --> 00:17:33,263
 Antes de ganhar minhas marcas.
 
-370
+369
 00:17:33,346 --> 00:17:34,889
 Vocês podem ir na frente.
 
-371
+370
 00:17:34,973 --> 00:17:36,808
 Ei, MacPherson,
 dentro ou fora?
 
-372
+371
 00:17:38,685 --> 00:17:39,602
-(SUSPIRA PROFUNDAMENTE)
+(Suspira profundamente)
 
-373
+372
 00:17:39,686 --> 00:17:42,605
 E se eu for para o exército
 e não conseguir aguentar?
 
-374
+373
 00:17:42,689 --> 00:17:45,024
 É tudo o que me resta.
 
-375
+374
 00:17:45,108 --> 00:17:46,609
-CHANTAY:
+Chantay:
 Eu também estou com medo.
 
-376
+375
 00:17:46,693 --> 00:17:48,403
 De repente, vou ser
 esse peixinho
 
-377
+376
 00:17:48,486 --> 00:17:51,281
 Nesse grande lago universitário.
 
-378
+377
 00:17:53,283 --> 00:17:54,450
 Estou realmente com medo
 de não conseguir fazer
 
-379
+378
 00:17:54,534 --> 00:17:55,577
 O mesmo tipo de amigos
 em Yale
 
-380
+379
 00:17:55,660 --> 00:17:58,079
 Que fiz em Degrassi.
 
-381
+380
 00:17:59,080 --> 00:18:00,790
-FIONA:
+Fiona:
 E eu estive com muito medo
 de contar à minha melhor amiga
 
-382
+381
 00:18:00,874 --> 00:18:02,375
 Que...
 
-383
+382
 00:18:02,458 --> 00:18:05,587
 Ontem à noite eu bebi
 pela primeira vez em meses.
 
-384
+383
 00:18:05,670 --> 00:18:07,213
 Por que você não me contou?
 
-385
+384
 00:18:07,297 --> 00:18:10,216
 Eu não queria que você
 se decepcionasse comigo!
 
-386
+385
 00:18:10,300 --> 00:18:12,802
 Eu sinto que continuo
 decepcionando a todos.
 
-387
+386
 00:18:14,262 --> 00:18:15,847
-(SUSPIRA)
+(Suspira)
 
-388
+387
 00:18:15,930 --> 00:18:18,391
 Eu até soltei o gato do Charlie
 ontem à noite.
 
-389
+388
 00:18:20,977 --> 00:18:23,646
 Você soltou
 o Sr. Calças de Smoking?
 
-390
+389
 00:18:24,647 --> 00:18:26,816
-(HOLLY J E CHANTAY RIEM BAIXINHO)
+(Holly J e Chantay riem baixinho)
+
+390
+00:18:26,900 --> 00:18:28,276
+(Anya ri)
 
 391
-00:18:26,900 --> 00:18:28,276
-(ANYA RI)
-
-392
 00:18:28,359 --> 00:18:29,527
 Não tem graça!
 
-393
+392
 00:18:29,611 --> 00:18:32,071
-(ANYA, CHANTAY
-E HOLLY J RIM)
+(Anya, Chantay
+e Holly J riem)
+
+393
+00:18:32,155 --> 00:18:33,948
+(Todas riem)
 
 394
-00:18:32,155 --> 00:18:33,948
-(TODAS RIM)
-
-395
 00:18:34,032 --> 00:18:37,368
-Ok,
+OK,
 talvez seja um pouco engraçado.
 
-396
+395
 00:18:37,452 --> 00:18:40,580
-Ok, me desculpe.
+OK, me desculpe.
 Você está bem?
 
-397
+396
 00:18:41,581 --> 00:18:42,749
-(RINDO)
+(Rindo)
 
-398
+397
 00:18:45,126 --> 00:18:46,503
 Estou realmente tentando,
 Holly J.
 
-399
+398
 00:18:49,088 --> 00:18:51,257
 Estou pronta para seguir em frente.
 
-400
+399
 00:18:51,341 --> 00:18:53,092
 Tem certeza?
-ANYA: Sim.
+Anya: Sim.
 
-401
+400
 00:18:53,176 --> 00:18:55,178
 Exército, aqui vou eu.
 
-402
+401
 00:18:56,971 --> 00:18:58,890
-(SUSPIRA NERVOSAMENTE)
+(Suspira nervosamente)
 
-403
+402
 00:19:00,016 --> 00:19:01,100
 Um, dois...
 
-404
+403
 00:19:02,101 --> 00:19:03,102
 Três!
 
-405
+404
 00:19:03,645 --> 00:19:04,646
-(ESPARRAMENTO)
+(Esparramento)
+
+405
+00:19:07,524 --> 00:19:09,317
+(Garotas gemem e riem)
 
 406
-00:19:07,524 --> 00:19:09,317
-(GAROTAS GEMEM E RIM)
-
-407
 00:19:10,318 --> 00:19:12,278
-HOLLY J:
+Holly J:
 Bem, ainda não terminamos!
 
-408
+407
 00:19:12,362 --> 00:19:13,363
 Iniciais!
 
-409
+408
 00:19:14,364 --> 00:19:16,699
 ♪♪♪
 
-410
+409
 00:19:16,783 --> 00:19:19,577
 ♪ Esse é meu irmão ♪
 
-411
-00:19:19,661 --> 00:19:21,704
-
-412
+410
 00:19:21,788 --> 00:19:23,498
-(SUSPIRA)
+(Suspira)
 
-413
+411
 00:19:23,581 --> 00:19:26,084
 Degrassi nunca vai nos esquecer.
 
-414
+412
 00:19:27,544 --> 00:19:29,379
-FIONA:
+Fiona:
 Nem eu.
 
-415
+413
 00:19:31,714 --> 00:19:32,924
 ♪ Sozinha ♪
 
-416
+414
 00:19:33,007 --> 00:19:34,801
-(GAROTAS RIM)
+(Garotas riem)
 
-417
+415
 00:19:34,884 --> 00:19:38,805
 ♪ Brilhe uma luz ♪
 
-418
+416
 00:19:38,888 --> 00:19:41,307
 ♪ Sozinha ♪
 
-419
+417
 00:19:43,601 --> 00:19:44,644
-(CLIENTES CONVERSAM)
+(Clientes conversam)
 
-420
+418
 00:19:44,727 --> 00:19:46,479
-DREW:
+Drew:
 Me desculpe por minha mãe
 ter te interrogado ontem à noite.
 
-421
+419
 00:19:46,563 --> 00:19:48,356
 Ela está apenas cuidando
 de você.
 
-422
+420
 00:19:48,439 --> 00:19:51,526
 Ela geralmente odeia
 as garotas com quem eu namoro.
 
-423
+421
 00:19:51,609 --> 00:19:53,236
 Falando em garotas
 com quem você namorou,
 
-424
+422
 00:19:53,319 --> 00:19:56,990
 Hum, a Bianca se inscreveu
 para o dia de orientação do nono ano.
 
-425
+423
 00:19:57,073 --> 00:19:59,742
 Bianca?
 Ela não é exatamente de participar.
 
-426
+424
 00:19:59,826 --> 00:20:01,202
 Bem, o que você acha?
 
-427
+425
 00:20:01,286 --> 00:20:03,162
 Posso confiar nela
 com um grupo de alunos do nono ano?
 
-428
+426
 00:20:03,246 --> 00:20:06,124
 Eu não confiaria nela
 nem com um pacote de chicletes.
 
-429
+427
 00:20:06,207 --> 00:20:07,917
 Bem,
 precisamos de voluntários,
 
-430
+428
 00:20:08,001 --> 00:20:10,503
 Então, talvez ela tenha mudado?
 
-431
+429
 00:20:11,963 --> 00:20:13,298
 Altamente improvável.
 
-432
+430
 00:20:16,009 --> 00:20:18,178
 Ugh!
 Precisa de mais açúcar.
 
-433
+431
 00:20:18,261 --> 00:20:20,305
 Já volto.
 
-434
+432
 00:20:21,806 --> 00:20:23,808
-(CELULAR TOCA)
+(Celular toca)
 
-435
+433
 00:20:37,238 --> 00:20:39,115
-FIONA:
+Fiona:
 Oi, Charlie.
 
-436
+434
 00:20:40,033 --> 00:20:42,118
 Eu te devo um enorme pedido de desculpas.
 
-437
+435
 00:20:44,245 --> 00:20:47,165
 Eu coloquei esses cartazes
 por toda a área.
 
-438
+436
 00:20:47,248 --> 00:20:48,625
 Você não precisa
 me perdoar,
 
-439
+437
 00:20:48,708 --> 00:20:51,753
 Eu só sinto muito, muito mesmo
 pelo seu gatinho.
 
-440
+438
 00:20:52,754 --> 00:20:54,464
 Obrigada,
 
-441
+439
 00:20:54,547 --> 00:20:56,007
 Mas ele foi encontrado.
 Ele foi?!
 
-442
+440
 00:20:57,008 --> 00:20:59,260
 Bem, acho que nós dois
 fomos encontrados.
 
-443
+441
 00:20:59,344 --> 00:21:01,513
 Estou pensando muito
 mais claramente hoje,
 
-444
+442
 00:21:01,596 --> 00:21:02,764
 Graças a você.
 
-445
+443
 00:21:02,847 --> 00:21:04,557
 Que bom ouvir isso.
 
-446
+444
 00:21:04,641 --> 00:21:06,935
 E tem algo aqui
 que te pertence.
 
-447
+445
 00:21:07,018 --> 00:21:08,019
 Obrigada.
 
-448
+446
 00:21:09,020 --> 00:21:11,689
 Vou encontrar um lugar
 para ele.
 
-449
+447
 00:21:11,773 --> 00:21:14,609
 Talvez eu possa te ajudar
 a se acertar com a Holly J?
 
-450
+448
 00:21:14,692 --> 00:21:17,111
 Não precisa.
 Eu já fiz isso.
 
-451
+449
 00:21:17,195 --> 00:21:20,657
 Ela vai fazer
 o transplante de rim.
 
-452
+450
 00:21:20,740 --> 00:21:22,575
 Incrível!
 
-453
+451
 00:21:22,659 --> 00:21:24,786
 Ela vai ter
 uma nova chance na vida!
 
-454
+452
 00:21:24,869 --> 00:21:25,912
 É.
 
-455
+453
 00:21:25,995 --> 00:21:27,205
 Eu também.
 
-456
+454
 00:21:28,206 --> 00:21:30,875
 Eu vou me internar na reabilitação hoje à noite.
 
-457
+455
 00:21:31,876 --> 00:21:32,961
 Boa sorte.
 
-458
+456
 00:21:34,796 --> 00:21:36,214
 Então acho
 que você não vai ao baile?
 
-459
+457
 00:21:38,758 --> 00:21:40,134
 É,
 sempre tem o ano que vem.

@@ -1,6 +1,6 @@
 1
 00:00:01,093 --> 00:00:05,055
-CLARE:
+Clare:
 Alli, eu só disse que ele é alto
 e tem uma caminhonete.
 
@@ -48,7 +48,7 @@ com a reforma.
 
 11
 00:00:38,339 --> 00:00:39,715
-JAKE:
+Jake:
 Há quanto tempo você
 está aí?
 
@@ -175,13 +175,13 @@ nos visite em: teendle.win
 
 40
 00:02:01,046 --> 00:02:04,258
-ALLI:
+Alli:
 Então, o Jake estava bonito?
 Aposto que sim.
 
 41
 00:02:04,341 --> 00:02:06,677
-CLARE:
+Clare:
 Alli, eu tenho uma hora
 para terminar meu artigo
 
@@ -217,7 +217,7 @@ me desenhar uma figura depois.
 
 48
 00:02:21,233 --> 00:02:24,361
-KATIE:
+Katie:
 Jake, fico feliz que você
 possa fazer parte
 
@@ -237,18 +237,18 @@ em Degrassi foram fáceis?
 
 52
 00:02:31,285 --> 00:02:32,703
-JAKE:
+Jake:
 (Suspira) Bem, algumas pessoas
 me surpreenderam.
 
 53
 00:02:32,786 --> 00:02:35,164
-KATIE:
+Katie:
 Isso é bom, não é?
 
 54
 00:02:35,247 --> 00:02:36,498
-JAKE:
+Jake:
 Com certeza!
 Porque, como um novo aluno,
 
@@ -268,18 +268,18 @@ Sem conseguir desviar o olhar.
 
 58
 00:02:42,129 --> 00:02:43,130
-KATIE:
+Katie:
 Parece meu pior pesadelo.
 
 59
 00:02:43,130 --> 00:02:45,800
-JAKE:
+Jake:
 Bem, depende de
 quem está olhando.
 
 60
 00:02:46,258 --> 00:02:48,636
-ALLI:
+Alli:
 Ah... Primeira noite de cinema
 do semestre.
 
@@ -441,7 +441,7 @@ de volta à escola desde...
 
 94
 00:03:56,912 --> 00:03:58,789
-ADAM:
+Adam:
 Aqueles membros de gangue
 roubaram seu traseiro.
 
@@ -515,7 +515,7 @@ e voltar para a escola
 
 110
 00:04:34,116 --> 00:04:36,118
-ALUNO:
+Aluno:
 Cuidado!
 
 111
@@ -621,7 +621,7 @@ vou tentar.
 
 133
 00:05:22,164 --> 00:05:24,708
-BETENKAMP:
+Betenkamp:
 Certo, já falamos
 sobre o coração.
 
@@ -631,7 +631,7 @@ Vamos para os órgãos reprodutores.
 
 135
 00:05:38,722 --> 00:05:41,684
-DREW:
+Drew:
 Capitães de queimada intramural,
 conheçam seu novo MVP.
 
@@ -647,7 +647,7 @@ no nosso último jogo.
 
 138
 00:05:44,436 --> 00:05:45,896
-MARISOL:
+Marisol:
 Você, ah...
 tem certeza de que está pronto para isso?
 
@@ -741,7 +741,7 @@ eu não sou você.
 
 158
 00:06:35,738 --> 00:06:37,781
-CLARE:
+Clare:
 Mãe, cheguei!
 
 159
@@ -782,7 +782,7 @@ Com a minha mãe.
 
 167
 00:06:54,256 --> 00:06:55,632
-SRA. EDWARDS:
+Sra. Edwards:
 Oh. Parece adorável,
 Clare querida,
 
@@ -803,7 +803,7 @@ Eu não tenho certeza.
 
 171
 00:07:03,515 --> 00:07:05,309
-CLARE:
+Clare:
 Um encontro?
 
 172
@@ -935,7 +935,7 @@ Ah... você é a melhor.
 
 200
 00:08:14,878 --> 00:08:16,714
-CLARE:
+Clare:
 Alli, você precisa vir aqui.
 
 201
@@ -959,7 +959,7 @@ outro aniversário no ano que vem.
 
 205
 00:08:25,472 --> 00:08:27,224
-JAKE:
+Jake:
 Clare? A pizza chegou.
 
 206
@@ -1067,7 +1067,7 @@ Eu também não.
 
 230
 00:09:26,116 --> 00:09:27,618
-CLARE:
+Clare:
 Eu vou direto para o inferno.
 
 231
@@ -1191,7 +1191,7 @@ Ei!
 
 257
 00:10:20,129 --> 00:10:22,256
-ADAM:
+Adam:
 Então, é verdade?
 
 258
@@ -1353,7 +1353,7 @@ te deixar ir... ♪
 
 294
 00:12:02,439 --> 00:12:03,983
-ADAM:
+Adam:
 Cinco minutos para o show.
 
 295
@@ -1377,7 +1377,7 @@ Principalmente agora.
 
 299
 00:12:11,573 --> 00:12:12,992
-AMBOS:
+Ambos:
 (Riem)
 
 300
@@ -1475,7 +1475,7 @@ te deixar ir ♪
 
 320
 00:12:56,201 --> 00:12:58,329
-KATIE:
+Katie:
 Clare, você terminou a cobertura
 desta semana da peça?
 
@@ -1565,8 +1565,7 @@ Hum, onde você vai?
 
 339
 00:13:41,497 --> 00:13:42,998
-Eu tenho mais perguntas -
-pelo menos dez.
+Eu tenho mais perguntas... pelo menos dez.
 
 340
 00:13:43,082 --> 00:13:45,250
@@ -1575,7 +1574,7 @@ que preciso cancelar.
 
 341
 00:13:45,334 --> 00:13:47,836
-TIME DE QUEIMADA:
+Time de queimada:
 (Gritando)
 S-e-j-a-m a-g-r-e-s-s-i-v-o-s.
 
@@ -1590,7 +1589,7 @@ Sejam agressivos!
 
 344
 00:13:53,217 --> 00:13:55,970
-DREW:
+Drew:
 Tem lugar
 para mais um?
 
@@ -1643,7 +1642,7 @@ fazer essas coisas comigo ♪
 
 356
 00:14:31,005 --> 00:14:32,214
-CLARE:
+Clare:
 Posso ter
 aquele bilhete de volta?
 
@@ -1756,7 +1755,7 @@ você sabe onde me encontrar.
 
 380
 00:15:42,993 --> 00:15:44,244
-MULTIDÃO:
+Multidão:
 (Gritos)
 
 381
@@ -1765,7 +1764,7 @@ Pronto? Atira! Agora!
 
 382
 00:15:48,707 --> 00:15:50,000
-MULTIDÃO:
+Multidão:
 (Gritos)
 
 383
@@ -1776,18 +1775,18 @@ ele é um.
 
 384
 00:15:54,463 --> 00:15:57,174
-DREW:
+Drew:
 Tudo bem,
 vamos acabar com ele.
 
 385
 00:15:57,257 --> 00:15:58,258
-MULTIDÃO:
+Multidão:
 (Gritos)
 
 386
 00:16:05,557 --> 00:16:07,601
-DREW:
+Drew:
 Ei, cara,
 por que o pai do Dave está aqui?
 
@@ -1799,7 +1798,7 @@ na escola hoje.
 
 388
 00:16:08,769 --> 00:16:10,938
-DREW:
+Drew:
 E se ele souber de algo
 sobre a gangue?
 
@@ -1841,7 +1840,7 @@ Respire fundo.
 
 397
 00:16:32,209 --> 00:16:33,961
-Me desculpe, senhor.
+Me desculpe, Senhor.
 
 398
 00:16:40,759 --> 00:16:43,846
@@ -1876,7 +1875,7 @@ Sim, eu também.
 
 403
 00:17:02,281 --> 00:17:03,824
-MARISOL:
+Marisol:
 Dave e Alli, certo?
 
 404
@@ -1957,7 +1956,7 @@ fazendo isso.
 
 421
 00:18:19,566 --> 00:18:21,110
-AMBOS:
+Ambos:
 (Suspiro)
 
 422
@@ -2156,7 +2155,7 @@ Ei...
 
 465
 00:20:48,966 --> 00:20:50,259
-CLARE:
+Clare:
 Obrigada por ter vindo.
 
 466

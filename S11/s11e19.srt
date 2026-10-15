@@ -1,6 +1,6 @@
 1
 00:00:06,140 --> 00:00:07,766
-ADAM:
+Adam:
 Vocês vão acordar
 a mamãe e o papai!
 
@@ -67,8 +67,7 @@ Além disso, ela é fofa.
 
 15
 00:00:37,921 --> 00:00:41,091
-A armadilha do mel -
-clássica tática de espiã.
+A armadilha do mel... clássica tática de espiã.
 
 16
 00:00:41,175 --> 00:00:43,093
@@ -265,7 +264,7 @@ de um repórter esportivo.
 
 60
 00:02:33,287 --> 00:02:34,288
-(ri)
+(Ri)
 
 61
 00:02:35,456 --> 00:02:36,373
@@ -315,7 +314,7 @@ Um teste.
 71
 00:02:52,973 --> 00:02:54,767
 Que generoso.
-(ri)
+(Ri)
 
 72
 00:02:54,850 --> 00:02:56,894
@@ -333,7 +332,7 @@ tá bom?
 
 75
 00:02:59,313 --> 00:03:01,649
-Ok,
+OK,
 vou dar o meu melhor.
 
 76
@@ -407,7 +406,7 @@ com seu toque de recolher.
 
 91
 00:03:39,228 --> 00:03:40,229
-Ok, espera.
+OK, espera.
 
 92
 00:03:40,312 --> 00:03:43,399
@@ -416,7 +415,7 @@ vamos voltar um pouco...
 
 93
 00:03:43,482 --> 00:03:44,608
-(expira)
+(Expira)
 
 94
 00:03:44,692 --> 00:03:46,610
@@ -433,7 +432,7 @@ meus pais?
 
 97
 00:03:50,698 --> 00:03:51,782
-Ok, desculpa,
+OK, desculpa,
 eu só quero deixar isso claro.
 
 98
@@ -471,11 +470,11 @@ sobre isso.
 
 105
 00:04:10,384 --> 00:04:11,385
-(suspira profundamente)
+(Suspira profundamente)
 
 106
 00:04:12,386 --> 00:04:13,804
-JULIAN:
+Julian:
 Encontrei outro
 daqueles clubes
 
@@ -485,7 +484,7 @@ que não existem.
 
 108
 00:04:14,888 --> 00:04:15,806
-OWEN:
+Owen:
 Ah, que bom!
 
 109
@@ -526,7 +525,7 @@ assim.
 
 117
 00:04:31,071 --> 00:04:31,989
-(suspira) Tudo bem.
+(Suspira) Tudo bem.
 
 118
 00:04:32,072 --> 00:04:33,949
@@ -573,7 +572,7 @@ Anuário?
 
 127
 00:04:46,545 --> 00:04:48,005
-(sinal toca)
+(Sinal toca)
 
 128
 00:04:49,006 --> 00:04:51,008
@@ -743,13 +742,13 @@ editorialmente.
 
 164
 00:06:35,529 --> 00:06:37,281
-CLAIRE:
+Clare:
 Bem, e quanto a
 um debate em página dividida?
 
 165
 00:06:37,364 --> 00:06:38,782
-KATIE:
+Katie:
 Isso é muita largura de coluna.
 
 166
@@ -759,7 +758,7 @@ desse espaço?
 
 167
 00:06:40,409 --> 00:06:41,952
-KATIE:
+Katie:
 Teríamos que tirar
 o Sudoku
 
@@ -774,8 +773,8 @@ Na sala dos professores, pelo menos.
 
 170
 00:06:47,082 --> 00:06:48,751
-DREW:
-(ofegante)
+Drew:
+(Ofegante)
 Por favor...
 
 171
@@ -784,15 +783,15 @@ por favor, não me mate.
 
 172
 00:06:50,502 --> 00:06:52,755
-(grunhidos de chutes)
+(Grunhidos de chutes)
 
 173
 00:06:54,757 --> 00:06:55,674
-(sirenes)
+(Sirenes)
 
 174
 00:06:55,758 --> 00:06:57,259
-(ofega)
+(Ofega)
 
 175
 00:06:57,343 --> 00:06:59,928
@@ -817,8 +816,8 @@ Desculpa, eu tenho que ir.
 
 180
 00:07:13,192 --> 00:07:15,069
-FIONA:
-Ok, último alfinete...
+Fiona:
+OK, último alfinete...
 
 181
 00:07:16,070 --> 00:07:19,990
@@ -865,12 +864,12 @@ uma coisa.
 
 190
 00:07:39,426 --> 00:07:41,679
-FIONA:
+Fiona:
 Holly J! Alfinetes pontudos!
 
 191
 00:07:41,762 --> 00:07:42,763
-(risos)
+(Risos)
 
 192
 00:07:43,764 --> 00:07:45,516
@@ -1067,35 +1066,35 @@ como meu amigo-menino?
 
 234
 00:09:37,127 --> 00:09:38,462
-(ri)
+(Ri)
 
 235
 00:09:40,381 --> 00:09:41,382
-Ok.
+OK.
 
 236
 00:09:52,935 --> 00:09:54,937
-MULTIDÃO:
-(aplaudindo)
+Multidão:
+(Aplaudindo)
 
 237
 00:10:03,404 --> 00:10:04,405
-(grunhe)
+(Grunhe)
 
 238
 00:10:08,033 --> 00:10:09,284
-MULTIDÃO:
-(aplaude)
+Multidão:
+(Aplaude)
 
 239
 00:10:11,036 --> 00:10:12,913
-ÁRBITRO:
+Árbitro:
 É isso aí!
 
 240
 00:10:12,997 --> 00:10:15,290
-OWEN:
-Ok, não vou entrar aí.
+Owen:
+OK, não vou entrar aí.
 
 241
 00:10:15,374 --> 00:10:16,750
@@ -1124,48 +1123,48 @@ Eu acabei de chegar.
 
 246
 00:10:22,840 --> 00:10:24,091
-ÁRBITRO:
+Árbitro:
 Quem é o próximo?
 
 247
 00:10:24,174 --> 00:10:25,175
-DREW:
+Drew:
 Sim, aqui.
 
 248
 00:10:25,259 --> 00:10:26,635
-JULIAN:
+Julian:
 Drew! Drew!
 
 249
 00:10:27,720 --> 00:10:29,722
-MULTIDÃO:
-(gritando e assobiando)
+Multidão:
+(Gritando e assobiando)
 
 250
 00:10:33,309 --> 00:10:35,769
-(gritando)
+(Gritando)
 Vamos lá! Isso! Vamos!
 
 251
 00:10:37,730 --> 00:10:38,981
-ÁRBITRO:
+Árbitro:
 Vamos lá, pessoal!
 Mandem ver!
 
 252
 00:10:39,064 --> 00:10:41,692
-MULTIDÃO:
-(aplaudindo e gritando)
+Multidão:
+(Aplaudindo e gritando)
 
 253
 00:10:41,775 --> 00:10:42,985
-(grunhe)
+(Grunhe)
 Ugh!
 
 254
 00:10:43,068 --> 00:10:44,320
-MULTIDÃO:
+Multidão:
 Ooh...
 
 255
@@ -1175,7 +1174,7 @@ Vamos lá!
 
 256
 00:10:55,706 --> 00:10:57,583
-(grunhindo)
+(Grunhindo)
 
 257
 00:10:58,584 --> 00:11:00,002
@@ -1198,7 +1197,7 @@ Lee, ele está acabado!
 
 261
 00:11:18,646 --> 00:11:19,980
-OWEN:
+Owen:
 Sai da minha frente!
 
 262
@@ -1212,24 +1211,24 @@ Olha para mim!
 
 264
 00:11:23,651 --> 00:11:24,985
-JULIAN:
+Julian:
 Drew! Drew!
 
 265
 00:11:26,987 --> 00:11:28,322
-OWEN:
+Owen:
 Acorda.
 Vamos.
 
 266
 00:11:33,160 --> 00:11:35,287
-JULIAN:
+Julian:
 Você não tira férias,
 né?
 
 267
 00:11:35,371 --> 00:11:37,456
-DREW:
+Drew:
 Eu só preciso ficar mais forte.
 
 268
@@ -1309,7 +1308,7 @@ Tudo bem.
 
 285
 00:12:13,534 --> 00:12:14,535
-(suspira)
+(Suspira)
 
 286
 00:12:18,872 --> 00:12:21,041
@@ -1337,11 +1336,11 @@ prefiro Sr. Bhandari.
 
 291
 00:12:32,052 --> 00:12:33,679
-(ri)
+(Ri)
 
 292
 00:12:33,762 --> 00:12:36,056
-(ri) Claro,
+(Ri) Claro,
 claro.
 
 293
@@ -1365,7 +1364,7 @@ um chá?
 
 297
 00:12:45,733 --> 00:12:47,985
-ALLI:
+Alli:
 Hum, não para o Dave.
 
 298
@@ -1393,7 +1392,7 @@ Ou cartas?
 
 303
 00:13:02,291 --> 00:13:03,250
-SRA. BHANDARI:
+Sra. Bhandari:
 Ah, não, nós não-
 
 304
@@ -1436,7 +1435,7 @@ Chato!
 
 312
 00:13:18,265 --> 00:13:19,558
-DAVE E SR. BHANDARI:
+Dave e Sr. Bhandari:
 Como você pode dizer isso?
 
 313
@@ -1461,7 +1460,7 @@ na verdade.
 
 317
 00:13:36,283 --> 00:13:37,368
-Ok, hum...
+OK, hum...
 
 318
 00:13:37,451 --> 00:13:38,369
@@ -1527,11 +1526,11 @@ Ela vai pagar em dinheiro.
 
 332
 00:14:17,074 --> 00:14:18,075
-(tilintar)
+(Tilintar)
 
 333
 00:14:21,453 --> 00:14:22,454
-(suspira)
+(Suspira)
 
 334
 00:14:23,998 --> 00:14:25,791
@@ -1603,7 +1602,7 @@ como jornalista.
 
 349
 00:15:01,035 --> 00:15:05,122
-(suspira profundamente)
+(Suspira profundamente)
 Eu tenho pesadelos,
 
 350
@@ -1675,7 +1674,7 @@ com dignidade... ♪
 
 364
 00:15:48,207 --> 00:15:49,208
-Ok...
+OK...
 
 365
 00:15:53,253 --> 00:15:54,463
@@ -1752,12 +1751,12 @@ Quando quiser, Sr. Bhandar-
 
 381
 00:16:27,871 --> 00:16:29,289
-DAVE: Oh!
-SR. BHANDARI: Cuidado!
+Dave: Oh!
+Sr. Bhandari: Cuidado!
 
 382
 00:16:29,373 --> 00:16:30,290
-DAVE:
+Dave:
 Quase pisei em um coração.
 
 383
@@ -1767,7 +1766,7 @@ tome cuidado para não pisar.
 
 384
 00:16:34,461 --> 00:16:36,088
-(grita)
+(Grita)
 Estou me divertindo tanto!
 
 385
@@ -1777,7 +1776,7 @@ os pais adoram o Dave.
 
 386
 00:16:39,091 --> 00:16:40,884
-(suspiro de alívio)
+(Suspiro de alívio)
 Isso é um alívio.
 
 387
@@ -1801,7 +1800,7 @@ só eu e você, garota.
 
 391
 00:16:48,767 --> 00:16:49,810
-(suspira) Obrigada
+(Suspira) Obrigada
 
 392
 00:16:49,893 --> 00:16:54,189
@@ -1822,12 +1821,12 @@ Awww.
 
 396
 00:16:59,987 --> 00:17:01,155
-AMBOS:
-(risos)
+Ambos:
+(Risos)
 
 397
 00:17:02,656 --> 00:17:05,993
-ANÚNCIO NO ALTO-FALANTE:
+Anúncio no alto-falante:
 Dr. Swan para a sala de cirurgia 3,
 Dr. Swan para a sala de cirurgia 3.
 
@@ -1860,8 +1859,8 @@ ou vamos mandar flores para ela.
 
 404
 00:17:20,841 --> 00:17:21,842
-AMBOS:
-(rindo)
+Ambos:
+(Rindo)
 
 405
 00:17:24,887 --> 00:17:27,264
@@ -1869,395 +1868,392 @@ Oh! Fiona!
 Dawn está doando seu rim!
 
 406
-00:17:27,548 --> 00:17:
-
-407
 00:17:27,348 --> 00:17:31,435
 Sério? (ofega)
 Essa é a melhor notícia de todas!
 
-408
+407
 00:17:31,518 --> 00:17:32,603
-MARY KATE:
+Mary Kate:
 E o que é isso?
 
-409
+408
 00:17:32,686 --> 00:17:34,688
 Ah, eu acabei de pegar
 meu vestido de baile.
 
-410
+409
 00:17:34,772 --> 00:17:36,398
 Deixa eu ver!
 
-411
+410
 00:17:36,482 --> 00:17:37,858
-(ofega) Oh!
+(Ofega) Oh!
 
-412
+411
 00:17:37,941 --> 00:17:38,942
 Vintage!
 
-413
+412
 00:17:40,486 --> 00:17:42,613
 De repente, estou animada para o baile!
 
-414
+413
 00:17:42,696 --> 00:17:43,947
 Devemos reservar aquela limusine então.
 
-415
+414
 00:17:45,532 --> 00:17:48,577
 Já mencionei
 o quanto eu amo vocês?
 
-416
+415
 00:17:51,789 --> 00:17:54,291
-MULTIDÃO:
-(aplaudindo e gritando)
+Multidão:
+(Aplaudindo e gritando)
 
-417
+416
 00:17:59,254 --> 00:18:00,255
 Revanche!
 
-418
+417
 00:18:04,551 --> 00:18:05,636
 Desculpe, princesa.
 
-419
+418
 00:18:05,719 --> 00:18:08,138
 Eu não quero
 ser acusado de homicídio.
 
-420
+419
 00:18:08,222 --> 00:18:10,140
 Você teve sorte
 da última vez.
 
-421
+420
 00:18:10,224 --> 00:18:11,517
 Vamos lá.
 
-422
+421
 00:18:15,437 --> 00:18:17,856
-MULTIDÃO:
-(gritando e assobiando)
+Multidão:
+(Gritando e assobiando)
 
-423
+422
 00:18:21,235 --> 00:18:22,319
-ÁRBITRO:
+Árbitro:
 Vocês conhecem as regras!
 
-424
+423
 00:18:22,403 --> 00:18:23,737
 Agora lutem!
 
-425
+424
 00:18:25,072 --> 00:18:26,073
-(grunhe)
+(Grunhe)
 
-426
+425
 00:18:28,075 --> 00:18:31,078
 (Multidão aplaude e grita)
 
-427
+426
 00:18:34,832 --> 00:18:36,417
 Ugh!
 
-428
+427
 00:18:39,753 --> 00:18:40,671
-DREW:
+Drew:
 Uunnngh!
 
-429
+428
 00:18:40,754 --> 00:18:41,755
-(baque forte)
+(Baque forte)
 
-430
+429
 00:18:43,382 --> 00:18:44,383
 Woo!
 
-431
+430
 00:18:54,435 --> 00:18:56,145
-ÁRBITRO:
+Árbitro:
 É isso aí!
 Ele bateu!
 
-432
+431
 00:18:56,228 --> 00:18:57,229
 Ele está acabado!
 
-433
+432
 00:19:03,610 --> 00:19:05,112
 Sai de cima!
 Vamos!
 
-434
+433
 00:19:06,238 --> 00:19:08,032
-(grunhidos de socos)
+(Grunhidos de socos)
 
-435
+434
 00:19:08,115 --> 00:19:09,408
-KATIE:
+Katie:
 Drew!
 
-436
+435
 00:19:09,491 --> 00:19:10,492
 Drew!
 
-437
+436
 00:19:11,452 --> 00:19:12,953
-(grunhe)
+(Grunhe)
 
-438
+437
 00:19:13,037 --> 00:19:15,122
 Drew!
 Vamos, já chega!
 
-439
+438
 00:19:15,205 --> 00:19:16,540
 Aarrgghhh!
 
-440
+439
 00:19:16,623 --> 00:19:17,833
-ÁRBITRO:
+Árbitro:
 Chega!
 
-441
+440
 00:19:20,002 --> 00:19:21,712
 Tirem esse cara
 daqui!
 
-442
+441
 00:19:21,795 --> 00:19:23,630
 Você não vai vê-lo
 aqui de novo.
 
-443
+442
 00:19:23,714 --> 00:19:25,799
 Eu pensei que tinha te dito
 para não vir.
 
-444
+443
 00:19:25,883 --> 00:19:27,635
 Acho que você não pode
 me dizer o que fazer.
 
-445
+444
 00:19:28,927 --> 00:19:30,471
 Eu te peguei.
 
-446
+445
 00:19:30,554 --> 00:19:31,555
-(ofegante)
+(Ofegante)
 
-447
+446
 00:19:36,894 --> 00:19:39,563
-ALLI:
+Alli:
 E ele vem jantar
 no domingo!
 
-448
+447
 00:19:39,647 --> 00:19:41,273
 No-ssa.
 Quando ele vai se mudar?
 
-449
+448
 00:19:41,357 --> 00:19:42,358
 Ha! É mesmo.
 
-450
+449
 00:19:43,359 --> 00:19:45,611
-(suspira) Mal posso esperar
+(Suspira) Mal posso esperar
 pelo verão, sabe?
 
-451
+450
 00:19:45,694 --> 00:19:47,613
 Ficarmos juntos
 por dias a fio...
 
-452
+451
 00:19:47,696 --> 00:19:48,614
 É disso que se trata o verão.
 
-453
+452
 00:19:48,697 --> 00:19:49,615
-(risos)
+(Risos)
 
-454
+453
 00:19:49,698 --> 00:19:52,368
-SR. BETENKAMP:
+Sr. Betenkamp:
 Srta. Bhandari,
 posso falar com você?
 
-455
+454
 00:19:54,703 --> 00:19:56,455
 Sim.
 
-456
+455
 00:19:56,538 --> 00:19:58,248
 Você se lembra daquele
 Programa de Ciências Spalding
 
-457
+456
 00:19:58,332 --> 00:19:59,667
 para o qual você se inscreveu?
 
-458
+457
 00:19:59,750 --> 00:20:00,959
 Tipo, há muito tempo?
 
-459
+458
 00:20:01,043 --> 00:20:04,046
 Sim, bem,
 isto chegou para você.
 
-460
+459
 00:20:05,631 --> 00:20:08,801
 Ah! Chega de suspense!
 Você entrou!
 
-461
+460
 00:20:08,884 --> 00:20:10,469
 Parece que alguém vai passar o verão
 
-462
+461
 00:20:10,552 --> 00:20:12,805
 na capital do nosso país!
 
-463
+462
 00:20:12,888 --> 00:20:15,766
 Eu tenho que ir embora
 o verão inteiro?
 
-464
+463
 00:20:15,849 --> 00:20:18,978
 É, é emocionante.
 Certo?
 
-465
+464
 00:20:19,061 --> 00:20:20,688
 Que bom para você!
 
-466
+465
 00:20:27,903 --> 00:20:31,740
 Tanto para o verão
 de Alli e Dave.
 
-467
+466
 00:20:45,796 --> 00:20:47,006
 Estou feliz que você veio.
 
-468
+467
 00:20:47,089 --> 00:20:48,007
-DREW:
+Drew:
 Desculpe o atraso.
 
-469
+468
 00:20:48,090 --> 00:20:51,176
 É a primeira vez
 que me equipo para Taekwondo.
 
-470
+469
 00:20:51,260 --> 00:20:53,470
 Adorei o cinto;
 branco é sua cor.
 
-471
+470
 00:20:53,554 --> 00:20:54,513
 Ei, por que você
 tem uma verde?
 
-472
+471
 00:20:54,596 --> 00:20:55,973
 Ah, você vai ver.
 
-473
+472
 00:20:57,182 --> 00:20:58,809
 Eu entendo a luta,
 sabe.
 
-474
+473
 00:20:58,892 --> 00:20:59,810
 Quando você está com medo,
 
-475
+474
 00:20:59,893 --> 00:21:01,937
 aprender a se defender
 cria confiança.
 
-476
+475
 00:21:02,021 --> 00:21:03,856
 Mas é preciso disciplina,
 
-477
+476
 00:21:03,939 --> 00:21:05,399
 controle,
 
-478
+477
 00:21:05,482 --> 00:21:06,483
 calma interior.
 
-479
+478
 00:21:07,776 --> 00:21:08,736
-Ok.
+OK.
 
-480
+479
 00:21:08,819 --> 00:21:09,737
 Você está pronto?
 
-481
+480
 00:21:09,820 --> 00:21:12,865
 Você quer conquistar
 seus medos?
 
-482
+481
 00:21:12,948 --> 00:21:13,866
 Obrigada por não
 desistir de mim.
 
-483
+482
 00:21:13,949 --> 00:21:16,368
 Uh, ainda há tempo.
 
-484
+483
 00:21:16,452 --> 00:21:17,453
 Eu não vou
 facilitar.
 
-485
+484
 00:21:17,536 --> 00:21:19,621
 Bom saber.
 
-486
+485
 00:21:27,171 --> 00:21:28,172
 Uau! Ugh!
 
-487
+486
 00:21:30,924 --> 00:21:32,509
 Como você fez isso?
 
-488
+487
 00:21:33,510 --> 00:21:35,220
 Não é meu primeiro rodeio.
 
-489
+488
 00:21:35,304 --> 00:21:36,305
 Não mexa comigo.
 
-490
+489
 00:21:36,388 --> 00:21:37,389
 Ai.
 
-491
+490
 00:21:38,974 --> 00:21:42,561
 Eu sabia que havia uma razão
 para eu gostar de você.
 
-492
+491
 00:21:42,645 --> 00:21:44,104
 ♪ Sim, eu me pergunto ♪
 
-493
+492
 00:21:45,105 --> 00:21:48,651
 ♪ Você sempre vai me amar... ♪

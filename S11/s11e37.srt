@@ -1,11 +1,11 @@
 1
 00:00:03,220 --> 00:00:04,513
-SUMMER:
+Summer:
 Então esta é sua escola.
 
 2
 00:00:04,596 --> 00:00:06,890
-CLARE:
+Clare:
 É. De volta à realidade.
 
 3
@@ -15,7 +15,7 @@ Summer.
 
 4
 00:00:08,058 --> 00:00:10,019
-SUMMER:
+Summer:
 Bem, você precisa de cafeína
 antes da escola, certo?
 
@@ -230,7 +230,7 @@ para a vovó!
 
 52
 00:02:00,754 --> 00:02:02,631
-LARA:
+Lara:
 Ela vai me culpar
 se você não mandar!
 
@@ -252,7 +252,7 @@ meus sentimentos de lado
 56
 00:02:08,762 --> 00:02:10,014
 para o serviço
-do bem maior -
+do bem maior...
 
 57
 00:02:10,097 --> 00:02:12,474
@@ -291,7 +291,7 @@ nosso projeto da mini-casa?
 64
 00:02:22,359 --> 00:02:24,111
 Quarenta por cento da nossa
-nota da aula de Habilidades para a Vida -
+nota da aula de Habilidades para a Vida...
 
 65
 00:02:24,194 --> 00:02:25,362
@@ -358,12 +358,12 @@ Vamos.
 
 79
 00:02:53,515 --> 00:02:55,684
-JAKE:
+Jake:
 Ei, você recebeu minha mensagem?
 
 80
 00:02:55,768 --> 00:02:56,852
-CLARE:
+Clare:
 Perdi, desculpa.
 
 81
@@ -412,11 +412,11 @@ Ela chorou?
 90
 00:03:17,665 --> 00:03:20,584
 Eu vou para casa na hora do almoço
-e vou falar com ela, ok?
+e vou falar com ela, OK?
 
 91
 00:03:20,668 --> 00:03:21,669
-Ok.
+OK.
 
 92
 00:03:26,340 --> 00:03:29,343
@@ -606,7 +606,7 @@ Me desculpa também.
 
 132
 00:05:20,746 --> 00:05:24,333
-HELEN:
+Helen:
 Com o tempo, nós nos acostumaremos
 com a ideia.
 
@@ -662,12 +662,12 @@ O que você acha?
 
 144
 00:05:46,438 --> 00:05:49,566
-Ok,
+OK,
 eu acho que vamos tentar.
 
 145
 00:05:49,650 --> 00:05:50,651
-Ok.
+OK.
 
 146
 00:05:54,488 --> 00:05:55,489
@@ -675,13 +675,13 @@ Ok.
 
 147
 00:06:00,411 --> 00:06:02,538
-IMOGEN:
+Imogen:
 Tive uma ideia brilhante.
 Painéis solares no telhado.
 
 148
 00:06:02,621 --> 00:06:04,915
-FIONA:
+Fiona:
 Uh, oi! Entra!
 
 149
@@ -704,7 +704,7 @@ com a mini-casa?
 
 153
 00:06:18,512 --> 00:06:19,638
-FIONA:
+Fiona:
 Fiona,
 você não contou a ela?
 
@@ -753,7 +753,7 @@ Legal.
 
 164
 00:06:41,201 --> 00:06:42,870
-FIONA:
+Fiona:
 Eli, espera.
 
 165
@@ -840,7 +840,7 @@ do mesmo jeito ♪
 
 183
 00:07:33,921 --> 00:07:36,799
-SUMMER:
+Summer:
 Clare, você deve saber
 que temos uma tradição no jantar.
 
@@ -892,11 +892,11 @@ que estavam se separando,
 
 194
 00:08:05,327 --> 00:08:07,621
-tudo o que eu sempre conheci -
+tudo o que eu sempre conheci...
 
 195
 00:08:07,705 --> 00:08:10,332
-minha família, a igreja -
+minha família, a igreja...
 
 196
 00:08:10,416 --> 00:08:12,251
@@ -922,18 +922,18 @@ Você tem a gente.
 
 201
 00:08:35,316 --> 00:08:38,736
-CASH:
+Cash:
 É. E, infelizmente,
 temos trabalho a fazer.
 
 202
 00:08:38,819 --> 00:08:39,945
-CLARE:
+Clare:
 Trabalho? Agora?
 
 203
 00:08:40,946 --> 00:08:45,617
-CASH:
+Cash:
 Mas se todos nós ajudarmos
 terminaremos rapidinho.
 
@@ -944,7 +944,7 @@ o que eu posso fazer para ajudar?
 
 205
 00:08:47,536 --> 00:08:49,204
-SUMMER:
+Summer:
 Você quer?
 
 206
@@ -957,12 +957,12 @@ Isso é maconha?
 
 208
 00:09:03,510 --> 00:09:04,595
-CASH:
+Cash:
 Ei, onde estão os saquinhos?
 
 209
 00:09:04,678 --> 00:09:05,679
-SUMMER:
+Summer:
 Hum...
 
 210
@@ -989,7 +989,7 @@ Bem, nesse caso.
 
 215
 00:09:16,690 --> 00:09:19,276
-SUMMER:
+Summer:
 É assim que pagamos as contas
 e colocamos comida na mesa
 
@@ -1026,13 +1026,13 @@ certo?
 
 223
 00:09:42,341 --> 00:09:43,676
-SUMMER:
+Summer:
 Oh, realmente não é.
 
 224
 00:09:43,759 --> 00:09:47,638
 (Suspira)
-Ok. Eu fico.
+OK. Eu fico.
 
 225
 00:09:47,721 --> 00:09:48,722
@@ -1044,7 +1044,7 @@ Bom.
 
 227
 00:09:56,855 --> 00:09:58,482
-IMOGEN:
+Imogen:
 Finalmente, e mais importante,
 
 228
@@ -1059,7 +1059,7 @@ próxima à estrutura.
 
 230
 00:10:03,070 --> 00:10:05,864
-FIONA:
+Fiona:
 Não queremos nenhum bichinho nojento
 entrando!
 
@@ -1073,7 +1073,7 @@ Obrigada!
 
 233
 00:10:07,950 --> 00:10:09,118
-SR. KHANNA:
+Sr. Khanna:
 Impressionante, meninas.
 
 234
@@ -1156,7 +1156,7 @@ não vai mudar a gente.
 
 251
 00:10:45,321 --> 00:10:47,781
-OOOOOH,
+Oooooh,
 eu adoro seus abraços!
 
 252
@@ -1323,7 +1323,7 @@ Deixa pra lá.
 
 287
 00:12:07,194 --> 00:12:09,655
-JAKE:
+Jake:
 Olha, eu paro de sair
 com a Jenna.
 
@@ -1357,7 +1357,7 @@ de onde você está!
 294
 00:12:21,333 --> 00:12:22,876
 Este é o endereço.
-Ok?
+OK?
 
 295
 00:12:22,960 --> 00:12:24,044
@@ -1379,7 +1379,7 @@ você guardará.
 
 299
 00:12:45,524 --> 00:12:46,900
-DREW:
+Drew:
 Ataque! Fiquem atentos
 aos passes curtos.
 
@@ -1390,8 +1390,8 @@ Entenderam?!
 
 301
 00:12:49,737 --> 00:12:52,448
-OWEN:
-E defesa - muitas pancadas
+Owen:
+E defesa... muitas pancadas
 e persigam aquela bola!
 
 302
@@ -1405,7 +1405,7 @@ Vocês me entenderam?!
 
 304
 00:12:54,783 --> 00:12:55,784
-TODOS:
+Todos:
 Sim.
 
 305
@@ -1424,7 +1424,7 @@ que você está nos abandonando, Mo?
 
 308
 00:13:03,792 --> 00:13:05,544
-OWEN:
+Owen:
 Oh, e essa "coisa" é
 mais importante que o jogo,
 
@@ -1440,7 +1440,7 @@ Você tem que estar lá.
 
 311
 00:13:09,715 --> 00:13:11,133
-CONNOR:
+Connor:
 Pessoal, se ele não pode vir,
 então ele não pode vir.
 
@@ -1468,7 +1468,7 @@ Panteras, vamos lá!
 
 317
 00:13:18,724 --> 00:13:19,683
-TODOS:
+Todos:
 Vamos lá!
 
 318
@@ -1512,7 +1512,7 @@ Boa sorte.
 
 327
 00:13:45,626 --> 00:13:46,627
-MO:
+Mo:
 Obrigado.
 
 328
@@ -1525,12 +1525,12 @@ Fions!
 
 330
 00:13:56,178 --> 00:13:57,179
-ELI:
+Eli:
 Devo contar a ela?
 
 331
 00:13:57,262 --> 00:13:59,014
-IMOGEN:
+Imogen:
 Hmm... eu quero contar a ela.
 
 332
@@ -1540,11 +1540,11 @@ Ei, alguém me conta.
 333
 00:14:01,100 --> 00:14:03,686
 Bem, eu e o Eli
-tivemos uma conversa -
+tivemos uma conversa...
 
 334
 00:14:03,769 --> 00:14:04,687
-A conversa -
+A conversa...
 
 335
 00:14:04,770 --> 00:14:06,355
@@ -1589,7 +1589,7 @@ Eba!
 
 344
 00:14:27,292 --> 00:14:28,293
-ELI E IMOGEN:
+Eli e Imogen:
 Eba!
 
 345
@@ -1599,23 +1599,23 @@ vamos, vamos, vamos...
 
 346
 00:14:38,095 --> 00:14:39,638
-CLARE:
+Clare:
 O que está acontecendo?
 
 347
 00:14:40,639 --> 00:14:42,558
-SUMMER:
+Summer:
 Nós vamos nos mudar hoje à noite.
 Temos que ir.
 
 348
 00:14:42,641 --> 00:14:44,560
-CLARE:
+Clare:
 Eu pensei que esta fosse sua casa.
 
 349
 00:14:44,643 --> 00:14:46,687
-SUMMER:
+Summer:
 Lar é onde estão as pessoas
 que se importam com você.
 
@@ -1641,7 +1641,7 @@ apito soa)
 
 354
 00:15:04,079 --> 00:15:06,040
-OWEN:
+Owen:
 Ótimo.
 
 355
@@ -1661,7 +1661,7 @@ Sabe, o que quer que o Mo esteja fazendo
 
 358
 00:15:13,672 --> 00:15:15,799
-CONNOR:
+Connor:
 Ele está encontrando uma garota.
 
 359
@@ -1732,13 +1732,13 @@ idiota.
 
 373
 00:15:50,834 --> 00:15:53,337
-JAKE:
+Jake:
 Eu sei que ela está aqui!
 Clare!
 
 374
 00:15:53,420 --> 00:15:54,630
-CASH:
+Cash:
 Clare, você conhece esse cara?
 
 375
@@ -1752,7 +1752,7 @@ Sim, eu o conheço.
 
 377
 00:15:58,634 --> 00:16:00,803
-SUMMER:
+Summer:
 Não admira que os policiais estejam
 rondando o bairro.
 
@@ -1763,12 +1763,12 @@ Policiais?
 
 379
 00:16:02,137 --> 00:16:03,138
-SUMMER:
+Summer:
 O que você disse a eles?
 
 380
 00:16:03,222 --> 00:16:04,139
-JAKE:
+Jake:
 Eu não disse nada a eles!
 
 381
@@ -1778,7 +1778,7 @@ Vamos.
 
 382
 00:16:05,349 --> 00:16:06,684
-CASH:
+Cash:
 Você não vai a lugar nenhum!
 
 383
@@ -1788,7 +1788,7 @@ batendo na porta)
 
 384
 00:16:09,353 --> 00:16:10,312
-POLICIAL:
+Policial:
 Polícia! Temos um mandado!
 
 385
@@ -1875,484 +1875,481 @@ mas você continuou
 zombando de mim.
 
 403
-00:16:59,811 --> 00:17:0
-
-404
 00:16:59,611 --> 00:17:02,281
 Mas agora eu vejo que você só
 queria ser aceito também.
 
-405
+404
 00:17:02,364 --> 00:17:03,282
 Eu acho que é bom
 para nós
 
-406
+405
 00:17:03,365 --> 00:17:05,200
 porque nós dois somos
 grandes perdedores.
 
-407
+406
 00:17:05,284 --> 00:17:05,909
 E se nos tornarmos amigos,
 
-408
+407
 00:17:05,993 --> 00:17:08,787
 pelo menos podemos ser
 perdedores juntos.
 
-409
+408
 00:17:08,871 --> 00:17:09,788
 Incrível.
 
-410
+409
 00:17:09,872 --> 00:17:12,708
 Isso me faz sentir
 muito melhor.
 
-411
+410
 00:17:19,340 --> 00:17:21,634
 (Conversa policial no rádio)
 
-412
+411
 00:17:33,354 --> 00:17:34,396
 Policial, eu só vim aqui
 pela minha irmã.
 
-413
+412
 00:17:34,480 --> 00:17:36,357
 Nenhum de nós tem nada
 a ver com essa...
 
-414
+413
 00:17:36,440 --> 00:17:38,275
 essa operação.
 
-415
+414
 00:17:38,359 --> 00:17:39,610
-POLICIAL:
+Policial:
 Nós sabemos. Nós temos monitorado
 esta casa
 
-416
+415
 00:17:39,693 --> 00:17:41,362
 por cerca de um mês.
 
-417
+416
 00:17:41,445 --> 00:17:42,446
 Essas pessoas recrutam
 adolescentes fugitivos
 
-418
+417
 00:17:42,529 --> 00:17:44,823
 e os transformam em cúmplices.
 
-419
+418
 00:17:44,907 --> 00:17:46,408
 Aqui está sua identidade.
 
-420
+419
 00:17:46,492 --> 00:17:47,409
 Espere aqui.
 
-421
+420
 00:17:47,493 --> 00:17:49,161
 Vou pegar algo
 para cortar essas amarras para você.
 
-422
+421
 00:17:51,747 --> 00:17:53,082
-JAKE:
+Jake:
 Se importa se eu verificar
 suas próximas acomodações
 
-423
+422
 00:17:53,165 --> 00:17:54,416
 antes de você decidir
 se mudar?
 
-424
+423
 00:17:54,500 --> 00:17:56,335
 Eu definitivamente vou voltar para casa.
 
-425
+424
 00:17:56,418 --> 00:17:59,046
 Eu não quero machucar a mamãe
 mais do que eu já machuquei.
 
-426
+425
 00:17:59,129 --> 00:18:01,507
 Espero que ela me deixe.
 
-427
+426
 00:18:02,508 --> 00:18:03,592
 (Suspira)
 
-428
+427
 00:18:08,263 --> 00:18:10,432
 Ei, nós estamos bem agora,
-ok?
+OK?
 
-429
+428
 00:18:10,516 --> 00:18:12,142
 (Ri)
 
-430
+429
 00:18:12,226 --> 00:18:14,603
 (Ri mais alto)
 
-431
+430
 00:18:14,687 --> 00:18:15,604
 Você está rindo?
 
-432
+431
 00:18:15,688 --> 00:18:18,065
 (Rindo)
 
-433
+432
 00:18:18,148 --> 00:18:20,484
 Desculpa.
 
-434
+433
 00:18:20,567 --> 00:18:22,111
 Meus nervos estão à flor da pele.
 
-435
+434
 00:18:22,194 --> 00:18:23,737
 Eu... eu acho que estou histérica.
 
-436
+435
 00:18:23,821 --> 00:18:24,822
 Bem, isso é meio sério.
 
-437
+436
 00:18:24,905 --> 00:18:26,740
 (Rindo) Desculpa.
 Certo.
 
-438
+437
 00:18:26,824 --> 00:18:29,368
 Certo. Não é engraçado.
 (Bufa)
 
-439
+438
 00:18:30,786 --> 00:18:32,621
 (Rindo)
 
-440
+439
 00:18:32,705 --> 00:18:33,622
 Sabe,
 eu te daria um tapa para te acordar
 
-441
+440
 00:18:33,706 --> 00:18:35,249
 mas, infelizmente,
 minhas mãos estão amarradas, então...
 
-442
+441
 00:18:35,332 --> 00:18:36,333
 (Rindo)
 
-443
+442
 00:18:40,212 --> 00:18:42,131
-POLICIAL:
+Policial:
 Vocês estão liberados.
 
-444
+443
 00:18:42,214 --> 00:18:44,091
 Tente ser mais cuidadosa
 sobre com quem você se associa,
 
-445
+444
 00:18:44,174 --> 00:18:45,092
 Srta. Edwards.
 
-446
+445
 00:18:45,175 --> 00:18:47,886
 Obrigada, policial.
 Eu serei.
 
-447
+446
 00:18:50,889 --> 00:18:53,809
 Ei, você vai ficar bem
 se associando com a gente em casa?
 
-448
+447
 00:19:01,275 --> 00:19:02,985
-OWEN: Prontos?
-TIME: Intervalo!
+Owen: Prontos?
+Time: Intervalo!
 
-449
+448
 00:19:03,986 --> 00:19:04,486
-OWEN:
+Owen:
 Última jogada do jogo.
 
-450
+449
 00:19:04,570 --> 00:19:07,114
 Vocês vão se ajoelhar
 ou o quê?
 
-451
+450
 00:19:07,197 --> 00:19:08,907
 Ótimo.
 Aumentem o placar.
 
-452
+451
 00:19:08,991 --> 00:19:10,326
-CONNOR:
+Connor:
 Nós deveríamos tentar algo, Mo.
 
-453
+452
 00:19:10,409 --> 00:19:11,660
 A única maneira de mudar
 como o time nos vê
 
-454
+453
 00:19:11,744 --> 00:19:12,953
 é ganhar o jogo.
 
-455
+454
 00:19:13,037 --> 00:19:14,330
 E como vamos
 fazer isso?
 
-456
+455
 00:19:14,413 --> 00:19:15,331
 Você tem habilidades.
 Você é engraçado.
 
-457
+456
 00:19:15,414 --> 00:19:16,790
 Podemos usar isso?
 
-458
+457
 00:19:17,791 --> 00:19:19,793
-MO:
+Mo:
 Sabe, para um Cabeça de Cone,
 você é um gênio.
 
-459
+458
 00:19:19,877 --> 00:19:20,502
 Quarenta e cinco, fogo!
 
-460
+459
 00:19:20,586 --> 00:19:22,129
 Me siga.
 
-461
+460
 00:19:22,212 --> 00:19:23,547
 (Apito soa)
 
-462
+461
 00:19:26,884 --> 00:19:28,135
 Você é ridículo, Connor!
 
-463
+462
 00:19:28,218 --> 00:19:29,678
 Eu não acredito que você me enganou,
 cara!
 
-464
+463
 00:19:29,762 --> 00:19:32,640
 Caras como nós deveriam
 proteger uns aos outros!
 
-465
+464
 00:19:34,725 --> 00:19:35,976
 É!
 Você acabou de zombar de mim
 
-466
+465
 00:19:36,060 --> 00:19:37,853
 e feriu meus sentimentos!
 
-467
+466
 00:19:37,936 --> 00:19:39,438
-OWEN:
+Owen:
 Pessoal, alô?
 
-468
+467
 00:19:39,521 --> 00:19:40,606
-MO:
+Mo:
 Você brincou com meu coração,
 cara!
 
-469
+468
 00:19:40,689 --> 00:19:42,483
-OWEN:
+Owen:
 Parem com essa briga de namorados!
 Foco!
 
-470
+469
 00:19:42,566 --> 00:19:44,318
 Você se esqueceu
 de todos os bons momentos?
 
-471
+470
 00:19:44,401 --> 00:19:45,319
 Você apertou um botão
 
-472
+471
 00:19:45,402 --> 00:19:46,737
 e me apagou
 da sua memória?
 
-473
+472
 00:19:46,820 --> 00:19:48,489
-MO:
+Mo:
 Você já me amou alguma vez?
 
-474
+473
 00:19:48,572 --> 00:19:49,865
-HUT, HUT, HUT!
+Hut, hut, hut!
 
-475
+474
 00:19:50,991 --> 00:19:51,992
 Ei! Ei! Ei!
 
-476
+475
 00:19:52,076 --> 00:19:53,327
 Vai! Vai! Vai! Vai!
 
-477
+476
 00:19:53,410 --> 00:19:54,411
 (Vibrando)
 
-478
+477
 00:19:57,498 --> 00:19:58,999
 Vai! Vai! Vai! Vai!
 
-479
+478
 00:19:59,083 --> 00:20:00,000
 Corre!
 
-480
+479
 00:20:00,084 --> 00:20:01,669
-MO:
+Mo:
 Uhuuu!
 
-481
+480
 00:20:01,752 --> 00:20:03,003
-AAGGGGGHHHHHH!
+Aaggggghhhhhh!
+
+481
+00:20:04,254 --> 00:20:05,255
+Aghhhhh!
 
 482
-00:20:04,254 --> 00:20:05,255
-AGHHHHH!
-
-483
 00:20:06,340 --> 00:20:07,549
 É!
 (Apito soa)
 
-484
+483
 00:20:07,633 --> 00:20:08,634
 (Vibrando)
 
-485
+484
 00:20:11,470 --> 00:20:12,471
 Uhuuu!
 
-486
+485
 00:20:17,101 --> 00:20:18,435
 É! É!
 
-487
+486
 00:20:25,943 --> 00:20:27,861
 Clare,
 o que está acontecendo?
 
-488
+487
 00:20:29,947 --> 00:20:31,115
 Eu quero voltar para casa.
 
-489
+488
 00:20:31,198 --> 00:20:32,282
 Tudo bem?
 
-490
+489
 00:20:33,826 --> 00:20:35,494
 Você realmente quer?
 
-491
+490
 00:20:36,912 --> 00:20:39,123
 Claro.
 Você não precisa perguntar.
 
-492
+491
 00:20:40,124 --> 00:20:41,125
 Oh...
 
-493
+492
 00:20:43,794 --> 00:20:47,089
 Clare-querida, aconteceu algo ruim
 na casa do seu pai?
 
-494
+493
 00:20:48,090 --> 00:20:49,049
 Não, mãe-
 
-495
+494
 00:20:49,133 --> 00:20:53,304
-JAKE:
+Jake:
 Sofás-cama são horríveis.
 Né, Clare?
 
-496
+495
 00:20:53,387 --> 00:20:56,056
 Simplesmente não era
 onde eu pertencia.
 
-497
+496
 00:20:57,057 --> 00:20:58,142
 Eu senti sua falta.
 
-498
+497
 00:21:00,311 --> 00:21:03,689
 Eu vou fazer tacos
-hoje à noite, ok?
+hoje à noite, OK?
 
-499
+498
 00:21:11,113 --> 00:21:14,450
 Mamãe e papai não precisam
 saber de tudo.
 
-500
+499
 00:21:14,533 --> 00:21:17,036
 Sabe, eu estava tão chateada
 por perder um namorado,
 
-501
+500
 00:21:17,119 --> 00:21:19,747
 que eu nunca realmente
 pensei sobre
 
-502
+501
 00:21:19,830 --> 00:21:22,124
 como seria incrível
 ter um irmão.
 
-503
+502
 00:21:22,207 --> 00:21:25,044
 É isso que nós somos agora?
 Irmãos?
 
-504
+503
 00:21:26,170 --> 00:21:27,504
 Eu acho que sim.
 
-505
+504
 00:21:38,432 --> 00:21:39,391
 Tão chato.
 
-506
+505
 00:21:39,475 --> 00:21:40,643
-JAKE:
+Jake:
 Você é chata.
 
-507
+506
 00:21:40,726 --> 00:21:41,685
 (Rindo)
 
-508
+507
 00:21:45,272 --> 00:21:48,359
 ♪ Oooooh... woo-hoo-hoooo! ♪

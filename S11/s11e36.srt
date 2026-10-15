@@ -24,7 +24,7 @@ ou algo assim?
 
 6
 00:00:16,267 --> 00:00:17,727
-JAKE:
+Jake:
 Qual é, Clare,
 
 7
@@ -65,7 +65,7 @@ de volta na geladeira?!
 
 15
 00:00:34,077 --> 00:00:35,787
-GLENN:
+Glenn:
 Desculpa. Mau hábito.
 
 16
@@ -75,7 +75,7 @@ Feliz aniversário!
 
 17
 00:00:37,914 --> 00:00:39,290
-HELEN:
+Helen:
 É seu aniversário?
 
 18
@@ -85,7 +85,7 @@ uma grande festa, Helen.
 
 19
 00:00:41,042 --> 00:00:41,960
-HELEN:
+Helen:
 Bobagem!
 
 20
@@ -114,7 +114,7 @@ seja especial.
 
 25
 00:00:48,967 --> 00:00:49,926
-GLENN:
+Glenn:
 Jake, se quiser,
 
 26
@@ -132,13 +132,13 @@ Ahn, somos só amigos, pai.
 
 29
 00:01:01,354 --> 00:01:02,939
-GLENN:
+Glenn:
 Tá bom, claro,
 mas ela é bem-vinda.
 
 30
 00:01:03,022 --> 00:01:04,899
-JAKE:
+Jake:
 Tá bom. Ótimo.
 É. Obrigado.
 
@@ -225,7 +225,7 @@ nos visite em: teendle.win
 
 50
 00:02:01,164 --> 00:02:02,373
-DREW:
+Drew:
 Aqui vai. Vai!
 
 51
@@ -235,8 +235,8 @@ está fora do time!
 
 52
 00:02:04,000 --> 00:02:07,629
-OWEN: Mais rápido!
-DREW: Não, mas falando sério!
+Owen: Mais rápido!
+Drew: Não, mas falando sério!
 
 53
 00:02:07,712 --> 00:02:10,006
@@ -311,7 +311,7 @@ Legal.
 
 68
 00:02:32,987 --> 00:02:34,864
-OWEN:
+Owen:
 Tá bom, mas é só futebol americano.
 
 69
@@ -330,7 +330,7 @@ Bom dia, Alli.
 
 72
 00:02:54,384 --> 00:02:56,135
-ALLI:
+Alli:
 Ahn... Oi.
 
 73
@@ -417,7 +417,7 @@ brincando comigo!
 
 90
 00:03:34,048 --> 00:03:36,467
-SR. PERINO:
+Sr. Perino:
 Srta. Edwards,
 
 91
@@ -461,7 +461,7 @@ com o Sr. Simpson.
 
 100
 00:04:03,119 --> 00:04:05,121
-SR. KHANNA:
+Sr. Khanna:
 Assim que sua mini-casa
 estiver concluída,
 
@@ -488,7 +488,7 @@ pessoal!
 
 105
 00:04:14,631 --> 00:04:16,007
-FIONA:
+Fiona:
 Argh! Quarenta por cento da nossa nota
 
 106
@@ -675,13 +675,13 @@ Cruzes!
 
 146
 00:05:38,464 --> 00:05:40,091
-CLARE:
+Clare:
 É, eu sei.
 Legal, né?
 
 147
 00:05:40,175 --> 00:05:41,092
-BREE:
+Bree:
 Aqui está.
 
 148
@@ -778,31 +778,31 @@ obrigada por estes.
 
 168
 00:06:44,989 --> 00:06:45,907
-OWEN:
+Owen:
 Qual é, cara,
 foi um passe bom.
 
 169
 00:06:45,990 --> 00:06:46,908
-DREW:
+Drew:
 Não, quero dizer, você devia
 ter pego aquilo.
 
 170
 00:06:46,991 --> 00:06:47,867
-OWEN:
+Owen:
 Bem, você devia
 lançar melhor.
 
 171
 00:06:47,951 --> 00:06:50,995
-MO:
+Mo:
 Nada como a vista
 do campo de futebol americano, meninos!
 
 172
 00:06:51,079 --> 00:06:54,040
-OWEN:
+Owen:
 É uma pena que nenhuma daquelas garotas
 esteja te olhando de volta, Mo.
 
@@ -830,7 +830,7 @@ e entrar para o exército.
 
 178
 00:07:00,922 --> 00:07:01,673
-DREW:
+Drew:
 Cuidado para não mencionar
 a palavra com "E",
 
@@ -850,7 +850,7 @@ Anya. Anya. Anya.
 
 182
 00:07:07,929 --> 00:07:08,847
-OWEN:
+Owen:
 Eu faço isso, cara.
 Eu choro.
 
@@ -872,12 +872,12 @@ Eles não estão.
 
 186
 00:07:18,314 --> 00:07:19,482
-CONNOR:
+Connor:
 Ah. Isso é engraçado.
 
 187
 00:07:19,566 --> 00:07:20,483
-ARMSTRONG:
+Armstrong:
 (Apita)
 
 188
@@ -930,7 +930,7 @@ O que aconteceu?!
 
 199
 00:07:48,803 --> 00:07:51,681
-TREINADOR:
+Treinador:
 Treinador,
 minha chuteira estava solta, cara!
 
@@ -940,7 +940,7 @@ Não chore!
 
 201
 00:07:52,765 --> 00:07:53,683
-OWEN:
+Owen:
 É! Connor, cara!
 
 202
@@ -949,1512 +949,1512 @@ Sim!
 
 203
 00:08:00,356 --> 00:08:01,524
-JENNA:
+Jenna:
 Você tem um fiapo na sua bunda.
 
-205
+204
 00:08:02,984 --> 00:08:05,236
-JENNA:
+Jenna:
 Eu não estava!
 
-206
+205
 00:08:06,446 --> 00:08:08,364
-JAKE:
+Jake:
 Ah, ahn...
 
-207
+206
 00:08:08,448 --> 00:08:10,742
 Eu pensei que você tinha
 uma reunião do jornal.
 
-208
+207
 00:08:10,825 --> 00:08:12,410
 Eu matei.
 
-209
+208
 00:08:12,493 --> 00:08:14,078
 Olá, Jenna.
 
-210
+209
 00:08:15,079 --> 00:08:17,457
 A gente ia
 ouvir música.
 
-211
+210
 00:08:17,540 --> 00:08:20,251
 Hum, eu posso ir.
 Talvez outra hora.
 
-212
+211
 00:08:20,335 --> 00:08:21,586
-JAKE:
+Jake:
 Ah, qual é,
 é meu aniversário.
 
-213
+212
 00:08:21,669 --> 00:08:23,796
 Não mude seus planos
 por minha causa.
 
-214
+213
 00:08:23,880 --> 00:08:24,797
-JAKE:
+Jake:
 Tem certeza?
 
-215
+214
 00:08:24,881 --> 00:08:26,382
 Sim, tudo bem.
 
-216
+215
 00:08:27,425 --> 00:08:28,343
 Quer se juntar a nós?
 
-217
+216
 00:08:28,426 --> 00:08:29,344
 Eu não gostaria.
 
-218
+217
 00:08:29,427 --> 00:08:30,428
 Beleza.
 
-219
+218
 00:08:33,848 --> 00:08:35,350
 (Porta fecha)
 
-220
+219
 00:08:37,101 --> 00:08:39,103
 (Música começa a tocar
 no quarto de Jake)
 
-221
+220
 00:08:45,193 --> 00:08:46,528
 (Gritos abafados)
 
-222
+221
 00:08:47,654 --> 00:08:49,072
 (Bonde passando)
 
-223
+222
 00:08:53,076 --> 00:08:55,078
-FIONA:
+Fiona:
 Ai! Meus braços estão me matando.
 
-224
+223
 00:08:55,161 --> 00:08:56,079
 Quando chegamos
-na parte divertida -
+na parte divertida...
 
-225
+224
 00:08:56,162 --> 00:08:58,248
 tipo decidir onde
 colocar a banheira de hidromassagem?
 
-226
+225
 00:08:58,331 --> 00:08:59,749
 Acho que devemos
 nos concentrar
 
-227
+226
 00:08:59,832 --> 00:09:02,210
 em nivelar o chão
 primeiro.
 
-228
+227
 00:09:02,293 --> 00:09:03,962
 Uau!
 
-229
+228
 00:09:04,045 --> 00:09:05,588
 Esses esboços são incríveis.
 
-230
+229
 00:09:05,672 --> 00:09:06,965
-IMOGEN:
+Imogen:
 Meu pai me ensinou.
 
-231
+230
 00:09:07,048 --> 00:09:09,217
 Quando ele não está ensinando
 na universidade,
 
-232
+231
 00:09:09,300 --> 00:09:12,929
 ele presta consultoria em projetos
 únicos de paisagismo urbano.
 
-233
+232
 00:09:13,012 --> 00:09:14,806
 Nós nos mudamos muito
 quando eu era criança.
 
-234
+233
 00:09:14,889 --> 00:09:16,683
 Eu me mudei de um lugar para outro
 quando era mais nova também.
 
-235
+234
 00:09:16,766 --> 00:09:17,767
 Sério?
 
-236
+235
 00:09:18,810 --> 00:09:20,979
 Temos sorte que o universo
 nos uniu então.
 
-237
+236
 00:09:21,062 --> 00:09:22,772
 Devemos ser almas gêmeas.
 
-238
+237
 00:09:22,856 --> 00:09:24,190
 (Ri)
 
-239
+238
 00:09:24,274 --> 00:09:25,984
 (Ri)
 
-240
+239
 00:09:26,067 --> 00:09:28,444
 Então, você e o Eli vão
 ficar juntos e namorar
 
-241
+240
 00:09:28,528 --> 00:09:29,696
 ou o quê?
 
-242
+241
 00:09:29,779 --> 00:09:31,614
 Ahn, não me pergunte
 sobre ele.
 
-243
+242
 00:09:31,698 --> 00:09:33,825
 Eu nunca sei
 o que aquele garoto está pensando.
 
-244
+243
 00:09:33,908 --> 00:09:35,326
 Bem, você estava totalmente obcecada
 por ele
 
-245
+244
 00:09:35,410 --> 00:09:36,536
 durante a peça.
 
-246
+245
 00:09:36,619 --> 00:09:38,371
 Sentimentos assim
 não desaparecem.
 
-247
+246
 00:09:38,454 --> 00:09:40,748
 Eu estava obcecada.
 
-248
+247
 00:09:40,832 --> 00:09:43,376
 Mas eu tranquei esses sentimentos
 numa caixa,
 
-249
+248
 00:09:43,459 --> 00:09:44,669
 amarrei a caixa
 a um foguete,
 
-250
+249
 00:09:44,752 --> 00:09:45,670
 mandei o foguete para a lua,
 
-251
+250
 00:09:45,753 --> 00:09:48,298
 e se eu precisar de sentimentos
 pelo Eli de novo,
 
-252
+251
 00:09:48,381 --> 00:09:50,091
-eu sei onde encontrá-los -
+eu sei onde encontrá-los...
 
-253
+252
 00:09:50,175 --> 00:09:51,509
 na lua.
 
-254
+253
 00:09:51,593 --> 00:09:52,594
 (Ambas riem)
 
-255
+254
 00:10:00,602 --> 00:10:01,936
 (Talheres batendo)
 
-256
+255
 00:10:03,229 --> 00:10:06,065
 Então, Jenna, o Jake me disse
 que você compõe músicas?
 
-257
+256
 00:10:06,149 --> 00:10:07,442
-JENNA:
+Jenna:
 Componho.
 
-258
+257
 00:10:07,525 --> 00:10:08,443
 Eu dei uma pequena pausa
 
-259
+258
 00:10:08,526 --> 00:10:10,028
 mas estou voltando
 a compor agora.
 
-260
+259
 00:10:10,111 --> 00:10:11,863
-GLENN:
+Glenn:
 Ah, por que a pausa?
 
-261
+260
 00:10:11,946 --> 00:10:16,326
-JENNA:
+Jenna:
 Bem, na verdade eu tive um bebê
 no começo deste ano.
 
-262
+261
 00:10:18,828 --> 00:10:21,497
-GLENN:
+Glenn:
 Nossa. Ahn... eu não fazia ideia.
 
-263
+262
 00:10:22,498 --> 00:10:25,835
-JAKE:
+Jake:
 A Jenna colocou o bebê para adoção
 na primavera.
 
-264
+263
 00:10:25,919 --> 00:10:28,713
 Foi a coisa mais difícil
 que eu já fiz,
 
-265
+264
 00:10:28,796 --> 00:10:31,883
 mas os novos pais do Tyson
 são maravilhosos.
 
-266
+265
 00:10:31,966 --> 00:10:34,302
 Foi a escolha certa.
 
-267
+266
 00:10:34,385 --> 00:10:37,388
 Uau! Tenho que dizer
 que estou impressionado.
 
-268
+267
 00:10:37,472 --> 00:10:38,389
-HELEN:
+Helen:
 Eu também.
 
-269
+268
 00:10:38,473 --> 00:10:40,975
 Isso realmente mostra
 sua força de caráter.
 
-270
+269
 00:10:41,059 --> 00:10:42,727
 O quê?! Inacreditável.
 
-271
+270
 00:10:43,728 --> 00:10:45,063
 Clare, pode passar
 o bife?
 
-272
+271
 00:10:45,146 --> 00:10:46,105
-GLENN:
+Glenn:
 Não conheço muitos adultos
 
-273
+272
 00:10:46,189 --> 00:10:47,398
 que conseguiriam passar
 por algo assim
 
-274
+273
 00:10:47,482 --> 00:10:48,399
 e ainda estar sorrindo,
 
-275
+274
 00:10:48,483 --> 00:10:50,568
 então, parabéns.
 
-276
+275
 00:10:50,652 --> 00:10:53,196
-JENNA:
+Jenna:
 Obrigada. Eu realmente aprecio isso.
 
-277
+276
 00:10:53,279 --> 00:10:54,197
 Na maioria das vezes,
 
-278
+277
 00:10:54,280 --> 00:10:55,823
 eu sinto que
 as pessoas estão me julgando.
 
-279
+278
 00:10:55,907 --> 00:10:57,242
 Provavelmente porque
 elas estão.
 
-280
+279
 00:10:57,325 --> 00:10:58,243
 Clare!
 
-281
+280
 00:10:58,326 --> 00:10:59,452
-CLARE:
+Clare:
 Mãe, você é uma hipócrita!
 
-282
+281
 00:10:59,536 --> 00:11:02,330
-GLENN:
+Glenn:
 Clare, cuidado como você fala
 com sua mãe na nossa casa.
 
-283
+282
 00:11:02,413 --> 00:11:04,082
 "Nossa" casa?
 
-284
+283
 00:11:04,165 --> 00:11:05,333
 Você acabou de chegar aqui.
 
-285
+284
 00:11:05,416 --> 00:11:06,376
 Olha, se você não consegue
 se comportar,
 
-286
+285
 00:11:06,459 --> 00:11:07,544
 talvez devesse ir
 para o seu quarto.
 
-287
+286
 00:11:07,627 --> 00:11:08,628
 Você não manda em mim, Glenn.
 
-288
+287
 00:11:08,711 --> 00:11:10,338
 Você não é meu pai.
 
-289
+288
 00:11:10,421 --> 00:11:12,423
-HELEN:
+Helen:
 Clare, ahn, por favor?
 
-290
+289
 00:11:12,507 --> 00:11:14,884
 Talvez te dê
 um tempinho para se acalmar.
 
-291
+290
 00:11:18,847 --> 00:11:20,098
 Só se certifique de estocar
 camisinhas, Jake.
 
-292
+291
 00:11:20,181 --> 00:11:22,225
 Essa aqui é fértil.
 
-293
+292
 00:11:27,105 --> 00:11:29,107
 (Trânsito)
 
-294
+293
 00:11:33,945 --> 00:11:34,946
-LARA:
+Lara:
 Uau!
 
-295
+294
 00:11:35,989 --> 00:11:36,990
 Oi!
 
-296
+295
 00:11:38,283 --> 00:11:39,951
 Está fantástico.
 
-297
+296
 00:11:40,034 --> 00:11:41,536
-FIONA:
+Fiona:
 Isso tudo
 graças à Imogen.
 
-298
+297
 00:11:41,619 --> 00:11:44,706
 Ela é brilhante!
 Tão divertida e tão hilária.
 
-299
+298
 00:11:44,789 --> 00:11:46,291
 E tão bonita?
 
-300
+299
 00:11:47,292 --> 00:11:49,627
 Argh! Eu tenho uma queda boba
 pela Imogen.
 
-301
+300
 00:11:49,711 --> 00:11:52,380
-LARA:
+Lara:
 Sério?
 Eu nunca teria imaginado.
 
-302
+301
 00:11:52,463 --> 00:11:53,464
 Mãe, eu não posso ir por
 esse caminho
 
-303
+302
 00:11:53,548 --> 00:11:54,841
 com uma garota hétero
 de novo.
 
-304
+303
 00:11:54,924 --> 00:11:56,467
 A única razão pela qual a Holly J
 não saiu correndo
 
-305
+304
 00:11:56,551 --> 00:11:58,219
 é porque ela me conhecia
 tão bem.
 
-306
+305
 00:11:58,303 --> 00:11:59,220
 Ah, querida,
 
-307
+306
 00:11:59,304 --> 00:12:00,555
 seus sentimentos
 são seus sentimentos.
 
-308
+307
 00:12:00,638 --> 00:12:01,556
 E eu estou mandando eles
 
-309
+308
 00:12:01,639 --> 00:12:03,516
 no primeiro foguete
 para a lua.
 
-310
+309
 00:12:03,600 --> 00:12:05,727
 De qualquer forma,
 a Imogen é perfeita para o Eli.
 
-311
+310
 00:12:05,810 --> 00:12:08,855
 Bem, se eles são tão perfeitos,
 então por que não estão juntos?
 
-312
+311
 00:12:08,938 --> 00:12:10,148
 Porque são tapados?
 
-313
+312
 00:12:10,231 --> 00:12:11,816
 Eu não sei!
 
-314
+313
 00:12:15,028 --> 00:12:17,322
 Se eu juntasse o Eli
 e a Imogen,
 
-315
+314
 00:12:17,405 --> 00:12:19,699
 ela nunca suspeitaria
 que eu tenho sentimentos por ela.
 
-316
+315
 00:12:19,782 --> 00:12:20,700
 Só tome cuidado
 
-317
+316
 00:12:20,783 --> 00:12:22,202
 no que você está se metendo.
 
-318
+317
 00:12:22,285 --> 00:12:23,995
 Obrigada, mãe.
 
-319
+318
 00:12:27,081 --> 00:12:28,082
-LARA:
+Lara:
 Muá!
 
-320
+319
 00:12:29,876 --> 00:12:30,960
-ANÚNCIO SONORO:
+Anúncio sonoro:
 A lista do time de futebol americano
 deste ano
 
-321
+320
 00:12:31,044 --> 00:12:32,837
 já está afixada no saguão.
 
-322
+321
 00:12:32,921 --> 00:12:34,589
 Obrigado a todos
 que compareceram.
 
-323
+322
 00:12:34,672 --> 00:12:35,757
-CONNOR:
+Connor:
 Com licença! Com licença!
 Desculpe.
 
-324
+323
 00:12:35,840 --> 00:12:36,758
 Parabéns, Connor!
 
-325
+324
 00:12:36,841 --> 00:12:38,426
 E-eu consegui?
 
-326
+325
 00:12:38,510 --> 00:12:39,719
 Eu consegui o Tackle de Nariz titular.
 
-327
+326
 00:12:39,802 --> 00:12:42,722
-MO:
+Mo:
 O quê? Por que eu sou seu reserva?
 Isso é uma droga!
 
-328
+327
 00:12:42,805 --> 00:12:43,389
-CONNOR:
+Connor:
 Me desculpe, Mo.
 
-329
+328
 00:12:43,473 --> 00:12:45,850
 Mas sua grande massa corporal
 prejudica sua velocidade máxima
 
-330
+329
 00:12:45,934 --> 00:12:48,520
 em até trinta e sete por cento.
 
-331
+330
 00:12:48,603 --> 00:12:50,605
 Desculpe, cabeça de cone.
 Não fale nerd.
 
-332
+331
 00:12:50,688 --> 00:12:51,689
-OWEN:
+Owen:
 Ah, permita-me.
 
-333
+332
 00:12:51,773 --> 00:12:53,483
 Ahn, ele está dizendo que você é gordo.
 
-334
+333
 00:12:53,566 --> 00:12:55,193
 Muito legal.
 Vamos ou não?
 
-335
+334
 00:12:55,276 --> 00:12:56,194
-CONNOR:
+Connor:
 Para onde estamos indo?
 
-336
+335
 00:12:56,277 --> 00:12:57,195
 KC:
 Ah, vamos comer asas de frango.
 
-337
+336
 00:12:57,278 --> 00:12:59,531
 É. Uma pena
 que você não está convidado.
 
-338
+337
 00:12:59,614 --> 00:13:00,949
 Vamos lá, pessoal.
 
-339
+338
 00:13:05,870 --> 00:13:07,288
 Só lembre-se
 que você entrou para o time.
 
-340
+339
 00:13:13,169 --> 00:13:14,712
 Não parece.
 
-341
+340
 00:13:16,673 --> 00:13:28,601
 ♪♪♪
 
-342
+341
 00:13:28,685 --> 00:13:33,273
 ♪ Eu enchi uma ampulheta ♪
 
-343
+342
 00:13:33,356 --> 00:13:37,235
 ♪ Para sentir a areia escorrendo
 pelas minhas mãos ♪
 
-344
+343
 00:13:38,236 --> 00:13:39,404
 (Buzina de carro)
 
-345
+344
 00:13:39,487 --> 00:13:41,906
-RANDALL:
+Randall:
 Oi. Desculpe o atraso.
 
-346
+345
 00:13:41,990 --> 00:13:43,491
 Espero que você não tenha
 esperado muito.
 
-347
+346
 00:13:43,575 --> 00:13:45,159
-CLARE:
+Clare:
 Não, não muito.
 
-348
+347
 00:13:45,243 --> 00:13:46,536
 Obrigada por vir.
 
-349
+348
 00:13:46,619 --> 00:13:48,329
-RANDALL:
+Randall:
 Ah, ei, está brincando?
 É ótimo te ver.
 
-350
+349
 00:13:52,083 --> 00:13:54,085
 Espero que não tenha sido estranho,
 
-351
+350
 00:13:54,169 --> 00:13:56,004
 eu te ligar
 do nada?
 
-352
+351
 00:13:56,087 --> 00:13:57,172
 Bem, tenho que dizer
 que fiquei um pouco surpresa
 
-353
+352
 00:13:57,255 --> 00:13:59,007
 quando você ligou.
 
-354
+353
 00:13:59,090 --> 00:14:00,008
 Mas eu nunca recusaria
 um jantar
 
-355
+354
 00:14:00,091 --> 00:14:01,092
 com a minha filha.
 
-356
+355
 00:14:01,176 --> 00:14:03,386
 Bom. Temos muito
 para conversar.
 
-357
+356
 00:14:03,469 --> 00:14:06,014
 É.
 Não estou surpreso.
 
-358
+357
 00:14:06,097 --> 00:14:07,015
 Não passamos muito tempo juntos
 
-359
+358
 00:14:07,098 --> 00:14:08,266
 desde o divórcio.
 
-360
+359
 00:14:13,062 --> 00:14:15,481
 Estou feliz
 que nós dois estejamos conversando.
 
-361
+360
 00:14:15,565 --> 00:14:16,858
 Está tudo bem
 com você?
 
-362
+361
 00:14:16,941 --> 00:14:18,193
 Como está a nova família?
 
-363
+362
 00:14:18,276 --> 00:14:21,654
 É ahn...
 é por isso que eu liguei, na verdade.
 
-364
+363
 00:14:21,738 --> 00:14:24,365
 Agora,
 eu odeio estar em casa.
 
-365
+364
 00:14:24,449 --> 00:14:27,410
 E todo mundo está feliz
 menos eu.
 
-366
+365
 00:14:28,494 --> 00:14:32,248
 Eu realmente preciso
 de uma mudança de ares.
 
-367
+366
 00:14:34,000 --> 00:14:35,418
 Comigo?
 
-368
+367
 00:14:37,378 --> 00:14:39,339
 Clare, meu novo apartamento
 é muito pequeno.
 
-369
+368
 00:14:39,422 --> 00:14:43,218
 Eu durmo no sofá,
 eu não me importo.
 
-370
+369
 00:14:43,301 --> 00:14:46,971
 Bem, eu terei que
 convencer algumas pessoas.
 
-371
+370
 00:14:51,559 --> 00:14:52,477
 Você está morando com ela?
 
-372
+371
 00:14:52,560 --> 00:14:53,770
 Irene. Sim.
 
-373
+372
 00:14:54,771 --> 00:14:55,939
 Ah.
 
-374
+373
 00:14:56,022 --> 00:14:57,649
 Com os filhos dela
 a cada duas semanas,
 
-375
+374
 00:14:57,732 --> 00:14:59,984
 as coisas ficam um pouco apertadas.
 
-376
+375
 00:15:00,985 --> 00:15:04,656
 Mas talvez possamos
 dar um jeito.
 
-377
+376
 00:15:05,907 --> 00:15:09,911
 Então você ainda gosta
 de buffet chinês?
 
-378
+377
 00:15:09,994 --> 00:15:11,079
 Sim.
 
-379
+378
 00:15:12,247 --> 00:15:13,248
 Claro.
 
-380
+379
 00:15:20,088 --> 00:15:21,297
-FIONA:
+Fiona:
 Ei, Capitão América.
 
-381
+380
 00:15:21,381 --> 00:15:22,757
 Você tem sorte
 que isso é no meu caminho.
 
-382
+381
 00:15:22,841 --> 00:15:23,758
 E aí?
 
-383
+382
 00:15:23,842 --> 00:15:27,846
 Ah, você sabe,
 isso e aquilo e Imogen.
 
-384
+383
 00:15:27,929 --> 00:15:29,264
 Hã?
 
-385
+384
 00:15:29,347 --> 00:15:31,599
 Vocês dois têm passado
 muito tempo juntos.
 
-386
+385
 00:15:31,683 --> 00:15:34,269
 Eu queria saber se você tem
 sentimentos por ela?
 
-387
+386
 00:15:34,352 --> 00:15:36,437
 Ahn, somos bons amigos.
 
-388
+387
 00:15:36,521 --> 00:15:37,939
 Essa não foi a pergunta.
 
-389
+388
 00:15:38,940 --> 00:15:40,483
 Eu... Certo,
 
-390
+389
 00:15:40,567 --> 00:15:42,193
 por que você está se metendo
 na minha vida por causa disso?
 
-391
+390
 00:15:42,277 --> 00:15:43,278
 Você tem sentimentos
 por ela!
 
-392
+391
 00:15:43,361 --> 00:15:44,696
 Eu sabia!
 
-393
+392
 00:15:44,779 --> 00:15:46,531
 Então, por que o pé atrás?
 
-394
+393
 00:15:46,614 --> 00:15:47,615
 Eu a magoei,
 
-395
+394
 00:15:47,699 --> 00:15:49,909
 e eu não acho
 que tenho uma chance.
 
-396
+395
 00:15:49,993 --> 00:15:51,411
 Claro que você tem.
 
-397
+396
 00:15:51,494 --> 00:15:53,162
 Se ela parece cautelosa,
 é porque você é um cabeça-dura!
 
-398
+397
 00:15:53,246 --> 00:15:54,455
 Obrigado.
 
-399
+398
 00:15:54,539 --> 00:15:56,040
 A Imogen não sabe
 o que você está pensando.
 
-400
+399
 00:15:56,124 --> 00:15:57,041
 Você só precisa ser direto.
 
-401
+400
 00:15:57,125 --> 00:15:59,002
 Eu nem sei como
 começar essa conversa.
 
-402
+401
 00:15:59,085 --> 00:16:01,629
 Deixe comigo,
 amigo.
 
-403
+402
 00:16:02,630 --> 00:16:05,091
 Por que o interesse repentino
 em formar casais?
 
-404
+403
 00:16:05,175 --> 00:16:08,595
 Eu só quero ver
 meus dois melhores amigos felizes.
 
-405
+404
 00:16:11,598 --> 00:16:12,765
 Ei!
 
-406
+405
 00:16:12,849 --> 00:16:14,851
 Ei, você vai superar isso.
 
-407
+406
 00:16:15,894 --> 00:16:17,145
 (Apito)
 
-408
+407
 00:16:20,398 --> 00:16:22,650
-MO:
+Mo:
 Sabem, a única coisa que eu gosto
 mais do que garotas poderosas?
 
-409
+408
 00:16:22,734 --> 00:16:24,194
 Garotas nerds da banda.
 
-410
+409
 00:16:24,277 --> 00:16:27,697
 Especialmente aquelas
 que tocam trompa.
 
-411
+410
 00:16:27,780 --> 00:16:29,741
 Eu não...
 Eu sou um quarto francês
 do lado da minha mãe,
 
-412
+411
 00:16:29,824 --> 00:16:32,410
 então...
 (Imita som de trompa)
 
-413
+412
 00:16:32,493 --> 00:16:34,329
 (Todos riem, entendendo)
 
-414
+413
 00:16:35,580 --> 00:16:36,748
 (Ri)
 
-415
+414
 00:16:44,547 --> 00:16:46,674
 Do que você está rindo,
 cabeça de cone?
 
-416
+415
 00:16:46,758 --> 00:16:48,843
 Da sua piada.
 Foi engraçada.
 
-417
+416
 00:16:48,927 --> 00:16:50,011
 O que foi engraçado?
 
-418
+417
 00:16:50,094 --> 00:16:52,180
 Eu quero que você e seu megacérebro
 dissecem para mim
 
-419
+418
 00:16:52,263 --> 00:16:53,848
 por que essa piada foi engraçada.
 
-420
+419
 00:16:53,932 --> 00:16:54,849
-CONNOR:
+Connor:
 Eu não sei.
 
-421
+420
 00:16:54,933 --> 00:16:56,726
 Eu só ri porque
 todo mundo estava rindo;
 
-422
+421
 00:16:56,809 --> 00:16:58,394
 é isso que eu devo fazer.
 
-423
+422
 00:16:58,478 --> 00:16:59,729
 O que você deve?
 
-424
+423
 00:16:59,812 --> 00:17:01,606
 Mo, não é assim.
 O Connor tem um problema-
 
-425
+424
 00:17:01,689 --> 00:17:02,565
 Não, cala a boca, KC!
 
-426
+425
 00:17:02,649 --> 00:17:04,025
 Meu único problema
 é esse cara!
 
-427
+426
 00:17:04,108 --> 00:17:06,277
 Então deixe-me explicar isso
 para você em código nerd.
 
-428
+427
 00:17:06,361 --> 00:17:08,530
 Achar uma piada engraçada
 é igual a rir.
 
-429
+428
 00:17:08,613 --> 00:17:11,199
 Não achar uma piada engraçada
 significa ficar de boca fechada.
 
-430
+429
 00:17:11,282 --> 00:17:12,200
 Entendeu o que eu estou dizendo?
 
-431
+430
 00:17:12,283 --> 00:17:13,284
 Eu nunca entendo
 o que você está dizendo.
 
-432
+431
 00:17:13,368 --> 00:17:14,285
 Agora você está zombando de mim?
 
-433
+432
 00:17:14,369 --> 00:17:15,745
 Eu não estou!
 
-434
+433
 00:17:15,828 --> 00:17:18,706
 Uou!
 Calma lá, lado cego.
 
-435
+434
 00:17:18,790 --> 00:17:21,167
 Eu pensei que eu fosse
 a criptonita das garotas!
 
-436
+435
 00:17:21,251 --> 00:17:22,252
 (Zomba)
 
-437
+436
 00:17:27,632 --> 00:17:28,633
 Vamos.
 
-438
+437
 00:17:37,934 --> 00:17:39,185
 (Batida na porta)
 
-439
+438
 00:17:43,565 --> 00:17:44,983
 O que é?
 
-440
+439
 00:17:46,317 --> 00:17:47,443
 Você está bem?
 
-441
+440
 00:17:48,444 --> 00:17:49,904
 Na verdade não.
 
-442
+441
 00:17:49,988 --> 00:17:51,739
 Ainda está brava
 por causa de ontem?
 
-443
+442
 00:17:51,823 --> 00:17:53,324
 Você foi uma completa hipócrita
 com a Jenna!
 
-444
+443
 00:17:53,408 --> 00:17:55,243
 Se eu tivesse um bebê,
 você teria me mandado para Marte!
 
-445
+444
 00:17:55,326 --> 00:17:56,536
 Ela era convidada do Jake!
 
-446
+445
 00:17:56,619 --> 00:17:57,871
 O que eu deveria fazer?
 
-447
+446
 00:17:57,954 --> 00:17:59,581
 E aí o Glenn me trata
 como se eu tivesse quatro anos.
 
-448
+447
 00:17:59,664 --> 00:18:01,457
 Eu não acredito
 que você ficou do lado dele.
 
-449
+448
 00:18:01,541 --> 00:18:02,458
 Ele é meu marido.
 
-450
+449
 00:18:02,542 --> 00:18:04,419
 Eu sou sua filha!
 
-451
+450
 00:18:06,671 --> 00:18:08,006
 Houve muitas mudanças
 nesta casa,
 
-452
+451
 00:18:08,089 --> 00:18:09,007
 muito rapidamente.
 
-453
+452
 00:18:09,090 --> 00:18:10,175
 Eu sei que você está sofrendo,
 
-454
+453
 00:18:10,258 --> 00:18:12,927
 mas estamos em um lugar melhor,
 não estamos?
 
-455
+454
 00:18:13,011 --> 00:18:14,971
 Eu preciso conversar
 sobre isso, mãe.
 
-456
+455
 00:18:15,054 --> 00:18:15,972
 Eu gostaria de poder ajudar,
 
-457
+456
 00:18:16,055 --> 00:18:19,017
 mas eu não sei o que
 eu deveria fazer.
 
-458
+457
 00:18:22,353 --> 00:18:25,064
 É por isso que eu vou
 ficar com o papai.
 
-459
+458
 00:18:29,485 --> 00:18:30,528
 O Randall nunca
 concordaria com isso!
 
-460
+459
 00:18:30,612 --> 00:18:32,947
 Então liga para ele
 e pergunta,
 
-461
+460
 00:18:33,031 --> 00:18:36,201
 se você não acredita em mim!
 
-462
+461
 00:18:39,120 --> 00:18:41,372
 Então, por favor, me ligue
 quando chegar lá.
 
-463
+462
 00:18:50,840 --> 00:18:52,884
 Oi, eu não sei
 se você se lembra de mim, mas...
 
-464
+463
 00:18:52,967 --> 00:18:53,968
 Clare.
 
-465
+464
 00:18:55,428 --> 00:18:56,679
 Oi, Summer.
 
-466
+465
 00:18:56,763 --> 00:18:57,680
 Oi.
 
-467
+466
 00:18:57,764 --> 00:18:59,140
 Ei!
 É a Clare?
 
-468
+467
 00:18:59,224 --> 00:19:01,476
 Eu tinha a sensação
 de que ela viria.
 
-469
+468
 00:19:05,396 --> 00:19:07,190
 Posso ficar?
 
-470
+469
 00:19:07,273 --> 00:19:09,150
 Sim. Sim, claro.
 
-471
+470
 00:19:09,234 --> 00:19:10,235
 Junte-se a nós.
 
-472
+471
 00:19:12,403 --> 00:19:14,155
 Vamos.
 
-473
+472
 00:19:14,239 --> 00:19:17,742
 ♪ Eu vi uma noiva virgem em pé ♪
 
-474
+473
 00:19:18,826 --> 00:19:19,911
 (Expira)
 
-475
+474
 00:19:24,624 --> 00:19:25,583
 Você está bem?
 
-476
+475
 00:19:25,667 --> 00:19:26,793
 Eu agi da maneira
 que eu deveria
 
-477
+476
 00:19:26,876 --> 00:19:28,211
 e não funcionou.
 
-478
+477
 00:19:28,294 --> 00:19:29,838
 Eu não sei por que o Mo
 continua me perturbando.
 
-479
+478
 00:19:29,921 --> 00:19:31,673
 Porque se eles não estivessem
 rindo de você,
 
-480
+479
 00:19:31,756 --> 00:19:33,174
 eles estariam rindo
 dele.
 
-481
+480
 00:19:33,258 --> 00:19:35,677
 E ele sabe disso,
 então ele faz piadas do Connor.
 
-482
+481
 00:19:35,760 --> 00:19:37,804
 E se eu fizesse
 uma piada do Mo?
 
-483
+482
 00:19:37,887 --> 00:19:39,097
 Que tipo de piada?
 
-484
+483
 00:19:39,180 --> 00:19:40,098
 Bem, o Mo só joga
 futebol americano
 
-485
+484
 00:19:40,181 --> 00:19:41,599
 porque isso vai ajudá-lo
 a conseguir uma garota.
 
-486
+485
 00:19:41,683 --> 00:19:43,560
 Então, se o Mo quer uma garota,
 eu vou dar uma para ele.
 
-487
+486
 00:19:43,643 --> 00:19:45,854
 Aí ele não vai precisar
 do futebol americano.
 
-488
+487
 00:19:45,937 --> 00:19:48,356
 Essa conversa
 ficou estranha.
 
-489
+488
 00:19:48,439 --> 00:19:49,732
 Como você vai dar
 uma garota para o Mo?
 
-490
+489
 00:19:49,816 --> 00:19:52,193
 Segundo meus cálculos,
 37% dos relacionamentos
 
-491
+490
 00:19:52,277 --> 00:19:55,738
 que começam online
 dão certo.
 
-492
+491
 00:19:55,822 --> 00:19:57,240
 Ah, meu Deus...
 
-493
+492
 00:20:14,215 --> 00:20:15,758
-CASH:
+Cash:
 Aqui está.
 
-494
+493
 00:20:15,842 --> 00:20:17,760
 Ei, bom dia, Clare!
 
-495
+494
 00:20:17,844 --> 00:20:19,137
-SUMMER:
+Summer:
 Como você dormiu?
 
-496
+495
 00:20:19,220 --> 00:20:20,430
 Como um bebê.
 Obrigada.
 
-497
+496
 00:20:20,513 --> 00:20:22,557
-CASH:
+Cash:
 Bem, sente-se. Coma.
 
-498
+497
 00:20:22,640 --> 00:20:24,934
 Ovos orgânicos,
 frutas frescas,
 
-499
+498
 00:20:25,018 --> 00:20:26,144
 e a Summer fez esse pão
 sozinha.
 
-500
+499
 00:20:26,227 --> 00:20:28,104
 Mhm.
 
-501
+500
 00:20:28,188 --> 00:20:30,356
 Vocês comem juntos
 todos os dias?
 
-502
+501
 00:20:30,440 --> 00:20:32,275
-SUMMER:
+Summer:
 Todo café da manhã e jantar.
 
-503
+502
 00:20:32,358 --> 00:20:34,194
 É a melhor maneira
 de se manter conectado.
 
-504
+503
 00:20:34,277 --> 00:20:36,905
 Você pega toda a energia positiva
 desta mesa
 
-505
+504
 00:20:36,988 --> 00:20:38,531
 e consegue suportar
 toda a negatividade
 
-506
+505
 00:20:38,615 --> 00:20:40,533
 que você vai enfrentar
 lá fora.
 
-507
+506
 00:20:40,617 --> 00:20:41,701
 (Telefone apita)
 
-508
+507
 00:20:43,453 --> 00:20:45,413
 Ahn, isso é importante?
 
-509
+508
 00:20:46,664 --> 00:20:48,750
 É meu ex.
 Ele quer conversar.
 
-510
+509
 00:20:48,833 --> 00:20:51,544
-SUMMER:
+Summer:
 Nós temos
 uma política de proibir celular
 
-511
+510
 00:20:51,628 --> 00:20:53,463
 aqui em casa.
 
-512
+511
 00:20:53,546 --> 00:20:55,507
 Ah. Por quê?
 
-513
+512
 00:20:58,760 --> 00:21:00,678
 É uma coleira
-para sua antiga vida -
+para sua antiga vida...
 
-514
+513
 00:21:00,762 --> 00:21:02,931
 aquela que você deixou para trás,
 lembra?
 
-515
+514
 00:21:03,014 --> 00:21:05,266
 O dia em que eu joguei
 meu celular fora
 
-516
+515
 00:21:05,350 --> 00:21:06,935
 foi como sair da prisão.
 
-517
+516
 00:21:07,018 --> 00:21:08,603
-SUMMER:
+Summer:
 Você passou de feliz
 para infeliz
 
-518
+517
 00:21:08,686 --> 00:21:09,896
 só de olhar para ele.
 
-519
+518
 00:21:09,979 --> 00:21:12,106
 Você não pode deixar um pedaço de plástico
 com alguns fios
 
-520
+519
 00:21:12,190 --> 00:21:15,360
 ter tanto poder sobre seu humor,
 Clare.
 
-521
+520
 00:21:16,903 --> 00:21:19,614
 Livre-se do telefone.
 Liberte-se.
 
-522
+521
 00:21:21,074 --> 00:21:23,368
 ♪ Se eu vou viver ♪
 
-523
+522
 00:21:23,451 --> 00:21:27,288
 ♪ Do jeito que eu quero ♪
 
-524
+523
 00:21:27,372 --> 00:21:31,209
 ♪ E o quanto eu vou ter
 que deixar para trás ♪
 
-525
+524
 00:21:31,292 --> 00:21:32,919
 (Rindo)
 
-526
+525
 00:21:36,297 --> 00:21:37,507
 Isso!
 
-527
+526
 00:21:37,590 --> 00:21:39,008
 (Vibrando)
 Uhuu!
 
-528
+527
 00:21:42,095 --> 00:21:44,514
 ♪ Nós aprendemos... ♪
 
-529
+528
 00:21:44,597 --> 00:21:45,723
-CASH:
+Cash:
 Legal!
 
-530
+529
 00:21:45,807 --> 00:21:46,933
 Mandou bem!

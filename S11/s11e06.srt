@@ -1,212 +1,212 @@
 1
 00:00:04,179 --> 00:00:05,639
-(BATENDO NO MICROFONE)
+(Batendo no microfone)
 
 2
 00:00:05,723 --> 00:00:06,640
-(MICROFONIA)
+(Microfonia)
 
 3
 00:00:06,724 --> 00:00:08,267
-SAV:
-AQUI É A RÁDIO DEGRASSI,
+Sav:
+Aqui é a rádio Degrassi,
 
 4
 00:00:08,350 --> 00:00:10,394
-FALANDO COM VOCÊS
-DIRETO DO CAFÉ.
+falando com vocês
+direto do café.
 
 5
 00:00:10,477 --> 00:00:12,062
-EU SEI QUE NÃO PRECISO
-LEMBRÁ-LOS
+Eu sei que não preciso
+lembrá-los
 
 6
 00:00:12,146 --> 00:00:16,108
-QUE ESTAMOS NA FASE FINAL
-DA ESCOLHA DE UM NOVO DJ
+que estamos na fase final
+da escolha de um novo DJ
 
 7
 00:00:16,191 --> 00:00:17,443
-PARA DISTRIBUIR MÚSICA BOA.
+para distribuir música boa.
 
 8
 00:00:17,526 --> 00:00:19,820
-ENTÃO, FIQUEM LIGADOS
-PARA SABER QUEM SERÁ...
+Então, fiquem ligados
+para saber quem será...
 
 9
 00:00:19,903 --> 00:00:22,865
-A NOVA VOZ
-DE DEGRASSI!
+a nova voz
+de Degrassi!
 
 10
 00:00:22,948 --> 00:00:24,199
-MAS... CHEGA DE MIM.
+Mas... chega de mim.
 
 11
 00:00:25,200 --> 00:00:26,201
-VOLTEMOS
-ÀS MÚSICAS.
+Voltemos
+às músicas.
 
 12
 00:00:26,285 --> 00:00:28,787
-(APLAUSOS ESPARSOS)
+(Aplausos esparsos)
 
 13
 00:00:28,871 --> 00:00:30,247
-O SAV JÁ OUVIU SUA DEMO?
+O Sav já ouviu sua demo?
 
 14
 00:00:30,331 --> 00:00:31,415
-AH, É SÓ UMA QUESTÃO
-DE TEMPO
+Ah, é só uma questão
+de tempo
 
 15
 00:00:31,498 --> 00:00:32,458
-ATÉ EU TER MEU PRÓPRIO PROGRAMA.
+até eu ter meu próprio programa.
 
 16
 00:00:32,541 --> 00:00:33,459
-MAS NÃO SE PREOCUPEM,
+Mas não se preocupem,
 
 17
 00:00:33,542 --> 00:00:34,585
-NÃO VOU DEIXAR A FAMA
-SUBIR À CABEÇA.
+não vou deixar a fama
+subir à cabeça.
 
 18
 00:00:34,668 --> 00:00:35,878
-MUITO.
+Muito.
 
 19
 00:00:35,961 --> 00:00:38,422
-MAL POSSO ESPERAR.
-VAI LÁ! PERGUNTA!
+Mal posso esperar.
+Vai lá! Pergunta!
 
 20
 00:00:38,505 --> 00:00:39,506
-PERGUNTAR?
+Perguntar?
 
 21
 00:00:41,300 --> 00:00:42,301
 OK,
-LÁ VAI NADA!
+lá vai nada!
 
 22
 00:00:46,597 --> 00:00:49,058
-EI, DJ DAVE,
-APRESENTANDO-SE PARA O SERVIÇO!
+Ei, DJ Dave,
+apresentando-se para o serviço!
 
 23
 00:00:50,059 --> 00:00:52,436
-ADAM:
-DAVE, VOCÊ VEIO
-PARA A RÁDIO TAMBÉM?
+Adam:
+Dave, você veio
+para a rádio também?
 
 24
 00:00:52,519 --> 00:00:53,520
-DAVE:
-SIM. O QUE VOCÊ FAZ?
+Dave:
+Sim. O que você faz?
 
 25
 00:00:53,604 --> 00:00:54,521
-VOCÊ, AH, VOCÊ CUIDA
-DA PARTE TÉCNICA, CERTO?
+Você, ah, você cuida
+da parte técnica, certo?
 
 26
 00:00:54,605 --> 00:00:55,898
-VOCÊ MEXE NOS BOTÕES?
+Você mexe nos botões?
 
 27
 00:00:55,981 --> 00:00:58,901
-AH, NA VERDADE,
-EU VIM PARA A VAGA DE LOCUTOR.
+Ah, na verdade,
+eu vim para a vaga de locutor.
 
 28
 00:00:58,984 --> 00:01:00,861
-"O SHOW DO MACHO"
-COM ADAM TORRES.
+"O show do macho"
+com Adam Torres.
 
 29
 00:01:00,944 --> 00:01:02,321
-VOCÊ ESTÁ FAZENDO UM "SHOW DO MACHO"?
+Você está fazendo um "show do macho"?
 
 30
 00:01:02,404 --> 00:01:03,322
-SIM. VOCÊ?
+Sim. Você?
 
 31
 00:01:03,405 --> 00:01:06,158
-AH, "A HORA DO MACHO
-COM DAVE TURNER".
+Ah, "a hora do macho
+com Dave Turner".
 
 32
 00:01:06,241 --> 00:01:07,493
-MEIO PARECIDO, NÉ?
+Meio parecido, né?
 
 33
 00:01:07,576 --> 00:01:10,371
-SAV:
-É, VOCÊS ESTÃO
-COMPLICANDO MINHA VIDA.
+Sav:
+É, vocês estão
+complicando minha vida.
 
 34
 00:01:10,454 --> 00:01:11,914
-CADA UM ENVIOU
-UMA ÓTIMA DEMO.
+Cada um enviou
+uma ótima demo.
 
 35
 00:01:11,997 --> 00:01:13,957
-É, PRATICAMENTE
-PARA O MESMO PROGRAMA.
+É, praticamente
+para o mesmo programa.
 
 36
 00:01:14,041 --> 00:01:16,460
-ENTÃO QUEM, AH,
-QUEM FICA COM A VAGA?
+Então quem, ah,
+quem fica com a vaga?
 
 37
 00:01:16,543 --> 00:01:17,461
-BOM, NA VERDADE,
+Bom, na verdade,
 
 38
 00:01:17,544 --> 00:01:18,796
-EU VOU DEIXAR
-A ESCOLA DECIDIR.
+eu vou deixar
+a escola decidir.
 
 39
 00:01:18,879 --> 00:01:20,547
-VOCÊS DOIS VÃO DISPUTAR
-NO AR.
+Vocês dois vão disputar
+no ar.
 
 40
 00:01:20,631 --> 00:01:22,007
-O QUÊ,
-TIPO UMA COMPETIÇÃO?
+O quê,
+tipo uma competição?
 
 41
 00:01:22,091 --> 00:01:23,008
-SAV:
-EXATAMENTE!
+Sav:
+Exatamente!
 
 42
 00:01:23,092 --> 00:01:25,344
-VOCÊS DOIS FARÃO O TESTE
-PARA O NOVO PROGRAMA DA RÁDIO DEGRASSI,
+Vocês dois farão o teste
+para o novo programa da rádio Degrassi,
 
 43
 00:01:25,427 --> 00:01:27,388
-"HOMEM A HOMEM".
+"homem a homem".
 
 44
 00:01:27,471 --> 00:01:29,390
-DAVE:
-CERTO, ENTÃO...
+Dave:
+Certo, então...
 
 45
 00:01:29,473 --> 00:01:30,766
-QUE VENÇA O MELHOR.
+que vença o melhor.
 
 46
 00:01:30,849 --> 00:01:31,850
@@ -287,452 +287,452 @@ nos visite em: teendle.win
 
 65
 00:02:24,111 --> 00:02:26,113
-SRA. DAWES:
-BOM, TURMA,
-TEMOS UMA ADIÇÃO DE ÚLTIMA HORA.
+Sra. Dawes:
+Bom, turma,
+temos uma adição de última hora.
 
 66
 00:02:26,196 --> 00:02:29,366
-SEJA BEM-VINDA À AULA DE TEATRO
-DO 11º ANO, SRTA. COYNE.
+Seja bem-vinda à aula de teatro
+do 11º ano, srta. Coyne.
 
 67
 00:02:30,367 --> 00:02:32,453
-IMOGEN:
-VOCÊ NÃO É DO 12º ANO?
+Imogen:
+Você não é do 12º ano?
 
 68
 00:02:32,536 --> 00:02:34,788
-ESTOU FALTANDO UM CRÉDITO EM ARTES.
+Estou faltando um crédito em artes.
 
 69
 00:02:34,872 --> 00:02:37,541
-OK, ENTÃO TEMOS
-BOAS NOTÍCIAS!
+OK, então temos
+boas notícias!
 
 70
 00:02:37,624 --> 00:02:39,460
-COMO MUITOS ALUNOS DE TEATRO
-TALENTOSOS
+Como muitos alunos de teatro
+talentosos
 
 71
 00:02:39,543 --> 00:02:41,712
-ESCOLHERAM AGRACIAR
-ESTA TURMA,
+escolheram agraciar
+esta turma,
 
 72
 00:02:41,795 --> 00:02:45,007
-SOMOS RESPONSÁVEIS
-POR MONTAR A PEÇA DA ESCOLA!
+somos responsáveis
+por montar a peça da escola!
 
 73
 00:02:45,090 --> 00:02:46,383
-QUE TIPO DE PEÇA,
-EXATAMENTE?
+Que tipo de peça,
+exatamente?
 
 74
 00:02:46,467 --> 00:02:47,635
-SRA. DAWES:
-ESSA É A PRIMEIRA TAREFA
-DA TURMA,
+Sra. Dawes:
+Essa é a primeira tarefa
+da turma,
 
 75
 00:02:47,718 --> 00:02:48,886
-SR. GOLDSWORTHY;
+sr. Goldsworthy;
 
 76
 00:02:48,969 --> 00:02:50,638
-DESCOBRIR QUAL PEÇA
-QUEREMOS FAZER.
+descobrir qual peça
+queremos fazer.
 
 77
 00:02:50,721 --> 00:02:53,557
-ENTÃO, QUERO QUE SE DIVIDAM
-EM GRUPOS DE... QUATRO
+Então, quero que se dividam
+em grupos de... quatro
 
 78
 00:02:53,641 --> 00:02:56,727
-E QUE COMECEM
-O BRAINSTORM!
+e que comecem
+o brainstorm!
 
 79
 00:02:56,810 --> 00:02:57,811
-(ALUNOS CONVERSANDO)
+(Alunos conversando)
 
 80
 00:03:01,482 --> 00:03:02,483
-(SUSPIRA)
+(Suspira)
 
 81
 00:03:07,738 --> 00:03:09,365
-EI, TEM ESPAÇO
-PARA MAIS UMA?
+Ei, tem espaço
+para mais uma?
 
 82
 00:03:09,448 --> 00:03:12,076
-JÁ TEMOS QUATRO.
+Já temos quatro.
 
 83
 00:03:12,159 --> 00:03:13,869
-EU RIMEI,
-ENTÃO DEVE SER VERDADE!
+Eu rimei,
+então deve ser verdade!
 
 84
 00:03:13,952 --> 00:03:14,953
-(RI)
+(Ri)
 
 85
 00:03:16,205 --> 00:03:20,292
-SRA. DAWES:
-FIONA, EU SEI QUE DEVE SER DIFÍCIL.
+Sra. Dawes:
+Fiona, eu sei que deve ser difícil.
 
 86
 00:03:20,376 --> 00:03:22,044
-EU VOU PENSAR EM IDEIAS
-SOZINHA.
+Eu vou pensar em ideias
+sozinha.
 
 87
 00:03:22,127 --> 00:03:23,295
-ELES PROVAVELMENTE
-ESTÃO INTIMIDADOS,
+Eles provavelmente
+estão intimidados,
 
 88
 00:03:23,379 --> 00:03:25,964
-SEU IRMÃO GANHOU
-O GRUNDY.
+seu irmão ganhou
+o grundy.
 
 89
 00:03:26,048 --> 00:03:28,092
-NÃO SE PREOCUPE, VOCÊ ENCONTRARÁ
-SEU LUGAR EM BREVE.
+Não se preocupe, você encontrará
+seu lugar em breve.
 
 90
 00:03:28,175 --> 00:03:29,760
-(SUSPIRA)
+(Suspira)
 
 91
 00:03:29,843 --> 00:03:30,886
-POSSO IR AO BANHEIRO?
+Posso ir ao banheiro?
 
 92
 00:03:30,970 --> 00:03:31,971
-SIM.
+Sim.
 
 93
 00:03:34,682 --> 00:03:37,226
-SAV: (NO SISTEMA DE SOM)
-HÁ DEZENAS DE CLUBES
-AINDA PROCURANDO MEMBROS.
+Sav: (No sistema de som)
+há dezenas de clubes
+ainda procurando membros.
 
 94
 00:03:37,309 --> 00:03:39,770
-PAREM NO PAINEL
-PARA SE INSCREVER HOJE MESMO.
+Parem no painel
+para se inscrever hoje mesmo.
 
 95
 00:03:39,853 --> 00:03:41,063
-OS CLUBES VOLTARAM!
+Os clubes voltaram!
 
 96
 00:03:41,146 --> 00:03:42,606
-FINALMENTE,
-ISTO É UM COLÉGIO DE NOVO,
+Finalmente,
+isto é um colégio de novo,
 
 97
 00:03:42,690 --> 00:03:44,108
-E NÃO UM CAMPO DE PRISIONEIROS.
+e não um campo de prisioneiros.
 
 98
 00:03:44,191 --> 00:03:46,276
-A QUESTÃO É,
-QUAL CLUBE ESCOLHER?
+A questão é,
+qual clube escolher?
 
 99
 00:03:46,360 --> 00:03:48,904
-NADA TRADICIONAL?
-TEATRO, FICÇÃO...
+Nada tradicional?
+Teatro, ficção...
 
 100
 00:03:48,988 --> 00:03:49,905
-ESSAS SÃO ÁREAS DO ELI.
+essas são áreas do Eli.
 
 101
 00:03:49,989 --> 00:03:51,949
-ELE ESTÁ TOMANDO
-ALGUNS REMÉDIOS PARA ANSIEDADE,
+Ele está tomando
+alguns remédios para ansiedade,
 
 102
 00:03:52,032 --> 00:03:53,492
-E EU NÃO QUERO
-PROVOCÁ-LO.
+e eu não quero
+provocá-lo.
 
 103
 00:03:53,575 --> 00:03:56,745
-BOM, QUE TAL...
-ORIENTAÇÃO?
+Bom, que tal...
+orientação?
 
 104
 00:03:59,707 --> 00:04:01,000
-ALLI,
-PELA MILIONÉSIMA VEZ,
+Alli,
+pela milionésima vez,
 
 105
 00:04:01,083 --> 00:04:03,085
-EU NÃO ESTOU INTERESSADA
-NO JAKE MARTIN.
+eu não estou interessada
+no Jake Martin.
 
 106
 00:04:03,168 --> 00:04:04,420
-BOM, VOCÊ O BEIJOU.
+Bom, você o beijou.
 
 107
 00:04:04,503 --> 00:04:06,505
-UMA VEZ, SEM QUERER.
+Uma vez, sem querer.
 
 108
 00:04:08,215 --> 00:04:10,092
-ALÉM DISSO, ESTE SEMESTRE
-NÃO É SOBRE GAROTOS.
+Além disso, este semestre
+não é sobre garotos.
 
 109
 00:04:10,175 --> 00:04:11,719
-É SOBRE MIM,
+É sobre mim,
 
 110
 00:04:11,802 --> 00:04:14,471
-E MEU CORAÇÃO ESTÁ NO...
+e meu coração está no...
 
 111
 00:04:14,555 --> 00:04:15,556
-JORNAL.
+jornal.
 
 112
 00:04:16,557 --> 00:04:17,683
-SERÁ UMA ÓTIMA MANEIRA
-DE DIVERSIFICAR
+Será uma ótima maneira
+de diversificar
 
 113
 00:04:17,766 --> 00:04:20,185
-MEU PORTFÓLIO DE ESCRITA.
+meu portfólio de escrita.
 
 114
 00:04:20,269 --> 00:04:22,479
-ALI ESTÁ A KATIE MATLIN,
-A EDITORA.
+Ali está a Katie Matlin,
+a editora.
 
 115
 00:04:22,563 --> 00:04:23,939
-KATIE:
-CHEGO DO TREINO
-POR VOLTA DAS SETE.
+Katie:
+Chego do treino
+por volta das sete.
 
 116
 00:04:24,023 --> 00:04:25,858
-PODEMOS CONVERSAR SOBRE
-A TAREFA DE QUÍMICA ENTÃO?
+Podemos conversar sobre
+a tarefa de química então?
 
 117
 00:04:25,941 --> 00:04:27,651
-JÁ OUVIU FALAR
-EM DAR UMA PAUSA?
+Já ouviu falar
+em dar uma pausa?
 
 118
 00:04:27,735 --> 00:04:29,695
-JÁ OUVIU FALAR EM NÃO SER
-UM PREGUIÇOSO?
+Já ouviu falar em não ser
+um preguiçoso?
 
 119
 00:04:29,778 --> 00:04:30,821
-(RI)
+(Ri)
 
 120
 00:04:30,904 --> 00:04:32,990
-TE AMO, QUERIDO!
+Te amo, querido!
 
 121
 00:04:33,073 --> 00:04:35,117
-KATIE?
-OI, SOU A CLARE.
+Katie?
+Oi, sou a Clare.
 
 122
 00:04:35,200 --> 00:04:36,577
-EU GOSTARIA DE ENTRAR
-PARA SUA EQUIPE DE REDAÇÃO.
+Eu gostaria de entrar
+para sua equipe de redação.
 
 123
 00:04:36,660 --> 00:04:38,746
-AH, VOCÊ NÃO PODE SIMPLESMENTE
-ENTRAR PARA O JORNAL,
+Ah, você não pode simplesmente
+entrar para o jornal,
 
 124
 00:04:38,829 --> 00:04:40,331
-VOCÊ PRECISA SER SELECIONADA.
+você precisa ser selecionada.
 
 125
 00:04:40,414 --> 00:04:41,999
-OK, O QUE EU FAÇO?
+OK, o que eu faço?
 
 126
 00:04:43,000 --> 00:04:44,293
-ESCREVA UM ARTIGO DE EXEMPLO.
+Escreva um artigo de exemplo.
 
 127
 00:04:44,376 --> 00:04:46,670
-CEM PALAVRAS CONCISAS
-ATÉ O FINAL DO DIA.
+Cem palavras concisas
+até o final do dia.
 
 128
 00:04:46,754 --> 00:04:48,255
-SEM ADJETIVOS,
-SEM ADVÉRBIOS.
+Sem adjetivos,
+sem advérbios.
 
 129
 00:04:48,339 --> 00:04:50,841
-ÓTIMO. SOBRE O QUE DEVE SER
-O ARTIGO?
+Ótimo. Sobre o que deve ser
+o artigo?
 
 130
 00:04:50,924 --> 00:04:52,051
-QUE TAL...
+Que tal...
 
 131
 00:04:52,134 --> 00:04:54,136
-DEZ MANEIRAS DE SUPERAR
-UM TÉRMINO.
+dez maneiras de superar
+um término.
 
 132
 00:04:54,219 --> 00:04:55,137
-CONSEGUE LIDAR COM ISSO?
+Consegue lidar com isso?
 
 133
 00:04:55,220 --> 00:04:56,764
-ESTOU VIVENDO ISSO.
+Estou vivendo isso.
 
 134
 00:04:57,765 --> 00:05:00,017
-SIM, SIM.
-COM CERTEZA.
+Sim, sim.
+Com certeza.
 
 135
 00:05:01,977 --> 00:05:03,437
-HOLLY J:
-QUEM FICA BEM
-NESSAS COISAS?
+Holly J:
+Quem fica bem
+nessas coisas?
 
 136
 00:05:03,520 --> 00:05:04,938
-AH, VOCÊ?
+Ah, você?
 
 137
 00:05:05,022 --> 00:05:05,939
-HOLLY J:
-EU SEI. (RI)
+Holly J:
+Eu sei. (Ri)
 
 138
 00:05:06,023 --> 00:05:07,941
-NÃO ACREDITO QUE O DIA DA FOTO
-DA FORMATURA CHEGOU!
+não acredito que o dia da foto
+da formatura chegou!
 
 139
 00:05:08,025 --> 00:05:08,942
-UMA DAS ÚLTIMAS PARADAS
-NO CAMINHO
+Uma das últimas paradas
+no caminho
 
 140
 00:05:09,026 --> 00:05:10,611
-PARA O RESTO DA MINHA VIDA!
+para o resto da minha vida!
 
 141
 00:05:10,694 --> 00:05:13,405
-BOM, NÃO TENHA TANTA PRESSA
-PARA ME ABANDONAR, TÁ?
+Bom, não tenha tanta pressa
+para me abandonar, tá?
 
 142
 00:05:13,489 --> 00:05:15,991
-EU VOU FICAR SOZINHA
-ANO QUE VEM!
+Eu vou ficar sozinha
+ano que vem!
 
 143
 00:05:16,075 --> 00:05:17,701
-QUEM VAI REVISAR
-MINHAS REDAÇÕES?
+Quem vai revisar
+minhas redações?
 
 144
 00:05:17,785 --> 00:05:19,745
 COM QUEM EU VOU fofocar
-ENTRE AS AULAS?
+entre as aulas?
 
 145
 00:05:19,828 --> 00:05:22,081
-FALANDO EM AULA,
-VOCÊ NÃO DEVERIA ESTAR EM TEATRO?
+Falando em aula,
+você não deveria estar em teatro?
 
 146
 00:05:22,164 --> 00:05:24,124
-SIM,
-MAS SAÍMOS MAIS CEDO.
+Sim,
+mas saímos mais cedo.
 
 147
 00:05:25,209 --> 00:05:26,502
-OK, EU SAÍ MAIS CEDO.
+OK, eu saí mais cedo.
 
 148
 00:05:26,585 --> 00:05:28,962
-MAS ESTAVA CHEIO
-DE ALUNOS DO PRIMEIRO ANO -
+Mas estava cheio
+de alunos do primeiro ano...
 
 149
 00:05:29,046 --> 00:05:31,090
-NÃO MUITO AMIGÁVEIS,
-RIMADORES.
+Não muito amigáveis,
+rimadores.
 
 150
 00:05:31,173 --> 00:05:32,299
-QUANDO ELES VIREM QUE
-RAINHA DO DRAMA VOCÊ É,
+Quando eles virem que
+rainha do drama você é,
 
 151
 00:05:32,383 --> 00:05:34,385
-ELES VÃO TE AMAR!
+eles vão te amar!
 
 152
 00:05:34,468 --> 00:05:36,261
-FIONA:
-HOLLY J, VOCÊ SABE QUE TENHO
-DIFICULDADE PARA FAZER AMIGOS.
+Fiona:
+Holly J, você sabe que tenho
+dificuldade para fazer amigos.
 
 153
 00:05:36,345 --> 00:05:38,722
-ATÉ VOCÊ EU HERDEI
-DO DECLAN.
+Até você eu herdei
+do Declan.
 
 154
 00:05:38,806 --> 00:05:39,807
-E A CHARLIE?
+E a Charlie?
 
 155
 00:05:39,890 --> 00:05:42,017
-VOCÊS NÃO ESTAVAM
-NO CAMINHO DA AMIZADE?
+Vocês não estavam
+no caminho da amizade?
 
 156
 00:05:42,101 --> 00:05:44,061
-SIM, MAS NÃO PASSAMOS
-MUITO TEMPO JUNTAS
+Sim, mas não passamos
+muito tempo juntas
 
 157
 00:05:44,144 --> 00:05:45,187
-DESDE AS FÉRIAS DE PRIMAVERA.
+desde as férias de primavera.
 
 158
 00:05:45,270 --> 00:05:46,188
-VOCÊ NÃO PODE FAZER AMIGOS
-COM ALGUÉM
+Você não pode fazer amigos
+com alguém
 
 159
 00:05:46,271 --> 00:05:48,440
-A MENOS QUE PASSE TEMPO
-COM ELES!
+a menos que passe tempo
+com eles!
 
 160
 00:05:49,441 --> 00:05:50,442
@@ -740,935 +740,935 @@ COM ELES!
 
 161
 00:05:51,527 --> 00:05:54,697
-SABE, HOLLY J,
-VOCÊ PODE ESTAR CERTA.
+sabe, Holly J,
+você pode estar certa.
 
 162
 00:05:54,780 --> 00:05:56,448
-(HOLLY J RI)
+(Holly J ri)
 
 163
 00:05:56,532 --> 00:05:57,574
-ENTÃO, A GENTE TEM QUE, TIPO,
-DUELAR NO AR,
+Então, a gente tem que, tipo,
+duelar no ar,
 
 164
 00:05:57,658 --> 00:05:58,659
-PARA VER QUEM GANHA.
+para ver quem ganha.
 
 165
 00:05:58,742 --> 00:06:02,538
-VOCÊ É ENGRAÇADO E ADORÁVEL;
-VOCÊ CONSEGUE!
+Você é engraçado e adorável;
+você consegue!
 
 166
 00:06:02,621 --> 00:06:03,539
-DAVE:
-EU PRECISO DISSO.
+Dave:
+Eu preciso disso.
 
 167
 00:06:03,622 --> 00:06:04,540
-ALÉM DISSO, QUER DIZER,
-EU NÃO POSSO PERDER PARA O ADAM,
+Além disso, quer dizer,
+eu não posso perder para o Adam,
 
 168
 00:06:04,623 --> 00:06:05,749
-LOGO PARA ELE.
+logo para ele.
 
 169
 00:06:05,833 --> 00:06:07,418
-O QUE VOCÊ QUER DIZER COM
-"LOGO PARA ELE"?
+O que você quer dizer com
+"logo para ele"?
 
 170
 00:06:07,501 --> 00:06:09,628
-BOM, COMO ELE DEVE
-APRESENTAR UM SHOW DO MACHO?
+Bom, como ele deve
+apresentar um show do macho?
 
 171
 00:06:09,712 --> 00:06:11,338
-PORQUE ELE É TRANSGÊNERO?
+Porque ele é transgênero?
 
 172
 00:06:11,422 --> 00:06:13,048
-É, É ESTRANHO.
+É, é estranho.
 
 173
 00:06:13,132 --> 00:06:14,550
-O ADAM É LEGAL.
+O Adam é legal.
 
 174
 00:06:14,633 --> 00:06:16,510
-VOCÊ ACHA TODO MUNDO LEGAL.
+Você acha todo mundo legal.
 
 175
 00:06:16,593 --> 00:06:17,511
-O QUÊ?
+O quê?
 
 176
 00:06:17,594 --> 00:06:18,512
-SADIE:
-MEU ARMÁRIO É PERTO DO DO ADAM,
+Sadie:
+Meu armário é perto do do Adam,
 
 177
 00:06:18,595 --> 00:06:20,472
-E EU O OUÇO CONVERSANDO
-COM OS AMIGOS ÀS VEZES.
+e eu o ouço conversando
+com os amigos às vezes.
 
 178
 00:06:20,556 --> 00:06:21,473
-ELE É BEM ENGRAÇADO.
+Ele é bem engraçado.
 
 179
 00:06:21,557 --> 00:06:22,933
-OK, ENTÃO EU VOU USAR
-MINHAS MELHORES ARMAS,
+OK, então eu vou usar
+minhas melhores armas,
 
 180
 00:06:23,017 --> 00:06:24,435
-E VOU PROVAR
-QUE SOU MELHOR,
+e vou provar
+que sou melhor,
 
 181
 00:06:24,518 --> 00:06:27,104
-MAIS ENGRAÇADO E MAIS MACHO.
+mais engraçado e mais macho.
 
 182
 00:06:27,187 --> 00:06:29,273
-QUÃO DIFÍCIL PODE SER?
+Quão difícil pode ser?
 
 183
 00:06:33,736 --> 00:06:34,903
-(RUÍDO DE TÁXI)
+(Ruído de táxi)
 
 184
 00:06:43,120 --> 00:06:44,038
-(BUZINAS)
+(Buzinas)
 
 185
 00:06:44,121 --> 00:06:45,247
-FIONA:
-SURPRESA!
+Fiona:
+Surpresa!
 
 186
 00:06:45,331 --> 00:06:48,417
-CHARLIE:
-FIONA? O QUE VOCÊ ESTÁ FAZENDO AQUI?
+Charlie:
+Fiona? O que você está fazendo aqui?
 
 187
 00:06:48,500 --> 00:06:49,793
-A GENTE NÃO SE VÊ
-HÁ TANTO TEMPO,
+A gente não se vê
+há tanto tempo,
 
 188
 00:06:49,877 --> 00:06:51,837
-PENSEI QUE PODÍAMOS ALMOÇAR
-JUNTAS.
+pensei que podíamos almoçar
+juntas.
 
 189
 00:06:51,920 --> 00:06:55,257
-EU TROUXE UM PIQUENIQUE,
-INCLUINDO TORTA DE MAÇÃ CASEIRA.
+Eu trouxe um piquenique,
+incluindo torta de maçã caseira.
 
 190
 00:06:55,341 --> 00:06:56,300
-VOCÊ FEZ UMA TORTA?
+Você fez uma torta?
 
 191
 00:06:56,383 --> 00:06:58,385
-BOM, ALGUÉM FEZ.
+Bom, alguém fez.
 
 192
 00:06:59,386 --> 00:07:00,679
-ENTÃO...
+Então...
 
 193
 00:07:00,763 --> 00:07:02,056
-VOCÊ QUER PASSAR
-UM TEMPO COMIGO?
+você quer passar
+um tempo comigo?
 
 194
 00:07:02,139 --> 00:07:03,974
-EU ADORARIA,
+Eu adoraria,
 
 195
 00:07:04,058 --> 00:07:05,934
-MAS NÃO POSSO SAIR DA LOJA.
+mas não posso sair da loja.
 
 196
 00:07:06,018 --> 00:07:07,269
-AH, CLARO, TRABALHO.
+Ah, claro, trabalho.
 
 197
 00:07:07,353 --> 00:07:09,021
-AI, QUE BURRA EU SOU.
+Ai, que burra eu sou.
 
 198
 00:07:09,104 --> 00:07:11,440
-MAS PODEMOS COMER AQUI.
+Mas podemos comer aqui.
 
 199
 00:07:11,523 --> 00:07:13,567
-ELISE:
-ATÉ MAIS, CHARLIE.
+Elise:
+Até mais, Charlie.
 
 200
 00:07:13,651 --> 00:07:14,818
-VIU ALGO QUE GOSTOU?
+Viu algo que gostou?
 
 201
 00:07:14,902 --> 00:07:17,946
-ELISE:
-AH! AINDA ESTOU LOUCA PARA FAZER
-DAQUELE STELLA PRETO BRILHANTE MEU.
+Elise:
+Ah! Ainda estou louca para fazer
+daquele stella preto brilhante meu.
 
 202
 00:07:18,030 --> 00:07:19,657
-TEM CERTEZA DE QUE
-NÃO PODE ME DAR UM DESCONTO?
+Tem certeza de que
+não pode me dar um desconto?
 
 203
 00:07:19,740 --> 00:07:21,909
-VOCÊ MEIO QUE ME DEVE UMA.
+Você meio que me deve uma.
 
 204
 00:07:23,118 --> 00:07:25,496
-CHARLIE:
-AH, ELISE,
-ESTA É MINHA AMIGA, FIONA.
+Charlie:
+Ah, Elise,
+esta é minha amiga, Fiona.
 
 205
 00:07:25,579 --> 00:07:26,580
-DAS FÉRIAS DE PRIMAVERA.
+Das férias de primavera.
 
 206
 00:07:27,581 --> 00:07:28,582
-AH, SIM.
+Ah, sim.
 
 207
 00:07:29,583 --> 00:07:32,169
-OUVI DIZER QUE O CHARLIE TE VICIOU
-EM SCOOTERS TAMBÉM.
+Ouvi dizer que o Charlie te viciou
+em scooters também.
 
 208
 00:07:32,252 --> 00:07:35,506
-AH, É, AINDA ESTOU TENTANDO
-PEGAR O JEITO.
+Ah, é, ainda estou tentando
+pegar o jeito.
 
 209
 00:07:35,589 --> 00:07:36,840
-A FIONA TROUXE UM PIQUENIQUE.
+A Fiona trouxe um piquenique.
 
 210
 00:07:38,384 --> 00:07:39,343
-HUM...
+Hum...
 
 211
 00:07:39,426 --> 00:07:40,678
-TEM COMIDA
-SUFICIENTE PARA TRÊS.
+tem comida
+suficiente para três.
 
 212
 00:07:40,761 --> 00:07:42,388
-FIQUE À VONTADE PARA SE JUNTAR A NÓS.
+Fique à vontade para se juntar a nós.
 
 213
 00:07:42,471 --> 00:07:43,597
-TEM CERTEZA?
+Tem certeza?
 
 214
 00:07:43,681 --> 00:07:45,516
-EU ESTAVA INDO EMBORA.
+Eu estava indo embora.
 
 215
 00:07:45,599 --> 00:07:48,978
-CLARO!
-QUANTO MAIS, MELHOR.
+Claro!
+Quanto mais, melhor.
 
 216
 00:07:49,061 --> 00:07:50,104
-(SUSPIRA)
+(Suspira)
 
 217
 00:07:51,271 --> 00:07:52,773
-ENTÃO?
+Então?
 
 218
 00:07:52,856 --> 00:07:53,857
-AH...
+Ah...
 
 219
 00:07:53,941 --> 00:07:55,776
-BOM, É O ARTIGO MAIS
-BEM ESCRITO,
+bom, é o artigo mais
+bem escrito,
 
 220
 00:07:55,859 --> 00:07:58,028
-E DETALHADO SOBRE COMO SUPERAR
-UM TÉRMINO
+e detalhado sobre como superar
+um término
 
 221
 00:07:58,112 --> 00:07:59,738
-QUE EU JÁ LI.
+que eu já li.
 
 222
 00:07:59,822 --> 00:08:00,906
-MAS?
+Mas?
 
 223
 00:08:00,990 --> 00:08:02,533
-VOCÊ NÃO ACHA
-QUE É UM POUCO LONGO?
+Você não acha
+que é um pouco longo?
 
 224
 00:08:02,616 --> 00:08:03,909
-EU QUERO ME DESTACAR!
+Eu quero me destacar!
 
 225
 00:08:03,993 --> 00:08:05,619
-ALLI:
-A KATIE SÓ PEDIU
-CEM PALAVRAS.
+Alli:
+A Katie só pediu
+cem palavras.
 
 226
 00:08:05,703 --> 00:08:07,329
-QUALQUER UM CONSEGUE FAZER ISSO.
+Qualquer um consegue fazer isso.
 
 227
 00:08:07,413 --> 00:08:09,748
-A KATIE FICARÁ IMPRESSIONADA
-POR EU TER IDO ALÉM.
+A Katie ficará impressionada
+por eu ter ido além.
 
 228
 00:08:09,832 --> 00:08:10,749
-SE VOCÊ DIZ...
+Se você diz...
 
 229
 00:08:10,833 --> 00:08:12,167
-EU SEI QUE SIM!
+eu sei que sim!
 
 230
 00:08:12,251 --> 00:08:14,503
-ALLI:
-BOM, VOCÊ TIRA 10
-PELO ESFORÇO.
+Alli:
+Bom, você tira 10
+pelo esforço.
 
 231
 00:08:14,586 --> 00:08:15,587
-(CLARE RI)
+(Clare ri)
 
 232
 00:08:17,715 --> 00:08:18,966
-(SUSPIRA FELIZMENTE)
+(Suspira felizmente)
 
 233
 00:08:20,217 --> 00:08:21,802
 OK,
-ANTES DE COMEÇARMOS,
+antes de começarmos,
 
 234
 00:08:21,885 --> 00:08:24,763
-PRECISO LEMBRAR VOCÊS DOIS
-COMO O SIMPSON ESTÁ NERVOSO
+preciso lembrar vocês dois
+como o Simpson está nervoso
 
 235
 00:08:24,847 --> 00:08:26,974
-EM ENTREGAR AS ONDAS DE RÁDIO
-AOS ALUNOS?
+em entregar as ondas de rádio
+aos alunos?
 
 236
 00:08:27,057 --> 00:08:28,058
-ADAM: NÃO.
-DAVE: ENTENDI.
+Adam: Não.
+Dave: Entendi.
 
 237
 00:08:28,142 --> 00:08:30,602
-BOM. SEM SACANAGEM,
-SEMPRE DIVERTIDO,
+Bom. Sem sacanagem,
+sempre divertido,
 
 238
 00:08:30,686 --> 00:08:31,854
-ME AVISEM
-QUANDO ESTIVEREM PRONTOS.
+me avisem
+quando estiverem prontos.
 
 239
 00:08:31,937 --> 00:08:33,522
-AH, EU NASCI PRONTO.
+Ah, eu nasci pronto.
 
 240
 00:08:33,605 --> 00:08:35,649
-AH, É ASSIM QUE
-VOCÊ NASCEU?
+Ah, é assim que
+você nasceu?
 
 241
 00:08:35,733 --> 00:08:37,234
-COMO VOCÊ NASCEU?
-BAIXINHO?
+Como você nasceu?
+Baixinho?
 
 242
 00:08:37,318 --> 00:08:38,527
-MMM, É POR AÍ.
+Mmm, é por aí.
 
 243
 00:08:38,610 --> 00:08:40,070
-QUER QUE EU PARE
-DE SER GENTIL?
+Quer que eu pare
+de ser gentil?
 
 244
 00:08:40,154 --> 00:08:41,780
-VAI EM FRENTE, DAVE!
-MOSTRE O QUE VOCÊ TEM.
+Vai em frente, Dave!
+Mostre o que você tem.
 
 245
 00:08:41,864 --> 00:08:42,781
-(DAVE LATE)
+(Dave late)
 
 246
 00:08:42,865 --> 00:08:43,991
-DAVE:
-ESSE É MEU CÃO DE ATAQUE.
+Dave:
+Esse é meu cão de ataque.
 
 247
 00:08:44,074 --> 00:08:45,576
-EU O TREINEI
-PARA QUERER FRACOS.
+Eu o treinei
+para querer fracos.
 
 248
 00:08:45,659 --> 00:08:47,328
-ADAM:
-EI, EU VOU DOMINAR
-SEU TRASEIRO.
+Adam:
+Ei, eu vou dominar
+seu traseiro.
 
 249
 00:08:47,411 --> 00:08:48,412
-EU VOU TE DESTRUIR!
+Eu vou te destruir!
 
 250
 00:08:48,495 --> 00:08:50,164
-DAVE:
-VOCÊ NÃO PODE ME DESTRUIR, CARA,
-EU TENHO A MENTE DE UM NINJA,
+Dave:
+Você não pode me destruir, cara,
+eu tenho a mente de um ninja,
 
 251
 00:08:50,247 --> 00:08:52,750
-O OLHO DE UM TIGRE,
-A CORAGEM DE UM LEÃO!
+o olho de um tigre,
+a coragem de um leão!
 
 252
 00:08:52,833 --> 00:08:56,003
-ADAM:
-O CÉREBRO DE UM ESPANTALHO,
-E O CORAÇÃO DE UM HOMEM DE LATA.
+Adam:
+O cérebro de um espantalho,
+e o coração de um homem de lata.
 
 253
 00:08:56,086 --> 00:08:57,004
-BOOM!
+Boom!
 
 254
 00:08:57,087 --> 00:08:58,130
-DAVE:
-AH, VOCÊ NÃO
-ME DEU UM "BOOM"!
+Dave:
+Ah, você não
+me deu um "boom"!
 
 255
 00:08:58,213 --> 00:08:59,298
-ADAM:
-AH, EU TE DEI UM BOOM, DOROTHY.
+Adam:
+Ah, eu te dei um boom, dorothy.
 
 256
 00:08:59,381 --> 00:09:01,425
-EU TE DEI UM BOOM,
-E VOU FAZER DE NOVO!
+Eu te dei um boom,
+e vou fazer de novo!
 
 257
 00:09:01,508 --> 00:09:03,427
-DAVE: AH, NÃO, VOCÊ-
-ADAM: BOOM!
+Dave: Ah, não, você-
+Adam: Boom!
 
 258
 00:09:03,510 --> 00:09:04,845
-(RI) CERTO,
-BOM, OLHA,
+(Ri) Certo,
+bom, olha,
 
 259
 00:09:04,928 --> 00:09:07,514
-VAMOS VER COMO VOCÊ É ENGRAÇADO
-QUANDO ESTIVERMOS NO AR.
+vamos ver como você é engraçado
+quando estivermos no ar.
 
 260
 00:09:07,598 --> 00:09:09,099
-ESTAMOS PRONTOS?
-VAMOS NESSA.
+Estamos prontos?
+Vamos nessa.
 
 261
 00:09:09,183 --> 00:09:10,392
-(RISOS ABÁFADOS
-DE FORA DA CABINE)
+(Risos abafados
+de fora da cabine)
 
 262
 00:09:10,476 --> 00:09:12,102
-ESTÁ SENDO FEITO,
-MEU AMIGO.
+Está sendo feito,
+meu amigo.
 
 263
 00:09:12,186 --> 00:09:13,687
-(ALUNOS RINDO E BATENDO PALMAS)
+(Alunos rindo e batendo palmas)
 
 264
 00:09:13,771 --> 00:09:14,688
-ESTAMOS NO AR?
+Estamos no ar?
 
 265
 00:09:14,772 --> 00:09:16,690
-E O PÚBLICO DECIDIU.
+E o público decidiu.
 
 266
 00:09:16,774 --> 00:09:18,776
-(APLAUSOS E GRITOS)
+(Aplausos e gritos)
 
 267
 00:09:21,362 --> 00:09:22,363
-BOOM!
+Boom!
 
 268
 00:09:24,073 --> 00:09:25,074
-(SUSPIRA)
+(Suspira)
 
 269
 00:09:26,742 --> 00:09:28,869
-ADAM:
-"HOMEM A HOMEM"
-COM DAVE E ADAM!
+Adam:
+"Homem a homem"
+com Dave e Adam!
 
 270
 00:09:28,952 --> 00:09:30,454
-ISSO VAI SER INCRÍVEL!
+Isso vai ser incrível!
 
 271
 00:09:30,537 --> 00:09:31,622
-DAVE:
-OLHA, EU QUERIA
-TE DERROTAR,
+Dave:
+Olha, eu queria
+te derrotar,
 
 272
 00:09:31,705 --> 00:09:34,083
-MAS VAI SER MUITO MAIS DIVERTIDO
-ME JUNTAR A VOCÊ.
+mas vai ser muito mais divertido
+me juntar a você.
 
 273
 00:09:34,166 --> 00:09:35,167
-A GENTE ARREBENTA!
+A gente arrebenta!
 
 274
 00:09:39,713 --> 00:09:42,007
-JÁ VOLTO.
+Já volto.
 
 275
 00:09:50,724 --> 00:09:51,725
-(CLIQUE DA PORTA)
+(Clique da porta)
 
 276
 00:09:53,310 --> 00:09:54,812
-AH, VOCÊ... ENTROU.
+Ah, você... entrou.
 
 277
 00:09:55,938 --> 00:09:57,272
-VOCÊ TAMBÉM PRECISA FAZER XIXI?
+Você também precisa fazer xixi?
 
 278
 00:09:57,356 --> 00:10:00,359
-NÃO, SÓ, AH...
-QUERO LAVAR MINHAS MÃOS.
+Não, só, ah...
+quero lavar minhas mãos.
 
 279
 00:10:01,777 --> 00:10:04,530
-ENTÃO, SOBRE O QUE VAMOS
-CONVERSAR AMANHÃ?
+Então, sobre o que vamos
+conversar amanhã?
 
 280
 00:10:04,613 --> 00:10:06,240
-DAVE:
-AH... GAROTAS? MÚSICA?
+Dave:
+Ah... garotas? Música?
 
 281
 00:10:07,241 --> 00:10:09,159
-O QUE QUISERMOS.
+O que quisermos.
 
 282
 00:10:10,577 --> 00:10:13,163
-DAVE:
-OU PODEMOS, AH,
-SER MAIS OUSADOS,
+Dave:
+Ou podemos, ah,
+ser mais ousados,
 
 283
 00:10:13,247 --> 00:10:14,957
-ABORDAR ALGUNS ASSUNTOS,
+abordar alguns assuntos,
 
 284
 00:10:15,040 --> 00:10:17,543
-VER ATÉ ONDE PODEMOS IR
-ATÉ O SIMPSON DAR UMA BRONCA NO SAV.
+ver até onde podemos ir
+até o Simpson dar uma bronca no Sav.
 
 285
 00:10:21,046 --> 00:10:22,631
-ADAM?
+Adam?
 
 286
 00:10:23,632 --> 00:10:25,092
-O QUÊ? OH! HUM...
+O quê? Oh! Hum...
 
 287
 00:10:25,175 --> 00:10:26,510
-SIM, SIMPSON.
+sim, Simpson.
 
 288
 00:10:26,593 --> 00:10:27,678
-CARA,
-VOCÊ TEM PROBLEMAS!
+Cara,
+você tem problemas!
 
 289
 00:10:27,761 --> 00:10:29,346
-NÃO, DAVE,
-EU NÃO ESTAVA TE ENCARANDO!
+Não, Dave,
+eu não estava te encarando!
 
 290
 00:10:29,430 --> 00:10:32,057
-OLHA, TANTO FAZ.
-EU TENHO AULA.
+Olha, tanto faz.
+Eu tenho aula.
 
 291
 00:10:45,237 --> 00:10:47,364
-DAVE:
-PRESIDENTE,
-TEM UM MINUTO?
+Dave:
+Presidente,
+tem um minuto?
 
 292
 00:10:47,448 --> 00:10:50,826
-DAVE! SIM.
-QUALQUER COISA PELO MEU NOVO LOCUTOR!
+Dave! Sim.
+Qualquer coisa pelo meu novo locutor!
 
 293
 00:10:50,909 --> 00:10:51,827
-ONDE ESTÁ SUA OUTRA METADE?
+Onde está sua outra metade?
 
 294
 00:10:51,910 --> 00:10:52,828
-DAVE:
-VOCÊ QUER DIZER O ADAM?
+Dave:
+Você quer dizer o Adam?
 
 295
 00:10:52,911 --> 00:10:54,788
-SAV:
-É. VOCÊS DOIS SÃO O ASSUNTO DO MOMENTO.
+Sav:
+É. Vocês dois são o assunto do momento.
 
 296
 00:10:54,872 --> 00:10:56,665
-CARA,
-OLHA ISSO.
+Cara,
+olha isso.
 
 297
 00:10:56,749 --> 00:10:58,292
-PROTÓTIPO DE CAMISETA NOVA.
+Protótipo de camiseta nova.
 
 298
 00:10:58,375 --> 00:11:00,169
-FIZ EU MESMO.
+Fiz eu mesmo.
 
 299
 00:11:00,252 --> 00:11:02,588
-É, OLHA,
-É ÓTIMO E...
+É, olha,
+é ótimo e...
 
 300
 00:11:02,671 --> 00:11:04,465
-EU ME DIVERTI E TUDO,
-MAS...
+eu me diverti e tudo,
+mas...
 
 301
 00:11:04,548 --> 00:11:05,883
-EU TENHO QUE SAIR DO PROGRAMA.
+eu tenho que sair do programa.
 
 302
 00:11:05,966 --> 00:11:08,552
-HUM, VOCÊS NEM
-COMEÇARAM AINDA.
+Hum, vocês nem
+começaram ainda.
 
 303
 00:11:08,636 --> 00:11:10,012
-E POR QUÊ?
+E por quê?
 
 304
 00:11:10,095 --> 00:11:11,680
-EU NÃO POSSO FALAR
-SOBRE ISSO.
+Eu não posso falar
+sobre isso.
 
 305
 00:11:11,764 --> 00:11:12,681
-OLHA, EU E O ADAM,
+Olha, eu e o Adam,
 
 306
 00:11:12,765 --> 00:11:14,099
-A GENTE SÓ,
-A GENTE NÃO COMBINA.
+a gente só,
+a gente não combina.
 
 307
 00:11:14,183 --> 00:11:16,393
-É SÓ UM PROGRAMA DE RÁDIO,
-CARA!
+É só um programa de rádio,
+cara!
 
 308
 00:11:16,477 --> 00:11:17,811
-VOCÊ NÃO VAI CASAR COM NINGUÉM.
+Você não vai casar com ninguém.
 
 309
 00:11:17,895 --> 00:11:19,647
-ALÉM DISSO, AS PESSOAS AMAM
-VOCÊS DOIS JUNTOS!
+Além disso, as pessoas amam
+vocês dois juntos!
 
 310
 00:11:19,730 --> 00:11:23,275
-SUA PRIMEIRA TRANSMISSÃO
-RECEBEU CEM E-MAILS.
+Sua primeira transmissão
+recebeu cem e-mails.
 
 311
 00:11:23,359 --> 00:11:25,194
-CEM?!
+Cem?!
 
 312
 00:11:25,277 --> 00:11:26,403
-EU ESTOU DIZENDO,
-DAQUI A UMA SEMANA,
+Eu estou dizendo,
+daqui a uma semana,
 
 313
 00:11:26,487 --> 00:11:28,489
-VOCÊS DOIS SERÃO
-OS CARAS MAIS POPULARES
+vocês dois serão
+os caras mais populares
 
 314
 00:11:28,572 --> 00:11:29,490
-DESTE COLÉGIO.
+deste colégio.
 
 315
 00:11:29,573 --> 00:11:31,450
-VOCÊ QUER DESISTIR DISSO?
+Você quer desistir disso?
 
 316
 00:11:32,451 --> 00:11:35,663
-POLICIAL TURNER:
-FILHO! SEU PROGRAMA FOI HILÁRIO!
+Policial Turner:
+Filho! Seu programa foi hilário!
 
 317
 00:11:35,746 --> 00:11:37,122
-É? VOCÊ OUVIU?
+É? Você ouviu?
 
 318
 00:11:37,206 --> 00:11:38,165
-VOCÊ É O CARA!
+Você é o cara!
 
 319
 00:11:38,248 --> 00:11:40,042
-VOCÊ VAI VOLTAR
-AMANHÃ, CERTO?
+Você vai voltar
+amanhã, certo?
 
 320
 00:11:42,920 --> 00:11:44,088
-SIM, SIM.
+Sim, sim.
 
 321
 00:11:44,171 --> 00:11:45,255
-MAL POSSO ESPERAR PARA OUVIR.
+Mal posso esperar para ouvir.
 
 322
 00:11:45,339 --> 00:11:46,340
-ORGULHOSO DE VOCÊ.
+Orgulhoso de você.
 
 323
 00:11:50,719 --> 00:11:51,887
-MEIO-DIA.
+Meio-dia.
 
 324
 00:11:52,888 --> 00:11:56,475
-♪ "HOMEM A HOMEM"
-COM DAVE E ADAM! ♪
+♪ "Homem a homem"
+com Dave e Adam! ♪
 
 325
 00:11:59,144 --> 00:12:00,062
-(SUSPIRA)
+(Suspira)
 
 326
 00:12:00,145 --> 00:12:01,689
-CHARLIE:
-CHEGUEI EM CASA SÃ E SALVA.
+Charlie:
+Cheguei em casa sã e salva.
 
 327
 00:12:01,772 --> 00:12:04,108
-SUA AMIGA ELISE
-FOI TÃO LEGAL COMIGO!
+Sua amiga Elise
+foi tão legal comigo!
 
 328
 00:12:04,191 --> 00:12:06,193
-TODO MUNDO NÃO TE AMA
-À PRIMEIRA VISTA?
+Todo mundo não te ama
+à primeira vista?
 
 329
 00:12:06,276 --> 00:12:07,277
-QUEM ME DERA!
+Quem me dera!
 
 330
 00:12:08,320 --> 00:12:10,906
-EU NÃO ESTOU ME ENCAIXANDO
-NO COLÉGIO.
+Eu não estou me encaixando
+no colégio.
 
 331
 00:12:10,990 --> 00:12:12,866
-É O COLÉGIO;
-QUEM SE ENCAIXA?
+É o colégio;
+quem se encaixa?
 
 332
 00:12:12,950 --> 00:12:14,660
-ALÉM DISSO, VOCÊ SÓ TEM
-MAIS ALGUNS MESES.
+Além disso, você só tem
+mais alguns meses.
 
 333
 00:12:14,743 --> 00:12:16,161
-NEGATIVO.
+Negativo.
 
 334
 00:12:16,245 --> 00:12:17,788
-É UMA HISTÓRIA LONGA
-E CHATA,
+É uma história longa
+e chata,
 
 335
 00:12:17,871 --> 00:12:20,416
-MAS ESTOU FALTANDO
-ALGUNS CRÉDITOS,
+mas estou faltando
+alguns créditos,
 
 336
 00:12:20,499 --> 00:12:21,667
-ENTÃO VOU VOLTAR
-ANO QUE VEM,
+então vou voltar
+ano que vem,
 
 337
 00:12:21,750 --> 00:12:23,419
-E OS POUCOS AMIGOS
-QUE EU TENHO
+e os poucos amigos
+que eu tenho
 
 338
 00:12:23,502 --> 00:12:25,546
-ESTARÃO INDO
-PARA SUAS FACULDADES.
+estarão indo
+para suas faculdades.
 
 339
 00:12:25,629 --> 00:12:26,630
-EU VOU FICAR SOZINHA.
+Eu vou ficar sozinha.
 
 340
 00:12:26,714 --> 00:12:28,924
-EI, VOCÊ VAI TER A MIM.
+Ei, você vai ter a mim.
 
 341
 00:12:29,008 --> 00:12:30,301
-(RI)
+(Ri)
 
 342
 00:12:30,384 --> 00:12:32,344
-EU REALMENTE PRECISO IR,
+Eu realmente preciso ir,
 
 343
 00:12:32,428 --> 00:12:33,721
-ANTES QUE MINHA CHEFE PERCEBA
-QUE EU SAÍ
+antes que minha chefe perceba
+que eu saí
 
 344
 00:12:33,804 --> 00:12:35,764
-POR UMA HORA E MEIA!
+por uma hora e meia!
 
 345
 00:12:35,848 --> 00:12:36,807
-TEM CERTEZA DE QUE NÃO QUER
-QUE EU
+Tem certeza de que não quer
+que eu
 
 346
 00:12:36,890 --> 00:12:38,309
-TE DEIXE NO COLÉGIO?
+te deixe no colégio?
 
 347
 00:12:38,392 --> 00:12:40,060
-ABSOLUTA.
+Absoluta.
 
 348
 00:12:40,144 --> 00:12:42,604
-E HOJE À NOITE?
-ALGUM PLANO?
+E hoje à noite?
+Algum plano?
 
 349
 00:12:42,688 --> 00:12:44,857
-SIM.
-NOITE DE BOLICHE.
+Sim.
+Noite de boliche.
 
 350
 00:12:45,399 --> 00:12:46,317
-AH.
+Ah.
 
 351
 00:12:46,400 --> 00:12:48,944
-SEMPRE TEM ESPAÇO
-PARA MAIS UMA.
+Sempre tem espaço
+para mais uma.
 
 352
 00:12:49,028 --> 00:12:51,196
-SÉRIO?
-EU ADORO BOLICHE.
+Sério?
+Eu adoro boliche.
 
 353
 00:12:52,197 --> 00:12:53,866
-QUER DIZER,
-EU ACHO QUE VOU ADORAR.
+Quer dizer,
+eu acho que vou adorar.
 
 354
 00:12:53,949 --> 00:12:55,868
-VOCÊ NUNCA JOGOU?
+Você nunca jogou?
 
 355
 00:12:55,951 --> 00:12:58,620
-ENTÃO,
-HOJE É SUA NOITE DE SORTE!
+Então,
+hoje é sua noite de sorte!
 
 356
 00:12:58,704 --> 00:12:59,705
-(RI)
+(Ri)
 
 357
 00:13:01,415 --> 00:13:03,125
-FIONA, O QUE VOCÊ
-ESTÁ FAZENDO AQUI?
+Fiona, o que você
+está fazendo aqui?
 
 358
 00:13:03,208 --> 00:13:05,377
-MÃE, EU ACHEI QUE VOCÊ TINHA
-UM DIA DE SPA.
+Mãe, eu achei que você tinha
+um dia de spa.
 
 359
 00:13:05,461 --> 00:13:06,754
-LARA:
-EU CANCELEI.
+Lara:
+Eu cancelei.
 
 360
 00:13:06,837 --> 00:13:08,464
-POR QUE VOCÊ NÃO ESTÁ NO COLÉGIO?
+Por que você não está no colégio?
 
 361
 00:13:09,465 --> 00:13:10,507
-EU DEVERIA IR.
+Eu deveria ir.
 
 362
 00:13:10,591 --> 00:13:11,508
-LARA:
-ÓTIMA IDEIA.
+Lara:
+Ótima ideia.
 
 363
 00:13:11,592 --> 00:13:14,178
-MINHA FILHA E EU PRECISAMOS CONVERSAR.
+Minha filha e eu precisamos conversar.
 
 364
 00:13:22,519 --> 00:13:39,203
@@ -1676,455 +1676,454 @@ MINHA FILHA E EU PRECISAMOS CONVERSAR.
 
 365
 00:13:40,204 --> 00:13:41,121
-OI, KATIE.
+Oi, Katie.
 
 366
 00:13:41,205 --> 00:13:42,206
-CLARE, O QUE VOCÊ
-TEM PARA MIM?
+Clare, o que você
+tem para mim?
 
 367
 00:13:42,289 --> 00:13:43,290
-UM ARTIGO DE EXEMPLO,
+Um artigo de exemplo,
 
 368
 00:13:43,374 --> 00:13:44,667
-ASSINADO, SELADO
-E ENTREGUE.
+assinado, selado
+e entregue.
 
 369
 00:13:44,750 --> 00:13:47,419
-B-BOM, NÃO SELADO,
-MAS OS OUTROS DOIS.
+B-bom, não selado,
+mas os outros dois.
 
 370
 00:13:47,503 --> 00:13:49,129
-ÓTIMO.
-AH, DEIXE NA MINHA MESA.
+Ótimo.
+Ah, deixe na minha mesa.
 
 371
 00:13:49,213 --> 00:13:50,547
-(SUSPIRA NERVOSAMENTE)
+(Suspira nervosamente)
 
 372
 00:13:54,551 --> 00:13:55,970
-ENTÃO, QUANDO VOCÊ ACHA
-QUE VAI TER UMA CHANCE
+Então, quando você acha
+que vai ter uma chance
 
 373
 00:13:56,053 --> 00:13:57,471
-DE LER MEU ARTIGO?
+de ler meu artigo?
 
 374
 00:13:57,554 --> 00:13:59,390
-KATIE:
-EU TENHO UM TEMPO SEXTA-FEIRA QUE VEM.
+Katie:
+Eu tenho um tempo sexta-feira que vem.
 
 375
 00:13:59,473 --> 00:14:00,557
-SEXTA-FEIRA QUE VEM?!
+Sexta-feira que vem?!
 
 376
 00:14:00,641 --> 00:14:01,684
-ESTOU BRINCANDO, CLARE.
+Estou brincando, Clare.
 
 377
 00:14:01,767 --> 00:14:02,810
-RELAXA!
+Relaxa!
 
 378
 00:14:02,893 --> 00:14:05,521
-AS PESSOAS DIZEM QUE EU SOU INTENSA.
+As pessoas dizem que eu sou intensa.
 
 379
 00:14:05,604 --> 00:14:06,563
-QUE TAL EU LER AGORA?
+Que tal eu ler agora?
 
 380
 00:14:06,647 --> 00:14:07,648
-ÓTIMO!
+Ótimo!
 
 381
 00:14:13,570 --> 00:14:15,948
-EU DISSE CEM PALAVRAS.
+Eu disse cem palavras.
 
 382
 00:14:16,031 --> 00:14:17,741
-EU QUERIA FAZER MAIS
-DO QUE UMA BOBAGEM.
+Eu queria fazer mais
+do que uma bobagem.
 
 383
 00:14:17,825 --> 00:14:19,034
-ISSO TEM CINCO PÁGINAS!
+Isso tem cinco páginas!
 
 384
 00:14:19,118 --> 00:14:21,704
-VOCÊ COLOCOU NOTAS DE RODAPÉ,
-E TEM UM APÊNDICE!
+Você colocou notas de rodapé,
+e tem um apêndice!
 
 385
 00:14:21,787 --> 00:14:23,247
-OS ALUNOS NÃO VÃO
-LER ISSO.
+Os alunos não vão
+ler isso.
 
 386
 00:14:23,330 --> 00:14:25,165
-BOM,
-VOCÊ NÃO SABE DISSO.
+Bom,
+você não sabe disso.
 
 387
 00:14:25,249 --> 00:14:28,377
-VOCÊ ESTÁ ME DIZENDO
-O QUE EU NÃO SEI?
+Você está me dizendo
+o que eu não sei?
 
 388
 00:14:28,460 --> 00:14:31,922
-TALVEZ SÓ PRECISE
-DE UM TÍTULO CHAMATIVO.
+Talvez só precise
+de um título chamativo.
 
 389
 00:14:32,006 --> 00:14:34,883
-DESCULPE, CLARE,
-A EQUIPE DO JORNAL ESTÁ COMPLETA.
+Desculpe, Clare,
+a equipe do jornal está completa.
 
 390
 00:14:40,097 --> 00:14:42,099
-(CELULAR APITA)
+(Celular apita)
 
 391
 00:14:43,267 --> 00:14:45,436
-EU ACHO QUE O DAVE
-NÃO VAI VIR.
+Eu acho que o Dave
+não vai vir.
 
 392
 00:14:45,519 --> 00:14:47,062
-EU SÓ ENTREI NO
-BANHEIRO MASCULINO
+Eu só entrei no
+banheiro masculino
 
 393
 00:14:47,146 --> 00:14:49,356
-PORQUE EU QUERIA QUE ELE
-ME VISSE COMO UM CARA.
+porque eu queria que ele
+me visse como um cara.
 
 394
 00:14:49,440 --> 00:14:51,108
-DEU MUITO ERRADO, NÉ?
+Deu muito errado, né?
 
 395
 00:14:51,191 --> 00:14:52,776
-PORQUE VOCÊ FOI PEGO
-DANDO UMA ESPIADA.
+Porque você foi pego
+dando uma espiada.
 
 396
 00:14:52,860 --> 00:14:56,697
-NÃO! EU TE DISSE,
-EU NÃO ESTAVA DANDO UMA ESPIADA!
+Não! Eu te disse,
+eu não estava dando uma espiada!
 
 397
 00:14:56,780 --> 00:14:59,450
-EU SÓ QUERIA VER
-A POSTURA DELE NO MICTÓRIO.
+Eu só queria ver
+a postura dele no mictório.
 
 398
 00:14:59,533 --> 00:15:01,160
-POR QUE O INTERESSE REPENTINO
-EM MICTÓRIOS?
+Por que o interesse repentino
+em mictórios?
 
 399
 00:15:04,204 --> 00:15:05,956
-POR CAUSA DISSO.
+Por causa disso.
 
 400
 00:15:06,957 --> 00:15:08,500
-QUE DIABOS É ISSO?!
+Que diabos é isso?!
 
 401
 00:15:08,584 --> 00:15:10,169
-ADAM:
-UM DISPOSITIVO PARA FAZER XIXI EM PÉ.
+Adam:
+Um dispositivo para fazer xixi em pé.
 
 402
 00:15:10,252 --> 00:15:11,962
-EU COMPREI ONLINE.
+Eu comprei online.
 
 403
 00:15:12,046 --> 00:15:14,298
-É PARA EU PODER-
-FAZER XIXI EM PÉ?
+É para eu poder-
+fazer xixi em pé?
 
 404
 00:15:15,299 --> 00:15:16,717
-COMO FUNCIONA?
+Como funciona?
 
 405
 00:15:16,800 --> 00:15:19,386
-COMO VOCÊ ACHA
-QUE FUNCIONA?
+Como você acha
+que funciona?
 
 406
 00:15:20,387 --> 00:15:22,723
-ELI:
-SOCORRO, DEZ HORAS.
+Eli:
+Socorro, dez horas.
 
 407
 00:15:22,806 --> 00:15:23,724
-O QUE EU DIGO?
+O que eu digo?
 
 408
 00:15:23,807 --> 00:15:26,185
-SÓ FICA NA SUA.
-FINJA QUE NADA ACONTECEU.
+Só fica na sua.
+Finja que nada aconteceu.
 
 409
 00:15:26,268 --> 00:15:27,728
-NÃO, MAS SE O DAVE
-NÃO AGUENTA ISSO,
+Não, mas se o Dave
+não aguenta isso,
 
 410
 00:15:27,811 --> 00:15:28,979
-QUEM VAI AGUENTAR?
+quem vai aguentar?
 
 411
 00:15:29,980 --> 00:15:30,981
-DÊ UM VOTO DE CONFIANÇA A ELE.
+Dê um voto de confiança a ele.
 
 412
 00:15:33,067 --> 00:15:34,234
-OI.
+Oi.
 
 413
 00:15:34,318 --> 00:15:36,403
-OI, EU ACHEI
-QUE VOCÊ NÃO VINHA.
+Oi, eu achei
+que você não vinha.
 
 414
 00:15:36,487 --> 00:15:40,199
-BOM, AH, TEMOS UM PROGRAMA
-PARA PLANEJAR, NÃO É?
+Bom, ah, temos um programa
+para planejar, não é?
 
 415
 00:15:40,282 --> 00:15:41,617
-BOA SORTE.
+Boa sorte.
 
 416
 00:15:43,452 --> 00:15:45,829
-BOM, DEVEMOS COMEÇAR.
+Bom, devemos começar.
 
 417
 00:15:45,913 --> 00:15:46,914
-AH...
+Ah...
 
 418
 00:15:52,086 --> 00:15:54,088
-MÃE, VOCÊ PODE ME DEIXAR
-EXPLICAR?
+mãe, você pode me deixar
+explicar?
 
 419
 00:15:54,171 --> 00:15:56,340
-POR QUE VOCÊ MATOU AULA?
+Por que você matou aula?
 
 420
 00:15:56,423 --> 00:15:58,008
-FOI UM DIA MUITO DIFÍCIL
-PARA MIM.
+Foi um dia muito difícil
+para mim.
 
 421
 00:15:58,092 --> 00:15:59,593
-ENTÃO VOCÊ DECIDIU IR EMBORA.
+Então você decidiu ir embora.
 
 422
 00:15:59,677 --> 00:16:00,594
-E VOCÊ DECIDIU
-ME ENVERGONHAR
+E você decidiu
+me envergonhar
 
 423
 00:16:00,678 --> 00:16:02,388
-NA FRENTE DA CHARLIE!
+na frente da Charlie!
 
 424
 00:16:02,471 --> 00:16:04,264
-NÃO É ISSO QUE
-ESTAMOS DISCUTINDO AGORA!
+Não é isso que
+estamos discutindo agora!
 
 425
 00:16:04,348 --> 00:16:05,641
-CERTO, EU ENTENDI.
-VOCÊ ESTÁ BRAVA.
+Certo, eu entendi.
+Você está brava.
 
 426
 00:16:05,724 --> 00:16:08,852
-ISSO É O QUE É ESTAR
-BRAVA!
+Isso é o que é estar
+brava!
 
 427
 00:16:08,936 --> 00:16:10,604
-(SUSPIRA PROFUNDAMENTE)
+(Suspira profundamente)
 
 428
 00:16:10,688 --> 00:16:14,608
-MAS POR BAIXO DA RAIVA
-HÁ MUITA PREOCUPAÇÃO, FIONA!
+Mas por baixo da raiva
+há muita preocupação, Fiona!
 
 429
 00:16:14,692 --> 00:16:17,403
-VOCÊ JÁ PERDEU
-UM SEMESTRE!
+Você já perdeu
+um semestre!
 
 430
 00:16:18,696 --> 00:16:20,447
-VOCÊ NÃO PODE SE DAR AO LUXO
-DE PERDER OUTRO.
+Você não pode se dar ao luxo
+de perder outro.
 
 431
 00:16:20,531 --> 00:16:21,907
-MAS EU NÃO PRECISO DO COLÉGIO.
+Mas eu não preciso do colégio.
 
 432
 00:16:21,991 --> 00:16:23,617
-EU PODERIA CONSEGUIR UM EMPREGO!
+Eu poderia conseguir um emprego!
 
 433
 00:16:23,701 --> 00:16:24,785
-VOCÊ TEM DEZESSETE ANOS.
+Você tem dezessete anos.
 
 434
 00:16:24,868 --> 00:16:26,787
-SEU TRABALHO É IR
-PARA O COLÉGIO.
+Seu trabalho é ir
+para o colégio.
 
 435
 00:16:26,870 --> 00:16:29,456
-MAS E SE EU ODIAR -
-MUITO?!
+Mas e se eu odiar... Muito?!
 
 436
 00:16:29,540 --> 00:16:30,916
-SE É ASSIM QUE
-VOCÊ SE SENTE,
+Se é assim que
+você se sente,
 
 437
 00:16:31,000 --> 00:16:31,959
-VOLTAREMOS PARA NOVA YORK.
+voltaremos para Nova York.
 
 438
 00:16:32,042 --> 00:16:33,252
-O QUÊ? NÃO!
+O quê? Não!
 
 439
 00:16:33,335 --> 00:16:34,294
-O ÚNICO MOTIVO
-DE ESTARMOS AQUI
+O único motivo
+de estarmos aqui
 
 440
 00:16:34,378 --> 00:16:35,629
-É PORQUE VOCÊ PROMETEU
+é porque você prometeu
 
 441
 00:16:35,713 --> 00:16:37,381
-QUE DEGRASSI SERIA
-BOM PARA VOCÊ.
+que Degrassi seria
+bom para você.
 
 442
 00:16:37,464 --> 00:16:38,632
-(SUSPIRA)
+(Suspira)
 
 443
 00:16:38,716 --> 00:16:40,050
-OK, TUDO BEM,
+OK, tudo bem,
 
 444
 00:16:41,385 --> 00:16:42,845
-EU VOU PARA O COLÉGIO.
+eu vou para o colégio.
 
 445
 00:16:42,928 --> 00:16:44,972
-EU PROMETO,
-NÃO MATO AULA MAIS.
+Eu prometo,
+não mato aula mais.
 
 446
 00:16:45,055 --> 00:16:46,181
-BOM!
+Bom!
 
 447
 00:16:46,265 --> 00:16:48,350
-CASO CONTRÁRIO, VOCÊ PEGA
-O PRÓXIMO AVIÃO PARA LA GUARDIA.
+Caso contrário, você pega
+o próximo avião para la guardia.
 
 448
 00:16:51,603 --> 00:16:53,522
-ALLI:
-ENTÃO, BASICAMENTE, VOCÊ ARRUINOU TUDO.
+Alli:
+Então, basicamente, você arruinou tudo.
 
 449
 00:16:53,605 --> 00:16:56,150
-CLARE:
-A KATIE NEM LEU
-MEU ARTIGO.
+Clare:
+A Katie nem leu
+meu artigo.
 
 450
 00:16:56,233 --> 00:16:58,694
-ALLI:
-BOM, TALVEZ ELA TE DÊ
-UMA SEGUNDA CHANCE?
+Alli:
+Bom, talvez ela te dê
+uma segunda chance?
 
 451
 00:16:58,777 --> 00:16:59,778
-(CLARE SUSPIRA)
+(Clare suspira)
 
 452
 00:17:03,115 --> 00:17:05,993
-LÁ ESTÁ ELA,
-EU DEVERIA IR FALAR COM ELA.
+Lá está ela,
+eu deveria ir falar com ela.
 
 453
 00:17:06,076 --> 00:17:09,371
-AGORA, ME MOSTRE SUA MELHOR
-CARA DE "ME DESCULPE".
+Agora, me mostre sua melhor
+cara de "me desculpe".
 
 454
 00:17:09,455 --> 00:17:10,372
-ISSO SERVE.
+Isso serve.
 
 455
 00:17:10,456 --> 00:17:12,249
-AGORA, EU VOU ESTAR ALI
-PEGANDO MEU LATTE.
+Agora, eu vou estar ali
+pegando meu latte.
 
 456
 00:17:15,127 --> 00:17:17,421
-KATIE, PODEMOS CONVERSAR
-UM SEGUNDO?
+Katie, podemos conversar
+um segundo?
 
 457
 00:17:17,504 --> 00:17:19,423
-EU TENHO TREINO DE FUTEBOL.
+Eu tenho treino de futebol.
 
 458
 00:17:21,634 --> 00:17:23,302
-ATÉ MAIS, ÉGUA.
+Até mais, égua.
 
 459
 00:17:26,972 --> 00:17:29,266
-MARISOL, VOCÊ PODE, POR FAVOR,
-DIZER À SUA AMIGA QUE EU SINTO MUITO?
+Marisol, você pode, por favor,
+dizer à sua amiga que eu sinto muito?
 
 460
 00:17:29,350 --> 00:17:31,769
-VAI, AH, PRECISAR
-DE MAIS DO QUE ISSO.
+Vai, ah, precisar
+de mais do que isso.
 
 461
 00:17:31,852 --> 00:17:34,521
-SABE, A KATIE FAZ DE TUDO
-PARA EVITAR DRAMA,
+Sabe, a Katie faz de tudo
+para evitar drama,
 
 462
 00:17:34,605 --> 00:17:36,940
-E VOCÊ... É DRAMA.
+e você... é drama.
 
 463
 00:17:38,275 --> 00:17:39,568
-EU NÃO SOU DRAMA!
+Eu não sou drama!
 
 464
 00:17:46,742 --> 00:17:48,702
@@ -2141,84 +2140,84 @@ todos nós nos esforçamos ♪
 
 467
 00:17:53,123 --> 00:17:54,958
-ENTÃO DEVEMOS PENSAR
-EM ALGUMAS PIADAS
+então devemos pensar
+em algumas piadas
 
 468
 00:17:55,042 --> 00:17:57,503
-QUE POSSAMOS USAR
-REPETIDAMENTE.
+que possamos usar
+repetidamente.
 
 469
 00:17:57,586 --> 00:17:59,588
-É, TIPO, AH...
+É, tipo, ah...
 
 470
 00:17:59,672 --> 00:18:01,256
-PIADA DO DIA.
+piada do dia.
 
 471
 00:18:01,340 --> 00:18:02,591
 É,
-OU PEGADINHA DO NERD.
+ou pegadinha do nerd.
 
 472
 00:18:02,675 --> 00:18:04,718
-AS PESSOAS PODEM TE ENVIAR
-SUAS PERGUNTAS DE CURIOSIDADES.
+As pessoas podem te enviar
+suas perguntas de curiosidades.
 
 473
 00:18:04,802 --> 00:18:07,554
-COMO É?
-EU SOU O NERD?
+Como é?
+Eu sou o nerd?
 
 474
 00:18:07,638 --> 00:18:10,224
-NÃO PRECISAMOS
-CHAMAR ASSIM.
+Não precisamos
+chamar assim.
 
 475
 00:18:10,307 --> 00:18:12,518
-OK. HUM, DE QUALQUER FORMA,
+OK. Hum, de qualquer forma,
 
 476
 00:18:12,601 --> 00:18:13,852
-QUE TAL FAZERMOS ISSO?
+que tal fazermos isso?
 
 477
 00:18:13,936 --> 00:18:15,354
-PODEMOS FAZER UM QUIZ,
-TIPO...
+Podemos fazer um quiz,
+tipo...
 
 478
 00:18:15,437 --> 00:18:17,439
-AQUI, ME DÁ SUA CANETA.
+aqui, me dá sua caneta.
 
 479
 00:18:18,732 --> 00:18:20,567
-QUAL É O SEU PROBLEMA?
+Qual é o seu problema?
 
 480
 00:18:20,651 --> 00:18:21,652
-NENHUM PROBLEMA.
+Nenhum problema.
 
 481
 00:18:22,653 --> 00:18:24,571
-FOI ALGO QUE EU FIZ?
+Foi algo que eu fiz?
 
 482
 00:18:24,655 --> 00:18:26,490
-QUER DIZER, DESDE QUE VOCÊ SAIU
-CORRENDO DO BANHEIRO...
+Quer dizer, desde que você saiu
+correndo do banheiro...
 
 483
 00:18:26,573 --> 00:18:29,827
-OLHA, ADAM, NÃO É VOCÊ,
-NÃO É O BANHEIRO.
+olha, Adam, não é você,
+não é o banheiro.
 
 484
 00:18:29,910 --> 00:18:31,578
-ESTAMOS BEM.
+Estamos bem.
 
 485
 00:18:31,662 --> 00:18:32,663
@@ -2226,177 +2225,177 @@ OK.
 
 486
 00:18:34,415 --> 00:18:37,292
-EU, AH, SÓ TOMEI
-MUITA CAFEÍNA.
+Eu, ah, só tomei
+muita cafeína.
 
 487
 00:18:38,293 --> 00:18:39,586
-LEGAL.
+Legal.
 
 488
 00:18:39,670 --> 00:18:43,465
-BOM, ACHO QUE DEVEMOS
-VOLTAR AO TRABALHO.
+Bom, acho que devemos
+voltar ao trabalho.
 
 489
 00:18:43,549 --> 00:18:45,134
-EU, AH, TENHO QUE...
+Eu, ah, tenho que...
 
 490
 00:18:46,135 --> 00:18:47,970
-SÓ ME DÁ UM MINUTO.
+só me dá um minuto.
 
 491
 00:18:56,020 --> 00:18:58,188
-INSPIRAÇÃO NO BANHEIRO,
-TIVE OUTRA IDEIA.
+Inspiração no banheiro,
+tive outra ideia.
 
 492
 00:18:58,272 --> 00:18:59,648
-E NÃO PODIA ESPERAR?
+E não podia esperar?
 
 493
 00:18:59,732 --> 00:19:02,026
-BOM, EU TAMBÉM PRECISO IR.
+Bom, eu também preciso ir.
 
 494
 00:19:05,029 --> 00:19:06,947
-ENTÃO, NO "JESSE E GENE,"
+Então, no "jesse e gene,"
 
 495
 00:19:08,157 --> 00:19:11,952
-ELES COSTUMAVAM ESCREVER
-NOVAS LETRAS PARA MÚSICAS ANTIGAS.
+eles costumavam escrever
+novas letras para músicas antigas.
 
 496
 00:19:12,036 --> 00:19:13,787
-QUER DIZER,
-ELES NÃO ERAM O WEIRD AL,
+Quer dizer,
+eles não eram o weird al,
 
 497
 00:19:13,871 --> 00:19:15,331
-MAS ERA MUITO BOM.
+mas era muito bom.
 
 498
 00:19:15,414 --> 00:19:17,499
-O QUE VOCÊ ESTÁ FAZENDO?
+O que você está fazendo?
 
 499
 00:19:17,583 --> 00:19:19,168
-SÓ INDO AO BANHEIRO.
+Só indo ao banheiro.
 
 500
 00:19:21,754 --> 00:19:24,048
-ADAM:
-ENTÃO, UMA VEZ,
+Adam:
+Então, uma vez,
 
 501
 00:19:24,131 --> 00:19:25,632
-O GENE CANTOU COMO
-UM VELHO MORRENDO,
+o gene cantou como
+um velho morrendo,
 
 502
 00:19:25,716 --> 00:19:26,675
-E EM VEZ DE
-"CHORE UM RIO PARA MIM",
+e em vez de
+"chore um rio para mim",
 
 503
 00:19:26,759 --> 00:19:28,427
-ERA "COMPRE UM FÍGADO PARA MIM".
+era "compre um fígado para mim".
 
 504
 00:19:28,510 --> 00:19:29,553
-O QUE É ISSO?
+O que é isso?
 
 505
 00:19:29,637 --> 00:19:30,596
-NINGUÉM DISSE
-QUE VOCÊ TINHA QUE ENCARAR!
+Ninguém disse
+que você tinha que encarar!
 
 506
 00:19:30,679 --> 00:19:31,764
-OH! AH!
+Oh! Ah!
 
 507
 00:19:31,847 --> 00:19:32,931
-CARA! MEUS SAPATOS!
+Cara! Meus sapatos!
 
 508
 00:19:33,015 --> 00:19:34,642
-DESCULPE, AINDA ESTOU TENTANDO
-DESCOBRIR
+Desculpe, ainda estou tentando
+descobrir
 
 509
 00:19:34,725 --> 00:19:35,851
-COMO USAR ESSA COISA.
+como usar essa coisa.
 
 510
 00:19:35,934 --> 00:19:37,186
-AI, QUE NOJO!
+Ai, que nojo!
 
 511
 00:19:37,269 --> 00:19:38,812
-OH! ISSO, OLHA,
-ISSO É DEMAIS!
+Oh! Isso, olha,
+isso é demais!
 
 512
 00:19:38,896 --> 00:19:40,314
-ADAM:
-DAVE, QUAL É.
-ME DESCULPE!
+Adam:
+Dave, qual é.
+Me desculpe!
 
 513
 00:19:40,397 --> 00:19:43,609
-OLHA, SÓ FICA LONGE
-DE MIM, TÁ?
+Olha, só fica longe
+de mim, tá?
 
 514
 00:19:43,692 --> 00:19:45,944
-(PORTA DO BANHEIRO BATE)
+(Porta do banheiro bate)
 
 515
 00:19:48,781 --> 00:19:49,782
-(SUSPIRA PROFUNDAMENTE)
+(Suspira profundamente)
 
 516
 00:19:54,078 --> 00:19:55,829
-OI CHARLIE, SOU EU.
+Oi Charlie, sou eu.
 
 517
 00:19:57,373 --> 00:19:58,374
-DE NOVO.
+De novo.
 
 518
 00:19:59,750 --> 00:20:03,128
-ESPERO QUE TENHA RECEBIDO
-MINHAS MENSAGENS DE ONTEM À NOITE.
+Espero que tenha recebido
+minhas mensagens de ontem à noite.
 
 519
 00:20:03,212 --> 00:20:05,714
-(SUSPIRA)
-ESPERO QUE NÃO ESTEJA BRAVA.
+(Suspira)
+Espero que não esteja brava.
 
 520
 00:20:07,174 --> 00:20:08,884
-O CARRO ESTÁ LÁ EMBAIXO!
+O carro está lá embaixo!
 
 521
 00:20:11,220 --> 00:20:13,013
-TENHO QUE IR PARA O COLÉGIO.
+Tenho que ir para o colégio.
 
 522
 00:20:13,097 --> 00:20:15,265
-MAS, POR FAVOR...
-ME LIGUE DE VOLTA.
+Mas, por favor...
+me ligue de volta.
 
 523
 00:20:17,059 --> 00:20:19,144
-(CELULAR APITA)
+(Celular apita)
 
 524
 00:20:22,606 --> 00:20:23,774
-LARA:
-NÃO FIQUE OBSECADA, ELA VAI LIGAR.
+Lara:
+Não fique obsecada, ela vai ligar.
 
 525
 00:20:23,774 --> 00:20:24,858
@@ -2404,7 +2403,7 @@ NÃO FIQUE OBSECADA, ELA VAI LIGAR.
 
 526
 00:20:24,858 --> 00:20:25,859
-(SUSPIRA)
+(Suspira)
 
 527
 00:20:25,943 --> 00:20:28,696
@@ -2420,146 +2419,146 @@ NÃO FIQUE OBSECADA, ELA VAI LIGAR.
 
 530
 00:20:33,701 --> 00:20:34,952
-EI, O DAVE JÁ ESTÁ CHEGANDO?
+ei, o Dave já está chegando?
 
 531
 00:20:35,035 --> 00:20:37,079
-HUM... SIM,
-A QUALQUER MINUTO.
+Hum... sim,
+a qualquer minuto.
 
 532
 00:20:38,080 --> 00:20:40,624
-MAL POSSO ESPERAR PARA OUVIR VOCÊS
-SUPERAREM O PROGRAMA DE ONTEM.
+Mal posso esperar para ouvir vocês
+superarem o programa de ontem.
 
 533
 00:20:40,708 --> 00:20:42,710
-COM CERTEZA,
-VAI SER DEMAIS.
+Com certeza,
+vai ser demais.
 
 534
 00:20:45,004 --> 00:20:46,005
-OI.
+Oi.
 
 535
 00:20:51,010 --> 00:20:53,679
-OI, EU AINDA SINTO MUITO
-PELO QUE ACONTECEU ONTEM.
+Oi, eu ainda sinto muito
+pelo que aconteceu ontem.
 
 536
 00:20:53,762 --> 00:20:56,265
 É,
-VAMOS SÓ FAZER O PROGRAMA.
+vamos só fazer o programa.
 
 537
 00:20:56,348 --> 00:20:58,309
-É, SOMOS DOIS HOMENS.
+É, somos dois homens.
 
 538
 00:20:58,392 --> 00:20:59,685
-QUEM PRECISA CONVERSAR,
-CERTO?
+Quem precisa conversar,
+certo?
 
 539
 00:20:59,768 --> 00:21:00,978
-TALVEZ ESSE POSSA SER O ASSUNTO.
+Talvez esse possa ser o assunto.
 
 540
 00:21:02,104 --> 00:21:04,189
-EI DEGRASSI,
-BEM-VINDOS AO "HOMEM A HOMEM"
+Ei Degrassi,
+bem-vindos ao "homem a homem"
 
 541
 00:21:04,273 --> 00:21:05,774
-COM DAVE E ADAM!
+com Dave e Adam!
 
 542
 00:21:05,858 --> 00:21:06,775
-DEIXEM-ME DIZER,
+Deixem-me dizer,
 
 543
 00:21:06,859 --> 00:21:08,110
-NÃO ESTÁ COM UM CHEIRO BOM
-NA CABINE HOJE,
+não está com um cheiro bom
+na cabine hoje,
 
 544
 00:21:08,193 --> 00:21:10,112
-ENTÃO PEGUEM LEVE NOS BURRITOS
-POR AÍ!
+então peguem leve nos burritos
+por aí!
 
 545
 00:21:10,195 --> 00:21:11,196
-(RISO FORÇADO)
+(Riso forçado)
 
 546
 00:21:11,280 --> 00:21:13,699
-SOBRE O QUE EU QUERO FALAR HOJE
-SÃO AS REGRAS DO BANHEIRO.
+Sobre o que eu quero falar hoje
+são as regras do banheiro.
 
 547
 00:21:13,782 --> 00:21:15,951
-AGORA, NÃO QUERO
-SER POLITICAMENTE INCORRETO,
+Agora, não quero
+ser politicamente incorreto,
 
 548
 00:21:16,035 --> 00:21:17,953
-MAS AS GAROTAS
-DEVERIAM TER PERMISSÃO
+mas as garotas
+deveriam ter permissão
 
 549
 00:21:18,037 --> 00:21:20,372
-PARA USAR O BANHEIRO MASCULINO
-NO COLÉGIO?
+para usar o banheiro masculino
+no colégio?
 
 550
 00:21:20,456 --> 00:21:21,623
-SAV:
-DAVE, SÉRIO, CUIDADO!
+Sav:
+Dave, sério, cuidado!
 
 551
 00:21:21,707 --> 00:21:23,208
-DAVE:
-PORQUE DO JEITO QUE EU VEJO,
-QUER DIZER...
+Dave:
+Porque do jeito que eu vejo,
+quer dizer...
 
 552
 00:21:23,292 --> 00:21:24,209
-VOCÊ ESTÁ LÁ
-FAZENDO SUAS COISAS,
+você está lá
+fazendo suas coisas,
 
 553
 00:21:24,293 --> 00:21:25,627
-E DE REPENTE
+e de repente
 
 554
 00:21:25,711 --> 00:21:27,421
-TEM UMA TRAVESTI
-OLHANDO PARA O SEU NEGÓCIO!
+tem uma travesti
+olhando para o seu negócio!
 
 555
 00:21:27,504 --> 00:21:28,881
-SAV:
-DAVE!
+Sav:
+Dave!
 
 556
 00:21:28,964 --> 00:21:29,882
-POR QUE ISSO É LEGAL?
+Por que isso é legal?
 
 557
 00:21:29,965 --> 00:21:32,384
-(MÚSICA COMEÇA)
-CHEGA, ESTOU TIRANDO VOCÊS DO AR.
+(Música começa)
+Chega, estou tirando vocês do ar.
 
 558
 00:21:32,468 --> 00:21:33,469
-DAVE:
-ME MANDA UMA MENSAGEM.
+Dave:
+Me manda uma mensagem.
 
 559
 00:21:36,388 --> 00:21:38,307
-ME DIGA
-O QUE VOCÊ ACHOU.
+Me diga
+o que você achou.
 
 560
 00:21:42,353 --> 00:21:43,646
-NÃO FOI LEGAL, DAVE.
+Não foi legal, Dave.
